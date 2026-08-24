@@ -50,7 +50,10 @@
     ],
     "drop_regex": [
       "\\*\\d{3,4}\\b",
-      "\\b1-?[78]00\\b"
+      "\\b1-?[78]00\\b",
+      "[A-Za-z0-9][A-Za-z0-9-]*\\.(?:co\\.il|com|net|org|io)\\b",
+      ">>>",
+      "<<<"
     ],
     "strip_urls": true,
     "strip_handles": true,
