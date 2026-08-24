@@ -1,0 +1,49 @@
+name: Update news feed
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # relaunches the loop so it runs around the clock
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# a newly launched run replaces the running loop -> continuous, no overlap
+concurrency:
+  group: update-news
+  cancel-in-progress: true
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Continuous scrape (refresh every ~minute)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          git config user.name  "מערכת מבזקים"
+          git config user.email "editor@mivzakim.news"
+          for i in $(seq 1 20); do
+            echo "=== cycle $i / 20 ==="
+            python scraper/scrape.py || echo "scrape error, continuing"
+            git add data/
+            if git diff --cached --quiet; then
+              echo "no changes this cycle"
+            else
+              git commit -m "עדכון מהדורה [skip ci]"
+              git push || { git pull --rebase --autostash origin main && git push; }
+            fi
+            sleep 60
+          done

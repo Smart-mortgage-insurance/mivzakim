@@ -1,0 +1,47 @@
+{
+  "brand": {
+    "name": "מבזקים",
+    "tagline": "מהדורת החדשות המובילה",
+    "kicker": "מבזק",
+    "site_url": ""
+  },
+  "sources": [
+    { "username": "channelkikar",           "enabled": true },
+    { "username": "behadrei_harebim_bhol",   "enabled": true },
+    { "username": "merkaz",                  "enabled": true },
+    { "username": "hamoked_il",              "enabled": true },
+    { "username": "firstreportsnews",        "enabled": true },
+    { "username": "ramreports",              "enabled": true }
+  ],
+  "limits": {
+    "max_items": 150,
+    "max_messages_per_channel": 25,
+    "max_media_bytes": 12000000
+  },
+  "text_filter": {
+    "drop_if_contains": [
+      "הצטרפו לערוץ",
+      "להצטרפות לערוץ",
+      "לפרסום בערוץ",
+      "לפרסום אצלנו",
+      "מעוניינים לפרסם",
+      "שתפו את הערוץ",
+      "לינק לערוץ",
+      "בטלגרם",
+      "בטלגראם",
+      "לערוץ הטלגרם",
+      "@"
+    ],
+    "strip_urls": true,
+    "strip_handles": true,
+    "min_length": 8
+  },
+  "media_filter": {
+    "use_gemini": true,
+    "gemini_model": "gemini-2.0-flash",
+    "on_reject": "drop_media",
+    "allow_images": true,
+    "allow_videos": true,
+    "fallback_without_key": "text_only"
+  }
+}

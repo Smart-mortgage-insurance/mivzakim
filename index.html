@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מבזקים • מהדורת החדשות המובילה</title>
+<meta name="description" content="מבזקים — מהדורת החדשות המובילה. כל העדכונים החשובים במקום אחד.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f6f2ea;
+    --card:#ffffff;
+    --ink:#16150f;
+    --muted:#7a746a;
+    --accent:#9c1b2e;
+    --accent-soft:#f5e2e4;
+    --gold:#9a7b26;
+    --gold-soft:#f6efdc;
+    --line:#e7e0d3;
+    --shadow:0 1px 2px rgba(30,25,15,.05),0 10px 26px rgba(30,25,15,.06);
+    --radius:16px;
+    --max:720px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--paper);color:var(--ink);
+    font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;
+    line-height:1.55;-webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;text-decoration:none}
+
+  /* ---------- Masthead ---------- */
+  header.masthead{background:var(--card);border-bottom:3px double var(--ink);position:sticky;top:0;z-index:40}
+  .masthead-top{
+    max-width:var(--max);margin:0 auto;padding:16px 20px 10px;
+    display:flex;align-items:flex-end;justify-content:space-between;gap:14px;
+  }
+  .brand h1{
+    font-family:"Suez One",Georgia,serif;font-weight:400;
+    font-size:clamp(34px,7vw,50px);line-height:.95;margin:0;letter-spacing:-1px;
+  }
+  .brand h1 .dot{color:var(--accent)}
+  .brand p{margin:4px 0 0;font-size:13px;color:var(--muted);font-weight:600;letter-spacing:.2px}
+  .byline{
+    flex-shrink:0;color:var(--muted);font-size:12.5px;font-weight:700;white-space:nowrap;
+    text-align:left;line-height:1.35;
+  }
+  .byline b{display:block;color:var(--ink);font-weight:800;font-size:13.5px}
+  .editionbar{
+    max-width:var(--max);margin:0 auto;padding:0 20px 12px;
+    display:flex;justify-content:space-between;align-items:center;
+    font-size:12px;color:var(--muted);font-weight:600;
+    border-top:1px solid var(--line);margin-top:4px;padding-top:8px;
+  }
+  .editionbar b{color:var(--ink)}
+
+  /* ---------- Feed ---------- */
+  main{max-width:var(--max);margin:0 auto;padding:16px 16px 80px}
+
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);padding:18px 20px;margin-bottom:16px;
+    animation:rise .4s ease both;
+  }
+  .card.fresh{animation:flash 1.8s ease}
+  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @keyframes flash{0%{background:var(--accent-soft)}100%{background:var(--card)}}
+
+  .card-head{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+  .kicker{
+    font-family:"Frank Ruhl Libre",serif;font-weight:900;font-size:12.5px;
+    color:var(--accent);letter-spacing:.5px;
+    display:inline-flex;align-items:center;gap:7px;
+  }
+  .kicker::before{content:"";width:16px;height:3px;background:var(--accent);border-radius:2px}
+  .time{font-size:12.5px;color:var(--muted);margin-inline-start:auto;font-weight:500}
+  .card-text{font-size:17px;white-space:pre-wrap;word-break:break-word}
+  .card-text.big{font-size:19.5px;font-weight:500;font-family:"Frank Ruhl Libre",serif}
+
+  .media{margin-top:14px;display:grid;gap:8px;border-radius:12px;overflow:hidden}
+  .media.n1{grid-template-columns:1fr}
+  .media.n2,.media.n4{grid-template-columns:1fr 1fr}
+  .media.n3{grid-template-columns:1fr 1fr}
+  .media.n3 > :first-child{grid-column:1 / -1}
+  .media img,.media video{width:100%;height:100%;max-height:520px;object-fit:cover;display:block;border-radius:10px;background:#eee}
+  .media img{cursor:zoom-in}
+
+  /* ---------- Sponsored ---------- */
+  .card.promo{border:1px solid var(--gold);background:linear-gradient(180deg,#fffdf7,#fff)}
+  .promo .kicker{color:var(--gold)}
+  .promo .kicker::before{background:var(--gold)}
+  .promo-badge{
+    font-size:11px;font-weight:800;color:var(--gold);background:var(--gold-soft);
+    padding:3px 9px;border-radius:5px;letter-spacing:.3px;
+  }
+  .promo .advertiser{font-weight:800;font-size:18px;margin:2px 0 6px}
+  .cta{
+    display:inline-block;margin-top:12px;background:var(--ink);color:#fff;
+    font-weight:700;font-size:15px;padding:11px 20px;border-radius:10px;
+  }
+
+  footer{max-width:var(--max);margin:0 auto;padding:26px 20px 60px;text-align:center;border-top:1px solid var(--line)}
+  .ad-slot{
+    background:var(--gold-soft);border:1px dashed var(--gold);border-radius:12px;
+    padding:16px;margin:0 0 22px;color:#6b5a1e;font-size:14px;font-weight:600;
+  }
+  .ad-slot b{color:var(--gold)}
+  footer .copy{color:var(--muted);font-size:12.5px}
+
+  .empty,.loading{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
+
+  .lb{position:fixed;inset:0;background:rgba(15,12,8,.9);display:none;align-items:center;justify-content:center;z-index:100;padding:20px;cursor:zoom-out}
+  .lb.open{display:flex}
+  .lb img{max-width:100%;max-height:100%;border-radius:8px}
+
+  @media (max-width:520px){.card{padding:16px}.card-text{font-size:16px}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-top">
+    <div class="brand">
+      <h1 id="brandName">מבזקים<span class="dot">.</span></h1>
+      <p id="brandTag">מהדורת החדשות המובילה</p>
+    </div>
+    <span class="byline"><b>המערכת</b>בעריכת צוות מבזקים</span>
+  </div>
+  <div class="editionbar">
+    <span id="dateLine"></span>
+    <span id="updatedLine"></span>
+  </div>
+</header>
+
+<main>
+  <div id="feed"><div class="loading">טוען מבזקים…</div></div>
+</main>
+
+<footer>
+  <div class="ad-slot">📣 <b>מעוניינים לפרסם?</b> מרחב הפרסום של מבזקים חשוף לאלפי גולשים ביום. לפרטים: <span id="adContact">___</span></div>
+  <div class="copy">© <span id="yr"></span> מבזקים · כל הזכויות שמורות</div>
+</footer>
+
+<div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
+
+<script>
+const NEWS_URL = "data/news.json";
+const PROMO_URL = "data/sponsored.json";
+const REFRESH_MS = 60000;
+const AD_CONTACT = "050-0000000";   // ← מספר ליצירת קשר לפרסום
+let currentIds = new Set();
+let kicker = "מבזק";
+
+const feedEl = document.getElementById("feed");
+const updEl  = document.getElementById("updatedLine");
+
+document.getElementById("yr").textContent = new Date().getFullYear();
+document.getElementById("adContact").textContent = AD_CONTACT;
+document.getElementById("dateLine").textContent =
+  new Date().toLocaleDateString("he-IL",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+
+function relTime(iso){
+  if(!iso) return "";
+  const d=new Date(iso),now=new Date(),s=Math.floor((now-d)/1000);
+  if(s<60) return "כעת";
+  if(s<3600) return "לפני "+Math.floor(s/60)+" דק׳";
+  if(s<86400){const h=Math.floor(s/3600);return "לפני "+h+(h===1?" שעה":" שעות");}
+  const days=Math.floor(s/86400);
+  if(days<7) return "לפני "+days+(days===1?" יום":" ימים");
+  return d.toLocaleDateString("he-IL",{day:"numeric",month:"short"});
+}
+function escapeHtml(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));}
+
+function mediaHTML(media){
+  if(!media||!media.length) return "";
+  const items=media.slice(0,4).map(m=>{
+    if(m.type==="video"){
+      const p=m.poster?` poster="${m.poster}"`:"";
+      return `<video src="${m.file}"${p} controls preload="metadata"></video>`;
+    }
+    const src=m.file||m.image||m.src||"";
+    return `<img src="${src}" loading="lazy" alt="" onerror="this.remove()">`;
+  }).join("");
+  return `<div class="media n${Math.min(media.length,4)}">${items}</div>`;
+}
+
+function newsCard(it,fresh){
+  const short=(it.text||"").length<140;
+  return `<article class="card${fresh?" fresh":""}">
+    <div class="card-head"><span class="kicker">${kicker}</span><span class="time">${relTime(it.ts)}</span></div>
+    ${it.text?`<div class="card-text${short?" big":""}">${escapeHtml(it.text)}</div>`:""}
+    ${mediaHTML(it.media)}
+  </article>`;
+}
+
+function promoCard(p){
+  let cta="";
+  if(p.cta_phone) cta=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${escapeHtml(p.cta_label||"לפרטים")} ${escapeHtml(p.cta_phone)}</a>`;
+  else if(p.cta_url) cta=`<a class="cta" href="${p.cta_url}" target="_blank" rel="noopener">${escapeHtml(p.cta_label||"לפרטים")}</a>`;
+  const media=p.image?mediaHTML([{type:"image",image:p.image}]):"";
+  return `<article class="card promo">
+    <div class="card-head"><span class="kicker">מומלץ</span><span class="promo-badge">ממומן</span></div>
+    ${p.advertiser?`<div class="advertiser">${escapeHtml(p.advertiser)}</div>`:""}
+    ${p.text?`<div class="card-text">${escapeHtml(p.text)}</div>`:""}
+    ${media}${cta}
+  </article>`;
+}
+
+function build(news,promos,isRefresh){
+  const items=news.items||[];
+  const proms=(promos&&promos.items?promos.items:[]).filter(p=>p.enabled!==false);
+  const pinned=proms.filter(p=>p.pin);
+  const inline=proms.filter(p=>!p.pin);
+
+  let html="";
+  pinned.forEach(p=>html+=promoCard(p));
+  items.forEach((it,i)=>{
+    html+=newsCard(it, isRefresh && !currentIds.has(it.id));
+    if(inline.length && i>0 && (i+1)%6===0) html+=promoCard(inline[((i+1)/6-1)%inline.length]);
+  });
+  if(!items.length && !pinned.length){
+    feedEl.innerHTML='<div class="empty">אין מבזקים כרגע. חוזרים בקרוב…</div>';return;
+  }
+  feedEl.innerHTML=html;
+  currentIds=new Set(items.map(i=>i.id));
+  if(news.updated) updEl.innerHTML="עודכן: <b>"+relTime(news.updated)+"</b>";
+}
+
+async function jget(url){
+  const r=await fetch(url+"?t="+Date.now(),{cache:"no-store"});
+  if(!r.ok) throw new Error(r.status); return r.json();
+}
+
+async function load(isRefresh){
+  try{
+    const [news,promos]=await Promise.all([
+      jget(NEWS_URL),
+      jget(PROMO_URL).catch(()=>({items:[]}))
+    ]);
+    if(news.brand){
+      document.getElementById("brandName").innerHTML=(news.brand.name||"מבזקים")+'<span class="dot">.</span>';
+      if(news.brand.tagline) document.getElementById("brandTag").textContent=news.brand.tagline;
+      if(news.brand.kicker) kicker=news.brand.kicker;
+    }
+    build(news,promos,isRefresh);
+  }catch(e){
+    if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון מבזקים כרגע.<br>נסו לרענן בעוד רגע.</div>';
+  }
+}
+
+const lb=document.getElementById("lightbox"),lbImg=document.getElementById("lbImg");
+document.addEventListener("click",e=>{const img=e.target.closest(".media img");if(img){lbImg.src=img.src;lb.classList.add("open");}});
+lb.addEventListener("click",()=>lb.classList.remove("open"));
+
+load(false);
+setInterval(()=>load(true),REFRESH_MS);
+</script>
+</body>
+</html>

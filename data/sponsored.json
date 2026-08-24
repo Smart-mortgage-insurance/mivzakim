@@ -1,0 +1,15 @@
+{
+ "items": [
+  {
+   "id": "promo-example",
+   "enabled": false,
+   "pin": true,
+   "advertiser": "שם העסק",
+   "text": "טקסט הפרסומת כאן. שורה שנייה אם צריך.",
+   "image": "",
+   "cta_label": "לפרטים חייגו",
+   "cta_phone": "050-0000000",
+   "cta_url": ""
+  }
+ ]
+}
