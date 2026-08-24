@@ -156,17 +156,29 @@ MULTISPACE_RE = re.compile(r"[ \t]{2,}")
 MULTILINE_RE = re.compile(r"\n{3,}")
 
 
+LEAD_PUNCT_RE = re.compile(r"^[\s\-–—|:•·.,]+")
+TRAIL_PUNCT_RE = re.compile(r"[\s\-–—|:•·]+$")
+
+
 def clean_text(text):
     tf = CFG["text_filter"]
     if tf.get("strip_urls", True):
         text = URL_RE.sub("", text)
     if tf.get("strip_handles", True):
         text = HANDLE_RE.sub("", text)
+    # remove source signatures / channel branding (longest first)
+    for phrase in sorted(tf.get("strip_phrases", []), key=len, reverse=True):
+        if phrase:
+            text = text.replace(phrase, "")
     text = MULTISPACE_RE.sub(" ", text)
     text = MULTILINE_RE.sub("\n\n", text)
-    # trim leftover empty bullet/emoji-only lines
-    lines = [ln.strip() for ln in text.split("\n")]
-    text = "\n".join(ln for ln in lines).strip()
+    # trim per-line, drop lines left empty or as bare punctuation after stripping
+    out_lines = []
+    for ln in text.split("\n"):
+        ln = TRAIL_PUNCT_RE.sub("", LEAD_PUNCT_RE.sub("", ln.strip())).strip()
+        out_lines.append(ln)
+    text = "\n".join(out_lines)
+    text = MULTILINE_RE.sub("\n\n", text).strip()
     return text
 
 
@@ -349,7 +361,21 @@ def main():
     log("Gemini image filter:", "ON" if GEMINI_KEY else "OFF (text-only fallback)")
 
     news = load_news()
-    existing = {it["id"]: it for it in news.get("items", [])}
+    # retroactively re-clean already-published items so filter changes apply to them too
+    existing = {}
+    recleaned = 0
+    for it in news.get("items", []):
+        original = it.get("text", "")
+        it["text"] = clean_text(original)
+        if it["text"] != original:
+            recleaned += 1
+        if not it["text"] and not it.get("media"):
+            continue  # nothing left after cleaning -> drop
+        if it["text"] and not text_allowed(it["text"]):
+            continue
+        existing[it["id"]] = it
+    if recleaned:
+        log("re-cleaned {} existing items".format(recleaned))
     new_count = 0
 
     sources = CFG.get("sources", CFG.get("channels", []))
