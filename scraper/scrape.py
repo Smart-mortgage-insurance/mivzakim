@@ -158,6 +158,8 @@ MULTILINE_RE = re.compile(r"\n{3,}")
 
 LEAD_PUNCT_RE = re.compile(r"^[\s\-–—|:•·.,]+")
 TRAIL_PUNCT_RE = re.compile(r"[\s\-–—|:•·]+$")
+# short parenthetical at the very end is almost always a source tag: "(בחדרי).", "(12).", "(אבו עלי)"
+TRAIL_PARENS_RE = re.compile(r"\s*\([^()]{1,25}\)\s*[.．]?\s*$")
 
 
 def clean_text(text):
@@ -166,10 +168,19 @@ def clean_text(text):
         text = URL_RE.sub("", text)
     if tf.get("strip_handles", True):
         text = HANDLE_RE.sub("", text)
+    # strip trailing source attribution in parentheses first, as a whole unit
+    if tf.get("strip_trailing_parens", False):
+        for _ in range(2):
+            new = TRAIL_PARENS_RE.sub("", text)
+            if new == text:
+                break
+            text = new
     # remove source signatures / channel branding (longest first)
     for phrase in sorted(tf.get("strip_phrases", []), key=len, reverse=True):
         if phrase:
             text = text.replace(phrase, "")
+    # clean up any parentheses left empty by the phrase strip
+    text = re.sub(r"\(\s*\)", "", text)
     text = MULTISPACE_RE.sub(" ", text)
     text = MULTILINE_RE.sub("\n\n", text)
     # trim per-line, drop lines left empty or as bare punctuation after stripping
@@ -182,13 +193,63 @@ def clean_text(text):
     return text
 
 
+DROP_REGEX = [re.compile(p) for p in CFG.get("text_filter", {}).get("drop_regex", [])]
+
+
 def text_allowed(text):
     tf = CFG["text_filter"]
     low = text.lower()
     for bad in tf.get("drop_if_contains", []):
         if bad.lower() in low:
             return False
+    for rx in DROP_REGEX:
+        if rx.search(text):
+            return False
     return True
+
+
+def gemini_edit_text(text):
+    """LLM editor pass: detect ads and strip source/journalist attributions.
+
+    Returns (is_ad: bool, cleaned_text: str). On any error returns (False, text)
+    so the regex-cleaned text is used as a safe fallback.
+    """
+    te = CFG.get("text_editor", {})
+    if not GEMINI_KEY or not te.get("use_gemini", True) or not text.strip():
+        return False, text
+    model = te.get("gemini_model", "gemini-2.0-flash")
+    endpoint = (
+        "https://generativelanguage.googleapis.com/v1beta/models/"
+        "{}:generateContent?key={}".format(model, GEMINI_KEY)
+    )
+    prompt = (
+        "אתה עורך חדשות באתר מבזקים עצמאי. לפניך הודעת חדשות גולמית. "
+        "החזר JSON בלבד: {\"ad\": true/false, \"text\": \"...\"}.\n"
+        "- ad=true אם ההודעה היא פרסומת/קידום מכירות/מודעה מסחרית/תרומות/פרסום עצמי של ערוץ — במקרה כזה text ריק.\n"
+        "- אחרת ad=false, ובשדה text החזר את תוכן החדשה בלבד, לאחר שהסרת: שמות מקורות/ערוצים, "
+        "חתימות עיתונאים (למשל 'דורון קדוש:'), ייחוסים בסוגריים (למשל '(אבו עלי)', '(12)'), "
+        "קרדיטי צילום, וקריאות להצטרפות. אל תוסיף מידע, אל תשנה עובדות, שמור על הניסוח המקורי של החדשה עצמה.\n\n"
+        "ההודעה:\n" + text
+    )
+    body = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0, "maxOutputTokens": 800,
+                             "responseMimeType": "application/json"},
+    }
+    try:
+        r = requests.post(endpoint, json=body, timeout=45)
+        if r.status_code != 200:
+            log("    ! gemini-edit HTTP {}".format(r.status_code))
+            return False, text
+        raw = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+        obj = json.loads(raw)
+        if obj.get("ad"):
+            return True, ""
+        cleaned = (obj.get("text") or "").strip()
+        return False, cleaned or text
+    except Exception as exc:
+        log("    ! gemini-edit error: {}".format(exc))
+        return False, text
 
 
 # --------------------------------------------------------------------------- #
@@ -399,6 +460,14 @@ def main():
             if text and not text_allowed(text):
                 log("   - dropped (promo/spam)")
                 continue
+
+            # LLM editor pass: drop ads, strip residual attributions (only when key present)
+            if text:
+                is_ad, edited = gemini_edit_text(text)
+                if is_ad:
+                    log("   - dropped (ad, by editor)")
+                    continue
+                text = edited
 
             msg["text"] = text
             processed = process_media(msg)
