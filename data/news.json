@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T16:18:25.387549+00:00",
+ "updated": "2026-08-25T16:19:35.884925+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -20,8 +20,20 @@
    "site": "https://music.tora1.com"
   }
  ],
- "count": 46,
+ "count": 47,
  "items": [
+  {
+   "id": "s6e80397a6a9bb2",
+   "title": "מקהלת קאפלה, יענקי לנדאו מגישים | אחת שאלתי | צפו",
+   "text": "",
+   "image": "data/media/a6849ef60dc9dcb5.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/XvPGjXgy7Iw-maxresdefault.jpg",
+   "type": "clip",
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a7%d7%90%d7%a4%d7%9c%d7%94-%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%9c%d7%a0%d7%93%d7%90%d7%95-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%90%d7%97%d7%aa-%d7%a9%d7%90/",
+   "download": null,
+   "ts": "2026-08-25T16:18:35+00:00"
+  },
   {
    "id": "s916b7a43827e40",
    "title": "חביב חיים בן אריה - שירת הפתגמים",
