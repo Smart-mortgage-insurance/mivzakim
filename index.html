@@ -113,6 +113,39 @@
   .empty,.loading{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
   .lb{position:fixed;inset:0;background:rgba(12,10,20,.93);display:none;align-items:center;justify-content:center;z-index:100;padding:20px;cursor:zoom-out}
   .lb.open{display:flex}.lb img{max-width:100%;max-height:100%;border-radius:10px}
+
+  /* Playlist button in header */
+  .plbtn{flex-shrink:0;display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.16);
+    border:1px solid rgba(255,255,255,.28);color:#fff;font-weight:700;font-size:13.5px;padding:9px 15px;border-radius:999px;cursor:pointer;font-family:inherit}
+  .plbtn:hover{background:rgba(255,255,255,.26)}
+  .plbtn .cnt{background:#fff;color:var(--accent);border-radius:999px;padding:1px 8px;font-size:12px;font-weight:800}
+
+  /* Sort tabs */
+  .tabs{display:flex;gap:8px;margin-bottom:16px}
+  .tab{border:1px solid var(--line);background:var(--card);color:var(--muted);font-weight:700;font-size:13.5px;padding:8px 17px;border-radius:999px;cursor:pointer;font-family:inherit}
+  .tab.on{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff;border-color:transparent}
+
+  /* small card action buttons */
+  .mini{display:inline-flex;align-items:center;gap:6px;background:var(--accent-soft);color:var(--accent);border:none;
+    font-weight:700;font-size:13px;padding:10px 14px;border-radius:11px;cursor:pointer;font-family:inherit}
+  .mini.on{background:var(--accent);color:#fff}
+  .mini.share{background:#eef1f6;color:#3a4256}
+
+  /* Playlist sheet */
+  .sheet{position:fixed;inset:0;background:rgba(15,12,25,.5);display:none;z-index:90;justify-content:flex-start}
+  .sheet.open{display:flex}
+  .sheet .panel{background:var(--paper);width:100%;max-width:540px;height:100%;overflow:auto;box-shadow:-12px 0 40px rgba(0,0,0,.25);animation:slidein .25s ease}
+  @keyframes slidein{from{transform:translateX(-40px);opacity:.5}to{transform:none;opacity:1}}
+  .sheet .ph{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--line);padding:16px 20px;display:flex;align-items:center;justify-content:space-between;z-index:2}
+  .sheet .ph h3{margin:0;font-family:"Suez One",serif;font-size:21px}
+  .sheet .ph .x{cursor:pointer;font-size:24px;line-height:1;color:var(--muted);background:none;border:none}
+  .pl-item{display:flex;gap:12px;padding:13px 18px;border-bottom:1px solid var(--line);align-items:center}
+  .pl-item img{width:58px;height:58px;border-radius:11px;object-fit:cover;flex-shrink:0;background:#e9e5f0}
+  .pl-item .info{flex:1;min-width:0}
+  .pl-item .t{font-weight:700;font-size:14px;line-height:1.35}
+  .pl-item .row{display:flex;gap:14px;margin-top:7px;font-size:12.5px;font-weight:700}
+  .pl-item .row a{color:var(--accent)}.pl-item .row .rm{color:#b0324a;background:none;border:none;cursor:pointer;font-family:inherit;font-weight:700;font-size:12.5px}
+  .pl-empty{padding:60px 24px;text-align:center;color:var(--muted);font-size:15px}
 </style>
 </head>
 <body>
@@ -127,6 +160,7 @@
       <input id="q" type="search" placeholder="חיפוש זמר / שיר…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </div>
+    <button class="plbtn" id="plBtn">🎵 הפלייליסט שלי <span class="cnt" id="plCount">0</span></button>
   </div>
 </header>
 
@@ -134,6 +168,10 @@
   <aside class="side" id="side"></aside>
   <main class="feed">
     <h2 class="lead">חדש במוזיקה</h2>
+    <div class="tabs" id="tabs">
+      <button class="tab on" data-sort="new">🆕 חדש</button>
+      <button class="tab" data-sort="pop">🔥 פופולרי</button>
+    </div>
     <div id="feed"><div class="loading">טוען עדכונים…</div></div>
   </main>
 </div>
@@ -143,14 +181,24 @@
   © <span id="yr"></span> מוזיק · <span id="updatedLine"></span>
 </footer>
 
+<div class="sheet" id="sheet">
+  <div class="panel">
+    <div class="ph"><h3>🎵 הפלייליסט שלי</h3><button class="x" id="sheetClose">✕</button></div>
+    <div id="plList"></div>
+  </div>
+</div>
+
 <div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
 
 <script>
 const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REFRESH_MS=90000;
 const AD_CONTACT="050-0000000";      // ← מספר ליצירת קשר לפרסום
 const DEFAULT_SUBS="9,400";
-let brandName="מוזיק", currentIds=new Set(), allItems=[], query="", promos={items:[]};
+let brandName="מוזיק", currentIds=new Set(), allItems=[], query="", promos={items:[]}, sortBy="new";
 const liked=new Set(JSON.parse(localStorage.getItem("mz_likes")||"[]"));
+const playlist=new Set(JSON.parse(localStorage.getItem("mz_pl")||"[]"));
+function savePlaylist(){localStorage.setItem("mz_pl",JSON.stringify([...playlist]));updatePlCount();}
+function updatePlCount(){document.getElementById("plCount").textContent=playlist.size;}
 
 const feedEl=document.getElementById("feed"), sideEl=document.getElementById("side"), updEl=document.getElementById("updatedLine");
 document.getElementById("yr").textContent=new Date().getFullYear();
@@ -168,7 +216,8 @@ function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">"
 function seed(id,salt,min,max){let h=5381;const s=id+salt;for(let i=0;i<s.length;i++)h=((h<<5)+h+s.charCodeAt(i))>>>0;return min+h%(max-min);}
 
 function trackCard(it,fresh){
-  const isLiked=liked.has(it.id), likes=seed(it.id,"l",8,180)+(isLiked?1:0), plays=seed(it.id,"p",120,3400).toLocaleString("he-IL");
+  const isLiked=liked.has(it.id), likes=seed(it.id,"l",8,180)+(isLiked?1:0);
+  const inPl=playlist.has(it.id);
   const link=it.link?`href="${esc(it.link)}" target="_blank" rel="noopener"`:"";
   const cover=it.image
     ? `<a class="cover" ${link}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()"><span class="src">${esc(it.source||"")}</span><span class="play"></span></a>`
@@ -184,6 +233,8 @@ function trackCard(it,fresh){
       <div class="actions">
         ${it.link?`<a class="btn primary" ${link}>▶ להאזנה במקור</a>`:""}
         ${dl}
+        <button class="mini pl${inPl?" on":""}" data-pl="${it.id}">${inPl?"✓ בפלייליסט":"＋ פלייליסט"}</button>
+        <button class="mini share" data-share="${it.id}">↗ שיתוף</button>
         <span class="like${isLiked?" on":""}" data-id="${it.id}"><span class="em">❤️</span><span class="lc">${likes}</span></span>
       </div>
     </div>
@@ -218,6 +269,7 @@ function sideHTML(){
 function render(isRefresh){
   let items=allItems;
   if(query){const q=query.trim();items=items.filter(i=>((i.title||"")+" "+(i.text||"")).includes(q));}
+  if(sortBy==="pop") items=[...items].sort((a,b)=>(seed(b.id,"l",8,180))-(seed(a.id,"l",8,180)));
   const inline=(promos.items||[]).filter(p=>p.enabled!==false&&!p.pin);
   if(!items.length){feedEl.innerHTML='<div class="empty">'+(query?"לא נמצאו תוצאות.":"אין עדכונים כרגע. חוזרים בקרוב…")+'</div>';}
   else{
@@ -249,18 +301,61 @@ async function load(isRefresh){
   }catch(e){ if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון כרגע. נסו לרענן.</div>'; }
 }
 
+function itemById(id){return allItems.find(i=>i.id===id);}
+
+function renderPlaylist(){
+  const ids=[...playlist];
+  const list=document.getElementById("plList");
+  const saved=ids.map(itemById).filter(Boolean);
+  if(!saved.length){list.innerHTML='<div class="pl-empty">הפלייליסט ריק.<br>הוסיפו שירים בכפתור "＋ פלייליסט".</div>';return;}
+  list.innerHTML=saved.map(it=>{
+    const link=it.link?`href="${esc(it.link)}" target="_blank" rel="noopener"`:"";
+    const dl=it.download?`<a href="${esc(it.download)}" target="_blank" rel="noopener">⬇ הורדה</a>`:"";
+    return `<div class="pl-item">
+      ${it.image?`<img src="${esc(it.image)}" alt="">`:`<img alt="" style="background:linear-gradient(135deg,#6d28d9,#c026a6)">`}
+      <div class="info"><div class="t">${esc(it.title||"")}</div>
+        <div class="row">${it.link?`<a ${link}>▶ האזנה</a>`:""}${dl}<button class="rm" data-rm="${it.id}">הסר</button></div>
+      </div></div>`;
+  }).join("");
+}
+function openSheet(){renderPlaylist();document.getElementById("sheet").classList.add("open");}
+function closeSheet(){document.getElementById("sheet").classList.remove("open");}
+
+async function shareItem(it){
+  const url=it.link||location.href, text=it.title||"מוזיק";
+  if(navigator.share){try{await navigator.share({title:"מוזיק",text,url});return;}catch(e){}}
+  try{await navigator.clipboard.writeText(text+" — "+url);alert("הקישור הועתק ✓");}catch(e){prompt("העתיקו את הקישור:",url);}
+}
+
 document.addEventListener("click",e=>{
   const like=e.target.closest(".like");
   if(like){
     const id=like.dataset.id, lc=like.querySelector(".lc");
     if(liked.has(id)){liked.delete(id);like.classList.remove("on");lc.textContent=+lc.textContent-1;}
     else{liked.add(id);like.classList.add("on");lc.textContent=+lc.textContent+1;}
-    localStorage.setItem("mz_likes",JSON.stringify([...liked]));
+    localStorage.setItem("mz_likes",JSON.stringify([...liked]));return;
   }
+  const pl=e.target.closest(".mini.pl");
+  if(pl){
+    const id=pl.dataset.pl;
+    if(playlist.has(id)){playlist.delete(id);pl.classList.remove("on");pl.textContent="＋ פלייליסט";}
+    else{playlist.add(id);pl.classList.add("on");pl.textContent="✓ בפלייליסט";}
+    savePlaylist();return;
+  }
+  const sh=e.target.closest(".mini.share");
+  if(sh){const it=itemById(sh.dataset.share);if(it)shareItem(it);return;}
+  const rm=e.target.closest("[data-rm]");
+  if(rm){playlist.delete(rm.dataset.rm);savePlaylist();renderPlaylist();render(true);return;}
+  const tab=e.target.closest(".tab");
+  if(tab){sortBy=tab.dataset.sort;document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("on",t===tab));render(false);return;}
 });
+document.getElementById("plBtn").addEventListener("click",openSheet);
+document.getElementById("sheetClose").addEventListener("click",closeSheet);
+document.getElementById("sheet").addEventListener("click",e=>{if(e.target.id==="sheet")closeSheet();});
 document.getElementById("q").addEventListener("input",e=>{query=e.target.value;render(false);});
 document.getElementById("lightbox").addEventListener("click",()=>document.getElementById("lightbox").classList.remove("open"));
 
+updatePlCount();
 load(false);
 setInterval(()=>load(true),REFRESH_MS);
 </script>

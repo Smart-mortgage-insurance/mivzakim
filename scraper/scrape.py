@@ -80,23 +80,41 @@ def html_to_text(html, limit):
     return txt
 
 
-def fetch_og_image(url):
-    """Fallback: pull the article's og:image when the feed has no cover."""
+IMG_TAIL = (".jpg", ".jpeg", ".png", ".webp", ".gif")
+DL_PATTERNS = [
+    r'<source[^>]*src=["\']([^"\']+)',
+    r'<audio[^>]*src=["\']([^"\']+)',
+    r'href=["\']([^"\']+\.(?:mp3|m4a|mp4|wav))(?:["\'?])',
+    r'href=["\']([^"\']*/download[^"\']*)["\']',
+]
+
+
+def fetch_article(url):
+    """Fetch the article once; return (og_image, download_url).
+
+    download_url mirrors whatever the SOURCE itself offers (an <audio>/<source>,
+    a direct media file, or a /download link). We link to it — never re-host it.
+    """
     if not url:
-        return ""
+        return "", None
+    og, dl = "", None
     try:
         r = SESSION.get(url, timeout=25)
         if r.status_code != 200:
-            return ""
-        html = r.text
-        for pat in (r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)',
-                    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image'):
-            m = re.search(pat, html, re.I)
-            if m:
-                return m.group(1)
+            return "", None
+        h = r.text
+        m = (re.search(r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)', h, re.I)
+             or re.search(r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image', h, re.I))
+        if m:
+            og = m.group(1)
+        for pat in DL_PATTERNS:
+            mm = re.search(pat, h, re.I)
+            if mm and not mm.group(1).lower().endswith(IMG_TAIL):
+                dl = mm.group(1)
+                break
     except Exception:
         pass
-    return ""
+    return og, dl
 
 
 def upgrade_blogger_img(url):
@@ -286,9 +304,15 @@ def main():
             summary = html_to_text(
                 (e.get("content") and e["content"][0].get("value")) or e.get("summary", ""),
                 tcfg.get("summary_chars", 320))
-            img_url = pick_image(e) or fetch_og_image(link)
+            dl_on = CFG.get("downloads", {}).get("enabled")
+            feed_img = pick_image(e)
+            feed_dl = pick_download(e) if dl_on else None
+            og_img, art_dl = ("", None)
+            if (not feed_img) or (dl_on and not feed_dl):
+                og_img, art_dl = fetch_article(link)
+            img_url = feed_img or og_img
             local_img = process_image(hid, img_url) if img_url else ""
-            download_url = pick_download(e) if CFG.get("downloads", {}).get("enabled") else None
+            download_url = feed_dl or art_dl
 
             existing[hid] = {
                 "id": hid,
