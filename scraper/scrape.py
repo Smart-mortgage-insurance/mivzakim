@@ -81,12 +81,26 @@ def html_to_text(html, limit):
 
 
 IMG_TAIL = (".jpg", ".jpeg", ".png", ".webp", ".gif")
+# never treat these as a "download" (static assets)
+ASSET_TAIL = (".css", ".js", ".png", ".jpg", ".jpeg", ".svg", ".gif", ".webp",
+              ".ico", ".woff", ".woff2", ".ttf")
 DL_PATTERNS = [
     r'<source[^>]*src=["\']([^"\']+)',
     r'<audio[^>]*src=["\']([^"\']+)',
     r'href=["\']([^"\']+\.(?:mp3|m4a|mp4|wav))(?:["\'?])',
-    r'href=["\']([^"\']*/download[^"\']*)["\']',
 ]
+# reject ad/tracker URLs mistaken for downloads
+BAD_DL_RE = re.compile(r'(?:[._/-]ads?[._/-]|/ad[_/]|advert|workers\.dev|doubleclick|googlesyndication|/track)', re.I)
+
+
+def is_bad_dl(url):
+    u = (url or "").strip()
+    if not u.lower().startswith(("http", "//", "/")):
+        return True
+    base = u.lower().split("?")[0]
+    if base.endswith(ASSET_TAIL) or base.endswith(IMG_TAIL):
+        return True
+    return bool(BAD_DL_RE.search(u))
 
 
 def fetch_article(url):
@@ -108,9 +122,11 @@ def fetch_article(url):
         if m:
             og = m.group(1)
         for pat in DL_PATTERNS:
-            mm = re.search(pat, h, re.I)
-            if mm and not mm.group(1).lower().endswith(IMG_TAIL):
-                dl = mm.group(1)
+            for cand in re.findall(pat, h, re.I):
+                if not is_bad_dl(cand):
+                    dl = cand
+                    break
+            if dl:
                 break
     except Exception:
         pass
@@ -151,15 +167,16 @@ def pick_download(entry):
     for enc in entry.get("enclosures", []) or []:
         href = enc.get("href", "")
         typ = (enc.get("type") or "").lower()
-        if typ.startswith("audio/") or typ.startswith("video/") or href.lower().endswith(AUDIO_EXT + VIDEO_EXT):
+        if (typ.startswith("audio/") or typ.startswith("video/")
+                or href.lower().endswith(AUDIO_EXT + VIDEO_EXT)) and not is_bad_dl(href):
             return href
     html = ""
     if entry.get("content"):
         html = entry["content"][0].get("value", "")
     html = html or entry.get("summary", "")
-    m = re.search(r'href=[\'"]([^\'"]+\.(?:mp3|m4a|mp4)[^\'"]*)', html, re.I)
-    if m:
-        return m.group(1)
+    for cand in re.findall(r'href=[\'"]([^\'"]+\.(?:mp3|m4a|mp4)[^\'"]*)', html, re.I):
+        if not is_bad_dl(cand):
+            return cand
     return None
 
 
@@ -270,6 +287,45 @@ def prune_media(items):
             pass
 
 
+AUDIO_WORDS = ("סינגל", "האזינו", "האזנה", "מאזינים", "שיר חדש", "אלבום", "מחרוזת",
+               "ניגון", "ניגונים", "דיסק", "להורדה", "לשיר")
+CLIP_WORDS = ("קליפ", "וידאו", "צפו", "צפייה", "clip", "video", "הופעה")
+
+
+def classify(title, summary, download):
+    t = (title or "") + " " + (summary or "")
+    if any(w in t for w in CLIP_WORDS):
+        return "clip"
+    if download and download.lower().split("?")[0].endswith(AUDIO_EXT):
+        return "audio"
+    if any(w in t for w in AUDIO_WORDS):
+        return "audio"
+    return "news"
+
+
+def reconcile_media(items):
+    """Self-heal: if an item points to an image file that isn't on disk,
+    re-download it (using the stored remote URL). Guarantees news.json never
+    references a missing file. Fixes covers vanishing across runs."""
+    healed = 0
+    for it in items:
+        img = it.get("image")
+        if not img:
+            continue
+        if os.path.exists(os.path.join(ROOT, img)):
+            continue
+        src = it.get("image_src")
+        if not src:
+            og, _dl = fetch_article(it.get("link", ""))
+            src = og
+            it["image_src"] = src
+        it["image"] = process_image(it["id"], src) if src else ""
+        if it["image"]:
+            healed += 1
+    if healed:
+        log("reconcile: re-downloaded {} missing covers".format(healed))
+
+
 def main():
     log("== מוזיק scraper ==")
     log("Gemini image filter:", "ON" if GEMINI_KEY else "OFF (keep images)")
@@ -278,6 +334,14 @@ def main():
     existing = {it["id"]: it for it in news.get("items", [])}
     tcfg = CFG["text"]
     new_count = 0
+
+    # repair existing items: drop bogus (static-asset) download links, backfill type
+    for it in existing.values():
+        d = (it.get("download") or "").lower().split("?")[0]
+        if d.endswith(ASSET_TAIL):
+            it["download"] = None
+        if "type" not in it:
+            it["type"] = classify(it.get("title"), it.get("text"), it.get("download"))
 
     for src in CFG["sources"]:
         if not src.get("enabled", True):
@@ -319,6 +383,8 @@ def main():
                 "title": title,
                 "text": summary,
                 "image": local_img,
+                "image_src": img_url,
+                "type": classify(title, summary, download_url),
                 "source": name,
                 "link": link,
                 "download": download_url,
@@ -330,6 +396,7 @@ def main():
     items = list(existing.values())
     items.sort(key=lambda x: x.get("ts") or "", reverse=True)
     items = items[: CFG["limits"]["max_items"]]
+    reconcile_media(items)
     prune_media(items)
 
     out = {
