@@ -72,6 +72,9 @@
     font-size:11.5px;font-weight:700;padding:4px 11px;border-radius:999px;backdrop-filter:blur(3px)}
 
   .body{padding:16px 18px 18px}
+  .cover.ytfacade{background-size:cover;background-position:center;cursor:pointer}
+  .ytembed{width:100%;aspect-ratio:16/9;border:0;display:block;background:#000}
+  .aud{width:100%;margin:10px 0 2px;height:38px}
   .track .tt{font-size:19px;font-weight:800;line-height:1.32;margin:0 0 7px}
   .track .desc{font-size:14.5px;color:#5c5570;line-height:1.6;margin:0}
   .meta{display:flex;align-items:center;gap:10px;margin-top:8px;font-size:12.5px;color:var(--muted);font-weight:600}
@@ -233,23 +236,33 @@ function relTime(iso){
 function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));}
 function seed(id,salt,min,max){let h=5381;const s=id+salt;for(let i=0;i<s.length;i++)h=((h<<5)+h+s.charCodeAt(i))>>>0;return min+h%(max-min);}
 
+function isAudio(u){return /\.(mp3|m4a|wav|aac|ogg)(\?|$)/i.test(u||"");}
+
 function trackCard(it,fresh){
   const isLiked=liked.has(it.id), likes=seed(it.id,"l",8,180)+(isLiked?1:0);
   const inPl=playlist.has(it.id);
-  const link=it.link?`href="${esc(it.link)}" target="_blank" rel="noopener"`:"";
-  const cover=it.image
-    ? `<a class="cover" ${link}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()"><span class="src">${esc(it.source||"")}</span><span class="play"></span></a>`
-    : "";
+  const watchUrl=it.video_id?("https://www.youtube.com/watch?v="+it.video_id):(it.link||"");
+  const linkAttr=watchUrl?`href="${esc(watchUrl)}" target="_blank" rel="noopener"`:"";
+  const srcPill=`<span class="src">${esc(it.source||"")}</span>`;
+  let media="";
+  if(it.video_id){
+    media=`<div class="cover ytfacade" data-yt="${esc(it.video_id)}"${it.image?` style="background-image:url('${esc(it.image)}')"`:""}>${srcPill}<span class="play"></span></div>`;
+  }else if(it.image){
+    media=`<a class="cover" ${linkAttr}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()">${srcPill}<span class="play"></span></a>`;
+  }
+  const audio=(!it.video_id && isAudio(it.download))?`<audio class="aud" controls preload="none" src="${esc(it.download)}"></audio>`:"";
   const dl=it.download?`<a class="btn dl" href="${esc(it.download)}" target="_blank" rel="noopener">⬇ הורדה</a>`:"";
-  return `<article class="track${fresh?" fresh":""}${it.image?"":" nocov"}">
-    ${cover}
+  const srcBtn=watchUrl?`<a class="btn primary" href="${esc(watchUrl)}" target="_blank" rel="noopener">${it.video_id?"▶ לצפייה במקור":"▶ האזנה במקור"}</a>`:"";
+  return `<article class="track${fresh?" fresh":""}${(it.image||it.video_id)?"":" nocov"}">
+    ${media}
     <div class="body">
-      ${it.image?"":`<span class="srcflag">${esc(it.source||"מוזיק")}</span>`}
+      ${(it.image||it.video_id)?"":`<span class="srcflag">${esc(it.source||"מוזיק")}</span>`}
       <h3 class="tt">${esc(it.title||"")}</h3>
       ${it.text?`<p class="desc">${esc(it.text)}</p>`:""}
-      <div class="meta"><span class="src-txt">${esc(it.source||"")}</span>·<span>${relTime(it.ts)}</span></div>
+      ${audio}
+      <div class="meta"><span class="src-txt">מקור: ${esc(it.source||"")}</span>·<span>${relTime(it.ts)}</span></div>
       <div class="actions">
-        ${it.link?`<a class="btn primary" ${link}>▶ להאזנה במקור</a>`:""}
+        ${srcBtn}
         ${dl}
         <button class="mini pl${inPl?" on":""}" data-pl="${it.id}">${inPl?"✓ בפלייליסט":"＋ פלייליסט"}</button>
         <button class="mini share" data-share="${it.id}">↗ שיתוף</button>
@@ -361,6 +374,16 @@ async function shareItem(it){
 }
 
 document.addEventListener("click",e=>{
+  const yt=e.target.closest(".ytfacade");
+  if(yt){
+    const f=document.createElement("iframe");
+    f.className="ytembed";
+    f.src="https://www.youtube-nocookie.com/embed/"+yt.dataset.yt+"?autoplay=1&rel=0&modestbranding=1";
+    f.setAttribute("allow","autoplay; encrypted-media; fullscreen; picture-in-picture");
+    f.allowFullscreen=true;
+    yt.replaceWith(f);
+    return;
+  }
   const like=e.target.closest(".like");
   if(like){
     const id=like.dataset.id, lc=like.querySelector(".lc");

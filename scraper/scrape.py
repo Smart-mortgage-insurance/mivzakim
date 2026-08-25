@@ -188,6 +188,23 @@ def entry_ts(entry):
     return None
 
 
+YT_ID_RE = re.compile(r'(?:v=|/embed/|youtu\.be/|/shorts/)([A-Za-z0-9_-]{11})')
+
+
+def youtube_id(entry, link):
+    """Return an 11-char YouTube video id for YouTube feed items, else None.
+    Enables a legit embedded player (no download / no re-hosting)."""
+    vid = entry.get("yt_videoid")
+    if vid:
+        return vid
+    ident = entry.get("id", "")
+    m = re.search(r"yt:video:([A-Za-z0-9_-]{11})", ident)
+    if m:
+        return m.group(1)
+    m = YT_ID_RE.search(link or "")
+    return m.group(1) if m else None
+
+
 # --------------------------------------------------------------------------- #
 # Media download + Gemini modesty filter
 # --------------------------------------------------------------------------- #
@@ -368,11 +385,12 @@ def main():
             summary = html_to_text(
                 (e.get("content") and e["content"][0].get("value")) or e.get("summary", ""),
                 tcfg.get("summary_chars", 320))
-            dl_on = CFG.get("downloads", {}).get("enabled")
+            vid = youtube_id(e, link)
+            dl_on = CFG.get("downloads", {}).get("enabled") and src.get("download", True) and not vid
             feed_img = pick_image(e)
             feed_dl = pick_download(e) if dl_on else None
             og_img, art_dl = ("", None)
-            if (not feed_img) or (dl_on and not feed_dl):
+            if not vid and ((not feed_img) or (dl_on and not feed_dl)):
                 og_img, art_dl = fetch_article(link)
             img_url = feed_img or og_img
             local_img = process_image(hid, img_url) if img_url else ""
@@ -384,7 +402,8 @@ def main():
                 "text": summary,
                 "image": local_img,
                 "image_src": img_url,
-                "type": classify(title, summary, download_url),
+                "type": "clip" if vid else classify(title, summary, download_url),
+                "video_id": vid,
                 "source": name,
                 "link": link,
                 "download": download_url,

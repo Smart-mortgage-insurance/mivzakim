@@ -8,7 +8,8 @@
   "sources": [
     { "name": "חדשות המוזיקה", "feed": "https://newsmusic.blogspot.com/feeds/posts/default?alt=rss", "site": "https://newsmusic.blogspot.com", "enabled": true },
     { "name": "המנגן",         "feed": "https://hamenagen.net/feed/",                                   "site": "https://hamenagen.net",         "enabled": true },
-    { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "site": "https://music.tora1.com",       "enabled": true }
+    { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "site": "https://music.tora1.com",       "enabled": true },
+    { "name": "יוטיוב (דוגמה — החליפו CHANNEL_ID)", "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID", "site": "https://youtube.com", "download": false, "enabled": false }
   ],
   "limits": {
     "max_items": 120,
