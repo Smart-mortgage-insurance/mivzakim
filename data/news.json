@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T12:50:11.956477+00:00",
+ "updated": "2026-08-25T13:28:39.806372+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -20,8 +20,20 @@
    "site": "https://music.tora1.com"
   }
  ],
- "count": 45,
+ "count": 46,
  "items": [
+  {
+   "id": "s916b7a43827e40",
+   "title": "חביב חיים בן אריה - שירת הפתגמים",
+   "text": "מתוך הזיכרון והתקווה: חביב חיים בן אריה בסינגל חדש - \"שירת הפתגמים\"מה שהתחיל כמפגש משפחתי במוצאי חג והוקלט בלחישה לתוך הטלפון באמצע הלילה, הפך לשיר קצבי ומלא אמונה - המוקדש לזכרו של חבר קרוב.לפעמים שיר שנולד ברגע של שקט מקבל משמעות שונה לחלוטין בעקבות אירועי החיים. זה בדיוק הסיפור מאחורי \"שירת הפתגמים\", השיר החדש של…",
+   "image": "data/media/5651653bd7ac6b15.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyDZqAnngqqaBKW5ynISJs3OLFaZ12cFxmslm_cnsKZgs3DzvDnwQaOElgDZykAIHCJVVrC3NsWBV2DDgE6bxV5sna82g7cCoYn2pGYtNbnVZLGrlM_dfaJs7XMU1qz-B1wKfm-WPUU1tGQTv9cqfBkTgJwDTxte-sqbI89Tr7v_MyNw0nloua82SeD5R/s72-w320-h180-c/%D7%97%D7%91%D7%99%D7%91%20%D7%97%D7%99%D7%99%D7%9D%20%D7%91%D7%9F%20%D7%90%D7%A8%D7%99%D7%94%20%D7%A9%D7%99%D7%A8%D7%AA%20%D7%94%D7%A4%D7%AA%D7%92%D7%9E%D7%99%D7%9D%20-%20%D7%92%D7%A8%D7%A4%D7%99%D7%A7%D7%94.jpg",
+   "type": "audio",
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_25.html",
+   "download": "https://archive.org/download/hadshotmusic_20260825/%D7%97%D7%91%D7%99%D7%91%20%D7%97%D7%99%D7%99%D7%9D%20%D7%91%D7%9F%20%D7%90%D7%A8%D7%99%D7%94%20-%20%D7%A9%D7%99%D7%A8%D7%AA%20%D7%94%D7%A4%D7%AA%D7%92%D7%9E%D7%99%D7%9D.mp3",
+   "ts": "2026-08-25T13:13:00+00:00"
+  },
   {
    "id": "s33dd1a90affea8",
    "title": "צבי גאלדרינג מגיש | Tzvi Goldring | ניגון נענועים (סאטמאר) | האזינו",
