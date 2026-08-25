@@ -180,6 +180,18 @@ def pick_download(entry):
     return None
 
 
+def parse_feed(url):
+    """Parse an RSS feed. Try our browser UA first; if the site rejects it
+    (some WordPress/CDN front-ends 403 that specific UA) retry with
+    feedparser's own default agent, which those sites accept."""
+    d = feedparser.parse(url, agent=UA)
+    if (not d.entries) or d.get("status") in (401, 403, 406, 429):
+        d2 = feedparser.parse(url)  # feedparser's default agent
+        if d2.entries:
+            return d2
+    return d
+
+
 def entry_ts(entry):
     for k in ("published_parsed", "updated_parsed"):
         t = entry.get(k)
@@ -366,7 +378,7 @@ def main():
         name, feed = src["name"], src["feed"]
         log("-> {}".format(name))
         try:
-            parsed = feedparser.parse(feed, agent=UA)
+            parsed = parse_feed(feed)
         except Exception as exc:
             log("   ! feed error:", exc)
             continue
