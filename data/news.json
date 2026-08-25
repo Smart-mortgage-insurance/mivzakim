@@ -1,13 +1,23 @@
 {
- "updated": "2026-08-25T10:42:37.670666+00:00",
+ "updated": "2026-08-25T10:44:04.553946+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "עדכוני המוזיקה החרדית — סינגלים, קליפים וחדשות",
   "subscribers": "9,400",
   "site_url": ""
  },
- "count": 51,
+ "count": 52,
  "items": [
+  {
+   "id": "s918b1746ee38e8",
+   "title": "ארשת שפתינו",
+   "text": "הרב אלישע קלויזנר על סיפורם של הניגונים שנכנסו לתפילות הימים הנוראים",
+   "image": "",
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%a8%d7%a9%d7%aa-%d7%a9%d7%a4%d7%aa%d7%99%d7%a0%d7%95/",
+   "download": "https://hamenagen.net/wp-content/plugins/HamenagenMusic/assets/css/download-progress.css?ver=1787565975&#038;hmv=1787567678",
+   "ts": "2026-08-25T10:43:34+00:00"
+  },
   {
    "id": "s7758bcbffbb767",
    "title": "אוחילה",
