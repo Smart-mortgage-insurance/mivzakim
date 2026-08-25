@@ -1,13 +1,23 @@
 {
- "updated": "2026-08-25T11:19:39.957384+00:00",
+ "updated": "2026-08-25T11:24:15.771653+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "עדכוני המוזיקה החרדית — סינגלים, קליפים וחדשות",
   "subscribers": "9,400",
   "site_url": ""
  },
- "count": 53,
+ "count": 54,
  "items": [
+  {
+   "id": "s33dd1a90affea8",
+   "title": "צבי גאלדרינג מגיש | Tzvi Goldring | ניגון נענועים (סאטמאר) | האזינו",
+   "text": "The Niggun Na’aniem is far more than a melody. It is a niggun born from pure avodah, composed by Reb Berish Vishever, z”l, and inspired by the holy Divrei Yoel, the Satmar Rebbe, zt”l, as sung during Hallel on Hoshana Rabbah of Sukkos. Its stirring movements carry the dveikus, yearning, and kedushah of a vanished…",
+   "image": "data/media/1d92bb9a9dda6929.jpg",
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a6%d7%91%d7%99-%d7%92%d7%90%d7%9c%d7%93%d7%a8%d7%99%d7%a0%d7%92-%d7%9e%d7%92%d7%99%d7%a9-tzvi-goldring-%d7%a0%d7%99%d7%92%d7%95%d7%9f-%d7%a0%d7%a2%d7%a0%d7%95%d7%a2%d7%99%d7%9d-%d7%a1%d7%90/",
+   "download": "https://hamenagen.net/wp-content/plugins/HamenagenMusic/assets/css/download-progress.css?ver=1787565975&#038;hmv=1787567678",
+   "ts": "2026-08-25T11:22:06+00:00"
+  },
   {
    "id": "sd3fcc0af1175b2",
    "title": "אברהם כהן בביצוע מרגש | מחרוזת אל תעזוב אותי | צפו בקליפ מילים",
