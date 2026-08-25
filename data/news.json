@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25T23:13:48.780584+00:00",
+ "updated": "2026-08-25T23:15:10.499803+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -66,6 +66,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s0b996a7216dc58",
+   "title": "אביחי מזרחי - תבוא כמו שאתה",
+   "text": "אין דבר העומד בפני התשובה: בעיצומם של ימי התשובה, אביחי מגיש סינגל מרגש - \"תבוא כמו שאתה\"\"די לי שהכעסתי את בוראי פעם אחת\" - המשפט הטעון הזה, שמקורו בסיפור שמובא במדרש, עומד במרכז הסינגל החדש והאישי של הזמר והיוצר אביחי מזרחי: \"תבוא כמו שאתה\".המדרש (בראשית רבה) מספר על יוסף משיתא, יהודי שחי בזמן חורבן בית המקדש השני.…",
+   "image": "data/media/4f0f92d0123b67dd.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazYpu9k3XQl95tbXVvyaFlUb0w_iQWrDKvEan4w72Z6BDnqCNEKXeL5CT6Ymqwk5c3vxTGj0L2gWE30wgPddpqpCuN_WLRM7VNuv-b4rSbbdUgkcvOQG4Y1GpRBBnJPWLYvbbCHkFxsGRyIinOIxiIjh9DaF40iGAq1znd31u-qyEJnKccKlzYExavmPj/s72-w320-h320-c/%D7%AA%D7%91%D7%95%D7%90%20%D7%9B%D7%9E%D7%95%20%D7%A9%D7%90%D7%AA%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg.jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_964.html",
+   "download": "https://archive.org/download/hadshotmusic_20260825_2308/%D7%90%D7%91%D7%99%D7%97%D7%99%20%D7%9E%D7%96%D7%A8%D7%97%D7%99%20-%20%D7%AA%D7%91%D7%95%D7%90%20%D7%9B%D7%9E%D7%95%20%D7%A9%D7%90%D7%AA%D7%94.mp3",
+   "ts": "2026-08-25T23:13:57+00:00"
+  },
   {
    "id": "sbebb038ba5ac38",
    "title": "שלמה מחדש את המלך בשדה גם בשפה הצרפתית | המלך בשדה | האזינו",
@@ -1946,19 +1959,6 @@
    "link": "https://www.youtube.com/watch?v=LQ1Qn8cFFWI",
    "download": null,
    "ts": "2025-11-23T14:47:52+00:00"
-  },
-  {
-   "id": "s80155754ebbe2d",
-   "title": "ברכנו — Avraham Fried & Meilech Braunstein",
-   "text": "ברכנו — Avraham Fried & Meilech Braunstein ברכנו אבינו אבינו אבינו כולנו ברכנו ברכנו אבינו כולנו כאחד אבינו ברכנו ווייל א ברכה פון א טאטע איז די גרעסטע זאך בעט איך דיר בענטש מיך מיט ברכות אסאך חיים חן וחסד ורחמים ווייל די ביסט דאך מיין טאטע און איך בין דאך דיין קינד Composed by: R’ Cheskie Weisz (for the wedding of…",
-   "image": "data/media/64646498f315650d.jpg",
-   "image_src": "https://i3.ytimg.com/vi/RdAO_jD3qoU/hqdefault.jpg",
-   "type": "clip",
-   "video_id": "RdAO_jD3qoU",
-   "source": "אברהם פריד",
-   "link": "https://www.youtube.com/watch?v=RdAO_jD3qoU",
-   "download": null,
-   "ts": "2025-11-06T18:04:22+00:00"
   }
  ]
 }
