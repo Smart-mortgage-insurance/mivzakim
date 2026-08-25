@@ -4,3 +4,5 @@ __pycache__/
 Thumbs.db
 
 DEV_NOTES.md
+
+*.exe

@@ -1,100 +1,32 @@
 {
   "brand": {
-    "name": "מבזקים",
-    "tagline": "מהדורת החדשות המובילה",
-    "kicker": "מבזק",
+    "name": "מוזיק",
+    "tagline": "עדכוני המוזיקה החרדית — סינגלים, קליפים וחדשות",
+    "subscribers": "9,400",
     "site_url": ""
   },
   "sources": [
-    { "username": "channelkikar",           "enabled": true },
-    { "username": "behadrei_harebim_bhol",   "enabled": true },
-    { "username": "merkaz",                  "enabled": true },
-    { "username": "hamoked_il",              "enabled": true },
-    { "username": "firstreportsnews",        "enabled": true },
-    { "username": "ramreports",              "enabled": true }
+    { "name": "חדשות המוזיקה", "feed": "https://newsmusic.blogspot.com/feeds/posts/default?alt=rss", "enabled": true },
+    { "name": "המנגן",         "feed": "https://hamenagen.net/feed/",                                   "enabled": true }
   ],
   "limits": {
-    "max_items": 150,
-    "max_messages_per_channel": 25,
+    "max_items": 120,
+    "max_per_source": 25,
     "max_media_bytes": 12000000
   },
-  "text_filter": {
-    "drop_if_contains": [
-      "הצטרפו לערוץ",
-      "להצטרפות לערוץ",
-      "לפרסום בערוץ",
-      "לפרסום אצלנו",
-      "מעוניינים לפרסם",
-      "שתפו את הערוץ",
-      "לינק לערוץ",
-      "בטלגרם",
-      "בטלגראם",
-      "לערוץ הטלגרם",
-      "@",
-      "לפרסום לחצו",
-      "לפרטים והרשמה",
-      "לפרטים חייגו",
-      "לפרטים נוספים חייגו",
-      "חייגו עכשיו",
-      "התקשרו עכשיו",
-      "הטבה בלעדית",
-      "הנחה בלעדית",
-      "קופון",
-      "במבצע השבוע",
-      "מוקד המכירות",
-      "להזמנת כרטיסים",
-      "דרושים",
-      "דרוש/ה",
-      "עיתון המבשר",
-      "מצ\"ב עיתון"
-    ],
-    "drop_regex": [
-      "\\*\\d{3,4}\\b",
-      "\\b1-?[78]00\\b",
-      "[A-Za-z0-9][A-Za-z0-9-]*\\.(?:co\\.il|com|net|org|io)\\b",
-      ">>>",
-      "<<<"
-    ],
+  "text": {
     "strip_urls": true,
-    "strip_handles": true,
-    "strip_trailing_parens": true,
-    "strip_phrases": [
-      "מבזקי רעם - מבזקי חדשות בזמן אמת",
-      "מבזקי רעם",
-      "חדשות המוקד",
-      "המוקד:",
-      "המוקד :",
-      "הקו החרדי",
-      "כיכר השבת",
-      "חדשות כיכר השבת",
-      "בחדרי חרדים",
-      "חדשות ישראל",
-      "המודיע:",
-      "המודיע",
-      "המבשר",
-      "פרבר ב'בחדרי'",
-      "דורון קדוש:",
-      "דורון קדוש",
-      "שילה פריד:",
-      "שילה פריד",
-      "דין פישר",
-      "עמית סגל",
-      "אבו עלי",
-      "רעם |",
-      "| רעם"
-    ],
-    "min_length": 8
-  },
-  "text_editor": {
-    "use_gemini": true,
-    "gemini_model": "gemini-2.0-flash"
+    "summary_chars": 320,
+    "min_title": 4
   },
   "media_filter": {
     "use_gemini": true,
     "gemini_model": "gemini-2.0-flash",
     "on_reject": "drop_media",
-    "allow_images": true,
-    "allow_videos": true,
-    "fallback_without_key": "text_only"
+    "fallback_without_key": "keep_image"
+  },
+  "downloads": {
+    "enabled": true,
+    "note": "כפתור הורדה מוצג רק כשהמקור עצמו מציע קובץ שמע/וידאו חופשי (enclosure או קישור ישיר). אין הורדה/אחסון של תוכן מוגן בזכויות יוצרים."
   }
 }
