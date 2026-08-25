@@ -241,22 +241,22 @@ function isAudio(u){return /\.(mp3|m4a|wav|aac|ogg)(\?|$)/i.test(u||"");}
 function trackCard(it,fresh){
   const isLiked=liked.has(it.id), likes=seed(it.id,"l",8,180)+(isLiked?1:0);
   const inPl=playlist.has(it.id);
-  const watchUrl=it.video_id?("https://www.youtube.com/watch?v="+it.video_id):(it.link||"");
+  const watchUrl=it.link||(it.video_id?("https://www.youtube.com/watch?v="+it.video_id):"");
   const linkAttr=watchUrl?`href="${esc(watchUrl)}" target="_blank" rel="noopener"`:"";
   const srcPill=`<span class="src">${esc(it.source||"")}</span>`;
   let media="";
-  if(it.video_id){
-    media=`<div class="cover ytfacade" data-yt="${esc(it.video_id)}"${it.image?` style="background-image:url('${esc(it.image)}')"`:""}>${srcPill}<span class="play"></span></div>`;
-  }else if(it.image){
-    media=`<a class="cover" ${linkAttr}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()">${srcPill}<span class="play"></span></a>`;
+  if(it.image){
+    // עדכון-כרטיס: כריכה מקומית (נטענת גם בנטפרי) שמקושרת למקור. ללא הטמעת נגן —
+    // נגני יוטיוב חסומים בנטפרי, אז מציגים עדכון + קישור "לצפייה במקור".
+    media=`<a class="cover" ${linkAttr}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()">${srcPill}${it.video_id?`<span class="play"></span>`:""}</a>`;
   }
   const audio=(!it.video_id && isAudio(it.download))?`<audio class="aud" controls preload="none" src="${esc(it.download)}"></audio>`:"";
   const dl=it.download?`<a class="btn dl" href="${esc(it.download)}" target="_blank" rel="noopener">⬇ הורדה</a>`:"";
   const srcBtn=watchUrl?`<a class="btn primary" href="${esc(watchUrl)}" target="_blank" rel="noopener">${it.video_id?"▶ לצפייה במקור":"▶ האזנה במקור"}</a>`:"";
-  return `<article class="track${fresh?" fresh":""}${(it.image||it.video_id)?"":" nocov"}">
+  return `<article class="track${fresh?" fresh":""}${it.image?"":" nocov"}">
     ${media}
     <div class="body">
-      ${(it.image||it.video_id)?"":`<span class="srcflag">${esc(it.source||"מוזיק")}</span>`}
+      ${it.image?"":`<span class="srcflag">${esc(it.source||"מוזיק")}</span>`}
       <h3 class="tt">${esc(it.title||"")}</h3>
       ${it.text?`<p class="desc">${esc(it.text)}</p>`:""}
       ${audio}
@@ -374,16 +374,6 @@ async function shareItem(it){
 }
 
 document.addEventListener("click",e=>{
-  const yt=e.target.closest(".ytfacade");
-  if(yt){
-    const f=document.createElement("iframe");
-    f.className="ytembed";
-    f.src="https://www.youtube-nocookie.com/embed/"+yt.dataset.yt+"?autoplay=1&rel=0&modestbranding=1";
-    f.setAttribute("allow","autoplay; encrypted-media; fullscreen; picture-in-picture");
-    f.allowFullscreen=true;
-    yt.replaceWith(f);
-    return;
-  }
   const like=e.target.closest(".like");
   if(like){
     const id=like.dataset.id, lc=like.querySelector(".lc");
