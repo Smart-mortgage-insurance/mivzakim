@@ -124,6 +124,14 @@
   .tabs{display:flex;gap:8px;margin-bottom:16px}
   .tab{border:1px solid var(--line);background:var(--card);color:var(--muted);font-weight:700;font-size:13.5px;padding:8px 17px;border-radius:999px;cursor:pointer;font-family:inherit}
   .tab.on{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff;border-color:transparent}
+  .chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px}
+  .chips .tab{font-size:12.5px;padding:6px 14px}
+  .sortrow{align-items:center;gap:8px;margin-top:2px}
+  .sortlbl{font-size:12.5px;color:var(--muted);font-weight:700}
+  .tab.sm{font-size:12.5px;padding:6px 13px}
+  .srclist{margin-top:14px;display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+  .srclist a{font-size:12.5px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:5px 12px;border-radius:999px}
+  .srctitle{font-size:13.5px;font-weight:700;color:var(--ink);margin-bottom:4px}
 
   /* small card action buttons */
   .mini{display:inline-flex;align-items:center;gap:6px;background:var(--accent-soft);color:var(--accent);border:none;
@@ -168,15 +176,25 @@
   <aside class="side" id="side"></aside>
   <main class="feed">
     <h2 class="lead">חדש במוזיקה</h2>
-    <div class="tabs" id="tabs">
-      <button class="tab on" data-sort="new">🆕 חדש</button>
-      <button class="tab" data-sort="pop">🔥 פופולרי</button>
+    <div class="tabs" id="typeTabs">
+      <button class="tab on" data-type="all">הכל</button>
+      <button class="tab" data-type="audio">🎵 שמע</button>
+      <button class="tab" data-type="clip">🎬 קליפים</button>
+      <button class="tab" data-type="news">📰 חדשות</button>
+    </div>
+    <div class="chips" id="srcChips"></div>
+    <div class="tabs sortrow" id="tabs">
+      <span class="sortlbl">מיון:</span>
+      <button class="tab sm on" data-sort="new">🆕 חדש</button>
+      <button class="tab sm" data-sort="pop">🔥 פופולרי</button>
     </div>
     <div id="feed"><div class="loading">טוען עדכונים…</div></div>
   </main>
 </div>
 
 <footer>
+  <div class="srctitle">מרכזים עבורכם את כל אתרי המוזיקה החרדית במקום אחד. מקורות המידע:</div>
+  <div class="srclist" id="srcList"></div>
   <div class="disc">כל התכנים מקושרים למקורות המקוריים. ההאזנה וההורדה מתבצעות באתר המקור בהתאם לתנאיו וזכויות היוצרים שלו.</div>
   © <span id="yr"></span> מוזיק · <span id="updatedLine"></span>
 </footer>
@@ -194,7 +212,7 @@
 const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REFRESH_MS=90000;
 const AD_CONTACT="050-0000000";      // ← מספר ליצירת קשר לפרסום
 const DEFAULT_SUBS="9,400";
-let brandName="מוזיק", currentIds=new Set(), allItems=[], query="", promos={items:[]}, sortBy="new";
+let brandName="מוזיק", currentIds=new Set(), allItems=[], query="", promos={items:[]}, sortBy="new", typeFilter="all", srcFilter="all";
 const liked=new Set(JSON.parse(localStorage.getItem("mz_likes")||"[]"));
 const playlist=new Set(JSON.parse(localStorage.getItem("mz_pl")||"[]"));
 function savePlaylist(){localStorage.setItem("mz_pl",JSON.stringify([...playlist]));updatePlCount();}
@@ -268,6 +286,8 @@ function sideHTML(){
 
 function render(isRefresh){
   let items=allItems;
+  if(typeFilter!=="all") items=items.filter(i=>(i.type||"news")===typeFilter);
+  if(srcFilter!=="all") items=items.filter(i=>i.source===srcFilter);
   if(query){const q=query.trim();items=items.filter(i=>((i.title||"")+" "+(i.text||"")).includes(q));}
   if(sortBy==="pop") items=[...items].sort((a,b)=>(seed(b.id,"l",8,180))-(seed(a.id,"l",8,180)));
   const inline=(promos.items||[]).filter(p=>p.enabled!==false&&!p.pin);
@@ -296,12 +316,25 @@ async function load(isRefresh){
       document.getElementById("brandSub").innerHTML=(news.brand.tagline||"")+" · <b>"+subs+"</b> עוקבים";
     }
     allItems=news.items||[];
+    buildSources(news);
     render(isRefresh);
     if(news.updated) updEl.textContent="עודכן "+relTime(news.updated);
   }catch(e){ if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון כרגע. נסו לרענן.</div>'; }
 }
 
 function itemById(id){return allItems.find(i=>i.id===id);}
+
+function buildSources(news){
+  const srcs=(news.sources&&news.sources.length)?news.sources
+    :[...new Set(allItems.map(i=>i.source).filter(Boolean))].map(n=>({name:n,site:""}));
+  const chips=document.getElementById("srcChips");
+  chips.innerHTML='<button class="tab'+(srcFilter==="all"?" on":"")+'" data-src="all">כל המקורות</button>'+
+    srcs.map(s=>`<button class="tab${srcFilter===s.name?" on":""}" data-src="${esc(s.name)}">${esc(s.name)}</button>`).join("");
+  const list=document.getElementById("srcList");
+  list.innerHTML=srcs.map(s=>s.site?`<a href="${esc(s.site)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a>`
+    :`<a>${esc(s.name)}</a>`).join("");
+}
+function setActive(sel,btn){document.querySelectorAll(sel+" .tab").forEach(t=>t.classList.toggle("on",t===btn));}
 
 function renderPlaylist(){
   const ids=[...playlist];
@@ -347,7 +380,12 @@ document.addEventListener("click",e=>{
   const rm=e.target.closest("[data-rm]");
   if(rm){playlist.delete(rm.dataset.rm);savePlaylist();renderPlaylist();render(true);return;}
   const tab=e.target.closest(".tab");
-  if(tab){sortBy=tab.dataset.sort;document.querySelectorAll(".tab").forEach(t=>t.classList.toggle("on",t===tab));render(false);return;}
+  if(tab){
+    if(tab.dataset.sort){sortBy=tab.dataset.sort;setActive("#tabs",tab);}
+    else if(tab.dataset.type){typeFilter=tab.dataset.type;setActive("#typeTabs",tab);}
+    else if(tab.dataset.src!==undefined){srcFilter=tab.dataset.src;setActive("#srcChips",tab);}
+    render(false);return;
+  }
 });
 document.getElementById("plBtn").addEventListener("click",openSheet);
 document.getElementById("sheetClose").addEventListener("click",closeSheet);

@@ -402,6 +402,8 @@ def main():
     out = {
         "updated": datetime.now(timezone.utc).isoformat(),
         "brand": CFG["brand"],
+        "sources": [{"name": s["name"], "site": s.get("site", "")}
+                    for s in CFG["sources"] if s.get("enabled", True)],
         "count": len(items),
         "items": items,
     }

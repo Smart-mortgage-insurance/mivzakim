@@ -1,14 +1,14 @@
 {
   "brand": {
     "name": "מוזיק",
-    "tagline": "עדכוני המוזיקה החרדית — סינגלים, קליפים וחדשות",
+    "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
     "subscribers": "9,400",
     "site_url": ""
   },
   "sources": [
-    { "name": "חדשות המוזיקה", "feed": "https://newsmusic.blogspot.com/feeds/posts/default?alt=rss", "enabled": true },
-    { "name": "המנגן",         "feed": "https://hamenagen.net/feed/",                                   "enabled": true },
-    { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "enabled": true }
+    { "name": "חדשות המוזיקה", "feed": "https://newsmusic.blogspot.com/feeds/posts/default?alt=rss", "site": "https://newsmusic.blogspot.com", "enabled": true },
+    { "name": "המנגן",         "feed": "https://hamenagen.net/feed/",                                   "site": "https://hamenagen.net",         "enabled": true },
+    { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "site": "https://music.tora1.com",       "enabled": true }
   ],
   "limits": {
     "max_items": 120,
