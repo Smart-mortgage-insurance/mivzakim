@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T13:24:34.759129+00:00",
+ "updated": "2026-08-26T13:25:53.841033+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,21 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 83,
+ "count": 84,
  "items": [
+  {
+   "id": "s82dc82df7a032c",
+   "title": "בצלאל שמיר בסינגל עמוק | הנשמה מרגישה | האזינו",
+   "text": "מזמור לתודה הריעו לה׳ כל הארץ – – תודה לבורא עולם על הכל –",
+   "image": "data/media/6fc53a38dcd9afe0.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1ee-1f1f1.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%91%d7%a6%d7%9c%d7%90%d7%9c-%d7%a9%d7%9e%d7%99%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a2%d7%9e%d7%95%d7%a7-%d7%94%d7%a0%d7%a9%d7%9e%d7%94-%d7%9e%d7%a8%d7%92%d7%99%d7%a9%d7%94-%d7%94/",
+   "download": null,
+   "ts": "2026-08-26T13:24:51+00:00"
+  },
   {
    "id": "s46589238794f6e",
    "title": "פיני איינהורן בסינגל נוגע עם מסר מהדהד | מתגעגע | צפו בקליפ מיליפ",
