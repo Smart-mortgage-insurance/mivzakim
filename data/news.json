@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T12:02:56.434540+00:00",
+ "updated": "2026-08-26T12:04:17.964612+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,21 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 81,
+ "count": 82,
  "items": [
+  {
+   "id": "s6a55c024a4089a",
+   "title": "ישראל מאיר צ'מי & בן ציון זיו - עננו",
+   "text": "תפילה מהנשמה: צמד היוצרים ישראל מאיר צ'מי ובן ציון זיו בסינגל חדש לימי הרחמים - \"עננו\"לקראת הימים הנוראים, היוצרים ישראל מאיר צ'מי (מארגנטינה) ובן ציון זיו משתפים פעולה בסינגל חדש בשם - \"עננו\".בשונה מהטרנדים החדשים, השיר חושף ביצוע נקי ופשוט: תפילה זכה, כנה וישירה של בן אל אביו שבשמיים. המילים המוכרות מתוך תפילת…",
+   "image": "data/media/9cc555605663fe40.png",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Tr29f39w1Rzh4GnU4o_2-iecxWnRsTEZHuujjVJ6ve70kTDkWE_MC6SA3shavDUgFESb89AeKIpeHfzUt6yT-3Ptbh2O5Zt0z7p-SGKlSqHTaBFQKeO0bO7dYsSneWX2wM_y1xsU9pseAp0Z2RfkUGe8E30hob-28cwYvzNXmB4slK9MrYDSzm9sZx2e/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20%D7%A2%D7%A0%D7%A0%D7%95.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_26.html",
+   "download": null,
+   "ts": "2026-08-26T12:03:55+00:00"
+  },
   {
    "id": "s17a7fee4e1cfcd",
    "title": "למענך | שלמה כהן והמלחין חיים אלטמן בדואט מרגש | האזינו",
