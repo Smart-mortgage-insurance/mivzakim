@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T20:47:23.684674+00:00",
+ "updated": "2026-08-26T23:52:05.400445+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,34 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 91,
+ "count": 93,
  "items": [
+  {
+   "id": "s0c69304b5f2064",
+   "title": "מנדי פורטנוי בביצוע קלידים מרהיב לשירו של ישי ריבו | אתה זוכר | האזינו",
+   "text": "Imagine if we could follow a Kosel dove around the world as it witnesses the beauty and majesty of Klal Yisroel during these holy days… Mendy Portnoy — ELUL (A Live Piano Album) Six years after Introspection, Mendy Portnoy returns to the piano with ELUL, a collection of unscripted, spontaneous interpretations of High…",
+   "image": "data/media/7ddf7808414b8cd8.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/3MmjFpwhMlA-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%a0%d7%93%d7%99-%d7%a4%d7%95%d7%a8%d7%98%d7%a0%d7%95%d7%99-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%a7%d7%9c%d7%99%d7%93%d7%99%d7%9d-%d7%9e%d7%a8%d7%94%d7%99%d7%91-%d7%9c%d7%a9%d7%99%d7%a8/",
+   "download": null,
+   "ts": "2026-08-26T23:34:33+00:00"
+  },
+  {
+   "id": "s4bf818a40aca33",
+   "title": "Live 360: משה דוד וייסמאנדל מארח את יידל | תנו שבח | צפו",
+   "text": "משה דוד וייסמאנדל חותם את סדרת הלייבים ממופע הענק בבנייני האומה עם קליפ נוסף לשיר השבת \"תנו שבח\" מתוך אלבומו, בו הוא מארח את יידל ורדיגר לביצוע מרגש וסוחף יחד עם אלפי בני ישיבות. ובניצוחו של יואלי דיקמן. \"תנו שבח\" הוא האחרון בסדרת Live360, כשבקרוב צפוי וייסמאנדל לשחרר שורת חומרים חדשים, לקראת אלבומו השני הקרב ובא.…",
+   "image": "data/media/848222770c657250.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/live-360-%d7%9e%d7%a9%d7%94-%d7%93%d7%95%d7%93-%d7%95%d7%99%d7%99%d7%a1%d7%9e%d7%90%d7%a0%d7%93%d7%9c-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%99%d7%99%d7%93%d7%9c-%d7%aa%d7%a0%d7%95-%d7%a9%d7%91/",
+   "download": null,
+   "ts": "2026-08-26T21:14:55+00:00"
+  },
   {
    "id": "sed78697ae2ddcf",
    "title": "שלמה כהן & חיים אלטמן - למענך",
