@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-26T18:48:33.708362+00:00",
+ "updated": "2026-08-26T20:22:46.824182+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,47 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 88,
+ "count": 91,
  "items": [
+  {
+   "id": "sed78697ae2ddcf",
+   "title": "שלמה כהן & חיים אלטמן - למענך",
+   "text": "תפילה מעומק הלב: שלמה כהן וחיים אלטמן בדואט אלולי חדש - \"למענך\"בעיצומה של תקופת הרחמים והסליחות ולקראת ימי הדין, מגיעה יצירה אלולית שמכוונת היישר ללב המתפללים. המלחין חיים אלטמן חובר לאמן הרגש שלמה כהן לביצוע דואט עוצמתי ומרגש בשם \"למענך\", המבוסס על המילים המוכרות והמטלטלות מתוך תפילת 'אבינו מלכנו'.אלטמן, המוכר בזירה…",
+   "image": "data/media/d293655910c660cb.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPXdRtOndlj6GgFs3xdZL5YekqWaPV3EK6D6EPWVVWju4D7GE_Mm7U2vfwPahQQXj1DBE85I09DLOggFvTT1rsVzRJzq4NhW9VenUk-keVfFAngfgzS3R3AaRWloAw1ncBKsnLzhAcPYZHxGI2lldQbvPA431ye3mVyvwRjBJAqDid2yrM2hD5xRWGI6sl/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%9C%D7%9E%D7%A2%D7%A0%D7%9A.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_653.html",
+   "download": "https://archive.org/download/hadshotmusic_20260826_1942/%D7%A9%D7%9C%D7%9E%D7%94%20%D7%9B%D7%94%D7%9F%20%26%20%D7%97%D7%99%D7%99%D7%9D%20%D7%90%D7%9C%D7%98%D7%9E%D7%9F%20-%20%D7%9C%D7%9E%D7%A2%D7%A0%D7%9A.mp3",
+   "ts": "2026-08-26T19:46:31+00:00"
+  },
+  {
+   "id": "s9b4d64cc360038",
+   "title": "יששכר דרור - תפילת הבנים",
+   "text": "הלחן שלכד את הלב בחופה: יששכר דרור מגיש את \"תפילת הבנים\"הזמר יששכר דרור חוזר עם סינגל נשמה חדש ונוגע ללב בשם \"תפילת הבנים\", בלחנו של יעקב כהן. השיר נושא תפילה זכה להצלחת הבנים ולגידולם בדרך התורה ועבודת ה', ומביא עמו מעטפת מוזיקלית עמוקה ומלאת רגש.הדרך של דרור אל השיר החלה באירוע חופה שבו הופיע. במהלך הערב עלו שני…",
+   "image": "data/media/03fc3523201985f0.png",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyydHwtxT2wnxPHP2myfpnV1vr2z3HLjDiNnN3letZGROOwMT0QdtEEqP2bM0Uylnu6LC-4gJ3rYPUalFazLDBD45v3tQsMDyD1w0Jsrx8WeuCjWE4nBtgT_SBkn3ojCI2fRResYyiNbsH1qFK8sXdTkjNBvDJArNde1eM0k2ZrlyofAJO8WUvTJC5DfwC/s72-w320-h320-c/Yissachar%20Dror%20-%20Tefilat%20Habanim.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_486.html",
+   "download": "https://archive.org/download/hadshotmusic_20260826_1931/%D7%99%D7%A9%D7%A9%D7%9B%D7%A8%20%D7%93%D7%A8%D7%95%D7%A8%20-%20%D7%AA%D7%A4%D7%99%D7%9C%D7%AA%20%D7%94%D7%91%D7%A0%D7%99%D7%9D.mp3",
+   "ts": "2026-08-26T19:35:05+00:00"
+  },
+  {
+   "id": "s9dcda2937d3a89",
+   "title": "עקיבא גרומן & שייע גרוס - וואלעכ'ל",
+   "text": "פנינה מוזיקלית מבית ויז'ניץ: עקיבא גרומן ושייע גרוס מחיים את \"וואלעכ'ל\"שיתוף פעולה מוזיקלי מסקרן מביא לקדמת הבמה ניגון חסידי עתיק מעולם הנגינה של חסידות ויז'ניץ. האמנים עקיבא גרומן ושייע גרוס איחדו כוחות כדי לחדש את \"וואלעכ'ל\" - לחן היסטורי שזוכה כעת לעיבוד עכשווי ומשוקע בניהולם המוזיקלי של המעבד מוישי יאקאב והמפיק…",
+   "image": "data/media/326db41c315c9a7a.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfV9Av8Yv90lQjNHTRAyauW8wjVMiV9-biuK_AKAPUB9Op5Gxyl0OT-T2_X2DHBYHYaGxJRU0YCPxZhMYJf7mZlF-hOfTqrb_bcQJJmdOzMTzJiX4Ei0ltz9cnAtKVZVr46yZIXuBCjtwp5NYvvOTjLhMzfUvJ8hQi1GS52xyHBSociBR7eHe-suPXom9h/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%95%D7%95%D7%90%D7%9C%D7%A2%D7%9B%D7%9C.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_571.html",
+   "download": "https://archive.org/download/hadshotmusic_20260826_1906/%D7%A2%D7%A7%D7%99%D7%91%D7%90%20%D7%92%D7%A8%D7%95%D7%9E%D7%9F%20%26%20%D7%A9%D7%99%D7%99%D7%A2%20%D7%92%D7%A8%D7%95%D7%A1%20-%20%D7%95%D7%95%D7%90%D7%9C%D7%A2%D7%9B%27%D7%9C.mp3",
+   "ts": "2026-08-26T19:13:53+00:00"
+  },
   {
    "id": "sb323e8ae723bd8",
    "title": "הרב יגאל כהן | אלול 2026 | רק ככה לא תיפול לעולם!",
