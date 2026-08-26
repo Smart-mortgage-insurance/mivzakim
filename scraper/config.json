@@ -11,16 +11,16 @@
     { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "site": "https://music.tora1.com",       "enabled": true },
     { "name": "חסידיטיוב",      "feed": "https://chasiditube.com/category/%D7%A7%D7%9C%D7%99%D7%A4%D7%99%D7%9D/feed/", "site": "https://chasiditube.com", "enabled": true },
 
-    { "name": "מוטי שטיינמץ",   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCjh-noHUsafx_CSiieHNXFg", "site": "https://www.youtube.com/channel/UCjh-noHUsafx_CSiieHNXFg", "download": false, "enabled": true },
-    { "name": "ישי ריבו",       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHwxQ7twj_VWIPMcJ3Zdyqg", "site": "https://www.youtube.com/channel/UCHwxQ7twj_VWIPMcJ3Zdyqg", "download": false, "enabled": true },
-    { "name": "אברהם פריד",     "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYCWdJniUxe41JbVwO0_SLA", "site": "https://www.youtube.com/channel/UCYCWdJniUxe41JbVwO0_SLA", "download": false, "enabled": true },
-    { "name": "מרדכי בן דוד",   "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_vOeqbvaSt_P5haPc03oNQ", "site": "https://www.youtube.com/channel/UC_vOeqbvaSt_P5haPc03oNQ", "download": false, "enabled": true },
-    { "name": "יעקב שוואקי",    "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-iTQfrv8pVLjlErZquyJ6Q", "site": "https://www.youtube.com/channel/UC-iTQfrv8pVLjlErZquyJ6Q", "download": false, "enabled": true },
-    { "name": "בני פרידמן",     "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCefarW8iWzuNO7NedV-om-w", "site": "https://www.youtube.com/channel/UCefarW8iWzuNO7NedV-om-w", "download": false, "enabled": true },
-    { "name": "שמחה פרידמן",    "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2tXgvgIGFZosvnvpKfi3hw", "site": "https://www.youtube.com/channel/UC2tXgvgIGFZosvnvpKfi3hw", "download": false, "enabled": true },
-    { "name": "חב״ד מיוזיק",    "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvfrlazHkFyA0b9q2hhV80Q", "site": "https://www.youtube.com/channel/UCvfrlazHkFyA0b9q2hhV80Q", "download": false, "enabled": true },
-    { "name": "מוזיקה חסידית",  "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCibmOBviB6-KvKkCvAjADgg", "site": "https://www.youtube.com/channel/UCibmOBviB6-KvKkCvAjADgg", "download": false, "enabled": true },
-    { "name": "סרטוני המוזיקה החסידית", "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBIl0Zbhekk45PGZHEVsEhA", "site": "https://www.youtube.com/channel/UCBIl0Zbhekk45PGZHEVsEhA", "download": false, "enabled": true }
+    { "name": "מוטי שטיינמץ",   "netube": "UCjh-noHUsafx_CSiieHNXFg", "site": "https://netube.co.il/channel?id=UCjh-noHUsafx_CSiieHNXFg", "download": false, "enabled": true },
+    { "name": "ישי ריבו",       "netube": "UCHwxQ7twj_VWIPMcJ3Zdyqg", "site": "https://netube.co.il/channel?id=UCHwxQ7twj_VWIPMcJ3Zdyqg", "download": false, "enabled": true },
+    { "name": "אברהם פריד",     "netube": "UCYCWdJniUxe41JbVwO0_SLA", "site": "https://netube.co.il/channel?id=UCYCWdJniUxe41JbVwO0_SLA", "download": false, "enabled": true },
+    { "name": "מרדכי בן דוד",   "netube": "UC_vOeqbvaSt_P5haPc03oNQ", "site": "https://netube.co.il/channel?id=UC_vOeqbvaSt_P5haPc03oNQ", "download": false, "enabled": true },
+    { "name": "יעקב שוואקי",    "netube": "UC-iTQfrv8pVLjlErZquyJ6Q", "site": "https://netube.co.il/channel?id=UC-iTQfrv8pVLjlErZquyJ6Q", "download": false, "enabled": true },
+    { "name": "בני פרידמן",     "netube": "UCefarW8iWzuNO7NedV-om-w", "site": "https://netube.co.il/channel?id=UCefarW8iWzuNO7NedV-om-w", "download": false, "enabled": true },
+    { "name": "שמחה פרידמן",    "netube": "UC2tXgvgIGFZosvnvpKfi3hw", "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw", "download": false, "enabled": true },
+    { "name": "חב״ד מיוזיק",    "netube": "UCvfrlazHkFyA0b9q2hhV80Q", "site": "https://netube.co.il/channel?id=UCvfrlazHkFyA0b9q2hhV80Q", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" },
+    { "name": "מוזיקה חסידית",  "netube": "UCibmOBviB6-KvKkCvAjADgg", "site": "https://netube.co.il/channel?id=UCibmOBviB6-KvKkCvAjADgg", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" },
+    { "name": "סרטוני המוזיקה החסידית", "netube": "UCBIl0Zbhekk45PGZHEVsEhA", "site": "https://netube.co.il/channel?id=UCBIl0Zbhekk45PGZHEVsEhA", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" }
   ],
   "limits": {
     "max_items": 150,

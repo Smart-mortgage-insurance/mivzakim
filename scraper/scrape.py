@@ -218,6 +218,85 @@ def youtube_id(entry, link):
 
 
 # --------------------------------------------------------------------------- #
+# NeTube — NetFree-approved YouTube mirror
+# --------------------------------------------------------------------------- #
+# YouTube players are blocked on NetFree (kosher filter), so embedding/linking
+# youtube.com never plays for our audience. NeTube (netube.co.il) mirrors the
+# same clips and IS approved on NetFree. Its channel pages are server-rendered
+# and accept the real YouTube channel id (they redirect to NeTube's own id), so
+# we scrape each artist's channel and link to the NeTube watch page — which plays.
+NETUBE = "https://netube.co.il"
+_NT_CARD_RE = re.compile(r'<div class="v2-card">.*?(?=<div class="v2-card">|<div class="v2-pagination|<footer|$)', re.S)
+_NT_LINK_RE = re.compile(r'href="/video/([A-Za-z0-9_-]+)"[^>]*aria-label="([^"]*)"')
+_NT_IMG_RE = re.compile(r'<img[^>]+src="([^"]+)"')
+_NT_YT_RE = re.compile(r'/vi/([A-Za-z0-9_-]{11})/')
+_NT_META_RE = re.compile(r'<div class="v2-meta[^"]*">(.*?)</div>', re.S)
+_NT_DATE_RE = re.compile(r'(\d{2}/\d{2}/\d{4})')
+_NT_REL_RE = re.compile(r'לפני\s+(\d+)\s*(דקה|דקות|שעה|שעות|יום|ימים|שבוע|שבועות|חודש|חודשים|שנה|שנים)')
+_NT_UNIT_SECS = {"דקה": 60, "דקות": 60, "שעה": 3600, "שעות": 3600,
+                 "יום": 86400, "ימים": 86400, "שבוע": 604800, "שבועות": 604800,
+                 "חודש": 2592000, "חודשים": 2592000, "שנה": 31536000, "שנים": 31536000}
+
+
+def netube_date(text):
+    """Parse a NeTube meta date ('dd/mm/yyyy' or Hebrew relative) -> ISO utc."""
+    if not text:
+        return None
+    if "היום" in text:
+        return datetime.now(timezone.utc).isoformat()
+    if "אתמול" in text:
+        return datetime.fromtimestamp(time.time() - 86400, timezone.utc).isoformat()
+    m = _NT_REL_RE.search(text)
+    if m:
+        secs = int(m.group(1)) * _NT_UNIT_SECS.get(m.group(2), 86400)
+        return datetime.fromtimestamp(time.time() - secs, timezone.utc).isoformat()
+    m = _NT_DATE_RE.search(text)
+    if m:
+        try:
+            d, mo, y = (int(x) for x in m.group(1).split("/"))
+            return datetime(y, mo, d, tzinfo=timezone.utc).isoformat()
+        except ValueError:
+            return None
+    return None
+
+
+def netube_channel(channel_id, limit):
+    """Return recent videos for a YouTube channel id, via its NeTube page.
+
+    Each dict: token, title, thumb (YouTube thumbnail url, re-hosted later),
+    video_id (original YouTube id), ts. The watch link (NeTube) plays on NetFree.
+    """
+    # resolve the UC id -> NeTube channel, then request newest-first
+    r = SESSION.get("{}/channel?id={}".format(NETUBE, channel_id), timeout=30, allow_redirects=True)
+    if r.status_code != 200:
+        return []
+    url = r.url + ("&" if "?" in r.url else "?") + "sort=youtube_date"
+    r = SESSION.get(url, timeout=30)
+    if r.status_code != 200:
+        return []
+    out = []
+    for card in _NT_CARD_RE.findall(r.text):
+        lm = _NT_LINK_RE.search(card)
+        if not lm:
+            continue
+        token, title = lm.group(1), unescape(lm.group(2)).strip()
+        im = _NT_IMG_RE.search(card)
+        thumb = im.group(1) if im else ""
+        ytm = _NT_YT_RE.search(thumb)
+        meta = _NT_META_RE.search(card)
+        out.append({
+            "token": token,
+            "title": title,
+            "thumb": thumb,
+            "video_id": ytm.group(1) if ytm else None,
+            "ts": netube_date(meta.group(1) if meta else ""),
+        })
+        if len(out) >= limit:
+            break
+    return out
+
+
+# --------------------------------------------------------------------------- #
 # Media download + Gemini modesty filter
 # --------------------------------------------------------------------------- #
 EXT_BY_MIME = {
@@ -361,6 +440,14 @@ def main():
 
     news = load_news()
     existing = {it["id"]: it for it in news.get("items", [])}
+    # migration: drop legacy items that linked to youtube.com (blocked on NetFree).
+    # These are replaced by NeTube items that actually play for our audience.
+    dropped = [k for k, it in existing.items()
+               if "youtube.com" in (it.get("link") or "") or "youtu.be" in (it.get("link") or "")]
+    for k in dropped:
+        del existing[k]
+    if dropped:
+        log("migration: dropped {} legacy youtube-link items".format(len(dropped)))
     tcfg = CFG["text"]
     new_count = 0
 
@@ -375,8 +462,42 @@ def main():
     for src in CFG["sources"]:
         if not src.get("enabled", True):
             continue
-        name, feed = src["name"], src["feed"]
+        name = src["name"]
         log("-> {}".format(name))
+
+        # --- NeTube channel source (plays on NetFree) --------------------- #
+        if src.get("netube"):
+            try:
+                vids = netube_channel(src["netube"], CFG["limits"]["max_per_source"])
+            except Exception as exc:
+                log("   ! netube error:", exc)
+                continue
+            log("   {} videos".format(len(vids)))
+            for v in vids:
+                if len(v["title"]) < tcfg.get("min_title", 4):
+                    continue
+                hid = "n" + hashlib.sha1(v["token"].encode()).hexdigest()[:14]
+                if hid in existing:
+                    continue
+                local_img = process_image(hid, v["thumb"]) if v["thumb"] else ""
+                existing[hid] = {
+                    "id": hid,
+                    "title": v["title"],
+                    "text": "",
+                    "image": local_img,
+                    "image_src": v["thumb"],
+                    "type": "clip",
+                    "video_id": v["video_id"],
+                    "source": name,
+                    "link": "{}/video/{}".format(NETUBE, v["token"]),
+                    "download": None,
+                    "ts": v["ts"],
+                }
+                new_count += 1
+            time.sleep(1)
+            continue
+
+        feed = src["feed"]
         try:
             parsed = parse_feed(feed)
         except Exception as exc:
