@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-27T17:30:40.854307+00:00",
+ "updated": "2026-08-28T01:29:11.872980+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,86 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 111,
+ "count": 117,
  "items": [
+  {
+   "id": "s0bc10847315567",
+   "title": "בצלאל שמיר - הנשמה מרגישה",
+   "text": "בצלאל שמיר בסינגל מחזק חדש לימי הסליחות: \"הנשמה מרגישה\"הזמר והיוצר בצלאל שמיר, מהשמות הבולטים והמסקרנים במוזיקה המזרחית-דתית, ממשיך לתפוס תאוצה בשטח ולבסס את מעמדו כאחד האומנים המבוקשים בתעשייה. לאחר ששרשרת שירים מקוריים, מחרוזות מקפיצות וקאברים מצליחים צברו השמעות רבות ברשת וזכו לביקוש רב מהקהל, שמיר מוציא כעת סינגל…",
+   "image": "data/media/b372acb28012c1b2.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKDEAo0hiO-LRlOCWSwqaJS9DuD_CEKk4yvsdtN8FNYoGGszsMc5K7hB_Hywq18Kg2NbCf05Lw6N_ILOs1R8ng8Ze_bVDDrYUlIEURu_24immKsr2gPhxYYYTtyVQVlaCcvpjTPd6a8BTU86IRu_N6b_gjZsx2_XQ_-xnCy-W1tdbAKT86dVF-NFod8yDD/s72-w320-h320-c/%D7%91%D7%A6%D7%9C%D7%90%D7%9C%20%D7%A9%D7%9E%D7%99%D7%A8%20-%20%D7%94%D7%A0%D7%A9%D7%9E%D7%94%20%D7%9E%D7%A8%D7%92%D7%99%D7%A9%D7%94%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2.JPEG",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_366.html",
+   "download": "https://archive.org/download/hadshotmusic_20260828/%D7%91%D7%A6%D7%9C%D7%90%D7%9C%20%D7%A9%D7%9E%D7%99%D7%A8%20-%20%D7%94%D7%A0%D7%A9%D7%9E%D7%94%20%D7%9E%D7%A8%D7%92%D7%99%D7%A9%D7%94.mp3",
+   "ts": "2026-08-28T00:46:03+00:00"
+  },
+  {
+   "id": "s58bc5098bd7f12",
+   "title": "חיים גולד - מנגינה חדשה",
+   "text": "הזמר והיוצר חיים גולד משיק מיני-אלבום חדש: 'ניגון של שתיקה'האמן חיים גולד משחרר את 'ניגון של שתיקה', אלבום EP אישי וחדש שזז בין רגעים של שמחה פשוטה לבין שקט והתבוננות. האלבום מביא איתו שילוב של טקסטים מהמקורות, לחנים מקוריים ועיבודים אקוסטיים חמים.גולד, יוצר ירושלמי שמביא סגנון ייחודי למוזיקה היהודית, משלב בעבודה שלו…",
+   "image": "data/media/a07ab3590ed2697f.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6YvQCV_AxykE-cd8N7zXO0kxae8_dHLE4XaXFmofY7h_ig0rDwEaofCwX5GmVWRU24WeU_iSQOSh1CmmV0PjL9RNjJ-uXBuGi8znK9R5Y7DLAUhIB5tvNEfy4YcfgKcKCNf09VrJtdcnRtWUaMIqL4wVmZZvgv_YMK3w4LuA7yIYl6-AazL12wU6VEYGK/s72-w320-h180-c/%D7%A2%D7%98%D7%99%D7%A4%D7%94%20(4).jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_918.html",
+   "download": "https://archive.org/download/hadshotmusic_20260827_2359/%D7%97%D7%99%D7%99%D7%9D%20%D7%92%D7%95%D7%9C%D7%93%20-%20%D7%9E%D7%A0%D7%92%D7%99%D7%A0%D7%94%20%D7%97%D7%93%D7%A9%D7%94.mp3",
+   "ts": "2026-08-28T00:11:23+00:00"
+  },
+  {
+   "id": "se8f241653fed61",
+   "title": "מאיר אדלר - התעוררות עלאה (מחרוזת ניגוני ערגה וכיסופין לימי הרחמים)",
+   "text": "פותחים את הלב לימי הסליחות: ר' מאיר אדלר במחרוזת כיסופים מרוממת - \"הִתְעוֹרְרוּת עִלָּאָה\"לקראת חודש אלול וימי הרחמים והסליחות, מגיש בעל המנגן ר' מאיר אדלר פרויקט מוזיקלי מיוחד בשם \"התעוררות עילאה\". היצירה החדשה מהווה את חלקו השני של המיזם, בהמשך ישיר להצלחת הפרויקט הקודם \"השתפכות עילאה\" (ניגונים לסעודת לפורים) שיצא…",
+   "image": "data/media/bb4a26bc39896ba0.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqkn10qilLkfsL3vfo_Qsh8Uv857SS7KAbxkCkQVyN0fEp17R1bW8wRblhFBVWOhonGyJEz4m2h5MA5xs17uPiRo9l1iMnJ73_m8sPdH0qARnW66IAd1eSZoYlIB3fINZbVFqFlp9wyjAXtQxQP6Mnm4ylktvx4FVmH82xz6piYoBThQZQ12YnG1djNpu/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%94%D7%AA%D7%A2%D7%95%D7%A8%D7%A8%D7%95%D7%AA.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_648.html",
+   "download": "https://archive.org/download/hadshotmusic_20260827_2309/%D7%9E%D7%90%D7%99%D7%A8%20%D7%90%D7%93%D7%9C%D7%A8%20-%20%D7%94%D6%B4%D7%AA%D6%B0%D7%A2%D7%95%D6%B9%D7%A8%D6%B0%D7%A8%D7%95%D6%BC%D7%AA%20%D7%A2%D6%B4%D7%9C%D6%BC%D6%B8%D7%90%D6%B8%D7%94.mp3",
+   "ts": "2026-08-27T23:22:16+00:00"
+  },
+  {
+   "id": "sf3dc6ee68e089a",
+   "title": "יהודה גלילי - אינך דומה",
+   "text": "התפילה של אלול: המעבד יהודה גלילי עובר לראשונה לקדמת הבמה בסינגל בכורה מרגש - \"אינך דומה\"לאחר שנים של הלחנה, נגינה והפקה עבור השמות הגדולים במוזיקה היהודית, המוזיקאי והמעבד יהודה גלילי צועד לראשונה אל עמדת המבצע. לקראת ימי הרחמים והסליחות, הוא משחרר לחן אישי על מילותיו הנוקבות של רש\"י בפרשת ואתחנן.שמו של יהודה גלילי…",
+   "image": "data/media/a2ff15d1d689ec34.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCTmjFN5ECxnRi71lnZhuK10BzkEPjex0JKnAgxY398T5a26-aDLSXa6zgbW4G0x2oHNgFAc8EPjZu_wEernpW0233CCxb5wRO9U3WzW3GCbhyU3c4eNg1E6JbEtR4lyMOEWl1zd0nQWxcy-eBYTeFzJrU9Dfs3r40He3VfxTiM4O2HkqJYZTgIrmel0Dm/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%99%D7%A0%D7%9A%20%D7%93%D7%95%D7%9E%D7%94.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_906.html",
+   "download": "https://archive.org/download/hadshotmusic_20260827_2230/%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%92%D7%9C%D7%99%D7%9C%D7%99%20-%20%D7%90%D7%99%D7%A0%D7%9A%20%D7%93%D7%95%D7%9E%D7%94.mp3",
+   "ts": "2026-08-27T22:32:41+00:00"
+  },
+  {
+   "id": "sdff05cbde170a9",
+   "title": "שיתוף פעולה היסטורי לימי הרחמים והסליחות: דובי מייזלס ובנצי שטיין בדואט ראשון ליצירה המופלאה \"הבן יקיר\" בליווי קליפ מרהיב עם מקהלת 'נשמה' | צפו",
+   "text": "לקראת הימים הנוראים, כשהבעל תפילה יגיד את המילים הקדושות \"הבן יקיר לי אפרים\", זה יקבל משמעות חדשה עם ביצוע מחודש ליצירה המופלאה, פרי לחנו של המלחין הנודע ואיש החסד רבי יואל ישראל זופניק שליט\"א. השיר, שנחשף לראשונה באלבום המופתי \"תנועות\" בביצועו המרעיד של גדול הזמר מרדכי בן דוד, זוכה כעת לעדנה מחודשת. לביצוע הנוכחי…",
+   "image": "data/media/066789362bd74bd2.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/9BM009dzY-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%99%d7%aa%d7%95%d7%a3-%d7%a4%d7%a2%d7%95%d7%9c%d7%94-%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99-%d7%9c%d7%99%d7%9e%d7%99-%d7%94%d7%a8%d7%97%d7%9e%d7%99%d7%9d-%d7%95%d7%94%d7%a1%d7%9c%d7%99/",
+   "download": null,
+   "ts": "2026-08-27T22:09:21+00:00"
+  },
+  {
+   "id": "s09bea5fdbda12e",
+   "title": "חברותא [דייויד טויב & מוישל׳ה שניידר] - שוב חודש אלול",
+   "text": "במקום שבעלי תשובה עומדים: צמד \"חברותא\" בסינגל-קליפ חדש - \"שוב חודש אלול\"עם כניסתם של ימי הרחמים והסליחות, צמד היוצרים דייויד טויב ומשה (מוישל'ה) שניידר - הפועלים יחד תחת השם \"חברותא\" - משחררים סינגל-קליפ חדש בעל אופי של חשבון נפש גלוי וכואב: \"שוב חודש אלול\".השיר, אותו כתב והלחין טויב, מצליח ללכוד את התחושה המוכרת…",
+   "image": "data/media/c43447f1a3c48aa7.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrYhD8zOig-EvlHm-pj4kNxIH4EIM5UGGTDbcUMzhAJxqz4t-33LSJ5F2MIhyphenhyphenqmGR9sB97IzgCwPSwBAwqaUC9vq2IqO9zOhLDJShg77pWf6sbKe5oG2gi_SLb3ACW2nCYvjTueeNddChYigpk9uIGVVUdnsDjSN7qOrttqH6qi8FUkM0qDoUC5oMfNxF/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_171.html",
+   "download": "https://archive.org/download/hadshotmusic_20260827_2008/%D7%97%D7%91%D7%A8%D7%95%D7%AA%D7%90%20%5B%D7%93%D7%99%D7%99%D7%95%D7%99%D7%93%20%D7%98%D7%95%D7%99%D7%91%20%26%20%D7%9E%D7%95%D7%99%D7%A9%D7%9C%D7%B3%D7%94%20%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8%5D%20-%20%D7%A9%D7%95%D7%91%20%D7%97%D7%95%D7%93%D7%A9%20%D7%90%D7%9C%D7%95%D7%9C.mp3",
+   "ts": "2026-08-27T20:20:27+00:00"
+  },
   {
    "id": "sfb6af1b9bf9c10",
    "title": "חיים גולד באלבום EP חדש ומסקרן: 'ניגון של שתיקה'",
