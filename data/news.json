@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T16:00:33.964167+00:00",
+ "updated": "2026-08-29T18:51:41.214661+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,73 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 127,
+ "count": 132,
  "items": [
+  {
+   "id": "se594d37873b3c3",
+   "title": "החזן ר' שמואל טולידאנו בסינגל מקורי | סדר מוסר | האזינו",
+   "text": "החזן והמלחין ר' שמואל טולידאנו משיק את \"סדר מוסר\" – סינגל חדש ומרגש, שאת מילותיו שאב מתוך ספר \"מסילת ישרים\", פרק א', ובלחן אישי שכתב בעצמו. השיר עוסק בתכלית האדם ובמבט אל העולם הבא, מתוך דברי המסילת ישרים:\"האדם לא נברא בעבור מצבו בעולם הזה, אלא בעבור מצבו בעולם הבא\". בלחן ובהגשה עוצמתית מבקש ר' שמואל להעניק לדברי…",
+   "image": "data/media/959c4ffb3283aeed.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/xJzpTbPZYP4-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%97%d7%96%d7%9f-%d7%a8-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%98%d7%95%d7%9c%d7%99%d7%93%d7%90%d7%a0%d7%95-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%a7%d7%95%d7%a8%d7%99-%d7%a1%d7%93/",
+   "download": null,
+   "ts": "2026-08-29T18:41:46+00:00"
+  },
+  {
+   "id": "sf6e6e742031011",
+   "title": "סט דתי באווירת הימים הנוראים⚖️ | להיטים ישראליים לחודש אלול ולסליחות | פול ווליום – פול ווליום",
+   "text": "",
+   "image": "data/media/2ce754f42228adb6.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/B28AnPKk54c-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%93%d7%aa%d7%99-%d7%91%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d%e2%9a%96%ef%b8%8f-%d7%9c%d7%94%d7%99%d7%98%d7%99/",
+   "download": null,
+   "ts": "2026-08-29T18:13:14+00:00"
+  },
+  {
+   "id": "s97bc38f5d36c57",
+   "title": "אחרי עשור במגירה: רפאל מלול וקובי ברומר בדואט מרגש \"השקיפה\" | צפו",
+   "text": "רפאל מלול וקובי ברומר חוברים לדואט חדש למילים מתוך פרשת השבוע \"השקיפה\" שיר שהלחין אלי קליין לפני עשור, עבור רפאל מלול. קובי שנחשף ללחן לפני כמה שנים, ביקש מרפאל את הזכות לשיר אותו, ולאחרונה, כשניגש רפאל להפקת השיר, הרעיון לאחד כוחות לדואט משותף נולד מעצמו, בעיבוד והפקה מוזיקלית של אלי קליין ואיצי ברי. ההחלטה לשחרר את…",
+   "image": "data/media/367d894f162d4d23.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/gwIRlJGiqEo-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%97%d7%a8%d7%99-%d7%a2%d7%a9%d7%95%d7%a8-%d7%91%d7%9e%d7%92%d7%99%d7%a8%d7%94-%d7%a8%d7%a4%d7%90%d7%9c-%d7%9e%d7%9c%d7%95%d7%9c-%d7%95%d7%a7%d7%95%d7%91%d7%99-%d7%91%d7%a8%d7%95%d7%9e%d7%a8/",
+   "download": null,
+   "ts": "2026-08-29T18:09:56+00:00"
+  },
+  {
+   "id": "sb4e30c7af0504c",
+   "title": "שלמה שטאובר בסינגל מרומם | בספר חיים | האזינו",
+   "text": "Shlomo Stauber presents his original composition for the timeless words of the Machzor: “Besefer Chaim” — בספר חיים. This melody was composed during a challenging period this past year, as a personal expression of turning to Hashem through prayer, searching for strength, hope, and healing. The words of the Machzor…",
+   "image": "data/media/670eab4114b40df9.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Guke4q_KomA-sddefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9c%d7%9e%d7%94-%d7%a9%d7%98%d7%90%d7%95%d7%91%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%a8%d7%95%d7%9e%d7%9d-%d7%91%d7%a1%d7%a4%d7%a8-%d7%97%d7%99%d7%99%d7%9d-%d7%94%d7%90/",
+   "download": null,
+   "ts": "2026-08-29T17:38:47+00:00"
+  },
+  {
+   "id": "s1a4351f1daf147",
+   "title": "מתקן הנשמות | שמוליק קליין ומנדי סופר בקליפ מסע לאומן | צפו",
+   "text": "פחות משבועיים לראש השנה, ולכינוס הגדול באומן אצל רבי נחמן מברסלב, משחרר שמוליק קליין יחד עם מנדי סופר סינגל קליפ חדש ומרגש \"מתקן הנשמות\" שהולחן ונכתב עי\"י מנדי. העיבוד וההפקה המוזיקלית של אלי קליין ואיצי ברי. לשיר מצורף אף קליפ מרגש עם תיעודים חיים של עמך בית ישראל, במסע לאומן. שמוליק מספר:\" עקב סיבות מורכבות מאוד…",
+   "image": "data/media/30b32baa8eebd291.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/XgkxEly8fKA-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%aa%d7%a7%d7%9f-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%95%d7%9e%d7%a0%d7%93%d7%99-%d7%a1%d7%95%d7%a4%d7%a8-%d7%91%d7%a7/",
+   "download": null,
+   "ts": "2026-08-29T17:36:47+00:00"
+  },
   {
    "id": "s1f79e8dd2ffa09",
    "title": "תלמידי וצוות ישיבת נהורא התכנסו יחדיו לשירה מרגשת יחד עם ישראל סוסנה | שימני כחותם | קולולם קיץ תשפ\"ו | צפו",
