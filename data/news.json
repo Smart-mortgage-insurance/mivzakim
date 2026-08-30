@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T01:50:15.391767+00:00",
+ "updated": "2026-08-30T06:59:58.764449+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,73 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 141,
+ "count": 146,
  "items": [
+  {
+   "id": "s030ea6da8ee452",
+   "title": "🤲 לדבקה בך – ששון שאולוב | נעימות ללא מילים – שביל הניגון",
+   "text": "",
+   "image": "data/media/943f4ed914181a22.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/hg8sAmipAl8-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%a4%b2-%d7%9c%d7%93%d7%91%d7%a7%d7%94-%d7%91%d7%9a-%d7%a9%d7%a9%d7%95%d7%9f-%d7%a9%d7%90%d7%95%d7%9c%d7%95%d7%91-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%9e%d7%99%d7%9c/",
+   "download": null,
+   "ts": "2026-08-30T06:45:49+00:00"
+  },
+  {
+   "id": "s298b3afcb4344b",
+   "title": "הרב יגאל כהן – תנצל את הכוח שיש לך בידיים!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%aa%d7%a0%d7%a6%d7%9c-%d7%90%d7%aa-%d7%94%d7%9b%d7%95%d7%97-%d7%a9%d7%99%d7%a9-%d7%9c%d7%9a-%d7%91%d7%99%d7%93%d7%99%d7%99%d7%9d/",
+   "download": null,
+   "ts": "2026-08-30T06:23:18+00:00"
+  },
+  {
+   "id": "see0bb90b3cf382",
+   "title": "מתוך התהילים: משה הרמן ואליסף פיניש שרים | ואני בחסדך | האזינו",
+   "text": "משה הרמן ואליסף פיניש משתפים פעולה בסינגל חדש ומרגש – \"ואני בחסדך\", המבוסס על מילותיו של דוד המלך בתהילים פרק י\"ג. את הלחן חיבר אליסף פיניש, כשעל העיבוד וההפקה המוזיקלית הופקדו ישי וייס ויוסף. קרדיטים: מילים: תהילים פרק י\"ג | לחן: אליסף פיניש | עיבוד והפקה מוזיקלית: ישי וייס ויוסף | פסנתר: ישי וייס | שירה וקולות: משה…",
+   "image": "data/media/24a8ce836ee9e1d8.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/ZV6ZdzFdfQw-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%aa%d7%94%d7%99%d7%9c%d7%99%d7%9d-%d7%9e%d7%a9%d7%94-%d7%94%d7%a8%d7%9e%d7%9f-%d7%95%d7%90%d7%9c%d7%99%d7%a1%d7%a3-%d7%a4%d7%99%d7%a0%d7%99%d7%a9-%d7%a9%d7%a8%d7%99/",
+   "download": null,
+   "ts": "2026-08-30T05:56:00+00:00"
+  },
+  {
+   "id": "s230e4f8f3f4517",
+   "title": "Irving Kairey ואלי לוין בסינגל קליפ לראש השנה: \"Hayom\" | צפו",
+   "text": "אירווינג קיירי ואלי לוין משיקים את \"Hayom\", סינגל חדש ומרגש לקראת ראש השנה, בהגשת אבי טרנר. השיר מבוסס על מילות תפילת ראש השנה ועוסק בבקשה לחיים, לרחמים ולקבלת תפילותינו. ביום הקדוש אנו עומדים לפני הקב\"ה \"כבנים וכעבדים\", ומבקשים שיקבל אותנו ברחמים ויכתוב אותנו לשנה של חיים וטובה. מקווים שהניגון יסייע לפתוח את הלב…",
+   "image": "data/media/2041ab44fdcd1c7e.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/rX7EHQ_8Oa0-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/irving-kairey-%d7%95%d7%90%d7%9c%d7%99-%d7%9c%d7%95%d7%99%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a7%d7%9c%d7%99%d7%a4-%d7%9c%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-hayom-%d7%a6%d7%a4/",
+   "download": null,
+   "ts": "2026-08-30T05:50:11+00:00"
+  },
+  {
+   "id": "sa39fb7c09ac638",
+   "title": "שוכי מאיעסקי ומשה אוסלנדר בסינגל | Another Yid | האזינו",
+   "text": "שוכי מאיעסקי ומשה אוסלנדר משיקים את \"Another Yid\", שיר חדש מבית TYH Nation, שנולד מתוך מסר עמוק על היכולת להרגיש באמת את כאבו — ובעיקר את שמחתו — של יהודי אחר. השיר מבוסס על אמרתו של רבי שמואל חרקובר וילנסקי זצ\"ל: \"כאשר מרגישים את הכאב של הזולת — האדם הוא צדיק; אבל כאשר מרגישים את השמחה של הזולת — האדם הוא מלאך.\"…",
+   "image": "data/media/1021d6fff632a735.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/6-f9bV_iwsY-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%95%d7%9b%d7%99-%d7%9e%d7%90%d7%99%d7%a2%d7%a1%d7%a7%d7%99-%d7%95%d7%9e%d7%a9%d7%94-%d7%90%d7%95%d7%a1%d7%9c%d7%a0%d7%93%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-another-yid-%d7%94/",
+   "download": null,
+   "ts": "2026-08-30T05:46:44+00:00"
+  },
   {
    "id": "sbf0dd493a684de",
    "title": "שמוליק קליין & מנדי סופר - מתקן הנשמות",
