@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29T23:51:49.896525+00:00",
+ "updated": "2026-08-30T01:26:51.826328+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,21 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 139,
+ "count": 140,
  "items": [
+  {
+   "id": "sa027ff72ab2c73",
+   "title": "שלמה שטאובר - בספר חיים",
+   "text": "תפילה לחיים: לקראת עשרת ימי תשובה שלמה שטאובר משחרר את הסינגל החדש - \"בספר חיים\"הזמר והחזן שלמה שטאובר מוציא סינגל חדש בשם \"בספר חיים\", בעיבוד והפקה מוזיקלית של איתמר שקדי. מילות השיר לקוחות מתוך התפילה הנאמרת מדי יום במהלך עשרת ימי תשובה - מראש השנה ועד יום הכיפורים.\"בְּסֵֽפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה…",
+   "image": "data/media/d8c678ddb8ecff22.png",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgV_DeB0YA21Ud5FhiLBC6s-8aJmTHipJxCJgyzkE5UW8iC5c-7FK28CD5NscMoRSvrZsH4zcZbvGrLH7jdfK7xTvyhkd1jmiLjhScTVxubzq_F2r-ddfzpR_qRw5PU8u9yRXllczjVIczovWK4O99jnZmx1fRmLkhDDq0Cy9zKv8Ep8OlWt1Xc9DWxyS/s1600/%D7%91%D7%A1%D7%A4%D7%A8%203000.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_29.html",
+   "download": null,
+   "ts": "2026-08-30T00:24:51+00:00"
+  },
   {
    "id": "s8f31b870516ffa",
    "title": "אשרינו שזכינו | יואל בריזל בסינגל לקראת ראש השנה | האזינו",
