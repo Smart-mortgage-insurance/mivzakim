@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T17:22:34.125007+00:00",
+ "updated": "2026-08-30T19:38:37.570233+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s7a4a0430a2cd0f",
+   "title": "הרב יגאל כהן | אלול 2026 | הכנה לראש השנה !",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%90%d7%9c%d7%95%d7%9c-2026-%d7%94%d7%9b%d7%a0%d7%94-%d7%9c%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94/",
+   "download": null,
+   "ts": "2026-08-30T18:24:33+00:00"
+  },
   {
    "id": "sf814b15c3d2c8a",
    "title": "רפאל מלול & קובי ברומר - השקיפה",
@@ -1934,19 +1947,6 @@
    "link": "https://chasiditube.com/%d7%a0%d7%a4%d7%aa%d7%9c%d7%99-%d7%a7%d7%9e%d7%a4%d7%94-%d7%91%d7%a2%d7%9c-%d7%94%d7%91%d7%99%d7%a8%d7%94-naftali-kempeh-baal-habira-filmed-in-israel/",
    "download": null,
    "ts": "2024-12-29T15:30:11+00:00"
-  },
-  {
-   "id": "s1023ea75599b6f",
-   "title": "משה קליין – ישועות | Moshe Klein – Yeshu’ot",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/%d7%9e%d7%a9%d7%94-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%99%d7%a9%d7%95%d7%a2%d7%95%d7%aa-moshe-klein-yeshuot/",
-   "download": null,
-   "ts": "2024-12-29T07:30:21+00:00"
   }
  ]
 }
