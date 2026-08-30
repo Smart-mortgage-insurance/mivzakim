@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T13:04:11.589823+00:00",
+ "updated": "2026-08-30T16:58:05.587913+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,7 +52,7 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 149,
+ "count": 150,
  "items": [
   {
    "id": "sf814b15c3d2c8a",
@@ -68,6 +68,32 @@
    "ts": "2026-08-30T11:40:51+00:00"
   },
   {
+   "id": "sb70804e218b136",
+   "title": "יוסי גרין וניסים סאאל בדואט מרטיט | אין קצבה | האזינו",
+   "text": "Composed by: Yossi Green Arranged by: Moshe Laufer Produced by: Yossi Tyberg Nissim vocals produced by: Yochi Briskman Mixed & Mastered by: Mendy Friedman Cover design by: Eli Kaufman",
+   "image": "data/media/3ab07f15196d7fe2.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/HdwmKqjR_3w-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%95%d7%a1%d7%99-%d7%92%d7%a8%d7%99%d7%9f-%d7%95%d7%a0%d7%99%d7%a1%d7%99%d7%9d-%d7%a1%d7%90%d7%90%d7%9c-%d7%91%d7%93%d7%95%d7%90%d7%98-%d7%9e%d7%a8%d7%98%d7%99%d7%98-%d7%90%d7%99%d7%9f/",
+   "download": null,
+   "ts": "2026-08-30T09:27:19+00:00"
+  },
+  {
+   "id": "s75743f478ed428",
+   "title": "נאור אלחדד פותח “דף חדש” עם סינגל קליפ מרהיב | צפו",
+   "text": "יש רגעים בשנה שבהם הלב מדבר קצת אחרת, כשהימים הנוראים מתקרבים, השנה שעברה חולפת מול העיניים. הרגעים הטובים, הנפילות, התפילות שלא תמיד קיבלו תשובה, הדברים שהיינו רוצים לתקן – והתקווה שאולי השנה, משהו יהיה אחרת. דווקא מתוך המקום הזה, משיק הזמר נאור אלחדד את “דף חדש” – שיר חדש ומרגש שנוגע ברגע הכי אנושי ופשוט: הרצון…",
+   "image": "data/media/418f5e8617d64084.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/m5zWOTtF81Y-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%a3-%d7%97%d7%93%d7%a9-%d7%a0%d7%90%d7%95%d7%a8-%d7%90%d7%9c%d7%97%d7%93%d7%93-naor-elhadad-daf-chadash/",
+   "download": null,
+   "ts": "2026-08-30T09:21:47+00:00"
+  },
+  {
    "id": "sc6dc38d97097c2",
    "title": "הקלידן המיוחד יוסי שמעיה, הזמרים אהרלע שארף ושרוליק סמט והגיטריסט המושלם שלומי ברנדמרק בחלק מאירוע מיוחד",
    "text": "הפעלה השהיה הנמכה הגברה הורדה * * * הפעלה השהיה הנמכה הגברה הורדה * * * אהבתם? לפרטים והזמנות: טלפון: 054-853-6978 יוסי שמעיה, קלידן",
@@ -79,6 +105,97 @@
    "link": "https://music.tora1.com/1812",
    "download": "https://share.tora1.com/s/ppjMfJWsaZAS8Br/download",
    "ts": "2026-08-30T09:03:50+00:00"
+  },
+  {
+   "id": "sa4ab0f400bf37f",
+   "title": "ישראל פרץ מגיש | מחרוזת סליחות | האזינו",
+   "text": "תפילות המחרוזת: קמתי באשמורת, אליך ה‘, ה‘ שמעתי שמעך, אל נורא עלילה עיבוד והפקה מוזיקלית: דניאל פרידמן גיטרות ובגלמה: יוני קיסר תופים: אבי אבידני בס: אבי יפרח כינורות וכינור סולו: טורקיה קלידים ותכנותים: דניאל פרידמן הקלטת שירה מיקס: מאסטרינג יניב בלאס קולות: דניאל פרידמן, ישראל פרץ, ישראל כהן, יניב בלאס צילום: יהודה…",
+   "image": "data/media/45360c76f6457c11.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/KFGZpulv2C0-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a4%d7%a8%d7%a5-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-08-30T08:34:04+00:00"
+  },
+  {
+   "id": "sa8cc780baa6a2e",
+   "title": "ישראל דיין מגיש | מחרוזת ימים נוראים (סליחות) | האזינו",
+   "text": "",
+   "image": "data/media/a3f0d640a617c519.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/w5wn4wr-Qcc-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%93%d7%99%d7%99%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%a1%d7%9c/",
+   "download": null,
+   "ts": "2026-08-30T08:33:16+00:00"
+  },
+  {
+   "id": "sd8a5fa9f6d5389",
+   "title": "מאיר ענגעל במחרוזת חופה מרגשת – Chuppah Medley | צפו",
+   "text": "Following the explosive success of his high-voltage Funk Medley ABLAZE, dynamic vocalist Mayer Engel shifts gears from the dance floor to the spiritual moment of celebration with a stunning new chuppah medley titled ASCENT. Mayer takes soul-stirring chuppah melodies and infuses them with his signature warmth,…",
+   "image": "data/media/274fd54611332fb8.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/ZZdyXz-T6ro-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%90%d7%99%d7%a8-%d7%a2%d7%a0%d7%92%d7%a2%d7%9c-%d7%91%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%97%d7%95%d7%a4%d7%94-%d7%9e%d7%a8%d7%92%d7%a9%d7%aa-chuppah-medley-%d7%a6%d7%a4%d7%95/",
+   "download": null,
+   "ts": "2026-08-30T08:03:35+00:00"
+  },
+  {
+   "id": "s77d9450f40e8f5",
+   "title": "בנג׳מין בוזגלו בסינגל לכבוד רבי חיים פינטו זצ\"ל | נשירה לכבודו | צפו",
+   "text": "בשם ה׳ נעשה ונצליח Toujours un Honneur et un immense plaisir de chanter pour le Tsadik Rabbi Haim Pinto Zatsal. Voici la chanson officielle de la Hiloula du Tsadik (2026) – BHM. Partagez, partagez en l’honneur du Tsadik. עיבוד והפקה מוזיקלית: Eliran Avital להזמנת הופעות: 050-5400636 ניהול וייצוג אישי: L&b Production ⸻…",
+   "image": "data/media/4f97d3bf75a945f2.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4de.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%91%d7%a0%d7%92%d7%b3%d7%9e%d7%99%d7%9f-%d7%91%d7%95%d7%96%d7%92%d7%9c%d7%95-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%9b%d7%91%d7%95%d7%93-%d7%a8%d7%91%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%a4/",
+   "download": null,
+   "ts": "2026-08-30T08:01:32+00:00"
+  },
+  {
+   "id": "s276a16a480388a",
+   "title": "מיכאל כורש בקאבר ללהיט | לדבקה בך | האזינו",
+   "text": "בס״ד בחודש הרחמים והסליחות, זמן של תשובה, תפילה והתקרבות לבורא עולם, בחרתי לבצע את „לדבקה בך” שיר שהוא כולו תפילה, געגוע וכיסופים להיות קרובים יותר להשם יתברך. המילים המיוחדות מבטאות את הכמיהה של הנפש, הרוח והנשמה לדבוק בבורא ולא להיפרד ממנו לעולם. מקווה שהביצוע הזה ייגע בלב, יחזק ויעורר את הנשמה. האזנה נעימה מיכאל…",
+   "image": "data/media/4a1a62d30507b2c1.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%99%d7%9b%d7%90%d7%9c-%d7%9b%d7%95%d7%a8%d7%a9-%d7%91%d7%a7%d7%90%d7%91%d7%a8-%d7%9c%d7%9c%d7%94%d7%99%d7%98-%d7%9c%d7%93%d7%91%d7%a7%d7%94-%d7%91%d7%9a-%d7%94%d7%90%d7%96%d7%99%d7%a0/",
+   "download": null,
+   "ts": "2026-08-30T07:59:18+00:00"
+  },
+  {
+   "id": "s527fcb4e3ea5d2",
+   "title": "רפאל מלול בלייב בחופה | שערי שמים פתח | האזינו",
+   "text": "להזמנת אירועים ומופעים: תו השעה – עוזר דרוק Ozerdruck@gmail.com | 0526900222",
+   "image": "data/media/8897138971a395a4.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Gq4tF0wTCsA-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a8%d7%a4%d7%90%d7%9c-%d7%9e%d7%9c%d7%95%d7%9c-%d7%91%d7%9c%d7%99%d7%99%d7%91-%d7%91%d7%97%d7%95%d7%a4%d7%94-%d7%a9%d7%a2%d7%a8%d7%99-%d7%a9%d7%9e%d7%99%d7%9d-%d7%a4%d7%aa%d7%97-%d7%94%d7%90/",
+   "download": null,
+   "ts": "2026-08-30T07:52:27+00:00"
+  },
+  {
+   "id": "s65f1e54a0a6f08",
+   "title": "זה לא עוד דואט – זה רגע של אבא ובן שהפך לשיר | משה דוויק ודוד דוויק – חיים חדשים | צפו",
+   "text": "מילים ולחן: רמי לב עיבוד והפקה מוזיקלית: דניאל חן עם בואה של השנה החדשה, שמביאה איתה תקווה, חלומות, תפילות ואמונה בדרך, מגיע ״חיים חדשים״ דואט מרגש בין משה דוויק לבנו דוד, שנכתב והולחן במיוחד לכבוד בר המצווה שלו. החיבור בין ראש השנה לבר המצווה מקבל כאן משמעות מיוחדת: לצד השנה שנפתחת, גם דוד יוצא לדרך חדשה דרך של…",
+   "image": "data/media/00b3b98815ac7e21.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/mCrf6DiugA8-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%97%d7%99%d7%99%d7%9d-%d7%97%d7%93%d7%a9%d7%99%d7%9d-%d7%9e%d7%a9%d7%94-%d7%93%d7%95%d7%95%d7%99%d7%a7-%d7%93%d7%95%d7%93-%d7%93%d7%95%d7%95%d7%99%d7%a7-moshe-dwek-david-dwek/",
+   "download": null,
+   "ts": "2026-08-30T07:47:34+00:00"
   },
   {
    "id": "s030ea6da8ee452",
@@ -1830,110 +1947,6 @@
    "link": "https://chasiditube.com/%d7%9e%d7%a9%d7%94-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%99%d7%a9%d7%95%d7%a2%d7%95%d7%aa-moshe-klein-yeshuot/",
    "download": null,
    "ts": "2024-12-29T07:30:21+00:00"
-  },
-  {
-   "id": "sccd7d8183f2426",
-   "title": "Shabbos Medley Dirshu – Prudential Center | מחרוזת שבת – דרשו – התחלת מסכת שבת בעמוד היומי – ארה”ב",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "audio",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/shabbos-medley-dirshu-prudential-center-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%91%d7%aa-%d7%93%d7%a8%d7%a9%d7%95-%d7%94%d7%aa%d7%97%d7%9c%d7%aa-%d7%9e%d7%a1%d7%9b%d7%aa-%d7%a9%d7%91/",
-   "download": null,
-   "ts": "2024-12-26T10:00:06+00:00"
-  },
-  {
-   "id": "se1f89c2aca2369",
-   "title": "יניב בן משיח – יום הולדת (Prod. By Moshe&Ofek)",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/%d7%99%d7%a0%d7%99%d7%91-%d7%91%d7%9f-%d7%9e%d7%a9%d7%99%d7%97-%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-prod-by-mosheofek/",
-   "download": null,
-   "ts": "2024-12-25T08:00:07+00:00"
-  },
-  {
-   "id": "sca843677d10b3a",
-   "title": "אלו ואלו – ״קולולחן״ שמוליק סוכות, חיים ישראל, בנצי שטיין ויואלי דיקמן",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/%d7%90%d7%9c%d7%95-%d7%95%d7%90%d7%9c%d7%95-%d7%b4%d7%a7%d7%95%d7%9c%d7%95%d7%9c%d7%97%d7%9f%d7%b4-%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%97%d7%99%d7%99%d7%9d/",
-   "download": null,
-   "ts": "2024-12-24T18:59:01+00:00"
-  },
-  {
-   "id": "se1a7e9024e481f",
-   "title": "THE PIANO BOY – Camp Tashbar | Baruch Levine",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/the-piano-boy-camp-tashbar-baruch-levine/",
-   "download": null,
-   "ts": "2024-12-24T18:22:10+00:00"
-  },
-  {
-   "id": "s9a66aea23f5adf",
-   "title": "I Have a Little Dreidel Dream – Benny Friedman & The Silhouettes | Bonei Olam",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/i-have-a-little-dreidel-dream-benny-friedman-the-silhouettes-bonei-olam/",
-   "download": null,
-   "ts": "2024-12-24T17:00:06+00:00"
-  },
-  {
-   "id": "s22c6fb7b42c0aa",
-   "title": "אבי דרור וקובי ברומר – כוכבים | Avi Dror & Kobi Brumer – Kochavim",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/%d7%90%d7%91%d7%99-%d7%93%d7%a8%d7%95%d7%a8-%d7%95%d7%a7%d7%95%d7%91%d7%99-%d7%91%d7%a8%d7%95%d7%9e%d7%a8-%d7%9b%d7%95%d7%9b%d7%91%d7%99%d7%9d-avi-dror-kobi-brumer-kochavim/",
-   "download": null,
-   "ts": "2024-12-24T14:43:27+00:00"
-  },
-  {
-   "id": "s10e2441dcea388",
-   "title": "Miracles – ניסים | Yitzy Waldner",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/miracles-%d7%a0%d7%99%d7%a1%d7%99%d7%9d-yitzy-waldner/",
-   "download": null,
-   "ts": "2024-12-24T00:24:34+00:00"
-  },
-  {
-   "id": "sdc00e784f85bc4",
-   "title": "Yaakov Shwekey – Galgalim (Dance Version by DJE)",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "חסידיטיוב",
-   "link": "https://chasiditube.com/yaakov-shwekey-galgalim-dance-version-by-dje/",
-   "download": null,
-   "ts": "2024-12-23T13:57:10+00:00"
   }
  ]
 }
