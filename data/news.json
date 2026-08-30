@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T07:22:56.436386+00:00",
+ "updated": "2026-08-30T12:39:45.101498+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,34 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 146,
+ "count": 149,
  "items": [
+  {
+   "id": "sf814b15c3d2c8a",
+   "title": "רפאל מלול & קובי ברומר - השקיפה",
+   "text": "שיתקבלו תפילותנו: רפאל מלול וקובי ברומר משתפים פעולה בסינגל עוצמתי - \"השקיפה\"השיר שהלחין אלי קליין לפני עשר שנים יוצא לאור בדואט מיוחד של רפאל מלול וקובי ברומר, בליווי וידאו-קליפ מרהיב בסמטאות ירושלים. הסיפור המלא מאחורי הלחן והתזמוןצמד הזמרים רפאל מלול וקובי ברומר חוברים לשיתוף פעולה מוזיקלי מרגש ומשיקים סינגל-דואט…",
+   "image": "data/media/f5e7baa3301ed2a9.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVNptZlj8ZpuIJGWSVXzot3ZFxTTQm_R0DVNvpVhV0eqJYHJh0MXCDaLjr6CHoOayWODUAnWvhUke5wD5YMjdjXLWYkQvm5mmvb8qH0hOw7uMqPatyrmw380VFweNUCrBO-eCPErf2hplG4ZHRn0yimi4Dobl66zGW9dqeGOl3ZwlHNTiWsCpyficVyV35/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%94%D7%A9%D7%A7%D7%99%D7%A4%D7%94.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_30.html",
+   "download": "https://archive.org/download/hadshotmusic_20260830_1136/%D7%A8%D7%A4%D7%90%D7%9C%20%D7%9E%D7%9C%D7%95%D7%9C%20%26%20%D7%A7%D7%95%D7%91%D7%99%20%D7%91%D7%A8%D7%95%D7%9E%D7%A8%20-%20%D7%94%D7%A9%D7%A7%D7%99%D7%A4%D7%94.mp3",
+   "ts": "2026-08-30T11:40:51+00:00"
+  },
+  {
+   "id": "sc6dc38d97097c2",
+   "title": "הקלידן המיוחד יוסי שמעיה, הזמרים אהרלע שארף ושרוליק סמט והגיטריסט המושלם שלומי ברנדמרק בחלק מאירוע מיוחד",
+   "text": "הפעלה השהיה הנמכה הגברה הורדה * * * הפעלה השהיה הנמכה הגברה הורדה * * * אהבתם? לפרטים והזמנות: טלפון: 054-853-6978 יוסי שמעיה, קלידן",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1812",
+   "download": "https://share.tora1.com/s/ppjMfJWsaZAS8Br/download",
+   "ts": "2026-08-30T09:03:50+00:00"
+  },
   {
    "id": "s030ea6da8ee452",
    "title": "🤲 לדבקה בך – ששון שאולוב | נעימות ללא מילים – שביל הניגון",
@@ -690,6 +716,19 @@
    "link": "https://music.tora1.com/1807",
    "download": null,
    "ts": "2026-08-27T05:44:11+00:00"
+  },
+  {
+   "id": "s1237e9bab55067",
+   "title": "חתונה עם הקלידן יוחנן קליימן, הזמר יואלי דוידוביץ והנשפן מרדכי בן שם (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1803",
+   "download": null,
+   "ts": "2026-08-27T05:09:16+00:00"
   },
   {
    "id": "s28d2594f27515c",
