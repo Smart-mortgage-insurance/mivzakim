@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T01:30:46.309969+00:00",
+ "updated": "2026-08-30T01:32:03.401390+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -52,8 +52,21 @@
    "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw"
   }
  ],
- "count": 140,
+ "count": 141,
  "items": [
+  {
+   "id": "sbf0dd493a684de",
+   "title": "שמוליק קליין & מנדי סופר - מתקן הנשמות",
+   "text": "געגועים לרבינו: שמוליק קליין ומנדי סופר בסינגל-קליפ חדש - \"מתקן הנשמות\"בימים אלו, בהם השאיפה של רבים להיות בציונו של רבי נחמן מברסלב באומן בתפילות ראש השנה, משחרר הזמר שמוליק קליין שיתוף פעולה מרגש עם היוצר מנדי סופר: הסינגל-קליפ \"מתקן הנשמות\". את השיר מלווה וידאו-קליפ המאגד תיעודים אותנטיים של רגעי המסע והכיסופים של…",
+   "image": "data/media/3547d37b79770dba.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSolayBgjYmC8JtUF4d9LdGiAJjHo5izKKblBKxoFAmaq8qs4R18MzNM6dpr4Q9cukhVD0tIrXq3-YRfSgOIA0vf8_ywS7NpH9V00Db3rS0tnlaBX0p-C2Fr-NDQ5L75Byd8YSCBrC2lW-AWpcILeHZQg0MNa69rxI4AFHfspqIXev30SSBwiJYlIQuzZT/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%9E%D7%AA%D7%A7%D7%9F%20%D7%94%D7%A0%D7%A9%D7%9E%D7%95%D7%AA.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_346.html",
+   "download": null,
+   "ts": "2026-08-30T01:31:15+00:00"
+  },
   {
    "id": "sa027ff72ab2c73",
    "title": "שלמה שטאובר - בספר חיים",
