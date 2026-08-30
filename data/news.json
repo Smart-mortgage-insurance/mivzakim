@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T22:21:47.288658+00:00",
+ "updated": "2026-08-30T22:23:07.601730+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s7de718ef88385b",
+   "title": "הזמר בעל אלף הפרצופים: יאיר דוד משחרר סינגל אמונה קצבי | רק אתה | צפו",
+   "text": "יאיר דוד הוא ללא ספק אחת הדמויות המרתקות והאנרגטיות ביותר בנוף הציבורי והמוזיקלי בישראל. רבים מכנים אותו \"הזמר בעל אלף הפרצופים\", והסיבה לכך ברורה: מדובר באדם שפועל במספר זירות משמעותיות במקביל, ובכל מקום שבו הוא נמצא הוא נותן את כל כולו ועושה את הטוב ביותר, כשכל תחום עשייה משלים את השני בצורה מושלמת. מצד אחד, יאיר…",
+   "image": "data/media/889551d396d9bc24.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/64vVJVrAhhQ-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%96%d7%9e%d7%a8-%d7%91%d7%a2%d7%9c-%d7%90%d7%9c%d7%a3-%d7%94%d7%a4%d7%a8%d7%a6%d7%95%d7%a4%d7%99%d7%9d-%d7%99%d7%90%d7%99%d7%a8-%d7%93%d7%95%d7%93-%d7%9e%d7%a9%d7%97%d7%a8%d7%a8-%d7%a1%d7%99/",
+   "download": null,
+   "ts": "2026-08-30T22:21:35+00:00"
+  },
   {
    "id": "se9d7183f5d13c5",
    "title": "הניגון שיפתח את שערי השמיים: בעל המנגן יואל יושע ווייס בסינגל חסידי חדש ועוצמתי | הזכירו לפניו | צפו",
@@ -1939,18 +1952,6 @@
    "link": "https://newsmusic.blogspot.com/2026/08/blog-post_385.html",
    "download": "https://archive.org/download/hadshotmusic_20260816_1738/%D7%9E%D7%A9%D7%94%20%D7%96%D7%A8%D7%A6%D7%A7%D7%99%20-%20%D7%94%D7%99%D7%94%20%D7%A0%D7%90.mp3",
    "ts": "2026-08-16T17:41:03+00:00"
-  },
-  {
-   "id": "s5613eb41d2657b",
-   "title": "יהודה גרין - שובו אלי",
-   "text": "לקראת הימים הנוראים: יהודה גרין בסינגל קצבי חדש - \"שובו אלי\"עם כניסתו של חודש אלול, הזמר והיוצר יהודה גרין משחרר את \"שובו אלי\" - שיר חדש שמציע זווית שמחה ואופטימית לימי הרחמים והסליחות.במקום הטון המהורהר שמלווה לעיתים קרובות את המוזיקה של תקופת האלול, גרין בוחר להתמקד בצד המקרב והמעורר של התשובה. הלחן הקצבי שכתב מבוסס…",
-   "image": "data/media/7690606ca82988b0.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1msRxbD4IxjrpiJ9q0691qD5keXDeZDAK9BVwQGEICLYbb43W2maa_VZZiPxjzLu59bs9BqvvOqf_WLyGVn_NEH4YxibfqJavHd4HL_IlnxF1SuzHBL8t3WLbQE3xX-LQuDrUD80NAcFOiXVi5SKSWH70qMrmbSpsYZxRDkTaiNluU6SgvNnbDpirEcUZ/s1600/Square%20Cover%20%E2%80%A2%20Shuvu%20Elai%20%E2%80%A2%20Yehuda%20Green%20@MusicOnTime.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_672.html",
-   "download": "https://archive.org/download/hadshotmusic_20260816_1711/%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%92%D7%A8%D7%99%D7%9F%20-%20%D7%A9%D7%95%D7%91%D7%95%20%D7%90%D7%9C%D7%99.mp3",
-   "ts": "2026-08-16T17:13:30+00:00"
   }
  ]
 }
