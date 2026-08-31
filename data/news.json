@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T19:54:00.087538+00:00",
+ "updated": "2026-08-31T19:55:20.628686+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s464f398b7cd5bf",
+   "title": "דובי מייזעלס, בנצי שטיין ומקהלת נשמה - הבן יקיר",
+   "text": "חידוש מרגש לימי הסליחות: דובי מייזלס, בנצי שטיין ומקהלת 'נשמה' בביצוע לשיר - \"הבן יקיר\"כאשר היצירה \"הבן יקיר\" יצאה לאור לפני ארבע שנים במסגרת האלבום \"תנועות\" של המלחין ואיש החסד רבי יואל ישראל זופניק (ובביצועו של מרדכי בן דוד), היא הייתה חלק מפרויקט גדוש שכלל 14 רצועות בביצוע אומנים שונים. כפי שקורה לא פעם באלבומים…",
+   "image": "data/media/a5aad64c3d0467cd.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW-9TAGzT7qe2F5hIaMFekfp6fAVH-fiHBZSsSJw3lNF5eBxmNVvnGr9xs-MTOcBvdE8AGLNAA39-Jmhn0sJ4L_YYyiN3N4NOJp1pOsmCoAAjRpSKhl9W-Vlo6lnDsxj_5nk390AVWlJDPusSJq9iTFrthEjgX5z0Kgt8sN8b5UEEeLLow_btYurzLPXYh/s72-w320-h320-c/Habein%20-%20Spotify%20Cover_.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_256.html",
+   "download": "https://archive.org/download/hadshotmusic_20260831_1950/%D7%93%D7%95%D7%91%D7%99%20%D7%9E%D7%99%D7%99%D7%96%D7%A2%D7%9C%D7%A1%2C%20%D7%91%D7%A0%D7%A6%D7%99%20%D7%A9%D7%98%D7%99%D7%99%D7%9F%2C%20%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%A0%D7%A9%D7%9E%D7%94%20-%20%D7%94%D7%91%D7%9F%20%D7%99%D7%A7%D7%99%D7%A8%20%28%D7%92%D7%A8%D7%A1%D7%94%202%29.mp3",
+   "ts": "2026-08-31T19:53:55+00:00"
+  },
   {
    "id": "se9e1bdf4de690e",
    "title": "אליעזר אולמן & יצחק שור - רוצה ה' את יראיו",
@@ -1954,18 +1967,6 @@
    "link": "https://newsmusic.blogspot.com/2026/08/brich2ni.html",
    "download": "https://archive.org/download/hadshotmusic_20260820_2214/BRICH2NI%20-%20%28%D7%91%D7%A8%D7%99%D7%9B%D7%AA%D7%95%D7%A0%D7%99%29%20-%20%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D.mp3",
    "ts": "2026-08-20T22:54:11+00:00"
-  },
-  {
-   "id": "sc1a04d0e80c30a",
-   "title": "דודי קאליש & שלום למר - ארשת",
-   "text": "בפתח ימי הרחמים והסליחות: פרויקט 'הייליג & מוזיקאליש' מגיש יצירה ייחודית - \"ארשת\"עם פרוס חודש אלול וימי הרחמים והסליחות, מגישים במיזם 'הייליג & מוזיקאליש' סינגל-קליפ חדש בשם \"ארשת\". את השירה מוביל בקולו הזמר שלום למר, כאשר על ניצוח המקהלה והפקת העיבוד המוזיקלי והקולי מופקד הבעל-מנגן דודי קאליש, לצד קולות הליווי של…",
-   "image": "data/media/e7d46eb54d47b867.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLfwEl2fkTKR-w8oNEwyKF6pgz7U9d-ClxA2Fy4bPNfj65xGTX-2H6-shXSQkKjZfFjj6xGP4u8QH6TGEirEWqxywqE7Y8nB3UMlu7WhmDG3KDoqkzn_8jMO4qqUMlqP_QgGMCBUQIUuWc-fcjT4vz7tjxs3yRljfH6brn7ESdbkOKk3l7r7SPoGcaQj0E/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%A8%D7%A9%D7%AA.jpg",
-   "type": "clip",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_20.html",
-   "download": "https://archive.org/download/hadshotmusic_20260820_1758/%D7%93%D7%95%D7%93%D7%99%20%D7%A7%D7%90%D7%9C%D7%99%D7%A9%2C%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%9C%D7%9E%D7%A8%2C%20%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%99%D7%93%D7%99%D7%93%D7%99%D7%9D%20-%20%D7%90%D7%A8%D7%A9%D7%AA.mp3",
-   "ts": "2026-08-20T18:04:14+00:00"
   }
  ]
 }
