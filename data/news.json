@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30T22:28:42.539474+00:00",
+ "updated": "2026-08-31T00:35:06.283694+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "se3db8cf995104b",
+   "title": "מקהלת חסידימלעך - כשם שנכנס",
+   "text": "אל הנער הזה התפללתי: המלחינה שושי הלוי מציגה יצירה חדשה לשמחת ברית המילה - \"כשם שנכנס\"המילים המוכרות והמרגשות מתוך סדר הברכות לברית מילה, \"כשם שנכנס לברית כן ייכנס לתורה ולחופה ולמעשים טובים\", מקבלות כעת פרשנות מוזיקלית מיוחדת בלחן חדש שנכתב במטרה לבטא את הרגע המיוחד שבו שמחת הברית נפגשת עם תפילה וברכה לעתידו של הרך…",
+   "image": "data/media/0f6248577e840728.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZNPrLzE9w9tbEPGmJwOunnfLfMx8f0Aj_u1zo9SkLwrduet3TqutcVfL3l-L5bJH-HZWNPqXXONM4khcF7ThkLKA3L9p7Tvr-8sHZ9oAvFGSXLy1PvFn-D1InNVvErxUHqCQXUu1iVeg_J3ZsyHSPLZ9RmcPJeshisWs4dKXTSE4QzeeIkXTO3uyQy4Aq/s72-w320-h320-c/%D7%9B%D7%A9%D7%9D%20%D7%A9%D7%A0%D7%9B%D7%A0%D7%A1.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_807.html",
+   "download": "https://archive.org/download/hadshotmusic_20260830_2325/%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%97%D7%A1%D7%99%D7%93%D7%99%D7%9E%D7%9C%D7%A2%D7%9A%20-%20%D7%9B%D7%A9%D7%9D%20%D7%A9%D7%A0%D7%9B%D7%A0%D7%A1.mp3",
+   "ts": "2026-08-30T23:39:25+00:00"
+  },
+  {
+   "id": "s87e9657c7cfcf3",
+   "title": "יואל יושע ווייס & מרדכי יואל פרידמן - הזכירו לפניו",
+   "text": "זכות אבות לבנים תזכור: יואל יושע ווייס בסינגל סליחות מרגש - \"הזכירו לפניו\"לרגל שמחת בר המצווה של בנו ובפתח ימי הרחמים והסליחות, משחרר בעל המנגן יואל יושע ווייס יצירה חסידית עמוקה בלחנו של מרדכי יואל פרידמן. על העיבוד: יהודה גלילי.בעיצומם של ימי הרחמים והסליחות ולקראת עשרת ימי תשובה, בהם נפתחים שערי שמיים לתפילות עם…",
+   "image": "data/media/8559d953792fda21.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbeUzVYxebcNKqkKE4u1BO6yETteH3lkitRmKgxUUl2Mdv_-aHgSUI5SjFRhOzVs-Viy6TlvmcycKoJcCwfKH9dPlhQJ9TTDGcyd6ShTSEmVLpEoO-Vz_v6l2nXzmGJjSh5_dtxxJ8SDsk0NuczcFmVx3XKzR1zy-RShPRENSlKjx1M3VgCqqWo1hUa_8/s72-w320-h320-c/Hazkiru%20Lefanav%20-%20Spotify%20Cover_.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_376.html",
+   "download": "https://archive.org/download/hadshotmusic_20260830_2256/%D7%99%D7%95%D7%90%D7%9C%20%D7%99%D7%95%D7%A9%D7%A2%20%D7%95%D7%95%D7%99%D7%99%D7%A1%20%26%20%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%99%D7%95%D7%90%D7%9C%20%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F%20-%20%D7%94%D7%96%D7%9B%D7%99%D7%A8%D7%95%20%D7%9C%D7%A4%D7%A0%D7%99%D7%95.mp3",
+   "ts": "2026-08-30T23:00:15+00:00"
+  },
+  {
+   "id": "s1586aa22574d45",
+   "title": "הללו",
+   "text": "ניהול והפקה: מענדי בלוי עריכה, הגשה: שמוליק קפלן עיצוב סאונד ומיקס: SHINER",
+   "image": "data/media/856fcffb31f72db4.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/ab67656300005f1f3d04017f027c5e5d17dd75fe.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%9c%d7%9c%d7%95/",
+   "download": null,
+   "ts": "2026-08-30T22:49:42+00:00"
+  },
+  {
+   "id": "s0a84718876bff5",
+   "title": "🌅 הנשמה יורדת – ניגון חב\"ד | נעימות ללא מילים – שביל הניגון",
+   "text": "",
+   "image": "data/media/afd213b4f1dea591.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/OuF7P5cdWBw-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%8c%85-%d7%94%d7%a0%d7%a9%d7%9e%d7%94-%d7%99%d7%95%d7%a8%d7%93%d7%aa-%d7%a0%d7%99%d7%92%d7%95%d7%9f-%d7%97%d7%91%d7%93-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%9e%d7%99/",
+   "download": null,
+   "ts": "2026-08-30T22:34:22+00:00"
+  },
   {
    "id": "s8606a34402bd8c",
    "title": "דו שיח של געגועים בין אב לבנים | צמאה מגישים עם דניאל וייס – קול ביער | האזינו",
@@ -1906,54 +1958,6 @@
    "link": "https://newsmusic.blogspot.com/2026/08/blog-post_365.html",
    "download": "https://archive.org/download/hadshotmusic_20260818_1624/%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%9E%D7%A9%D7%90%D7%9C%D7%95%D7%AA%20-%20%D7%92%D7%9D%20%D7%96%D7%95%20%D7%9C%D7%98%D7%95%D7%91%D7%94.mp3",
    "ts": "2026-08-18T16:27:45+00:00"
-  },
-  {
-   "id": "sce404f67a7c809",
-   "title": "נתי רובין - וטהר ליבנו",
-   "text": "מתוך השמחה והדביקות: נתי רובין בסינגל קצבי חדש - \"וטהר ליבנו\"המילים המוכרות מתפילת השבת \"וטהר ליבנו לעבדך באמת\" זכו לאורך השנים לביצועים רבים ומגוונים, אך הזמר והיוצר נתי רובין מביא איתו הפעם סאונד שונה לחלוטין. במקום עוד לחן שגרתי, רובין מציג הפקה מודרנית וייחודית בנוף המוזיקה החסידית - שילוב של אנרגיה סוחפת, סגנון…",
-   "image": "data/media/1844f8bb47ecdaec.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Xpn0_jmffCJiG1XDD0gw-S-E1iwbb3rFA7_qrLJc-jzfgLGmlgVqc9PCRsp-mBRHwrqK-sgVJAOqA-fUqGWygx8xEbV-w0IL05-cRWWDhz2yZ1pW5-MxJJG18IrVJjKbKMbkK-8oZhxazxM6_4jgCtv-jH5kEv4km6w1iIDfh7SUV_4lpQgSK4wigonH/s72-w320-h320-c/%D7%A0%D7%AA%D7%99%20%D7%A8%D7%95%D7%91%D7%99%D7%9F%20-%20%D7%95%D7%98%D7%94%D7%A8%20%D7%9C%D7%99%D7%91%D7%A0%D7%95%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_323.html",
-   "download": "https://archive.org/download/hadshotmusic_20260818_1307/%D7%A0%D7%AA%D7%99%20%D7%A8%D7%95%D7%91%D7%99%D7%9F%20-%20%D7%95%D7%98%D7%94%D7%A8%20%D7%9C%D7%99%D7%91%D7%A0%D7%95.mp3",
-   "ts": "2026-08-18T15:50:37+00:00"
-  },
-  {
-   "id": "s9fcdc72e7a4d46",
-   "title": "אייל בוגט - רוצה רק אותך",
-   "text": "מבית המדרש לאולפן: אייל בוגט ודוד איכילביץ' משתפים פעולה ב\"רוצה רק אותך\"לאחר שנגע בלבבות רבים עם סינגל הבכורה המרגש שלו \"חיבוק פרידה\" - שנכתב בעקבות שירותו הצבאי ביחידת יס\"ר לחילוץ חללים - היוצר אייל בוגט חוזר בסינגל שני שמביא עמו כיוון מוזיקלי ורוחני חדש לגמרי.השיר החדש, \"רוצה רק אותך\", נולד במקום הכי טבעי ועמוק:…",
-   "image": "data/media/6eb0289420cafe71.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULLLW-i0LCdC_BuMoebZ3gGgTrLXXtl_qxeXGA9YQiTR56Nm0D_wGvLdTD2nbVA5rUzURV6PtRpwTCmS2CYB6AHIbntzis6rYsv3gynpKjPSVx8GzPlUrKWWWJfBedCbGniyYF0bTSve7I4swFyV2qDXY-sYAxbQkzblyYinZdsOs_Kee0aC2h1xUOgOS/s72-w320-h320-c/%D7%90%D7%99%D7%99%D7%9C%20%D7%91%D7%95%D7%92%D7%98%20-%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%A8%D7%A7%20%D7%90%D7%95%D7%AA%D7%9A%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_851.html",
-   "download": "https://archive.org/download/hadshotmusic_20260818_1219/%D7%90%D7%99%D7%99%D7%9C%20%D7%91%D7%95%D7%92%D7%98%20-%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%A8%D7%A7%20%D7%90%D7%95%D7%AA%D7%9A.mp3",
-   "ts": "2026-08-18T12:22:57+00:00"
-  },
-  {
-   "id": "sa2301fb1c6f74e",
-   "title": "חיים גורי - לשם ייחוד",
-   "text": "העומק הפנימי של מעמד החופה: חיים גורי בשיר חופה מרגש ומרומם - \"לשם ייחוד\"הזמר חיים גורי סינגל חופה חדש, עמוק ומלא רגש בשם \"לשם ייחוד\". השיר החדש מביא עמו בשורה מוזיקלית עדינה, המבקשת לרומם את הלבבות ולהעניק עומק רוחני פנימי לרגע הנשגב של העמידה תחת החופה.היצירה יוצאת לאור בשיתוף פעולה מיוחד עם ארגון \"תודה לך השם\" (TYH…",
-   "image": "data/media/7d72db9c3b6ba5ca.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUDOaSyedrUHpX9Af1lGhoTK-__IZNJk94hl0OB3_yzjSGiEN8ghRuj3sdl2ixR_frfn1-veCiJhn9O4VLKqTbdTK2CNF-u8OX3oNB6pgFoctOOZ00CxpkFazqdDSR99pCjaMXAX2ScoqKWOTyqp0G3vtdlR0ABbh3G6JPr3XSsfYZhNZnK7LuZ4pKa8gu/s72-w320-h320-c/Chaim%20Ghoori%20-%20L'Shem%20Yichud%20(Chuppah%20Niggun)%20-%20empty_chuppah_scene.webp",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_18.html",
-   "download": "https://archive.org/download/hadshotmusic_20260818/%D7%97%D7%99%D7%99%D7%9D%20%D7%92%D7%95%D7%A8%D7%99%20-%20%D7%9C%D7%A9%D7%9D%20%D7%99%D7%99%D7%97%D7%95%D7%93%20%28%D7%A0%D7%99%D7%92%D7%95%D7%9F%20%D7%97%D7%95%D7%A4%D7%94%29.mp3",
-   "ts": "2026-08-18T12:11:22+00:00"
-  },
-  {
-   "id": "s27d4998c68f58f",
-   "title": "אברומי בלומנברג - אני מאמין",
-   "text": "דור לדור יביע אומר: אברומי בלומנברג בסינגל מרגש ללחן של אביו - \"אני מאמין\"קשר בין-דורי מיוחד מוליד יצירה חסידית חדשה ונוגעת ללב: הזמר אברומי בלומנברג משיק את \"אני מאמין\" - סינגל ספוג געגוע וציפייה לגאולה השלמה, המבוסס על לחן שחיבר אביו, ר' אלימלך בלומנברג.\"אני מאמין באמונה שלימה בביאת המשיח,ואף על פי שיתמהמה, עם כל זה…",
-   "image": "data/media/418227018e30357d.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoWr1FOAZS9K3Ytk-MccLYp4K_OS0EXi33tX-kntG7pGGRSnbXGnqKfsyk0jGYvUglmHVCDB7duUlut4usp4rWsfvnkVFPimLtMtKnD6Z9Csg8kfqxRVRsZ9HUa0_s8wMIKegscywiuITj9CiHB6rHNvfo_Xp6kDLIDjZpHus3eXyWthNLaaqkcrJROzUt/s72-w320-h320-c/Ani%20Maamin%20%E2%80%93%20Avrumi%20Blumenberg%20-%20Spotify%20Cover_.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_17.html",
-   "download": "https://archive.org/download/hadshotmusic_20260817/%D7%90%D7%91%D7%A8%D7%95%D7%9E%D7%99%20%D7%91%D7%9C%D7%95%D7%9E%D7%A0%D7%91%D7%A8%D7%92%20-%20%D7%90%D7%A0%D7%99%20%D7%9E%D7%90%D7%9E%D7%99%D7%9F.mp3",
-   "ts": "2026-08-17T17:21:19+00:00"
   }
  ]
 }
