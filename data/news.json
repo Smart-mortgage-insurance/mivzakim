@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31T20:04:34.123184+00:00",
+ "updated": "2026-08-31T23:23:44.331835+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,19 @@
  "count": 150,
  "items": [
   {
+   "id": "s2a2e06d09bdcaf",
+   "title": "מרדכי בן דוד - ובטובך הגדול",
+   "text": "זכור לנו אהבת הקדמונים: מרדכי בן דוד משחרר לחן חדש לראש השנה - \"ובטובך הגדול\"קשר עמוק מחבר בין הימים הנוראים לבין פרשת עקידת יצחק. לא במקרה קריאת התורה של ראש השנה עוסקת בעקידה, וכפי שמובא בגמרא לגבי תקיעת שופר: \"אמר רבי אבהו, למה תוקעין בשופר של איל? אמר הקדוש ברוך הוא: תקעו לפני בשופר של איל, כדי שאזכור לכם עקידת…",
+   "image": "data/media/d2a587d2082b392d.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjM5J16JY-3xXI-9JCZ-ihGr5WnR_4u9N7iRxlakgmGaudNpeq-JWRTbeozNiNsSRYZAzGXHHMWiDKbUYjm0bvxMGTOk1GvHPNuttBjdroMeIUWggSsYfngIOEsOuuWjMIBp1hGuQ3ZGH1VlHzhNt5qA1l7f_FN2S2hlW9XLqDbD5N10mU0DaJttUFcmML/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%95%D7%91%D7%98%D7%95%D7%91%D7%9A%20%D7%94%D7%92%D7%93%D7%95%D7%9C.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_895.html",
+   "download": null,
+   "ts": "2026-08-31T22:56:26+00:00"
+  },
+  {
    "id": "s464f398b7cd5bf",
    "title": "דובי מייזעלס, בנצי שטיין ומקהלת נשמה - הבן יקיר",
    "text": "חידוש מרגש לימי הסליחות: דובי מייזלס, בנצי שטיין ומקהלת 'נשמה' בביצוע לשיר - \"הבן יקיר\"כאשר היצירה \"הבן יקיר\" יצאה לאור לפני ארבע שנים במסגרת האלבום \"תנועות\" של המלחין ואיש החסד רבי יואל ישראל זופניק (ובביצועו של מרדכי בן דוד), היא הייתה חלק מפרויקט גדוש שכלל 14 רצועות בביצוע אומנים שונים. כפי שקורה לא פעם באלבומים…",
@@ -79,6 +92,71 @@
    "link": "https://newsmusic.blogspot.com/2026/08/blog-post_31.html",
    "download": "https://archive.org/download/hadshotmusic_20260831/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%20%D7%90%D7%95%D7%9C%D7%9E%D7%9F%20%26%20%D7%99%D7%A6%D7%97%D7%A7%20%D7%A9%D7%95%D7%A8%20-%20%D7%A8%D7%95%D7%A6%D7%94%20%D7%94%27%20%D7%90%D7%AA%20%D7%99%D7%A8%D7%90%D7%99%D7%95.mp3",
    "ts": "2026-08-31T19:12:37+00:00"
+  },
+  {
+   "id": "s3aadc7aba604fc",
+   "title": "😈 יצר הרע בהתגלמותו! | הרב גבע בן ששון",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%98%88-%d7%99%d7%a6%d7%a8-%d7%94%d7%a8%d7%a2-%d7%91%d7%94%d7%aa%d7%92%d7%9c%d7%9e%d7%95%d7%aa%d7%95-%d7%94%d7%a8%d7%91-%d7%92%d7%91%d7%a2-%d7%91%d7%9f-%d7%a9%d7%a9%d7%95%d7%9f/",
+   "download": null,
+   "ts": "2026-08-31T18:24:35+00:00"
+  },
+  {
+   "id": "s55bae80185c59f",
+   "title": "להקת \"לעבעדיג\", אברימי לונגר ואברימי מושקוביץ במחרוזת לקראת הנסיעה לאומן | המלך | האזינו",
+   "text": "\"אשרינו שזכינו!\" שמח ונרגש לשתף אתכם במחרוזת ראש השנה ברסלב של התזמורת \"לעבעדיג\" הצעירה והמבטיחה. לקראת ימי הרחמים והסליחות. תודה לה' יתברך על הזכות העצומה להביא את צלילי השופר בתוך יצירה מרוממת זו, לצד מוזיקאים נפלאים מהשורה הראשונה הזמרים– אברימי לונגר ואברימי מושקוביץ, הקלרניתן הנפלא אברימי שטרן והקלידן נחמן שטרן.…",
+   "image": "data/media/8c9091debd9f7b7d.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/qyfx1dpkVog-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%94%d7%a7%d7%aa-%d7%9c%d7%a2%d7%91%d7%a2%d7%93%d7%99%d7%92-%d7%90%d7%91%d7%a8%d7%99%d7%9e%d7%99-%d7%9c%d7%95%d7%a0%d7%92%d7%a8-%d7%95%d7%90%d7%91%d7%a8%d7%99%d7%9e%d7%99-%d7%9e%d7%95%d7%a9/",
+   "download": null,
+   "ts": "2026-08-31T18:03:22+00:00"
+  },
+  {
+   "id": "sfc1dd0b055d7af",
+   "title": "אמן הרגש החסידי הר\"ר מאיר אדלר בסינגל קליפ מרגש | נפתלי'ס גבאי | צפו",
+   "text": "התיעוד נפתלי'ס גבאי עם אמן הרגש החסידי הר\"ר מאיר אדלר הופק במיוחד לכבוד וועידת הוקרה לאלף מאתיים גבאי הצדקה של ארגון הצדקה היהודי הגדול בעולם \"טובה וברכה\", כ\"ח טבת תשפ\"ה עיבוד: בני לאופר הפקת שירה ומוזיקה: שלוימי בוקשפן מיקס: חיים מוזס גיטרות: אבי סינגולדה כתיבה וחירוז: ר’ שלמה שפירא עריכת סקריפט ושירה: הרב מאיר אדלר…",
+   "image": "data/media/ebe793c66823e93a.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/fxa8fd9P5wE-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%9e%d7%9f-%d7%94%d7%a8%d7%92%d7%a9-%d7%94%d7%97%d7%a1%d7%99%d7%93%d7%99-%d7%94%d7%a8%d7%a8-%d7%9e%d7%90%d7%99%d7%a8-%d7%90%d7%93%d7%9c%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a7%d7%9c/",
+   "download": null,
+   "ts": "2026-08-31T17:52:11+00:00"
+  },
+  {
+   "id": "sa9eaadefdb4040",
+   "title": "זאבי פריד ויידל מגישים: מרדכי בן דוד בסינגל לימים הנוראים | ובטובך הגדול | האזינו",
+   "text": "לקראת הימים הנוראים ותקופת הסליחות, ענק הזמר החסידי מרדכי בן דוד משחרר סינגל חדש ומרגש בשם \"ובטובך הגדול\". המילים מתוך תפילת שחרית והסליחות, מבטאות את הזעקה והתפילה של עם ישראל לחסד, רחמים וגאולה שלמה. הלחן של מרדכי בן דוד ואלי לאופר, כשעל העיבוד וההפקה המוזיקלית חתומים אלי לאופר, משה לאופר וניר גראף. \"זו תפילה שאנו…",
+   "image": "data/media/89c14cb84c9dbfaa.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/uFeE8Jr4d-M-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%96%d7%90%d7%91%d7%99-%d7%a4%d7%a8%d7%99%d7%93-%d7%95%d7%99%d7%99%d7%93%d7%9c-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%91%d7%9f-%d7%93%d7%95%d7%93-%d7%91%d7%a1%d7%99/",
+   "download": null,
+   "ts": "2026-08-31T17:49:41+00:00"
+  },
+  {
+   "id": "s8757c77201c656",
+   "title": "רגע לפני ימי הסליחות: איצי אקרמן ואברומי וינברג בדואט מרגש | י\"ג מידות | צפו",
+   "text": "ר' איצי אקרמן ואברומי וינברג חוברים יחד לדואט עוצמתי לימי הרחמים והסליחות \"י\"ג מידות\". השיר מעביר בצורה מוחשית את החסד והאהבה האינסופית של בורא עולם, שמלמד אותנו כיצד להתקרב ולשוב אליו תמיד. על העיבוד וההפקה המוזיקלית הופקדו הצמד אבי ריימי ויאיר בודנר, לצד קליפ מושקע בבימויו של נתי אלבר. מאחורי הלחן עומד המוזיקאי…",
+   "image": "data/media/c7292768fe30bf5a.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/MyC5q3uUzHA-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a8%d7%92%d7%a2-%d7%9c%d7%a4%d7%a0%d7%99-%d7%99%d7%9e%d7%99-%d7%94%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%90%d7%99%d7%a6%d7%99-%d7%90%d7%a7%d7%a8%d7%9e%d7%9f-%d7%95%d7%90%d7%91%d7%a8%d7%95%d7%9e/",
+   "download": null,
+   "ts": "2026-08-31T17:47:24+00:00"
   },
   {
    "id": "seea2697d204bfb",
@@ -1895,78 +1973,6 @@
    "link": "https://music.tora1.com/1795",
    "download": null,
    "ts": "2026-08-23T05:37:44+00:00"
-  },
-  {
-   "id": "se74383dec6379f",
-   "title": "חתונה אשש 🔥🔥 עם הקלידן מוישי ברוין 🎹, הזמר מוישי וייס 🎤 והנשפן יודא בלטי 🎷 (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1794",
-   "download": null,
-   "ts": "2026-08-23T05:34:47+00:00"
-  },
-  {
-   "id": "s5cc159c80bb90d",
-   "title": "יהונתן ישראל - להיות אחר",
-   "text": "המסע אל השינוי: יהונתן ישראל בסינגל רביעי מיוחד לאלול - \"להיות אחר\"הזמר והיוצר הצעיר יהונתן ישראל ממשיך לבסס את מקומו במוזיקה היהודית, וכעת הוא משחרר את \"להיות אחר\" - סינגל רביעי במספר, אותו כתב והלחין בעצמו.היצירה החדשה מגיעה כחלק מתהליך אמנותי ורוחני רציף: לאחר שפתח את דרכו עם השיר המרגש \"אבא שלי\", המשיך עם \"אבא…",
-   "image": "data/media/5fad50a43ecc99b3.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-KBBn6JnnGh_1ZdQVEANZM2N0GM1oThEY8iuNSAlKW9Anv1_NQCQ64ONcP97IfHsqDaf0oohVDcX957___xfHiNnZMxFOPx5bSvL91hd7gkc_oYx1BcfgviWlRKu48-WElZ3lK1BayLUaKzMF2TTXRKU5Bzn5vfQe3gS018zIH1qUIOsptrWcC6k195kQ/s72-w320-h320-c/%D7%9C%D7%94%D7%99%D7%95%D7%AA%20%D7%90%D7%97%D7%A8%20%D7%99%D7%94%D7%95%D7%A0%D7%AA%D7%9F%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_22.html",
-   "download": "https://archive.org/download/hadshotmusic_20260822/%D7%99%D7%94%D7%95%D7%A0%D7%AA%D7%9F%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20-%20%D7%9C%D7%94%D7%99%D7%95%D7%AA%20%D7%90%D7%97%D7%A8.mp3",
-   "ts": "2026-08-22T21:21:51+00:00"
-  },
-  {
-   "id": "s0874676ba26dd3",
-   "title": "מיילך בראונשטיין & אליעזר פרידמן - מנוחה ושמחה",
-   "text": "השילוב האהוב מתעורר לחיים: מיילך בראונשטיין בסינגל שבת מרגש לזכרו של יוסף יושע פרידמן ז\"ל - \"מנוחה ושמחה\"ציון שנה לפטירתו של הבחור יוסף יושע בן אליעזר פרידמן ז\"ל מביא עמו מחווה מוזיקלית מיוחדת: הזמר מיילך בראונשטיין משחרר את הסינגל \"מנוחה ושמחה\", יצירת שבת המוקדשת לעילוי נשמתו.עבור יוסף יושע ז\"ל, זמירות השבת היו חלק…",
-   "image": "data/media/8e4c7edefc7bbdb7.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GggYKagr_eYaCvK8bTVyXGKpcK9hEIux4K_n3x8KmyJKkj2VFxbS-EKH82EpDRQYDAaNVLy5QU0drOdiIW565O377eali4Vv_y_Y_ZWBmhHdFoxoSDxDMCw6I-3LTn2CZIPAitlU8ZWQum9CcwigNl-qJpRGInmdPWakqTr_2c3bh0Af1iTeOPFyOXq6/s72-w320-h320-c/Square%20Cover%20%E2%80%A2%20Menucha%20V'Simcha%20%E2%80%A2%20Meilech%20Braunstein.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_961.html",
-   "download": "https://archive.org/download/hadshotmusic_20260821_1537/%D7%9E%D7%99%D7%99%D7%9C%D7%9A%20%D7%91%D7%A8%D7%90%D7%95%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F%20%26%20%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%20%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F%20-%20%D7%9E%D7%A0%D7%95%D7%97%D7%94%20%D7%95%D7%A9%D7%9E%D7%97%D7%94%20%28%D7%A7%D7%90%D7%91%D7%A8%20-%20%D7%A0%D7%A4%D7%AA%D7%9C%D7%99%20%D7%A7%D7%9E%D7%A4%D7%94%29.mp3",
-   "ts": "2026-08-21T15:40:51+00:00"
-  },
-  {
-   "id": "sfde1c1972f1857",
-   "title": "מנדי וורך - חסידות",
-   "text": "לפרוץ את הגבולות: מנדי וורך ו'טנקיו השם' בסינגל חדש - \"חסידות\"ארגון 'TYH Nation' (טנקיו השם) משחרר סינגל חדש בביצועו של הזמר מנדי וורך. השיר, שנקרא \"חסידות\", נולד מתוך מילות י\"ג מידות של רחמים שאומרים בסליחות והבקשה מהבורא לנהוג איתנו בחסד, ברחמים גמורים ולפנים משורת הדין - מעבר למה שמגיע לנו לפי החשבון המדויק.המסר של…",
-   "image": "data/media/9a31de5709020e78.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN8Thx8g3uQ9pZOv8DH4HHG7pmQ2QKJWnPoxb4d1uKIrxyHaxiPADKN4iLzORjm7Py_6_hTe23TuKNQIyJfDuyyzpFwLswPx7qoj43LbaL9nmipLy0d7TuI0zF1VZOKzhfYPBvQHPC64qFIrFasxgdGnrH68LgdmUZ6ptFqBTK9w4MsPpLy0YB0v0y0liL/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_21.html",
-   "download": "https://archive.org/download/hadshotmusic_20260821_1501/%D7%9E%D7%A0%D7%93%D7%99%20%D7%95%D7%95%D7%A8%D7%9A%20-%20%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%AA.mp3",
-   "ts": "2026-08-21T15:04:17+00:00"
-  },
-  {
-   "id": "scc682826a1d365",
-   "title": "מוישי פרסברגר & יוחנן אורי - ענבי הגפן",
-   "text": "הלהיט שכבש את החתונות מקבל גרסה רשמית: מוישי פרסברגר מציג את \"ענבי הגפן\"מה שהתחיל כאלתור קצר וסוחף על הבמות והפך במהירות לטרנד חם ברשתות, פוגש כעת את האולפן: הזמר והיוצר מוישי פרסברגר משחרר באופן רשמי את הלהיט \"ענבי הגפן\", בעקבות דרישה עצומה מהשטח ומהקהל ברחבות הריקודים.הקטע, שהפך בחודשים האחרונים לחלק בלתי נפרד מעונת…",
-   "image": "data/media/eb97edeac2f43b23.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLeOq3r8eHe6d5D6YC24ho93XoQA1_NZEVCwkcSJU98DSlKqEfPTN2CYyaFH0pUxvPB-QTuUHU1sR4Urom-uELkGL6OSzleWVniE4JGauHGG6OkM2bMrcPOA-nX4D7jvZzzBpEd6fwfRPbgp3qb4_MqFiSTY3HkubE3d-sfBxWwnf-4RPuADnqD8hRHk0a/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%A2%D7%A0%D7%91%D7%99%20%D7%94%D7%92%D7%A4%D7%9F.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_506.html",
-   "download": "https://archive.org/download/hadshotmusic_20260821/%D7%9E%D7%95%D7%99%D7%A9%D7%99%20%D7%A4%D7%A8%D7%A1%D7%91%D7%A8%D7%92%D7%A8%20-%20%D7%A2%D7%A0%D7%91%D7%99%20%D7%94%D7%92%D7%A4%D7%9F.mp3",
-   "ts": "2026-08-21T01:29:41+00:00"
-  },
-  {
-   "id": "sa5399eeb1a809d",
-   "title": "BRICH2NI - (בריכתוני) - כוכבים",
-   "text": "אנרגיות חדשות: BRICH2NI משיק סינגל בכורה קצבי - \"כוכבים\"שילוב יוצא דופן בין סאונד אלקטרוני מודרני, אנרגיה סוחפת ומעטפת ויזואלית מסקרנת: המוזיקאי והיוצר BRICH2NI (בריכתוני) משיק את סינגל הבכורה הרשמי שלו – \"כוכבים\".בשנתיים האחרונות הפך השם BRICH2NI לשיחת היום בסצנת המוזיקה החסידית-אלקטרונית בארה\"ב. האומן והיוצר, שצמח…",
-   "image": "data/media/42cd1ef139a1ea70.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8JuzZBn3vneiZcQY_V7d6iZhsran7XRVqVZCB36GnkXb84KV6tp8owcvRpzUjQj87VvJ2mmA4EU4X1C6gtRGsDL5EQb9QNeuIzS4h4Tl4XTQjufNwoLabjFn9Noa8PAJPfuffahJC-vg4dJTmHwCI-Ea-BVcMqInQ1tzLX_m-Z5QpnTmZ8alFc9YncsKX/s72-w320-h320-c/%E2%80%8F%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA.jpg",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/brich2ni.html",
-   "download": "https://archive.org/download/hadshotmusic_20260820_2214/BRICH2NI%20-%20%28%D7%91%D7%A8%D7%99%D7%9B%D7%AA%D7%95%D7%A0%D7%99%29%20-%20%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D.mp3",
-   "ts": "2026-08-20T22:54:11+00:00"
   }
  ]
 }
