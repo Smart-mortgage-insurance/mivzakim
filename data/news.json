@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T13:25:10.452165+00:00",
+ "updated": "2026-09-02T13:26:38.562685+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s3fd82d62bd62f4",
+   "title": "יוסף גשטטנר בסינגל לקראת ראש השנה | שופר | האזינו",
+   "text": "הזמר והיוצר יוסף גשטטנר, מגיש לקראת ראש השנה את שירו החדש שהלחין במיוחד לימים קדושים אלו – \"שופר\". גשטטנר: \"המילים \"אַשְׁרֵי הָעָם יוֹדְעֵי תְרוּעָה\" תמיד תפסו את תשומת הלב שלי. מה זה אומר בעצם \"לדעת\" ולהבין באמת את קול השופר? עבורי, השופר הוא זעקה, קריאה להתעורר, לעשות תשובה ולחזור לה'. אבל יש עוד שופר שכולנו מחכים…",
+   "image": "data/media/a1e656f0d6ca2f93.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/0gVZmyyd21Q-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%95%d7%a1%d7%a3-%d7%92%d7%a9%d7%98%d7%98%d7%a0%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a9%d7%95%d7%a4%d7%a8/",
+   "download": null,
+   "ts": "2026-09-02T13:25:51+00:00"
+  },
   {
    "id": "s570d51568aaac9",
    "title": "נחמן רוזנברג, משולם זושא, קלמי שווארץ, נותי פוקס, מוישי פרסברגר מגישים | אומן טריפ 2 | האזינו",
@@ -1988,18 +2001,6 @@
    "link": "https://newsmusic.blogspot.com/2026/08/blog-post_669.html",
    "download": "https://archive.org/download/hadshotmusic_20260825_1921/%D7%9E%D7%95%D7%98%D7%99%20%D7%9B%D7%A8%D7%9E%D7%9C%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%90%D7%95%D7%A8%20%D7%91%D7%94%D7%99%D7%A8%D7%95%D7%AA%20%D7%94%D7%93%D7%A8%D7%9A.mp3",
    "ts": "2026-08-25T19:30:19+00:00"
-  },
-  {
-   "id": "s38937af336488a",
-   "title": "גיא עומסי - המלך בשדה",
-   "text": "זמן להתקרב: הרב גיא עומסי מנגיש את המשל החסידי בסינגל בכורה - \"המלך בשדה\"בעיצומו של חודש אלול ולקראת הימים הנוראים, מגיש המחנך והיוצר הרב גיא עומסי את סינגל הבכורה שלו - \"המלך בשדה\", יצירה שמביאה את החום והקרבה המיוחדת של התקופה הזו בשנה.השיר בנוי על המשל החסידי המוכר של \"המלך בשדה\": בחודש אלול הקב\"ה כביכול עוזב את…",
-   "image": "data/media/d367e7018897a2f6.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRhFJSvneh1S0EQCnX1zXTSnqJ20SlC6Ic2xriCEWyl8j3TDQtb_7AWqKQ40MlFffX4p_VBuYEKBOEW0wEbEuVz5hQ54Hc6X630nCUIB6nZVV5YBXQTku6uu2gPhGl0RZH5XcHNT329kfWs3fX2F-XrUh8hXSSSt_SQMt67xlLcjC0brYgVJsXfrZRPDkD/s72-w320-h320-c/%D7%A2%D7%98%D7%99%D7%A4%D7%94%202.webp",
-   "type": "audio",
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_620.html",
-   "download": "https://archive.org/download/hadshotmusic_20260825_1905/%D7%92%D7%99%D7%90%20%D7%A2%D7%95%D7%9E%D7%A1%D7%99%20-%20%D7%94%D7%9E%D7%9C%D7%9A%20%D7%91%D7%A9%D7%93%D7%94.mp3",
-   "ts": "2026-08-25T19:07:33+00:00"
   }
  ]
 }
