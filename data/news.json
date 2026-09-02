@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T00:32:49.076560+00:00",
+ "updated": "2026-09-02T04:27:13.260549+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,19 @@
  "count": 150,
  "items": [
   {
+   "id": "sbdab00caf0687c",
+   "title": "מרדכי כהן - ברחמיך",
+   "text": "עשרה ימים לראש השנה: מרדכי כהן בסינגל תפילה מרגש - \"ברחמיך\"כשברקע ימי הרחמים והסליחות והכמיהה לתפילות החגים, המוזיקאי והמלחין מרדכי כהן מגיש יצירה סוחפת שנכתבה במיוחד עבור ימים אלו: \"ברחמיך\".הזמר והיוצר מרדכי כהן, הפועל בעולם הנגינה היהודית למעלה משני עשורים, משיק כעת - בעיצומו של חודש אלול, ימים ספורים לפני הימים…",
+   "image": "data/media/e0e848e0ab60f185.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGAWJ5VZPF95-zoqLKDF-dsd7SYFm73VQVvlPgEG-gpgk063kHqOeB2Sfx34seTzz1MXo1DsL8t98WpxgtfUmzAj1l-PI_uACtL6XocH_bVb0lZnqwR-rUbfX2Sn781zyDc-nC_13oLCtA2WFYwCfC9TUk3sH-IBmjkpdSy5W-VZtfHmsd5RFl2Yifxirp/s72-w320-h180-c/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%9B%D7%94%D7%9F%20-%20%D7%91%D7%A8%D7%97%D7%9E%D7%99%D7%9A%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_739.html",
+   "download": null,
+   "ts": "2026-09-02T01:02:11+00:00"
+  },
+  {
    "id": "s648388707af465",
    "title": "איצי אקרמן & אברומי וינברג - י״ג מידות",
    "text": "הלחן שנכתב שבוע לפני הפיגוע הופך לשיר סליחות: איצי אקרמן ואברומי וינברג בסינגל חדש - \"י\"ג מידות\"לקראת פתיחת ימי הסליחות של בני אשכנז במוצ\"ש הקרוב, בעל המנגן הרב איצי אקרמן והזמר והיוצר אברומי וינברג משתפים פעולה בדואט חדש ומרגש - \"י\"ג מידות\". השיר נוגע ישר בנשמה ומזכיר לכולנו את הרחמים והחסד של בורא עולם, שרק מחכה…",
@@ -66,6 +79,19 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_01.html",
    "download": "https://archive.org/download/hadshotmusic_20260901/%D7%90%D7%99%D7%A6%D7%99%20%D7%90%D7%A7%D7%A8%D7%9E%D7%9F%20%26%20%D7%90%D7%91%D7%A8%D7%95%D7%9E%D7%99%20%D7%95%D7%99%D7%A0%D7%91%D7%A8%D7%92%20-%20%D7%99%D7%B4%D7%92%20%D7%9E%D7%99%D7%93%D7%95%D7%AA.mp3",
    "ts": "2026-09-01T22:49:24+00:00"
+  },
+  {
+   "id": "s4ec1f1142a9977",
+   "title": "שמוליק קליין – מתקן הנשמות! הקליקו לקליפ המלא",
+   "text": "עריכה: מורדי כהן",
+   "image": "data/media/30973204905b6828.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/XSeV1X2O8zE-hqdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%9e%d7%aa%d7%a7%d7%9f-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-%d7%94%d7%a7%d7%9c%d7%99%d7%a7%d7%95-%d7%9c%d7%a7%d7%9c%d7%99%d7%a4/",
+   "download": null,
+   "ts": "2026-09-01T22:19:03+00:00"
   },
   {
    "id": "s88cb1d511933b6",
@@ -1962,30 +1988,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%99%d7%95%d7%a1%d7%a3-%d7%94%d7%9c%d7%9b%d7%95%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a9%d7%97%d7%9c-%d7%91%d7%a9%d7%91%d7%aa-%d7%aa/",
    "download": null,
    "ts": "2026-08-25T06:23:16+00:00"
-  },
-  {
-   "id": "s578bbca7dc461d",
-   "title": "12 הפסוקים | משה אוסלנדר בשיר מתוך הפרויקט | והנה ה' | צפו",
-   "text": "Thank You Hashem is proud to bring the 12 Pesukim Project to our worldwide audience. This project focuses on a curated collection of foundational biblical verses and Rabbinic sayings that were introduced by the Lubavitcher Rebbe 50 years ago in 1976. His visionary initiative encourages children worldwide to memorize…",
-   "image": "",
-   "image_src": "",
-   "type": "clip",
-   "source": "המנגן",
-   "link": "https://hamenagen.net/12-%d7%94%d7%a4%d7%a1%d7%95%d7%a7%d7%99%d7%9d-%d7%9e%d7%a9%d7%94-%d7%90%d7%95%d7%a1%d7%9c%d7%a0%d7%93%d7%a8-%d7%91%d7%a9%d7%99%d7%a8-%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%a4%d7%a8%d7%95%d7%99%d7%a7/",
-   "download": null,
-   "ts": "2026-08-25T05:06:14+00:00"
-  },
-  {
-   "id": "se131eed7acf40f",
-   "title": "12 הפסוקים | ילדי TYH בשיר מתוך הפרויקט | כי קרוב | צפו",
-   "text": "Thank You Hashem is proud to bring the 12 Pesukim Project to our worldwide audience. This project focuses on a curated collection of foundational biblical verses and Rabbinic sayings that were introduced by the Lubavitcher Rebbe 50 years ago in 1976. His visionary initiative encourages children worldwide to memorize…",
-   "image": "",
-   "image_src": "",
-   "type": "clip",
-   "source": "המנגן",
-   "link": "https://hamenagen.net/12-%d7%94%d7%a4%d7%a1%d7%95%d7%a7%d7%99%d7%9d-%d7%99%d7%9c%d7%93%d7%99-tyh-%d7%91%d7%a9%d7%99%d7%a8-%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%a4%d7%a8%d7%95%d7%99%d7%a7%d7%98-%d7%9b%d7%99-%d7%a7%d7%a8/",
-   "download": null,
-   "ts": "2026-08-25T05:03:58+00:00"
   }
  ]
 }
