@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T22:25:23.880420+00:00",
+ "updated": "2026-09-02T00:09:17.679389+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s648388707af465",
+   "title": "איצי אקרמן & אברומי וינברג - י״ג מידות",
+   "text": "הלחן שנכתב שבוע לפני הפיגוע הופך לשיר סליחות: איצי אקרמן ואברומי וינברג בסינגל חדש - \"י\"ג מידות\"לקראת פתיחת ימי הסליחות של בני אשכנז במוצ\"ש הקרוב, בעל המנגן הרב איצי אקרמן והזמר והיוצר אברומי וינברג משתפים פעולה בדואט חדש ומרגש - \"י\"ג מידות\". השיר נוגע ישר בנשמה ומזכיר לכולנו את הרחמים והחסד של בורא עולם, שרק מחכה…",
+   "image": "data/media/727555d004500459.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwutGwimwGPrmVYGh8I1p1NWacfyvBMclWEBuqY9vcdXzQwC1WTZX8vw9J1wDh-T2E_qQh1yM8LLXgJqsf0KU3r0b8JB0F6TdQ_M1IjVjlrQ4p37aFywejUGcoKwrAcWJr1V3O4A8GnD9gPvmTOP2BqZLNo1FUig75hXoYivCbxrSUBo5WBNj3SsNOFEQ/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%99''%D7%92%20%D7%9E%D7%99%D7%93%D7%95%D7%AA.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_01.html",
+   "download": "https://archive.org/download/hadshotmusic_20260901/%D7%90%D7%99%D7%A6%D7%99%20%D7%90%D7%A7%D7%A8%D7%9E%D7%9F%20%26%20%D7%90%D7%91%D7%A8%D7%95%D7%9E%D7%99%20%D7%95%D7%99%D7%A0%D7%91%D7%A8%D7%92%20-%20%D7%99%D7%B4%D7%92%20%D7%9E%D7%99%D7%93%D7%95%D7%AA.mp3",
+   "ts": "2026-09-01T22:49:24+00:00"
+  },
   {
    "id": "s88cb1d511933b6",
    "title": "מנדי גולדברג & דודי פלדמן - קשר תפילין",
@@ -1973,18 +1986,6 @@
    "link": "https://hamenagen.net/12-%d7%94%d7%a4%d7%a1%d7%95%d7%a7%d7%99%d7%9d-%d7%99%d7%9c%d7%93%d7%99-tyh-%d7%91%d7%a9%d7%99%d7%a8-%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%a4%d7%a8%d7%95%d7%99%d7%a7%d7%98-%d7%9b%d7%99-%d7%a7%d7%a8/",
    "download": null,
    "ts": "2026-08-25T05:03:58+00:00"
-  },
-  {
-   "id": "sdf4c5a4537d07f",
-   "title": "ר' חזקי וייס מארח את מיטב האמנים | מלכות שבמלכות (תקציר האלבום) | האזינו",
-   "text": "Album Sampler from the brand-new album, “Malchus Shebmalchus,” by Roimemu Choir, composed by R’ Cheskie Weisz. תקציר מתוך האלבום החדש ״מלכות שבמלכות״ של מקהלת רוממו, מניגוני ר׳ משה יחזקי' ווייס.",
-   "image": "data/media/3c4aeccdf4632892.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Y8cdB1UfskY-maxresdefault.jpg",
-   "type": "audio",
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a8-%d7%97%d7%96%d7%a7%d7%99-%d7%95%d7%99%d7%99%d7%a1-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%9e%d7%99%d7%98%d7%91-%d7%94%d7%90%d7%9e%d7%a0%d7%99%d7%9d-%d7%9e%d7%9c%d7%9b%d7%95%d7%aa-%d7%a9/",
-   "download": null,
-   "ts": "2026-08-24T22:59:14+00:00"
   }
  ]
 }
