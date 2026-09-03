@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T00:36:45.987072+00:00",
+ "updated": "2026-09-03T04:22:11.953137+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,58 @@
  "count": 150,
  "items": [
   {
+   "id": "sd62493b4aea5f0",
+   "title": "יענקי יוזשעף - מלוך",
+   "text": "לקראת ראש השנה: יענקי יוזשעף מחדש את הניגון העתיק בסינגל חדש - \"מלוך\"לקראת יום הדין, עם ההכנות לרגעי המלכת מלך מלכי המלכים הקב\"ה, משחרר אמן הרגש יענקי יוזשעף ביצוע ייחודי ללחן עתיק יומין המיוחס להרה\"ק רבי מאיר מאפטא זי\"ע, בעל ה'אור לשמים'.מדובר באוצר נגינה היסטורי שעבר מדור לדור במשך כמאתיים שנה וכמעט ונשתכח מלב.…",
+   "image": "data/media/f32e5f26cc476020.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqq07JO9YK7NAl0YrlQibV_oa3qgFvUJ2per8reNaQJhnRh69q15I91SU7u95rU9DdeHtuK8LehtiP-v9xNAvP_q7Z4VREML7SEt-htu5TF8X6Qd68bQGrgJtORPo1yEsbTEfAIfnrqYaK9Ak6c7gjjMMH2D-jCWY9k9iwEvxEg8hxNl-ZUxuZlc98hD03/s72-w320-h320-c/1002370145.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_164.html",
+   "download": "https://archive.org/download/hadshotmusic_20260903_0215/%D7%99%D7%A2%D7%A0%D7%A7%D7%99%20%D7%99%D7%95%D7%96%27%D7%A2%D7%A3%20-%20%D7%9E%D7%9C%D7%95%D7%9A.mp3",
+   "ts": "2026-09-03T02:19:11+00:00"
+  },
+  {
+   "id": "se5ad1875e9dd29",
+   "title": "יוסף גשטטנר - שופר",
+   "text": "לקראת הימים הקדושים: יוסף גשטטנר מגיש סינגל חדש ומעורר - \"שופר\"עם התקרב ימי הרחמים והסליחות וראש השנה הבעל\"ט, משחרר הזמר והיוצר יוסף גשטטנר יצירה חדשה ומרגשת פרי לחנו - \"שופר\". השיר מביא עמו ניגון של התעוררות הלב, המחובר באופן עמוק לאווירת הימים הנוראים.ההשראה לשיר נולדה מתוך התבוננות במאמר הכתוב \"אַשְׁרֵי הָעָם…",
+   "image": "data/media/d33e6d93b78f2875.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx_fFHAzMpF_mVvF05BpJ3CjaJRLb-DdDbGncAgqdQCK_OLzqql8aObqG426zWr-W0lN7P-lf5Gaw2y1yZwLWlDeYnGorN0LfwcMaHSijoNxGfA6jvYtLr87ayxBsilf4KYTYpPcN5JmzuphXyCda_k7JaQm_PINHXKUH8xDMvWwVhtan5zFGStncnAmNY/s72-w320-h320-c/Yosef%20Gestetner%20-%20Shofar.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_833.html",
+   "download": "https://archive.org/download/hadshotmusic_20260903_0147/%D7%99%D7%95%D7%A1%D7%A3%20%D7%92%D7%A9%D7%98%D7%98%D7%A0%D7%A8%20-%20%D7%A9%D7%95%D7%A4%D7%A8.mp3",
+   "ts": "2026-09-03T01:51:05+00:00"
+  },
+  {
+   "id": "s237ebb432b10fb",
+   "title": "רועי בן עופר - לך אלי",
+   "text": "לקראת היום הקדוש: רועי בן עופר מבצע את הפיוט \"לך א-לי תשוקתי\"לקראת עשרת ימי תשובה ויום הכיפורים, הזמר והיוצר רועי בן עופר מגיש כעת סינגל חדש עם לחן מקורי ומרגש למילות הפיוט \"לך א-לי תשוקתי\" המיוחס לר' אברהם אבן עזרא ע\"ה.אין יהודי שלא מכיר את הפיוט המרגש \"לך אלי תשוקתי\" הנאמר על ידי בני עדות המזרח והתימנים בפתחו של…",
+   "image": "data/media/7500a2c19bf0ee22.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42yIA2B2Fh1u_ScCmUwtAu00dIFDqn4Bq9PslbaOZaXCPa_dxDl6_VRtLVNb3_rkHl7BR61kJYse3RWGNn1qSgf3ZBgg-ZaA52KCyKiKSMCoGs09PxrzsFmhXqu32rhLiYCrJZyC4C3VXajly0fj9oCvOs1zUaPLRzWhXBZbZghYFx-5Knyx7hA_jlMPp/s72-w320-h320-c/%D7%9C%D7%9A%20%D7%90-%D7%9C%D7%99.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_915.html",
+   "download": "https://archive.org/download/hadshotmusic_20260903_0108/%D7%A8%D7%95%D7%A2%D7%99%20%D7%91%D7%9F%20%D7%A2%D7%95%D7%A4%D7%A8%20-%20%D7%9C%D7%9A%20%D7%90%D7%9C%D7%99.mp3",
+   "ts": "2026-09-03T01:18:37+00:00"
+  },
+  {
+   "id": "sac7bac52c4da9b",
+   "title": "בערל פיידן - היום",
+   "text": "לקראת הימים הנוראים: בערל פיידן בסינגל תפילה מרגש - \"היום\"חודשיים בלבד לאחר שהשיק את אלבום הבכורה המצליח שלו \"חגיגה\", כוכב המוזיקה היהודית מארה\"ב, בערל פיידן, צולל אל אווירת חודש אלול והימים הנוראים ומגיש סינגל רגש עוצמתי בלחנו של אלחנן אלחדד.תקופת הימים הנוראים והכנות לחגי תשרי כבר בפתח, והאמנים הבולטים בתעשיית…",
+   "image": "data/media/37c44af95a0ae0f9.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWGkNcGMOW_t0obD1yjyT5O1WsqgulZ51tLUXmtVV_-NPy38HWYps_oycm078HlDrSXa8pKdSMXvDBCQxTM55_gnugC6gL8WvCvutclIBuIHNZzkrRJWyECHKKsANTh8rXKs5DCjOmRDNPT3Zyk7OkLDsRHkw5HBx0Tzps_mFbxizV5hzgw2yu-ux112/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%94%D7%99%D7%95%D7%9D.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_02.html",
+   "download": "https://archive.org/download/hadshotmusic_20260903/%D7%91%D7%A2%D7%A8%D7%9C%20%D7%A4%D7%99%D7%99%D7%93%D7%9F%20-%20%D7%94%D7%99%D7%95%D7%9D.mp3",
+   "ts": "2026-09-03T00:50:01+00:00"
+  },
+  {
    "id": "s451e2ba23a350b",
    "title": "האחים כליף בגרסת טראנס ל\"אור בהירות הדרך\" – לקראת ראש השנה באומן | צפו",
    "text": "לקראת ראש השנה והקיבוץ אצל רבינו הקדוש באומן, שמחים להגיש לכם יצירה מקפיצה וסוחפת -אור בהירות הדרך . לאחר שכל השנים התנגן לנו בדרכים הקדושות לאומן והכניס לנו כיסופים וגעגועים לרבינו הקדוש, החליטו האחים כליף ב\"ה להוציא את השיר עם הנגיעה המוזיקלית שלהם. בעיבוד והפקה חדשים, באווירה ובהגשה של קצב מקפיץ וסוחף בגרסת טראנס,…",
@@ -68,6 +120,19 @@
    "ts": "2026-09-02T22:07:59+00:00"
   },
   {
+   "id": "s5d22960094f7a5",
+   "title": "אלחנן ענבל – בזה הבית",
+   "text": "",
+   "image": "data/media/d3495373a6da9a04.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/llgVA1sPnR0-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%97%d7%a0%d7%9f-%d7%a2%d7%a0%d7%91%d7%9c-%d7%91%d7%96%d7%94-%d7%94%d7%91%d7%99%d7%aa/",
+   "download": null,
+   "ts": "2026-09-02T18:26:59+00:00"
+  },
+  {
    "id": "sc0478628bf85be",
    "title": "הרב יגאל כהן | ראש השנה 2026 | איך עושים תשובה?",
    "text": "",
@@ -79,6 +144,19 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-2026-%d7%90%d7%99%d7%9a-%d7%a2%d7%95%d7%a9%d7%99%d7%9d-%d7%aa%d7%a9%d7%95%d7%91%d7%94/",
    "download": null,
    "ts": "2026-09-02T18:24:32+00:00"
+  },
+  {
+   "id": "sdab0606cb9b863",
+   "title": "אלחנן ענבל – \"נשמת כל חי\" עם אריאל כהן",
+   "text": "",
+   "image": "data/media/1284ddf09ca03b4d.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/xfbZT6KMyAE-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%97%d7%a0%d7%9f-%d7%a2%d7%a0%d7%91%d7%9c-%d7%a0%d7%a9%d7%9e%d7%aa-%d7%9b%d7%9c-%d7%97%d7%99-%d7%a2%d7%9d-%d7%90%d7%a8%d7%99%d7%90%d7%9c-%d7%9b%d7%94%d7%9f/",
+   "download": null,
+   "ts": "2026-09-02T18:18:09+00:00"
   },
   {
    "id": "s9b04479bf3f74b",
@@ -1925,83 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95-%d7%99%d7%95%d7%a9%d7%a2-%d7%92%d7%a4%d7%9f-kasheleg-shia-gefen-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95/",
    "download": null,
    "ts": "2026-08-26T03:16:49+00:00"
-  },
-  {
-   "id": "s0b996a7216dc58",
-   "title": "אביחי מזרחי - תבוא כמו שאתה",
-   "text": "אין דבר העומד בפני התשובה: בעיצומם של ימי התשובה, אביחי מגיש סינגל מרגש - \"תבוא כמו שאתה\"\"די לי שהכעסתי את בוראי פעם אחת\" - המשפט הטעון הזה, שמקורו בסיפור שמובא במדרש, עומד במרכז הסינגל החדש והאישי של הזמר והיוצר אביחי מזרחי: \"תבוא כמו שאתה\".המדרש (בראשית רבה) מספר על יוסף משיתא, יהודי שחי בזמן חורבן בית המקדש השני.…",
-   "image": "data/media/4f0f92d0123b67dd.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhazYpu9k3XQl95tbXVvyaFlUb0w_iQWrDKvEan4w72Z6BDnqCNEKXeL5CT6Ymqwk5c3vxTGj0L2gWE30wgPddpqpCuN_WLRM7VNuv-b4rSbbdUgkcvOQG4Y1GpRBBnJPWLYvbbCHkFxsGRyIinOIxiIjh9DaF40iGAq1znd31u-qyEJnKccKlzYExavmPj/s72-w320-h320-c/%D7%AA%D7%91%D7%95%D7%90%20%D7%9B%D7%9E%D7%95%20%D7%A9%D7%90%D7%AA%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg.jpeg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_964.html",
-   "download": "https://archive.org/download/hadshotmusic_20260825_2308/%D7%90%D7%91%D7%99%D7%97%D7%99%20%D7%9E%D7%96%D7%A8%D7%97%D7%99%20-%20%D7%AA%D7%91%D7%95%D7%90%20%D7%9B%D7%9E%D7%95%20%D7%A9%D7%90%D7%AA%D7%94.mp3",
-   "ts": "2026-08-25T23:13:57+00:00"
-  },
-  {
-   "id": "sbebb038ba5ac38",
-   "title": "שלמה מחדש את המלך בשדה גם בשפה הצרפתית | המלך בשדה | האזינו",
-   "text": "",
-   "image": "data/media/38d820a2af49722e.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Ratf6F_XrEc-maxresdefault.jpg",
-   "type": "audio",
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%9c%d7%9e%d7%94-%d7%9e%d7%97%d7%93%d7%a9-%d7%90%d7%aa-%d7%94%d7%9e%d7%9c%d7%9a-%d7%91%d7%a9%d7%93%d7%94-%d7%92%d7%9d-%d7%91%d7%a9%d7%a4%d7%94-%d7%94%d7%a6%d7%a8%d7%a4%d7%aa%d7%99%d7%aa/",
-   "download": null,
-   "ts": "2026-08-25T20:17:27+00:00"
-  },
-  {
-   "id": "s8a32f5629d4a46",
-   "title": "מקהלת רוממו – אהר'לע סאמעט | Malchus Shebmalchus | מקהלת רוממו | מניגוני ר' משה יחזקי' וייס | מלכות שבמלכות",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95-%d7%90%d7%94%d7%a8%d7%9c%d7%a2-%d7%a1%d7%90%d7%9e%d7%a2%d7%98-malchus-shebmalchus-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e/",
-   "download": null,
-   "ts": "2026-08-25T19:46:57+00:00"
-  },
-  {
-   "id": "sb4d08d395e5781",
-   "title": "מקהלת רוממו – פיני איינהורן | Ozer Dalim | Pini Einhorn | מקהלת רוממו | מניגוני ר' משה יחזקי' וייס | מלכות שבמלכות",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95-%d7%a4%d7%99%d7%a0%d7%99-%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f-ozer-dalim-pini-einhorn-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa/",
-   "download": null,
-   "ts": "2026-08-25T19:44:34+00:00"
-  },
-  {
-   "id": "s54ba85c4fb3c4a",
-   "title": "מקהלת רוממו – שמוליק קליין | Sukkah Zi | Shmulik Klein | מקהלת רוממו | מניגוני ר' משה יחזקי' וייס | מלכות שבמלכות",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95-%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-sukkah-zi-shmulik-klein-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8/",
-   "download": null,
-   "ts": "2026-08-25T19:40:23+00:00"
-  },
-  {
-   "id": "sb1b92a91a238e3",
-   "title": "מקהלת רוממו – שמחה בירנהאק | Der Koznitzer Sulachti | מקהלת רוממו | מניגוני ר' משה יחזקי' וייס | מלכות שבמלכות",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8%d7%95%d7%9e%d7%9e%d7%95-%d7%a9%d7%9e%d7%97%d7%94-%d7%91%d7%99%d7%a8%d7%a0%d7%94%d7%90%d7%a7-der-koznitzer-sulachti-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%a8/",
-   "download": null,
-   "ts": "2026-08-25T19:38:44+00:00"
   }
  ]
 }
