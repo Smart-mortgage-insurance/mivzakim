@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T09:20:54.444465+00:00",
+ "updated": "2026-09-04T13:05:43.164867+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,84 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s20e120bd54ec20",
+   "title": "להתחבר לצדיקים בכל מחשבה ומעשה: \"הריני מקשר\" בביצוע DJ Farbreng, משה סטורך ו-AFikoMAN | האזינו",
+   "text": "TYH Nation מציגים את \"הריני מקשר\", יצירה המבוססת על התפילה המיוחסת לרבי נתן מברסלב, בעקבות הדרכתו של רבי נחמן מברסלב על ההתקשרות לצדיקים קודם התפילה. הרעיון העומד מאחורי השיר הוא החיבור לצדיקים שמקדישים את כוחותיהם הרוחניים כדי לרומם ולקרב כל נשמה אל הקב\"ה. ההתקשרות אליהם מקבלת כאן משמעות רחבה: לא רק ברגעי התפילה, אלא…",
+   "image": "data/media/6f875390cd3ff84b.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/c38Z7cBtzC4-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%94%d7%aa%d7%97%d7%91%d7%a8-%d7%9c%d7%a6%d7%93%d7%99%d7%a7%d7%99%d7%9d-%d7%91%d7%9b%d7%9c-%d7%9e%d7%97%d7%a9%d7%91%d7%94-%d7%95%d7%9e%d7%a2%d7%a9%d7%94-%d7%94%d7%a8%d7%99%d7%a0%d7%99-%d7%9e/",
+   "download": null,
+   "ts": "2026-09-04T12:42:25+00:00"
+  },
+  {
+   "id": "sf1f3361e4e8af6",
+   "title": "לקראת ימי הרחמים והסליחות | אברהם יהודה ניימן מגיש מחרוזת | הכנה לימי הרחמים והסליחות | האזינו",
+   "text": "בסיעתא דשמיא לקראת ימי הרחמים והסליחות, שמח לשתף אתכם במחרוזת שירים מיוחדת שיוצאת ישר מהלב. \"הימים האלו מביאים איתם ניגונים של תשובה, כיסופים ותקווה להתחלה חדשה. אספתי במחרוזת אחת כמה מהשירים שהכי מרגשים אותי, במטרה לפתוח את הלב ולהכניס את כולנו לאווירה המרוממת של הימים הנוראים. האזנה נעימה ומעוררת! הפקה מוזיקלית:…",
+   "image": "data/media/e9d8f1aa96a5ad7b.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a7.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%99%d7%9e%d7%99-%d7%94%d7%a8%d7%97%d7%9e%d7%99%d7%9d-%d7%95%d7%94%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%99%d7%94%d7%95%d7%93%d7%94/",
+   "download": null,
+   "ts": "2026-09-04T12:02:24+00:00"
+  },
+  {
+   "id": "sea71fe76402436",
+   "title": "נהוראי מלאכי בסינגל מרגש | אל תרים ידיים | צפו בקליפ מילים",
+   "text": "סינגל חדש שנולד מהמקום הכי אמיתי. על הנפילות, על המלחמות, על הרגעים שאנחנו מאכזבים אפילו את עצמנו — ועל הבחירה לקום בכל פעם מחדש. העיקר לבקש מאלוקים שיתן לנו כוח ושלא יוותר עלינו להאזנה בכל חנויות הסטרימינג: עיבוד והפקה מוסיקלית : בן אביב ונתנאל ביטון ביטים קלידים תכנותים : בן אביב ונתנאל ביטון גיטרות ובס : עילי סידי…",
+   "image": "data/media/2c98a9e1b70789a7.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/My9EjG7WrXg-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a0%d7%94%d7%95%d7%a8%d7%90%d7%99-%d7%9e%d7%9c%d7%90%d7%9b%d7%99-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%a8%d7%92%d7%a9-%d7%90%d7%9c-%d7%aa%d7%a8%d7%99%d7%9d-%d7%99%d7%93%d7%99%d7%99%d7%9d/",
+   "download": null,
+   "ts": "2026-09-04T10:52:24+00:00"
+  },
+  {
+   "id": "s10eddf9f190407",
+   "title": "יאיר דוד - רק אתה",
+   "text": "להתעורר ולנצח: יאיר דוד בסינגל אלול קצבי - \"רק אתה\"לקראת יום הדין, בימי הרחמים והסליחות בהם הלבבות נפתחים ומבקשים קרבת אלקים, הזמר יאיר דוד מגיש סינגל תפילה חדש ומחזק - \"רק אתה\".יאיר דוד, המוכר מפעילותו הציבורית כיו\"ר המועצה הדתית בקרית עקרון וממעשי החסד שלו למען משפחות ובני נוער, מביא אל המוזיקה את המפגש היומיומי עם…",
+   "image": "data/media/e694d994f3baa219.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilxMTegu-MSN2qaj6Tu_qWVt8h2qN_kk1WHPAvNtB9hWoVyNcexEqj6vzsc57eNm2nYAWPUHXaOCXuK7s24nhxTSeXMO4GU3xJy01rt-9ZoAKJMMj0X1TH-tteZSQpy2tHw_93t8jVfvFYBAMDw_GAgMdN1z0d-J_Srluiq6a56puJBVSbtxmGJtJvXe-u/s72-w320-h320-c/%D7%99%D7%90%D7%99%D7%A8%20%D7%93%D7%95%D7%93%20-%20%D7%A8%D7%A7%20%D7%90%D7%AA%D7%94%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA.jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_04.html",
+   "download": null,
+   "ts": "2026-09-04T10:47:13+00:00"
+  },
+  {
+   "id": "scedcee8aed546b",
+   "title": "ישיבת ההסדר נווה דקלים מאשדוד מגישים מחרוזת מיוחדת | מחרוזת שבת קודש | צפו",
+   "text": "עיבוד והפקה מוסיקלית: ישי גבריאלי בס: אבי יפרח גיטרות: אריאל אהרון קלידים: אורי כהן קלרינט/סקסופון: יהושע לרנר תופים: ישי גבריאלי קולות ושירה: יהושע לרנר, אלון בננו, ישי גבריאלי, ר׳ אלעד פורטל, ר׳ בועז עמירה, הראל וולס, ר׳ עידו זאב, הרב דוד גבריאלי מיקס ומאסטרינג: אורי כהן צילום קליפ ועיצוב עטיפה: מאודי אלכסלסי בימוי…",
+   "image": "data/media/5437a049abd72eec.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/f7FWo6fjCwA-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%94%d7%94%d7%a1%d7%93%d7%a8-%d7%a0%d7%95%d7%95%d7%94-%d7%93%d7%a7%d7%9c%d7%99%d7%9d-%d7%9e%d7%90%d7%a9%d7%93%d7%95%d7%93-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%9e/",
+   "download": null,
+   "ts": "2026-09-04T10:00:48+00:00"
+  },
+  {
+   "id": "sa9c8bc0957ec41",
+   "title": "שרוליק לפקוביץ ומרדכי הס מגישים | קול דודי בקאבר כינור | צפו",
+   "text": "",
+   "image": "data/media/bf9d9df3c9d66401.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/iWI_0mNH2JI-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%a8%d7%95%d7%9c%d7%99%d7%a7-%d7%9c%d7%a4%d7%a7%d7%95%d7%91%d7%99%d7%a5-%d7%95%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%a7%d7%95%d7%9c-%d7%93%d7%95/",
+   "download": null,
+   "ts": "2026-09-04T09:58:35+00:00"
+  },
   {
    "id": "sda561716b063ea",
    "title": "סוד ראש השנה ומה תפקדו של השופר? | הרב הרצל חודר",
@@ -1925,84 +2003,6 @@
    "link": "https://music.tora1.com/1811",
    "download": null,
    "ts": "2026-08-27T06:16:00+00:00"
-  },
-  {
-   "id": "s25955b65f25821",
-   "title": "חתונה אנרגטית במיוחד עם הזמר מנדי וייס, הקלידן אושי לנדסמן והנשפן יצחק האוער (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1810",
-   "download": null,
-   "ts": "2026-08-27T05:46:29+00:00"
-  },
-  {
-   "id": "sa66d33da695f29",
-   "title": "קעמפ אשכול עם הקלידן מרדכי שלום רוזנפלד והזמר אהרי ברוין – כ\"ה אב ה'תשפ\"ו (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * * אהבתם? לפרטים והזמנות: אהרן ברוין זמר אירועים וחתונות טלפון: 052-717-0777 אימייל: ABGB777@gmail.com",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1807",
-   "download": null,
-   "ts": "2026-08-27T05:44:11+00:00"
-  },
-  {
-   "id": "s1237e9bab55067",
-   "title": "חתונה עם הקלידן יוחנן קליימן, הזמר יואלי דוידוביץ והנשפן מרדכי בן שם (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1803",
-   "download": null,
-   "ts": "2026-08-27T05:09:16+00:00"
-  },
-  {
-   "id": "s28d2594f27515c",
-   "title": "חתונה אנרגטית וסוחפת עם הקלידן יוסי רוזנפלד, הזמר מרדכי קירשנבוים והנשפן יוסי וולנר – ג' אלול ה'תשפ\"ו – סעודה אלולית מרגשת במיוחד! (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1804",
-   "download": null,
-   "ts": "2026-08-27T05:06:18+00:00"
-  },
-  {
-   "id": "s9ea3b626e85a5e",
-   "title": "פיני איינהורן - מתגעגע",
-   "text": "דווקא עכשיו להתקרב: בעיצומו של חודש התשובה, פיני איינהורן מגיש את - \"מתגעגע\"גם ברגעים שבהם נדמה שאיבדנו את הדרך והתרחקנו, הקב\"ה עדיין מחכה. כוכב הזמר החסידי פיני איינהורן משחרר את \"מתגעגע\" - סינגל מרגש ומנחם השואב את השראתו מתורתו של הרה\"ק רבי פנחס מקוריץ זי\"ע. השיר נושא עמו מסר פשוט ועוצמתי: \"כל מה שאדם מתרחק מהשם…",
-   "image": "data/media/daf51563772cf703.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4-URvsC3aYz2ao5rj1XPsgxxMUlYH1CKwjpSIDAK7fMduYjj0Wu6i7UQDqGbWT9bBdOtk9A0fZf_C1xUJUMewqJs2lHb8hbbGmF6GNjLYCAn41S1sm4SENBVK7_UxNFRCtbon2YZHzWkgmeEVGCIR1iZbItyH_G70Qz4hMeK3GNjRswXmOSLPFfR6KNO/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%9E%D7%AA%D7%92%D7%A2%D7%92%D7%A2.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_730.html",
-   "download": null,
-   "ts": "2026-08-27T01:27:20+00:00"
-  },
-  {
-   "id": "s0c69304b5f2064",
-   "title": "מנדי פורטנוי בביצוע קלידים מרהיב לשירו של ישי ריבו | אתה זוכר | האזינו",
-   "text": "Imagine if we could follow a Kosel dove around the world as it witnesses the beauty and majesty of Klal Yisroel during these holy days… Mendy Portnoy — ELUL (A Live Piano Album) Six years after Introspection, Mendy Portnoy returns to the piano with ELUL, a collection of unscripted, spontaneous interpretations of High…",
-   "image": "data/media/7ddf7808414b8cd8.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/3MmjFpwhMlA-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a0%d7%93%d7%99-%d7%a4%d7%95%d7%a8%d7%98%d7%a0%d7%95%d7%99-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%a7%d7%9c%d7%99%d7%93%d7%99%d7%9d-%d7%9e%d7%a8%d7%94%d7%99%d7%91-%d7%9c%d7%a9%d7%99%d7%a8/",
-   "download": null,
-   "ts": "2026-08-26T23:34:33+00:00"
   }
  ]
 }
