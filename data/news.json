@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T13:16:24.436629+00:00",
+ "updated": "2026-09-04T13:17:55.392289+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2592df99a3173c",
+   "title": "מוקי סלמון - אולי היום",
+   "text": "הכוכב הצעיר מארה\"ב מוקי סלמון מגיש את סינגל הבכורה שלו - \"אולי היום\".מוקי סלמון, כוכב זמר צעיר שרק לא מזמן חגג בר מצווה וכבר הספיק לצבור קילומטראז' מרשים: מהופעות ענק על הבמות הגדולות לצד מיטב גדולי הזמר, זכיה במקום הראשון בתוכנית הכישרונות של 24six, ועד לרגעים מרגשים שבהם הוא משמח חתנים וכלות בחופות ברחבי העולם. כעת…",
+   "image": "data/media/3e4f1b5da8902d35.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOrggGvb9ZWu7MutyIJiiaVzZRy3zEf8hvzU_VfAA1u2aonuB7UCKYXAgHSlBcooFwuHhCKzG9HPcBR4eVZWIL9F1-vcx9-5Gu6TnDcBBhP8XgD-1bRKO37bSOga1RUrP-dz0SjiMu_pndZUL40BDcgn4knDRKrei4ePaDsdLLY6xjNgv9nnwFjlRbQxW3/s1600/%D7%9E%D7%95%D7%A7%D7%99%20%D7%A1%D7%9C%D7%95%D7%9E%D7%95%D7%9F%20-%20%D7%90%D7%95%D7%9C%D7%99%20%D7%94%D7%99%D7%95%D7%9D%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_722.html",
+   "download": "https://archive.org/download/hadshotmusic_20260904_1313/%D7%9E%D7%95%D7%A7%D7%99%20%D7%A1%D7%9C%D7%9E%D7%95%D7%9F%20-%20%D7%90%D7%95%D7%9C%D7%99%20%D7%94%D7%99%D7%95%D7%9D.mp3",
+   "ts": "2026-09-04T13:16:31+00:00"
+  },
   {
    "id": "s20e120bd54ec20",
    "title": "להתחבר לצדיקים בכל מחשבה ומעשה: \"הריני מקשר\" בביצוע DJ Farbreng, משה סטורך ו-AFikoMAN | האזינו",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%99%d7%95%d7%a1%d7%a4%d7%99-%d7%90%d7%9c%d7%95%d7%9c-2026-%d7%99%d7%a9-%d7%93%d7%a8%d7%9a-%d7%9c%d7%94%d7%99%d7%a0%d7%a6%d7%9c-%d7%9e%d7%9b/",
    "download": null,
    "ts": "2026-08-27T06:23:28+00:00"
-  },
-  {
-   "id": "s9ed613f9239c04",
-   "title": "תיקיית הדרייב של 'פול ווליום' (סטים מוכנים מדהימים!)",
-   "text": "--> לחצו כאן לקישור רגיל לתיקייה בדרייב --> לחצו כאן לתצוגה מקדימה במסך מלא להלן חלונית תצוגה מקדימה לתוכן התיקייה: * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1811",
-   "download": null,
-   "ts": "2026-08-27T06:16:00+00:00"
   }
  ]
 }
