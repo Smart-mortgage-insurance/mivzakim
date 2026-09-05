@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T05:29:08.040125+00:00",
+ "updated": "2026-09-05T09:01:50.736786+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s44dd4edc4e25c7",
+   "title": "איצי וולדנר – Tefilas Chana – תפילת חנה | Yitzy Waldner & Shulem Lemmer (Prod. by Yanky Posen)",
+   "text": "BS\"D Chana, the mother of the great Shmuel Hanavi, came to the Mishkan in Shiloh with a broken, hopeful heart. She poured out her soul before Hashem, ואשפוך את נפשי לפני ה׳, asking for the gift of a child who would grow to bring the word of Hashem into the world. Her tefillah became the model for all of us. From…",
+   "image": "data/media/70fc3c35d74bc185.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f-1f3fb.png",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%99%d7%a6%d7%99-%d7%95%d7%95%d7%9c%d7%93%d7%a0%d7%a8-tefilas-chana-%d7%aa%d7%a4%d7%99%d7%9c%d7%aa-%d7%97%d7%a0%d7%94-yitzy-waldner-shulem-lemmer-prod-by-yanky-posen/",
+   "download": null,
+   "ts": "2026-09-04T22:50:34+00:00"
+  },
   {
    "id": "s2592df99a3173c",
    "title": "מוקי סלמון - אולי היום",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%93%d7%a0%d7%99%d7%90%d7%9c-%d7%91%d7%9f-%d7%97%d7%99%d7%99%d7%9d-%d7%9e%d7%a8%d7%92%d7%a9-%d7%a9%d7%a2%d7%a8%d7%99-%d7%a9%d7%9e%d7%99%d7%9d-%d7%a4%d7%aa%d7%97-%d7%94%d7%90%d7%96%d7%99%d7%a0/",
    "download": null,
    "ts": "2026-08-27T07:56:00+00:00"
-  },
-  {
-   "id": "s7bc21ca11771b3",
-   "title": "הרב יהודה יוספי | אלול 2026 | יש דרך להינצל מכל הצרות!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%99%d7%95%d7%a1%d7%a4%d7%99-%d7%90%d7%9c%d7%95%d7%9c-2026-%d7%99%d7%a9-%d7%93%d7%a8%d7%9a-%d7%9c%d7%94%d7%99%d7%a0%d7%a6%d7%9c-%d7%9e%d7%9b/",
-   "download": null,
-   "ts": "2026-08-27T06:23:28+00:00"
   }
  ]
 }
