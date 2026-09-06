@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T01:32:01.392731+00:00",
+ "updated": "2026-09-06T05:54:55.125597+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sf807dcb0b79ac8",
+   "title": "דוד פדר – ״שומע קול בכיות״ We cry. We pray. We bring our tears🤍",
+   "text": "",
+   "image": "data/media/53fe3d8903417e94.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/ZbGTSGLjWPQ-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%95%d7%93-%d7%a4%d7%93%d7%a8-%d7%b4%d7%a9%d7%95%d7%9e%d7%a2-%d7%a7%d7%95%d7%9c-%d7%91%d7%9b%d7%99%d7%95%d7%aa%d7%b4-we-cry-we-pray-we-bring-our-tears%f0%9f%a4%8d/",
+   "download": null,
+   "ts": "2026-09-06T01:10:32+00:00"
+  },
+  {
+   "id": "s45c5292dd22ce0",
+   "title": "שמואל גלבר & אבי אילסון – שמע קולנו | Shmuel Gelber & avi Ilson – shma kolnu",
+   "text": "להאזנה לשיר בשירותי הסטרימינג: עקבו אחרי אבי: יוטיוב ◄ https://youtube.com/@AviIlson אינסטגרם ◄ https://www.instagram.com/aviilson פייסבוק ◄ https://www.facebook.com/AviIlsonOfficial עיבוד והפקה מוזיקלית: שמואל גלבר, נהוראי גלבר תופים: אמיר אהרון גיטרות: חשמלי ואקוסטי אריאל אהרון בס: אריה וולניץ עריכה ומיקס: יניב בלאס…",
+   "image": "data/media/0a2ebd5d515f47f0.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/sn4RUt4ySwI-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%92%d7%9c%d7%91%d7%a8-%d7%90%d7%91%d7%99-%d7%90%d7%99%d7%9c%d7%a1%d7%95%d7%9f-%d7%a9%d7%9e%d7%a2-%d7%a7%d7%95%d7%9c%d7%a0%d7%95-shmuel-gelber-avi-ilso/",
+   "download": null,
+   "ts": "2026-09-05T20:09:28+00:00"
+  },
+  {
+   "id": "sc80867194ee167",
+   "title": "הרב יגאל כהן | ראש השנה 2026 | לשוב לאבא באהבה",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-2026-%d7%9c%d7%a9%d7%95%d7%91-%d7%9c%d7%90%d7%91%d7%90-%d7%91%d7%90%d7%94%d7%91%d7%94/",
+   "download": null,
+   "ts": "2026-09-05T19:35:27+00:00"
+  },
   {
    "id": "s01a99819628e89",
    "title": "\"א דערהויבענע חתונה\": הקלידן מרדכי שלום רוזנפלד, הזמר עקיבא רוטמן והנשפן בנימין קלצקין – י\"א אלול ה'תשפ\"ו (הורדה מהדרייב)",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9c%d7%a8%d7%90%d7%a9%d7%95%d7%a0%d7%94-%d7%91%d7%a7%d7%95%d7%9c%d7%95-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%92%d7%9c%d7%99%d7%9c%d7%99-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%90%d7%99%d7%a9%d7%99/",
    "download": null,
    "ts": "2026-08-27T11:15:32+00:00"
-  },
-  {
-   "id": "sbbd7ccd31ac043",
-   "title": "הזמר והיוצר דניאל אדמון מגיש | אני מחפש אותך | האזינו",
-   "text": "",
-   "image": "data/media/40363ec086a4a23a.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/NFhhwPA3flE-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%a0%d7%99-%d7%9e%d7%97%d7%a4%d7%a9-%d7%90%d7%95%d7%aa%d7%9a-%d7%93%d7%a0%d7%99%d7%90%d7%9c-%d7%90%d7%93%d7%9e%d7%95%d7%9f/",
-   "download": null,
-   "ts": "2026-08-27T09:44:18+00:00"
-  },
-  {
-   "id": "s6751e5e2ddb849",
-   "title": "פינחס מלך כהן בסינגל קליפ מרגש ועוצמתי | חלק ממך | צפו",
-   "text": "עיבוד והפקה מוסיקלית: אלי קשת תופים: נתי אוחנה גיטרה בס: אבי יפרח גיטרות: נועם (חרגול) בורג כינור: Nina כלי הקשה: גולן קולש קלידים פסנתר ותכנותים: אלי קשת קולות: פינחס מלך כהן. לואי עלי. אלי קשת. מיקס ומאסטרינג: Chris selim-mixdown online בימוי, צילום ועריכה: אמיר בן אהרן (אנדי מדיה) שחקנים: נסי אלפסי, מאור בניזרי,…",
-   "image": "data/media/f792ee5c056b16a0.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/OZqi7dPtZlU-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a4%d7%99%d7%a0%d7%97%d7%a1-%d7%9e%d7%9c%d7%9a-%d7%9b%d7%94%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a7%d7%9c%d7%99%d7%a4-%d7%9e%d7%a8%d7%92%d7%a9-%d7%95%d7%a2%d7%95%d7%a6%d7%9e%d7%aa%d7%99/",
-   "download": null,
-   "ts": "2026-08-27T09:31:18+00:00"
-  },
-  {
-   "id": "sa7db67bd2c6a52",
-   "title": "תומר מתנה בסינגל קליפ מרגש במיוחד | תחזור הביתה | צפו",
-   "text": "בע״ה נעשה ונצליח להאזנה בכל הפלטפורמות: https://orcd.co/tomertachzor עיבוד והפקה מוסיקלית: תומר מתנה תופים: גלעד שמואלי בס: מיכאל פרוסט גיטרות: עידן שניאור פסנתר, קלידים ותכנותים: תומר מתנה מיקס ומאסטרינג: תומר מתנה צילום תמונת יח״צ, עטיפה: ירין שיימן עיצוב עטיפה: ניראל גמליאל קליפ – בימוי, צילום ועריכה: רפי קריספין…",
-   "image": "data/media/12b7ed66adff5b93.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Mbf99o5ffH0-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%aa%d7%95%d7%9e%d7%a8-%d7%9e%d7%aa%d7%a0%d7%94-%d7%aa%d7%97%d7%96%d7%95%d7%a8-%d7%94%d7%91%d7%99%d7%aa%d7%94-%d7%a7%d7%9c%d7%99%d7%a4-tomer-matana/",
-   "download": null,
-   "ts": "2026-08-27T09:10:43+00:00"
   }
  ]
 }
