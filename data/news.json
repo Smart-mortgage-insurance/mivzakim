@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T04:56:41.864648+00:00",
+ "updated": "2026-09-07T09:43:11.716885+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s97e176e860e817",
+   "title": "מרדכי דוד זעליקאוויטש – זמר חסידי לאירועים קטנים",
+   "text": "מרדכי דוד זעליקאוויטש זמר חסידי לאירועים קטנים הקלטות לדוגמה: הזמר מרדכי דוד זעליקאוויטש שר בקבלת פנים עם הקלידן מושי מנדלסון והנשפן נתן עטינגער קטע ראשון: הפעלה השהיה הנמכה הגברה הורדה * * * קטע שני: הפעלה השהיה הנמכה הגברה הורדה * * * קטע שלישי: הפעלה השהיה הנמכה הגברה הורדה * * * אהבתם? לפרטים והזמנות: – טלפון:…",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1821",
+   "download": "https://share.tora1.com/s/Mgg3dQonqy7YwLg/download",
+   "ts": "2026-09-07T07:27:59+00:00"
+  },
+  {
+   "id": "s85e410e97acf11",
+   "title": "אבי אילסון & שמואל גלבר - שמע קולנו",
+   "text": "דואט משפחתי לימי הרחמים והסליחות: אבי אילסון והשווער שמואל גלבר בסינגל מרגש - \"שמע קולנו\"לחן חסידי אותנטי שנכתב לפני רבע מאה קם לתחייה בדואט מרגש בין כוכב המוזיקה היהודית אבי אילסון לבין חמיו, המלחין שמואל גלבר. חיבור בין-דורי של רגש, תפילה ופשטות חסידית של פעם.ישנם לחנים שאינם כפופים לטרנדים חולפים - הם ממתינים…",
+   "image": "data/media/862e7ef19566da15.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LyI7Fb3cyKzY3pda5CvlDqhA0Bk8EPVZYtvw0Sn4dUacRlC4IwKcKSOE08XQs8iQ0kBTgSDxWfLSzVthc9BGUuJM0K6ndJZyFEO7pEX1t3l8Sp4Y5QQR1XIvP00f8jN3nnMkdXHk6uBWnSjnh1n49I-ifQfrYS5LdUkezWpt6iC-1o3nd7SVEdYibPD_/s72-w320-h320-c/%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_07.html",
+   "download": "https://archive.org/download/hadshotmusic_20260907_0700/%D7%90%D7%91%D7%99%20%D7%90%D7%99%D7%9C%D7%A1%D7%95%D7%9F%20%26%20%D7%A9%D7%9E%D7%95%D7%90%D7%9C%20%D7%92%D7%9C%D7%91%D7%A8%20-%20%D7%A9%D7%9E%D7%A2%20%D7%A7%D7%95%D7%9C%D7%A0%D7%95.mp3",
+   "ts": "2026-09-07T07:04:09+00:00"
+  },
+  {
+   "id": "s403ea7253ee82b",
+   "title": "שלוימי בוקשפן - בראש השנה",
+   "text": "מהכיסא של המפיק אל המיקרופון: שלוימי בוקשפן בסינגל בכורה מרגש - \"בראש השנה\"לאחר שנים שבהן פעל מאחורי הקלעים, הפיק עשרות פרויקטים מוזיקליים מורכבים וליווה מקרוב את ההפקות הגדולות בתעשייה, היוצר והמפיק שלוימי בוקשפן פותח פרק חדש ומבטיח בקדמת הבמה.בעיצומם של ימי הרחמים והסליחות ולקראת הימים הנוראים, משחרר בוקשפן את סינגל…",
+   "image": "data/media/9eda045c996ed476.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja0MDdJVF_MpaqGKC7fVkFEIZWDCQRA6kGVF7AzDLRFfMO_pbIvT5TI_YZy3l9RS-pE1M7YQhjfaw4-S4NVO0UVGZ04Pku3rxUCxIYYeF0XPTcJ-6l0ErgCPlQqu8OjN7_YELXJxDJCXdF6fKhfrL-6RNbteLn7Swd_1KT2c_j9hZq1ezvGPee22xqIXhQ/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%91%D7%A8%D7%90%D7%A9%20%D7%94%D7%A9%D7%A0%D7%94.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_920.html",
+   "download": "https://archive.org/download/hadshotmusic_20260907/%D7%A9%D7%9C%D7%95%D7%99%D7%9E%D7%99%20%D7%91%D7%95%D7%A7%D7%A9%D7%A4%D7%9F%20-%20%D7%91%D7%A8%D7%90%D7%A9%20%D7%94%D7%A9%D7%A0%D7%94.mp3",
+   "ts": "2026-09-07T06:36:14+00:00"
+  },
+  {
+   "id": "s819a61552cd08f",
+   "title": "יענקי יוזשעף בביצוע מרגש לימים הנוראים: ניגון \"מלוך\" העתיק",
+   "text": "יענקי יוזשעף בביצוע מרגש לימים הנוראים: ניגון \"מלוך\" העתיק לקראת הימים הנוראים, עת המלכת הקב\"ה על העולם, מגיש כוכב הרגש יענקי יוזשעף ביצוע מרטיט ומרגש ללחן הקדוש של הרה\"ק ר' מאיר מאפטא זי\"ע בעל ה'אור לשמים', המותאם במיוחד למילים \"מלוך\". הניגון העתיק והמיוחס, שכמעט אבד מן העולם לאחר כ-200 שנה, חודש בשנים האחרונות ע\"י…",
+   "image": "data/media/1b38be47b38dc186.jpg",
+   "image_src": "https://share.tora1.com/s/iRKcsrYBznzmJeT/preview?1788774162",
+   "type": "audio",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1819",
+   "download": "https://share.tora1.com/s/FboBj2Gd3aWSAzo/download",
+   "ts": "2026-09-07T05:14:43+00:00"
+  },
   {
    "id": "sdc395f482b2a56",
    "title": "מקבץ חתונות חדשות מהקלידן המוכשר נחמן ישראל (הורדה מהדרייב)",
@@ -1951,58 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/08/blog-post_346.html",
    "download": null,
    "ts": "2026-08-30T01:31:15+00:00"
-  },
-  {
-   "id": "sa027ff72ab2c73",
-   "title": "שלמה שטאובר - בספר חיים",
-   "text": "תפילה לחיים: לקראת עשרת ימי תשובה שלמה שטאובר משחרר את הסינגל החדש - \"בספר חיים\"הזמר והחזן שלמה שטאובר מוציא סינגל חדש בשם \"בספר חיים\", בעיבוד והפקה מוזיקלית של איתמר שקדי. מילות השיר לקוחות מתוך התפילה הנאמרת מדי יום במהלך עשרת ימי תשובה - מראש השנה ועד יום הכיפורים.\"בְּסֵֽפֶר חַיִּים בְּרָכָה וְשָׁלוֹם וּפַרְנָסָה…",
-   "image": "data/media/d8c678ddb8ecff22.png",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgV_DeB0YA21Ud5FhiLBC6s-8aJmTHipJxCJgyzkE5UW8iC5c-7FK28CD5NscMoRSvrZsH4zcZbvGrLH7jdfK7xTvyhkd1jmiLjhScTVxubzq_F2r-ddfzpR_qRw5PU8u9yRXllczjVIczovWK4O99jnZmx1fRmLkhDDq0Cy9zKv8Ep8OlWt1Xc9DWxyS/s1600/%D7%91%D7%A1%D7%A4%D7%A8%203000.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_29.html",
-   "download": null,
-   "ts": "2026-08-30T00:24:51+00:00"
-  },
-  {
-   "id": "s8f31b870516ffa",
-   "title": "אשרינו שזכינו | יואל בריזל בסינגל לקראת ראש השנה | האזינו",
-   "text": "מה הייתי עושה בלי רבינו? שאלה שאני שואל את עצמי לפעמים. ואני לא מחפש תשובה. אלא מודה לה' בכל יום ויום על שזיכה אותנו להתחבר לצדיקים, שמכירים טוב את החולשות שלנו, ולא מתייאשים מאיתנו, דוחפים אותנו להמשיך ולהתקדם הלאה, ולזכור שיש תכלית בעולם, וכל אחד ואחד יש את התפקיד שלו. נקודה השייך לליבו 'בעת הזאת'. מה היינו עושים…",
-   "image": "data/media/090091b7cf93850f.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/oXccZBgCAzg-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%a9%d7%a8%d7%99%d7%a0%d7%95-%d7%a9%d7%96%d7%9b%d7%99%d7%a0%d7%95-%d7%99%d7%95%d7%90%d7%9c-%d7%91%d7%a8%d7%99%d7%96%d7%9c-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa/",
-   "download": null,
-   "ts": "2026-08-29T22:47:03+00:00"
-  },
-  {
-   "id": "s8855bcc59417b7",
-   "title": "הנני העני | יהודה בורן וארהל׳ה שארף בביצוע משותף | צפו",
-   "text": "ביצוע במקור: שלום למר פסנתר: יוסף בן סניור הקלטות: יהודה בורן מיקס ומאסטירנג: מאיר שילוני צילום: ברוך סולומון",
-   "image": "data/media/a59af5c26eb7476c.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/Xh9jd1ePUjs-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a0%d7%a0%d7%99-%d7%94%d7%a2%d7%a0%d7%99-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%91%d7%95%d7%a8%d7%9f-%d7%95%d7%90%d7%a8%d7%94%d7%9c%d7%b3%d7%94-%d7%a9%d7%90%d7%a8%d7%a3-%d7%91%d7%91%d7%99%d7%a6/",
-   "download": null,
-   "ts": "2026-08-29T22:45:07+00:00"
-  },
-  {
-   "id": "s1d04fa58c12ef3",
-   "title": "המלך בשדה | איציק פאמפ מארח את עקיבא גרומן {קאבר} | צפו",
-   "text": "הקלידן יצחק פאמפ מארח את הבעל מנגן עקיבא גרומן: \"המלך בשדה\" לקראת הימים נוראים הקלידן יצחק פאמפ מארח את הבעל מנגן עקיבא גרומן לקאבר על הניגון העממי \"המלך בשדה\" המרמז על הימים בהם אנו נמצאים חודש אלול. הקליפ הקצר מעביר בצורה וויזואלית את פירוש המילים. עיבוד: איציק פאמפ & יונתן בלוי צילום ועריכה: ש.כ. יח\"ץ: קונטרול…",
-   "image": "data/media/28ba4a8f3b39bf81.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/c2AbskDSwkY-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%9e%d7%9c%d7%9a-%d7%91%d7%a9%d7%93%d7%94-%d7%90%d7%99%d7%a6%d7%99%d7%a7-%d7%a4%d7%90%d7%9e%d7%a4-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%a2%d7%a7%d7%99%d7%91%d7%90-%d7%92%d7%a8%d7%95/",
-   "download": null,
-   "ts": "2026-08-29T22:44:20+00:00"
   }
  ]
 }
