@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T00:30:32.400919+00:00",
+ "updated": "2026-09-07T04:33:25.274879+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sdc395f482b2a56",
+   "title": "מקבץ חתונות חדשות מהקלידן המוכשר נחמן ישראל (הורדה מהדרייב)",
+   "text": "חתונה שמחה במיוחד עם הקלידן המוכשר נחמן ישראל, הזמר התותח לייבי דייטש והנשפן העולה נחמן רובינשטיין – כ\"א אב ה'תשפ\"ו הורדה דרך דרייב (תיקייה) * * * חתונת השנה בחברון עם הקלידן התותח נחמן ישראל, הזמר האחד והיחיד פייבל פראנק, הנשפן נתן דווין והגיטריסט נתן אלרז – כ\"ב אב ה'תשפ\"ו בקישור זה יש בעיה (בצד שלנו), זה יתוקן בעזרת…",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1816",
+   "download": null,
+   "ts": "2026-09-07T01:53:47+00:00"
+  },
   {
    "id": "sfbab21d324d199",
    "title": "גדולי הזמר החסידי מגישים יחד עם להקת פריילעך | אפריון – מחרוזת מושקעת שנבנתה סביב לחניו של אנשי פרידמן | צפו",
@@ -144,6 +157,19 @@
    "link": "https://hamenagen.net/%d7%97%d7%aa%d7%9f-%d7%aa%d7%95%d7%a8%d7%94-%d7%90%d7%94%d7%a8%d7%9c%d7%a2-%d7%a1%d7%90%d7%9e%d7%a2%d7%98-%d7%90%d7%91%d7%a8%d7%9e%d7%99-%d7%a9%d7%99%d7%a3-%d7%a1%d7%a0%d7%93%d7%99-%d7%a9%d7%98/",
    "download": null,
    "ts": "2026-09-06T17:14:01+00:00"
+  },
+  {
+   "id": "s4794b2abfda478",
+   "title": "דרשו – מצטרפים ללימוד הלכה ושולחים שמות לתפילה בראדין",
+   "text": "",
+   "image": "data/media/ee9bce50bd9771c2.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/lel8jcyXNJk-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%a8%d7%a9%d7%95-%d7%9e%d7%a6%d7%98%d7%a8%d7%a4%d7%99%d7%9d-%d7%9c%d7%9c%d7%99%d7%9e%d7%95%d7%93-%d7%94%d7%9c%d7%9b%d7%94-%d7%95%d7%a9%d7%95%d7%9c%d7%97%d7%99%d7%9d-%d7%a9%d7%9e%d7%95%d7%aa/",
+   "download": null,
+   "ts": "2026-09-06T15:49:22+00:00"
   },
   {
    "id": "sa52ee3c2a2d57b",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%9e%d7%9c%d7%9a-%d7%91%d7%a9%d7%93%d7%94-%d7%90%d7%99%d7%a6%d7%99%d7%a7-%d7%a4%d7%90%d7%9e%d7%a4-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%a2%d7%a7%d7%99%d7%91%d7%90-%d7%92%d7%a8%d7%95/",
    "download": null,
    "ts": "2026-08-29T22:44:20+00:00"
-  },
-  {
-   "id": "sd4a936e5a05dc9",
-   "title": "📖 תן לי תפילה – שמואל | נעימות ללא מילים | שביל הניגון",
-   "text": "",
-   "image": "data/media/a578f1ce1f1be930.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/7qcMM0Ha91s-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%f0%9f%93%96-%d7%aa%d7%9f-%d7%9c%d7%99-%d7%aa%d7%a4%d7%99%d7%9c%d7%94-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%a9/",
-   "download": null,
-   "ts": "2026-08-29T22:03:26+00:00"
-  },
-  {
-   "id": "s96268508851477",
-   "title": "שערי שמיים פתח | יונתן שטרן ופינחס כהן בדואט ווקאלי | האזינו",
-   "text": "לחן: פנחס ביכלר ביצוע: יונתן שטרן ופינחס כהן עיבוד, קולות והפקה מוזיקלית: יונתן שטרן עטיפה וקליפ מילים: יונתן שטרן",
-   "image": "data/media/bec66a4012239ef9.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/LNU9WG_srVM-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%a2%d7%a8%d7%99-%d7%a9%d7%9e%d7%99%d7%99%d7%9d-%d7%a4%d7%aa%d7%97-%d7%99%d7%95%d7%a0%d7%aa%d7%9f-%d7%a9%d7%98%d7%a8%d7%9f-%d7%95%d7%a4%d7%99%d7%a0%d7%97%d7%a1-%d7%9b%d7%94%d7%9f-%d7%91/",
-   "download": null,
-   "ts": "2026-08-29T21:42:26+00:00"
   }
  ]
 }
