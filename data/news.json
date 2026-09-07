@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T15:40:32.785642+00:00",
+ "updated": "2026-09-07T19:18:14.140819+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s596aa6eaa19a39",
+   "title": "🥉 👀 מה יגידו עליי? הפחד שעוצר אותנו בחיים! | הרב גבע בן ששון",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%a5%89-%f0%9f%91%80-%d7%9e%d7%94-%d7%99%d7%92%d7%99%d7%93%d7%95-%d7%a2%d7%9c%d7%99%d7%99-%d7%94%d7%a4%d7%97%d7%93-%d7%a9%d7%a2%d7%95%d7%a6%d7%a8-%d7%90%d7%95%d7%aa%d7%a0%d7%95-%d7%91%d7%97/",
+   "download": null,
+   "ts": "2026-09-07T18:24:31+00:00"
+  },
+  {
+   "id": "s79758cac984e28",
+   "title": "מאיר בן דרור - המלך בשדה",
+   "text": "ממריאים לימים הנוראים: מאיר בן דרור בשיר חדש ומפתיע - \"המלך בשדה\"דווקא בעונה שבה המדפים המוזיקליים עמוסים בשירי רגש וסליחות, מאיר בן דרור משיק סינגל קצבי ומלא שמחה עם קליפ AI מבית מתי שריקיתקופת הימים הנוראים מוכרת בעיקר בזכות הלחנים השקטים והבלדות המרגשות שממלאות את חלל האוויר. מי שמבקש לרענן את הפלייליסט של חודש…",
+   "image": "data/media/6bcb26c8f4c5071f.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-ImMRePNDGDdrlWG9gLuWROs38cjFZIuWgRpakV6TnmLD4GoD0i1TGK7Ut9e20wgkVnzMfr-XcdwjgmaohMlP5FPYvEGVzHdQ1oRFOJoevvkzskozUjmS9eGTc6q_0B-7qpedqkoEOWwYXiZYuKLE6O6yRoMysz90MIMekrsTE9V0YL86BObnRfWhWkN/s72-w320-h320-c/%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpeg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_174.html",
+   "download": "https://archive.org/download/hadshotmusic_20260907_1742/%D7%9E%D7%90%D7%99%D7%A8%20%D7%91%D7%9F%20%D7%93%D7%A8%D7%95%D7%A8%20-%20%D7%94%D7%9E%D7%9C%D7%9A%20%D7%91%D7%A9%D7%93%D7%94.mp3",
+   "ts": "2026-09-07T17:44:41+00:00"
+  },
+  {
+   "id": "sc7b67dd42e31f0",
+   "title": "יהודה צבי (הערשל) אייזנבאך - הבן יקיר לי",
+   "text": "לקראת ימי הרחמים והסליחות: ר' הערשל אייזנבאך ודודי קאליש בסינגל מרגש - \"הבן יקיר לי\"בעל המנגן ר' יהודה צבי אייזנבאך מגיש לחן חסידי מרומם מתוך פסוקי ה'זכרונות' בתפילת מוסף של ראש השנה, בליווי עיבוד עשיר של דודי ושמואל קאליש בשילוב מילים באידיש.ר' יהודה צבי אייזנבאך המכונה בפי כל \"הערשל\" נולד בלונדון ועלה בצעירותו…",
+   "image": "data/media/105bcfe29c6cb6b9.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoV9dSV_waW1LqQVVZObVou4HsrVftGuluO2G3a3d1fuc7jjBflGuv7jVzgyqw5XlVGs6ctXWaV6qZCIcTFNz8qgVtm0_Dj7Xiuf5KsbO2dFuJD1UwxmZ2ylGIs2VyesSr_bn1HDS_W6p0cN1sM24GQDqdNamw1IE8ymYVDd_TUUotHmfD58vbJQuC6L5d/s72-w320-h320-c/%D7%94%D7%91%D7%9F%20%D7%99%D7%A7%D7%99%D7%A8%20%D7%9C%D7%99_%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%A6%D7%91%D7%99%20%D7%90%D7%99%D7%99%D7%96%D7%A0%D7%91%D7%9A&%D7%93%D7%95%D7%93%D7%99%20%D7%A7%D7%90%D7%9C%D7%99%D7%A97.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_43.html",
+   "download": "https://archive.org/download/hadshotmusic_20260907_1711/%D7%94%D7%A8%D7%91%20%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%A6%D7%91%D7%99%20%28%D7%94%D7%A2%D7%A8%D7%A9%D7%9C%29%20%D7%90%D7%99%D7%99%D7%96%D7%A0%D7%91%D7%90%D7%9A%20-%20%D7%94%D7%91%D7%9F%20%D7%99%D7%A7%D7%99%D7%A8%20%D7%9C%D7%99.mp3",
+   "ts": "2026-09-07T17:14:56+00:00"
+  },
+  {
+   "id": "s1e9ca254695ca9",
+   "title": "קובי מירסקי וישיבת ליקווד בקולולם סוחף | והביאותים | צפו",
+   "text": "קובי מירסקי בביצוע קולולם יחד עם ישיבת ליקווד – \"והביאותים\" מתוך הקעמפ של ישיבת ליקווד קובי מירסקי ובחורי הישיבה מגישים ביצוע מיוחד ומרגש לשיר \"והביאותים\" בסגנון קולולם – מלא רגש, הרמוניה וקול אחד שמחבר לבבות. קלידים: יאיר בודנר גיטרה: דניאל כהן סקסופון: מיקס: אבי ריימי",
+   "image": "data/media/1ef80c0832e5e48c.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/N1VHoNJyUWM-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a7%d7%95%d7%91%d7%99-%d7%9e%d7%99%d7%a8%d7%a1%d7%a7%d7%99-%d7%95%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%9c%d7%99%d7%a7%d7%95%d7%95%d7%93-%d7%91%d7%a7%d7%95%d7%9c%d7%95%d7%9c%d7%9d-%d7%a1%d7%95%d7%97/",
+   "download": null,
+   "ts": "2026-09-07T15:40:23+00:00"
+  },
   {
    "id": "s927b3b149203b2",
    "title": "סט פיוטים לימי הרחמים והסליחות – פול ווליום",
@@ -1951,58 +2003,6 @@
    "link": "https://music.tora1.com/1812",
    "download": "https://share.tora1.com/s/ppjMfJWsaZAS8Br/download",
    "ts": "2026-08-30T09:03:50+00:00"
-  },
-  {
-   "id": "sa4ab0f400bf37f",
-   "title": "ישראל פרץ מגיש | מחרוזת סליחות | האזינו",
-   "text": "תפילות המחרוזת: קמתי באשמורת, אליך ה‘, ה‘ שמעתי שמעך, אל נורא עלילה עיבוד והפקה מוזיקלית: דניאל פרידמן גיטרות ובגלמה: יוני קיסר תופים: אבי אבידני בס: אבי יפרח כינורות וכינור סולו: טורקיה קלידים ותכנותים: דניאל פרידמן הקלטת שירה מיקס: מאסטרינג יניב בלאס קולות: דניאל פרידמן, ישראל פרץ, ישראל כהן, יניב בלאס צילום: יהודה…",
-   "image": "data/media/45360c76f6457c11.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/KFGZpulv2C0-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a4%d7%a8%d7%a5-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
-   "download": null,
-   "ts": "2026-08-30T08:34:04+00:00"
-  },
-  {
-   "id": "sa8cc780baa6a2e",
-   "title": "ישראל דיין מגיש | מחרוזת ימים נוראים (סליחות) | האזינו",
-   "text": "",
-   "image": "data/media/a3f0d640a617c519.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/w5wn4wr-Qcc-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%93%d7%99%d7%99%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%a1%d7%9c/",
-   "download": null,
-   "ts": "2026-08-30T08:33:16+00:00"
-  },
-  {
-   "id": "sd8a5fa9f6d5389",
-   "title": "מאיר ענגעל במחרוזת חופה מרגשת – Chuppah Medley | צפו",
-   "text": "Following the explosive success of his high-voltage Funk Medley ABLAZE, dynamic vocalist Mayer Engel shifts gears from the dance floor to the spiritual moment of celebration with a stunning new chuppah medley titled ASCENT. Mayer takes soul-stirring chuppah melodies and infuses them with his signature warmth,…",
-   "image": "data/media/274fd54611332fb8.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/ZZdyXz-T6ro-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%90%d7%99%d7%a8-%d7%a2%d7%a0%d7%92%d7%a2%d7%9c-%d7%91%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%97%d7%95%d7%a4%d7%94-%d7%9e%d7%a8%d7%92%d7%a9%d7%aa-chuppah-medley-%d7%a6%d7%a4%d7%95/",
-   "download": null,
-   "ts": "2026-08-30T08:03:35+00:00"
-  },
-  {
-   "id": "s77d9450f40e8f5",
-   "title": "בנג׳מין בוזגלו בסינגל לכבוד רבי חיים פינטו זצ\"ל | נשירה לכבודו | צפו",
-   "text": "בשם ה׳ נעשה ונצליח Toujours un Honneur et un immense plaisir de chanter pour le Tsadik Rabbi Haim Pinto Zatsal. Voici la chanson officielle de la Hiloula du Tsadik (2026) – BHM. Partagez, partagez en l’honneur du Tsadik. עיבוד והפקה מוזיקלית: Eliran Avital להזמנת הופעות: 050-5400636 ניהול וייצוג אישי: L&b Production ⸻…",
-   "image": "data/media/4f97d3bf75a945f2.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4de.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%91%d7%a0%d7%92%d7%b3%d7%9e%d7%99%d7%9f-%d7%91%d7%95%d7%96%d7%92%d7%9c%d7%95-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%9b%d7%91%d7%95%d7%93-%d7%a8%d7%91%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%a4/",
-   "download": null,
-   "ts": "2026-08-30T08:01:32+00:00"
   }
  ]
 }
