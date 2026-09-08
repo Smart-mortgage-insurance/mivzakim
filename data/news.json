@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T09:39:59.969669+00:00",
+ "updated": "2026-09-08T13:44:13.800919+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2fce9b99cb52ee",
+   "title": "מאיר נוסנצווייג - רצון",
+   "text": "מתוך הניסיון והאמונה: היוצר מאיר נוסנצווייג בסינגל-קליפ חדש - \"רצון\"לאחר שריגש את הלבבות בשירו \"פוקח עורים\" לצד הרה\"ח ר' מיכאל שניצלער זצ\"ל, מגיש האברך והיוצר מאיר נוסנצווייג יצירה אישית ומחזקת • השיר החדש מבקש להזכיר לכל יהודי כי גם מתוך הקשיים שבדרך, ניתן למצוא תעצומות נפש ולעשות את רצון השם מתוך שמחה.לאחר ההד הנרחב…",
+   "image": "data/media/3be52834d8fa96e0.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2X2IRFQxlytIBiZYW4A1DX908WXkk-Fixloz8I_ydIjtbdI5mslT46bgpvnNY8ie_4wcb8Lx2Pcx-Wrd9GeorbcoLqXK6472UK-6sORcYCIZusHhIkNetpOdWbbtrHvFjFQjwGYI-HLhRvJR2gDXJKaDrBOFr3JTBIgAdovWaoJfRsdI9Yxk3XCTC5ug-/s72-w320-h320-c/Ratzon%20-%20Meir%20Nussenzweig%20-%20Spotify%20Cover_.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_557.html",
+   "download": "https://archive.org/download/hadshotmusic_20260908_1134/%D7%9E%D7%90%D7%99%D7%A8%20%D7%A0%D7%95%D7%A1%D7%A0%D7%A6%D7%95%D7%95%D7%99%D7%99%D7%92%20-%20%D7%A8%D7%A6%D7%95%D7%9F.mp3",
+   "ts": "2026-09-08T11:36:50+00:00"
+  },
+  {
+   "id": "sb1b5dbbf577769",
+   "title": "ישי ריבו & להקת זושא - דרך העושים מאהבה",
+   "text": "תומת ישרים תנחם: ישי ריבו ולהקת 'זושא' בשיר חדש לראש השנה - כדרך העושים מאהבהלקראת הימים הנוראים, משיק האמן והיוצר ישי ריבו סינגל חדש ומרגש: \"דרך העושים מאהבה\", בו הוא מארח את הצמד היהודי-אמריקאי 'להקת זושא'. זהו החיבור המוזיקלי הראשון של ריבו המשלב בין שירה בעברית לבתים באנגלית.השיר החדש נולד מתוך רגע של עיון עמוק…",
+   "image": "data/media/a8579a108a9cf831.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5DPJgZrMXF2-TBx41RyA-muLzqxnz-Cm6odD0ssrUpQEXDppBc5L0zMfqVHzVXKvSnkLjtoz4HOtLdKHb5bG0y-xqyBDTcgWuryyI9wl98x-oO7ucYK0rWLvOWU3WeM97_bZsY3r5NIhyIx8g8o1axI8igRzA7uOXSlZze47bthscGWmDnhdSwhmaWHU/s72-w320-h320-c/%D7%93%D7%A8%D7%9A%203000.jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_08.html",
+   "download": "https://archive.org/download/hadshotmusic_20260908_1053/%D7%99%D7%A9%D7%99%20%D7%A8%D7%99%D7%91%D7%95%20%26%20%D7%9C%D7%94%D7%A7%D7%AA%20%D7%96%D7%95%D7%A9%D7%90%20-%20%D7%93%D7%A8%D7%9A%20%D7%94%D7%A2%D7%95%D7%A9%D7%99%D7%9D%20%D7%9E%D7%90%D7%94%D7%91%D7%94.mp3",
+   "ts": "2026-09-08T11:05:09+00:00"
+  },
   {
    "id": "s77ac598795d73b",
    "title": "יוסף ממיה מגיש | \"אבינו מלכנו\" 👑 | סט ימים הנוראים – משירי אברהם פריד | האזינו",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%f0%9f%8c%85-%d7%94%d7%a0%d7%a9%d7%9e%d7%94-%d7%99%d7%95%d7%a8%d7%93%d7%aa-%d7%a0%d7%99%d7%92%d7%95%d7%9f-%d7%97%d7%91%d7%93-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%9e%d7%99/",
    "download": null,
    "ts": "2026-08-30T22:34:22+00:00"
-  },
-  {
-   "id": "s8606a34402bd8c",
-   "title": "דו שיח של געגועים בין אב לבנים | צמאה מגישים עם דניאל וייס – קול ביער | האזינו",
-   "text": "דו שיח של געגועים בין אב לבנים אבא מחפש אחר בניו. הוא קורא להם לשוב הביתה… הבנים עונים לו, מבקשים לחזור, אך מוצאים את השער נעול על ידי השומר שלא מכיר אותם. הסיפור הוא סיפורה של השכינה, שמחפשת את נשמות בני ישראל-בניה. גם הם מחפשים אותה, אך לא תמיד קל לשוב לאבא. יש יצר הרע שרובץ בשער ומפריע… הניגון העמוק הזה, מיוחס…",
-   "image": "data/media/49ffacc6ac38acef.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/oiNQCgLqJWs-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%93%d7%95-%d7%a9%d7%99%d7%97-%d7%a9%d7%9c-%d7%92%d7%a2%d7%92%d7%95%d7%a2%d7%99%d7%9d-%d7%91%d7%99%d7%9f-%d7%90%d7%91-%d7%9c%d7%91%d7%a0%d7%99%d7%9d-%d7%a6%d7%9e%d7%90%d7%94-%d7%9e%d7%92%d7%99/",
-   "download": null,
-   "ts": "2026-08-30T22:26:02+00:00"
-  },
-  {
-   "id": "s75c34de488b057",
-   "title": "צמאה – רביב כנר // ארשת שפתינו",
-   "text": "יש רגעים שבהם אין מילים, אלא רק זעקה. לפעמים, אחרי הזעקה – יגיעו המילים. בראש השנה השופר זועק בשבילנו, ורק אחריו מגיעות המילים. בתפילה אנו מבקשים: \"ארשת שפתינו יערב לפניך\" – שגם המילים המהוססות שלנו, שיוצאות מדל שפתינו, וגם מה שמסתתר מאחוריהן, יתקבלו ויישמעו. והבורא? הוא לא רק שומע. הוא גם \"מבין ומאזין, מביט ומקשיב\"!…",
-   "image": "data/media/3470e9333c12187b.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/08/uWxFEC7ScsQ-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a6%d7%9e%d7%90%d7%94-%d7%a8%d7%91%d7%99%d7%91-%d7%9b%d7%a0%d7%a8-%d7%90%d7%a8%d7%a9%d7%aa-%d7%a9%d7%a4%d7%aa%d7%99%d7%a0%d7%95/",
-   "download": null,
-   "ts": "2026-08-30T22:25:16+00:00"
   }
  ]
 }
