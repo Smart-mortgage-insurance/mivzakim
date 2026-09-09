@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T10:30:43.243659+00:00",
+ "updated": "2026-09-09T14:33:05.170697+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2d76ea34cc707f",
+   "title": "היישר מאנטוורפן: משה דוד שטיין ושרגי קלוגער בדואט סליחות מיוחד | שובו אלי | האזינו",
+   "text": "היישר מאנטוורפן: משה דוד שטיין ושרגי קלוגער בדואט סליחות מיוחד \"שובו אלי\" אם אתם מגיעים מהסצנה האנטוורפנאית, את השם משה דוד שטיין אתם בטח כבר מכירים היטב. בתקופה האחרונה הוא ביסס את מעמדו כאחד הקולות הבולטים בעיר, כשהוא חורך אירועי בוטיק וזיצים בקהילה ומחוצה לה בזכות לחנים מרגשים, מחרוזות מדויקות וטעם חסידי אותנטי…",
+   "image": "data/media/738c5b59c56712bb.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%99%d7%99%d7%a9%d7%a8-%d7%9e%d7%90%d7%a0%d7%98%d7%95%d7%95%d7%a8%d7%a4%d7%9f-%d7%9e%d7%a9%d7%94-%d7%93%d7%95%d7%93-%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%95%d7%a9%d7%a8%d7%92%d7%99-%d7%a7%d7%9c/",
+   "download": null,
+   "ts": "2026-09-09T11:44:55+00:00"
+  },
+  {
+   "id": "sfcb5d328ffb16c",
+   "title": "כשאדם יודע – חיים גולד מארח את יוחנן שטרן | צפו בקליפ מילים",
+   "text": "שיר על האמונה שכל מה שעובר על האדם הוא לטובתו, ועל התפילה והניגון שמלווים אותו בדרך. להזמנות וניהול: https://wa.link/v7md7i הצטרפו לקהילת ה-WhatsApp של חיים גולד לעדכונים, מוזיקה חדשה ותכנים נוספים: https://chat.whatsapp.com/Dl9qss7vcQP שירה: חיים גולד ויוחנן שטרן הקלטות ותיכנותים: יוסי ויינר גיטרות: עמית יצחק כינור:…",
+   "image": "data/media/69994f35a6957c2a.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/gIHgdap3lXk-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9b%d7%a9%d7%90%d7%93%d7%9d-%d7%99%d7%95%d7%93%d7%a2-%d7%97%d7%99%d7%99%d7%9d-%d7%92%d7%95%d7%9c%d7%93-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%99%d7%95%d7%97%d7%a0%d7%9f-%d7%a9%d7%98/",
+   "download": null,
+   "ts": "2026-09-09T11:30:30+00:00"
+  },
+  {
+   "id": "s40f44893825fe4",
+   "title": "לקראת הימים הנשגבים שוכי גולדשטיין והרשי סגל בביצוע מרטיט | עננו | צפו",
+   "text": "ביצוע מרטיט ומלא רגש לניגון \"עננו\", בלחנו של הרב משה יחזקי' ווייס, מתוך האלבום \"הוד שבהוד\". לרגל הימים הנוראים, הזמר שוכי גולדשטיין יחד עם החברותא הרשי סגל, בביצוע מיוחד שנוגע עמוק בלב ומכניס לאווירת הימים הנשגבים. \"עננו ה' עננו\" תפילה, ניגון ורגש שמתחברים לרגע אחד של התעוררות. עיבוד: מאיר ליברמן מיקס ומאסטרינג: שמעון…",
+   "image": "data/media/0974c76ef36d5059.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/m-cPSFocafM-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%a9%d7%92%d7%91%d7%99%d7%9d-%d7%a9%d7%95%d7%9b%d7%99-%d7%92%d7%95%d7%9c%d7%93%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%95%d7%94/",
+   "download": null,
+   "ts": "2026-09-09T11:20:24+00:00"
+  },
   {
    "id": "sa1a1c78782176d",
    "title": "אין קצבה | שמילי לנדאו יחד עם דוד ברגר ומקהלת רוממו | האזינו",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%95%d7%99%d7%93%d7%a2-%d7%9b%d7%9c-%d7%a4%d7%a2%d7%95%d7%9c-%d7%a9%d7%a8%d7%95%d7%9c%d7%99-%d7%9c%d7%90%d7%95%d7%a4%d7%a8-%d7%95%d7%99%d7%95%d7%90%d7%9c%d7%99-%d7%a9%d7%a0%d7%99%d7%a6%d7%9c/",
    "download": null,
    "ts": "2026-09-01T06:48:29+00:00"
-  },
-  {
-   "id": "s0ae0a229664e0e",
-   "title": "הרב יצחק יוסף (הנכד) – הלכות ראש השנה !!!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%99%d7%95%d7%a1%d7%a3-%d7%94%d7%a0%d7%9b%d7%93-%d7%94%d7%9c%d7%9b%d7%95%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94/",
-   "download": null,
-   "ts": "2026-09-01T06:24:36+00:00"
-  },
-  {
-   "id": "s2a2e06d09bdcaf",
-   "title": "מרדכי בן דוד - ובטובך הגדול",
-   "text": "זכור לנו אהבת הקדמונים: מרדכי בן דוד משחרר לחן חדש לראש השנה - \"ובטובך הגדול\"קשר עמוק מחבר בין הימים הנוראים לבין פרשת עקידת יצחק. לא במקרה קריאת התורה של ראש השנה עוסקת בעקידה, וכפי שמובא בגמרא לגבי תקיעת שופר: \"אמר רבי אבהו, למה תוקעין בשופר של איל? אמר הקדוש ברוך הוא: תקעו לפני בשופר של איל, כדי שאזכור לכם עקידת…",
-   "image": "data/media/d2a587d2082b392d.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjM5J16JY-3xXI-9JCZ-ihGr5WnR_4u9N7iRxlakgmGaudNpeq-JWRTbeozNiNsSRYZAzGXHHMWiDKbUYjm0bvxMGTOk1GvHPNuttBjdroMeIUWggSsYfngIOEsOuuWjMIBp1hGuQ3ZGH1VlHzhNt5qA1l7f_FN2S2hlW9XLqDbD5N10mU0DaJttUFcmML/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%95%D7%91%D7%98%D7%95%D7%91%D7%9A%20%D7%94%D7%92%D7%93%D7%95%D7%9C.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_895.html",
-   "download": null,
-   "ts": "2026-08-31T22:56:26+00:00"
-  },
-  {
-   "id": "s464f398b7cd5bf",
-   "title": "דובי מייזעלס, בנצי שטיין ומקהלת נשמה - הבן יקיר",
-   "text": "חידוש מרגש לימי הסליחות: דובי מייזלס, בנצי שטיין ומקהלת 'נשמה' בביצוע לשיר - \"הבן יקיר\"כאשר היצירה \"הבן יקיר\" יצאה לאור לפני ארבע שנים במסגרת האלבום \"תנועות\" של המלחין ואיש החסד רבי יואל ישראל זופניק (ובביצועו של מרדכי בן דוד), היא הייתה חלק מפרויקט גדוש שכלל 14 רצועות בביצוע אומנים שונים. כפי שקורה לא פעם באלבומים…",
-   "image": "data/media/a5aad64c3d0467cd.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW-9TAGzT7qe2F5hIaMFekfp6fAVH-fiHBZSsSJw3lNF5eBxmNVvnGr9xs-MTOcBvdE8AGLNAA39-Jmhn0sJ4L_YYyiN3N4NOJp1pOsmCoAAjRpSKhl9W-Vlo6lnDsxj_5nk390AVWlJDPusSJq9iTFrthEjgX5z0Kgt8sN8b5UEEeLLow_btYurzLPXYh/s72-w320-h320-c/Habein%20-%20Spotify%20Cover_.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/08/blog-post_256.html",
-   "download": "https://archive.org/download/hadshotmusic_20260831_1950/%D7%93%D7%95%D7%91%D7%99%20%D7%9E%D7%99%D7%99%D7%96%D7%A2%D7%9C%D7%A1%2C%20%D7%91%D7%A0%D7%A6%D7%99%20%D7%A9%D7%98%D7%99%D7%99%D7%9F%2C%20%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%A0%D7%A9%D7%9E%D7%94%20-%20%D7%94%D7%91%D7%9F%20%D7%99%D7%A7%D7%99%D7%A8%20%28%D7%92%D7%A8%D7%A1%D7%94%202%29.mp3",
-   "ts": "2026-08-31T19:53:55+00:00"
   }
  ]
 }
