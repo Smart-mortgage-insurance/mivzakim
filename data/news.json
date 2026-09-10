@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:17:34.982630+00:00",
+ "updated": "2026-09-10T13:57:29.437685+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,71 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s0a663ef92a9ef3",
+   "title": "מקבץ מחרוזות ושירים לימים נוראים (אלול תשפ\"ו)",
+   "text": "בחודש האחרון יצאו לא מעט מחרוזות, קאברים וביצועים מיוחדים לכבוד חודש אלול והימים הנוראים. בגלל עומס וסדר עדיפויות (תמיד מעדיף לתת מקום ראשון לסינגלים החדשים), לא יצא לי להעלות אותם בזמן אמת.כדי ששום דבר לא יתפספס וכדי שתוכלו ליהנות מכל הטוב הזה - ריכזתי לכם את כולם במקום אחד, נקי ובלי חפירות. האזנה ערבה!שימו לב ייתכן…",
+   "image": "data/media/24770a73801a510a.png",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg28y1PBqXjvmEEqg_RTMSKNpWakC3ioWrROe22UJeSo4igz68odPaRjSZCdrr1uGSWKxiSLcD1PWTRMKjuC2DLg_mrCVZ_jhwHMcuEweKZs1oBk1ft9uYcQR5iAcV2xl5JW4Oh09MAN-W5S8RaV8g6ZrcQKWIK6l6N8AeKMG27MGEGyw8L8tRrZUH1W84z/s1600/image1789043688",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_10.html",
+   "download": "https://archive.org/download/hadshotmusic_20260910/%D7%98%D7%95%D7%91%D7%99%D7%94%20%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%AA%D7%A9%D7%A8%D7%99%20%D7%91%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.mp3",
+   "ts": "2026-09-10T13:17:17+00:00"
+  },
+  {
+   "id": "sf7214dc29089a5",
+   "title": "צלילי הימים הנוראים: יענקי ווליגער בביצוע מרגש ל\"יום הדין\" של מוטי וויזל ונמואל | צפו",
+   "text": "בעיצומן של ההכנות האחרונות לקראת השנה החדשה ותפילות ראש השנה הממשמשות ובאות, מגיש בעל המנגן יענקי ווליגער ביצוע מחודש, נוגע וייחודי ליצירה הסוחפת \"יום הדין\". כאשר בעל התפילה ניגש לפני העמוד, תפילתנו ובקשתנו שתפילתו תבקע שערי שמים, שהקב\"ה ישמע את שוועתנו וישפיע עלינו שנה טובה ומתוקה. יהי רצון שקולותיהם של כלל ישראל…",
+   "image": "data/media/5b8e7f413fe09d30.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/g_Y5K8gI29o-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a6%d7%9c%d7%99%d7%9c%d7%99-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%95%d7%95%d7%9c%d7%99%d7%92%d7%a2%d7%a8-%d7%91%d7%91%d7%99/",
+   "download": null,
+   "ts": "2026-09-10T13:13:23+00:00"
+  },
+  {
+   "id": "s722e586eae8204",
+   "title": "שלום ג'ייקובס בביצוע מרגש | אבינו מלכנו | צפו",
+   "text": "הקליפ מכיל נשים בעקיפין אני נרגש לשתף אתכם בביצוע החדש שלי, ״אבינו מלכנו״ — ביצוע אולפן חי ומרגש לתפילה הנצחית והעוצמתית של הימים הנוראים. הביצוע הוקלט בלייב יחד עם הפסנתרן המדהים ירון ורשבסקי, והוא מביא לידי ביטוי את הרגש העמוק והיופי הטמון במילים הקדושות הללו — אבינו, מלכנו. לקראת הימים הנוראים, אני מקווה שהלחן הזה…",
+   "image": "data/media/2b6c7d9fdf27cc9a.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9c%d7%95%d7%9d-%d7%92%d7%99%d7%99%d7%a7%d7%95%d7%91%d7%a1-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a8%d7%92%d7%a9-%d7%90%d7%91%d7%99%d7%a0%d7%95-%d7%9e%d7%9c%d7%9b%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-10T13:10:12+00:00"
+  },
+  {
+   "id": "sa78ac963b86bbf",
+   "title": "הזמר, המלחין והמפיק הווקאלי הנודע יואלי פולאצ׳ק מגיש סינגל לימי הרחמים | רחמים | האזינו",
+   "text": "הזמר, המלחין והמפיק הווקאלי הנודע יואלי פולאצ׳ק, מי שעמד בראש מקהלת זמירות לשעבר, מגיש את הסינגל החדש שלו — ״רחמים״. בשעות שלפני ראש השנה, כאשר כולנו עומדים ומתחננים לפני בורא עולם שירחם עלינו, משחרר יואלי שיר עוצמתי ונוגע ללב, שנועד לעורר את הלב ולהכין אותנו לקראת יום הדין. הקב״ה יושב על כסאו, ואנו מבקשים ממנו…",
+   "image": "data/media/d9c53cac08643a60.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2763.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%96%d7%9e%d7%a8-%d7%94%d7%9e%d7%9c%d7%97%d7%99%d7%9f-%d7%95%d7%94%d7%9e%d7%a4%d7%99%d7%a7-%d7%94%d7%95%d7%95%d7%a7%d7%90%d7%9c%d7%99-%d7%94%d7%a0%d7%95%d7%93%d7%a2-%d7%99%d7%95%d7%90%d7%9c/",
+   "download": null,
+   "ts": "2026-09-10T13:06:25+00:00"
+  },
+  {
+   "id": "sdf3a10522d657a",
+   "title": "צוות פוזלס מציג: \"דער פוילישער חמול\" בביצוע דודי קאליש ויענקי אויש | צפו",
+   "text": "דער פוילישער חמול הוא ניגון קדוש ומלא רגש, שחובר והולחן על ידי הרה״ק בעל ה״אמרי שאול״ ממודז׳יץ זיעוכי״א, אשר הותיר אחריו אוצר עצום של ניגוני קודש נפלאים, הממשיכים עד היום לחמם לבבות ולעורר נשמות ישראל. הניגון היה מוכר ואהוב בכל תפוצות יהדות פולין, והוא נושא בתוכו געגועים עמוקים, רגש יהודי טהור וניחוח של עולם יהודי…",
+   "image": "data/media/6010816f30c30eab.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/l3qjrG215Xc-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a6%d7%95%d7%95%d7%aa-%d7%a4%d7%95%d7%96%d7%9c%d7%a1-%d7%9e%d7%a6%d7%99%d7%92-%d7%93%d7%a2%d7%a8-%d7%a4%d7%95%d7%99%d7%9c%d7%99%d7%a9%d7%a2%d7%a8-%d7%97%d7%9e%d7%95%d7%9c-%d7%91%d7%91%d7%99/",
+   "download": null,
+   "ts": "2026-09-10T12:55:27+00:00"
+  },
   {
    "id": "s82360bceba30a6",
    "title": "הרב יגאל כהן | ראש השנה (מנתניה) | יהודי תמיד שמח!",
@@ -1938,71 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a1%d7%93%d7%a8%d7%aa-%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%a1%d7%98-%d7%97%d7%9c%d7%a7-2-%d7%a8%d7%a6%d7%a3-%d7%a0/",
    "download": null,
    "ts": "2026-09-02T07:21:25+00:00"
-  },
-  {
-   "id": "s4771f8e1519fb8",
-   "title": "לקראת ראש השנה: ישעי' לברון מחדש את \"שופר\" | צפו",
-   "text": "לקראת ראש השנה הקרב ובא, הזמר החסידי ישעי' לברון, בביצוע לייב מרגש במיוחד לשיר \"שופר\", שכתב, הלחין וביצע במקור הזמר והיוצר מוטי אילוביץ'. את הביצוע מלווה תזמורתו של מנדי הרשקוביץ ומקהלת 'שירה השיר מספר את סיפורו המרגש של בעל ה\"מנחת אלעזר\" ממונקאטש זצ\"ל, ואת בכיו של ילד, שכל רצונו היה רק לשמוע את קול השופר. סיפור שהופך…",
-   "image": "data/media/a47fbb7bdd35fe84.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/0mlUr5BjIbE-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%99%d7%a9%d7%a2%d7%99-%d7%9c%d7%91%d7%a8%d7%95%d7%9f-%d7%9e%d7%97%d7%93%d7%a9-%d7%90%d7%aa-%d7%a9%d7%95%d7%a4%d7%a8/",
-   "download": null,
-   "ts": "2026-09-02T06:35:53+00:00"
-  },
-  {
-   "id": "s7722a5d04ca06c",
-   "title": "הרב יגאל כהן – מהי הדרך לשנה מאושרת?",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9e%d7%94%d7%99-%d7%94%d7%93%d7%a8%d7%9a-%d7%9c%d7%a9%d7%a0%d7%94-%d7%9e%d7%90%d7%95%d7%a9%d7%a8%d7%aa/",
-   "download": null,
-   "ts": "2026-09-02T06:24:30+00:00"
-  },
-  {
-   "id": "sbdab00caf0687c",
-   "title": "מרדכי כהן - ברחמיך",
-   "text": "עשרה ימים לראש השנה: מרדכי כהן בסינגל תפילה מרגש - \"ברחמיך\"כשברקע ימי הרחמים והסליחות והכמיהה לתפילות החגים, המוזיקאי והמלחין מרדכי כהן מגיש יצירה סוחפת שנכתבה במיוחד עבור ימים אלו: \"ברחמיך\".הזמר והיוצר מרדכי כהן, הפועל בעולם הנגינה היהודית למעלה משני עשורים, משיק כעת - בעיצומו של חודש אלול, ימים ספורים לפני הימים…",
-   "image": "data/media/e0e848e0ab60f185.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGAWJ5VZPF95-zoqLKDF-dsd7SYFm73VQVvlPgEG-gpgk063kHqOeB2Sfx34seTzz1MXo1DsL8t98WpxgtfUmzAj1l-PI_uACtL6XocH_bVb0lZnqwR-rUbfX2Sn781zyDc-nC_13oLCtA2WFYwCfC9TUk3sH-IBmjkpdSy5W-VZtfHmsd5RFl2Yifxirp/s72-w320-h180-c/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%9B%D7%94%D7%9F%20-%20%D7%91%D7%A8%D7%97%D7%9E%D7%99%D7%9A%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_739.html",
-   "download": null,
-   "ts": "2026-09-02T01:02:11+00:00"
-  },
-  {
-   "id": "s648388707af465",
-   "title": "איצי אקרמן & אברומי וינברג - י״ג מידות",
-   "text": "הלחן שנכתב שבוע לפני הפיגוע הופך לשיר סליחות: איצי אקרמן ואברומי וינברג בסינגל חדש - \"י\"ג מידות\"לקראת פתיחת ימי הסליחות של בני אשכנז במוצ\"ש הקרוב, בעל המנגן הרב איצי אקרמן והזמר והיוצר אברומי וינברג משתפים פעולה בדואט חדש ומרגש - \"י\"ג מידות\". השיר נוגע ישר בנשמה ומזכיר לכולנו את הרחמים והחסד של בורא עולם, שרק מחכה…",
-   "image": "data/media/727555d004500459.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXwutGwimwGPrmVYGh8I1p1NWacfyvBMclWEBuqY9vcdXzQwC1WTZX8vw9J1wDh-T2E_qQh1yM8LLXgJqsf0KU3r0b8JB0F6TdQ_M1IjVjlrQ4p37aFywejUGcoKwrAcWJr1V3O4A8GnD9gPvmTOP2BqZLNo1FUig75hXoYivCbxrSUBo5WBNj3SsNOFEQ/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%99''%D7%92%20%D7%9E%D7%99%D7%93%D7%95%D7%AA.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_01.html",
-   "download": "https://archive.org/download/hadshotmusic_20260901/%D7%90%D7%99%D7%A6%D7%99%20%D7%90%D7%A7%D7%A8%D7%9E%D7%9F%20%26%20%D7%90%D7%91%D7%A8%D7%95%D7%9E%D7%99%20%D7%95%D7%99%D7%A0%D7%91%D7%A8%D7%92%20-%20%D7%99%D7%B4%D7%92%20%D7%9E%D7%99%D7%93%D7%95%D7%AA.mp3",
-   "ts": "2026-09-01T22:49:24+00:00"
-  },
-  {
-   "id": "s4ec1f1142a9977",
-   "title": "שמוליק קליין – מתקן הנשמות! הקליקו לקליפ המלא",
-   "text": "עריכה: מורדי כהן",
-   "image": "data/media/30973204905b6828.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/XSeV1X2O8zE-hqdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%9e%d7%aa%d7%a7%d7%9f-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-%d7%94%d7%a7%d7%9c%d7%99%d7%a7%d7%95-%d7%9c%d7%a7%d7%9c%d7%99%d7%a4/",
-   "download": null,
-   "ts": "2026-09-01T22:19:03+00:00"
   }
  ]
 }
