@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T17:52:49.808408+00:00",
+ "updated": "2026-09-10T19:56:18.975525+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s0f957e7f91d95c",
+   "title": "הרב יגאל כהן – להתחיל ברגל ימין (הרצאת חוף)",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9c%d7%94%d7%aa%d7%97%d7%99%d7%9c-%d7%91%d7%a8%d7%92%d7%9c-%d7%99%d7%9e%d7%99%d7%9f-%d7%94%d7%a8%d7%a6%d7%90%d7%aa-%d7%97%d7%95/",
+   "download": null,
+   "ts": "2026-09-10T18:24:52+00:00"
+  },
+  {
+   "id": "sce19f7daa5142c",
+   "title": "הרב יהודה יוספי | ראש השנה 2026 – חיזוק אדיר!!!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%99%d7%95%d7%a1%d7%a4%d7%99-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-2026-%d7%97%d7%99%d7%96%d7%95%d7%a7-%d7%90%d7%93%d7%99%d7%a8/",
+   "download": null,
+   "ts": "2026-09-10T18:24:43+00:00"
+  },
   {
    "id": "s975d3036141bde",
    "title": "מנדי פורטנוי - אבינו מלכנו",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%95%d7%96%d7%9b%d7%a0%d7%95-%d7%9c%d7%a7%d7%91%d7%9c-%d7%a9%d7%91%d7%aa%d7%95%d7%aa-%f0%9f%95%af%ef%b8%8f%f0%9f%95%af%ef%b8%8f-%d7%9c/",
    "download": null,
    "ts": "2026-09-02T08:43:10+00:00"
-  },
-  {
-   "id": "s1bcf8aa7dbaa5a",
-   "title": "היוצרים והרב רונן שאולוב מרגשים לרגל חודש אלול | לא תשאיר אותי לבד | צפו",
-   "text": "ייצוג בלעדי:CT הפקות בע״מ ניהול אישי: מעיין ארביב ניהול אומנותי: אופיר מלול יחסי ציבור: עופר מנחם הזמנת אירועים פרטיים: שלומי מלדיני 050-6666416 להזמנת הופעות וועדים רשויות וחברות: מעיין ארביב 052-3210531 עיבוד והפקה מוסיקלית: היוצרים קטע חיזוק הרב רונן שאולוב: בני ובנותיי, אחי ואחיותי עם ישראל היקר והאהוב מוטלת עלינו…",
-   "image": "data/media/b9bff9aef6e9e651.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/YucsYyKA4_U-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%99%d7%95%d7%a6%d7%a8%d7%99%d7%9d-%d7%95%d7%94%d7%a8%d7%91-%d7%a8%d7%95%d7%a0%d7%9f-%d7%a9%d7%90%d7%95%d7%9c%d7%95%d7%91-%d7%9e%d7%a8%d7%92%d7%a9%d7%99%d7%9d-%d7%9c%d7%a8%d7%92%d7%9c-%d7%97/",
-   "download": null,
-   "ts": "2026-09-02T08:27:07+00:00"
-  },
-  {
-   "id": "s9cc44e8a6c233e",
-   "title": "אולי היום | ילד הפלא מוקי סלומון בסינגל קליפ | צפו",
-   "text": "In a world where peace often feels out of reach, let this be your reminder that hope is closer than you think. Moki Salamon's new song beautifully captures the essence of unity and the power of small actions. Each step you take towards fostering connection and understanding can contribute to a greater sense of achdus…",
-   "image": "data/media/129bb6ca1ce924b9.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/nEBbaJNR2L0-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%95%d7%9c%d7%99-%d7%94%d7%99%d7%95%d7%9d-%d7%99%d7%9c%d7%93-%d7%94%d7%a4%d7%9c%d7%90-%d7%9e%d7%95%d7%a7%d7%99-%d7%a1%d7%9c%d7%95%d7%9e%d7%95%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c/",
-   "download": null,
-   "ts": "2026-09-02T08:24:46+00:00"
   }
  ]
 }
