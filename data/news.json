@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T05:40:41.087339+00:00",
+ "updated": "2026-09-10T09:55:07.301994+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s82360bceba30a6",
+   "title": "הרב יגאל כהן | ראש השנה (מנתניה) | יהודי תמיד שמח!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%9e%d7%a0%d7%aa%d7%a0%d7%99%d7%94-%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%aa%d7%9e%d7%99/",
+   "download": null,
+   "ts": "2026-09-10T06:24:40+00:00"
+  },
   {
    "id": "sb00579f7dd018f",
    "title": "רגעים לפני החג: יודי מאשקאוויטש מגיש ביצוע נשמתי ללהיט \"וידע\" | צפו",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%9e%d7%aa%d7%a7%d7%9f-%d7%94%d7%a0%d7%a9%d7%9e%d7%95%d7%aa-%d7%94%d7%a7%d7%9c%d7%99%d7%a7%d7%95-%d7%9c%d7%a7%d7%9c%d7%99%d7%a4/",
    "download": null,
    "ts": "2026-09-01T22:19:03+00:00"
-  },
-  {
-   "id": "s88cb1d511933b6",
-   "title": "מנדי גולדברג & דודי פלדמן - קשר תפילין",
-   "text": "התרגשות של נחת: מנדי גולדברג ודודי פלדמן בסינגל חדש - \"קשר תפילין\"השראה של בוקר הופכת ליצירה חגיגית: היוצר מנדי גולדברג משיק סינגל מרגש בשם \"קשר תפילין\", בו הוא מארח את הבעל מנגן דודי פלדמן. השיר נולד לרגל שמחת הבר מצווה של הבחור יהונתן פלדמן ני\"ו.סיפור הולדת הלחן מלווה בתחושה של השגחה פרטית, כפי שמספר גולדברג: \"באחד…",
-   "image": "data/media/5c66cb05d45d2b67.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPDUYzoqi8B5Ebts-kzkp4YJsmgtpqAmd0ux_5eKr6xiY9vouDcqSPPgTG9kITJRWQNO0_7VYOOdaacgzLsMAxGNLeToTcu0ycVhaYqOzlqG-MNHWZOKqjFzOafA2nFXltGk6i6OIcdjy_i2dSbbHUaFpnui39E-UmGUjv3Z8vpzCi-amG0jZH-7BtMiGZ/s72-w320-h320-c/%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%A7%D7%A9%D7%A8%20%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post.html",
-   "download": "https://archive.org/download/hadshotmusic_202609/%D7%9E%D7%A0%D7%93%D7%99%20%D7%92%D7%95%D7%9C%D7%93%D7%91%D7%A8%D7%92%20%26%20%D7%93%D7%95%D7%93%D7%99%20%D7%A4%D7%9C%D7%93%D7%9E%D7%9F%20-%20%D7%A7%D7%A9%D7%A8%20%D7%AA%D7%A4%D7%99%D7%9C%D7%99%D7%9F.mp3",
-   "ts": "2026-09-01T21:07:55+00:00"
   }
  ]
 }
