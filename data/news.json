@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T14:02:53.347954+00:00",
+ "updated": "2026-09-10T14:04:28.314799+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -131,6 +131,19 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%9e%d7%a0%d7%aa%d7%a0%d7%99%d7%94-%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%aa%d7%9e%d7%99/",
    "download": null,
    "ts": "2026-09-10T06:24:40+00:00"
+  },
+  {
+   "id": "s1a004c3f898c12",
+   "title": "להקת פריילעך – It’s been an incredible year ❤️",
+   "text": "",
+   "image": "data/media/a519e267b09a6361.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/UN-Tb2Mds6c-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%94%d7%a7%d7%aa-%d7%a4%d7%a8%d7%99%d7%99%d7%9c%d7%a2%d7%9a-its-been-an-incredible-year-%e2%9d%a4%ef%b8%8f/",
+   "download": null,
+   "ts": "2026-09-10T03:28:53+00:00"
   },
   {
    "id": "sb00579f7dd018f",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%aa%d7%a4%d7%9f-%d7%90%d7%9c%d7%99%d7%a0%d7%95-%d7%9e%d7%95%d7%99%d7%a9%d7%99-%d7%91%d7%90%d7%93%d7%a0%d7%a1%d7%a7%d7%99-%d7%95%d7%9c%d7%99%d7%99%d7%96%d7%a8-%d7%91%d7%a8%d7%93%d7%a0%d7%9e%d7%a8/",
    "download": null,
    "ts": "2026-09-02T07:27:00+00:00"
-  },
-  {
-   "id": "sf7a8ac0af51d4a",
-   "title": "יוסף ממיה מגיש | סדרת שירי הימים הנוראים • סט חלק #2 | רצף ניגוני נשמה והמלכה מכל הזמנים | האזינו",
-   "text": "*עריכה והפקה: יוסף ממיה* * תוכן העניינים וחלוקה לפרקים (Timestamps):* 00:00 – המלך – יעקב שוואקי 04:37 – ונתנה תוקף – אברהם פריד 11:56 – יעלה – מרדכי בן דוד 17:23 – סדר העבודה – ישי ריבו 23:33 – המלך – שמחה ליינר 27:20 – ונתנה תוקף – יידל 33:00 – הנני העני – שולם למר 38:12 – באין מליץ יושר – אברהם פריד 39:46 – הנשמה…",
-   "image": "data/media/30b574595c579859.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/23f1.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%93%d7%a8%d7%aa-%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%a1%d7%98-%d7%97%d7%9c%d7%a7-2-%d7%a8%d7%a6%d7%a3-%d7%a0/",
-   "download": null,
-   "ts": "2026-09-02T07:21:25+00:00"
   }
  ]
 }
