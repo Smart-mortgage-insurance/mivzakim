@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T20:20:46.637301+00:00",
+ "updated": "2026-09-10T22:09:25.788764+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sd75c21bf12da12",
+   "title": "סט שירים ופיוטים לסליחות וימים נוראים • חלק ב' – דיג'יי יצחק כהן | האזינו",
+   "text": "עשרת ימי תשובה בפתח, וממשיכים לצלול פנימה עם קונצרטים, מחרוזות ופיוטים מהמובחרים שבעדות המזרח – הכנה מושלמת לראש השנה וליום כיפור.",
+   "image": "data/media/1a2e14556596c4a4.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/gZMWlk79zuE-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a9%d7%99%d7%a8%d7%99%d7%9d-%d7%95%d7%a4%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%9c%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%95%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d/",
+   "download": null,
+   "ts": "2026-09-10T21:28:42+00:00"
+  },
+  {
+   "id": "s70782b11816caf",
+   "title": "יוסף ממיה מגיש | \"המלך\" 👑 | סט ימים הנוראים – משירי מרדכי בן דוד (MBD) מכל הזמנים | האזינו",
+   "text": "*סט ימים נוראים מרומם ומרגש עם גדול הזמר החסידי מרדכי בן דוד * *שעתיים וחצי של ניגוני התעוררות, תפילה וכיסופים לראש השנה, עשרת ימי תשובה ויום הכיפורים – באיכות הסאונד והצפייה הגבוהה ביותר.* * האזנה ערבה, שנה טובה, כתיבה וחתימה טובה! * *עריכה והפקה: יוסף ממיה* * תוכן העניינים וחלוקה לפרקים (Timestamps):* 00:00 – ובראש…",
+   "image": "data/media/69166089e121d580.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f451.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9e%d7%99%d7%94-%d7%9e%d7%92%d7%99%d7%a9-%d7%94%d7%9e%d7%9c%d7%9a-%f0%9f%91%91-%d7%a1%d7%98-%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d/",
+   "download": null,
+   "ts": "2026-09-10T21:12:00+00:00"
+  },
   {
    "id": "s0f957e7f91d95c",
    "title": "הרב יגאל כהן – להתחיל ברגל ימין (הרצאת חוף)",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%a9%d7%a4%d7%99%d7%a8%d7%90-%d7%90%d7%97%d7%aa-%d7%a7%d7%90%d7%91%d7%a8-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%90%d7%99%d7%a0%d7%a1%d7%98%d7%a8%d7%95/",
    "download": null,
    "ts": "2026-09-02T08:43:57+00:00"
-  },
-  {
-   "id": "s50cadd89941b21",
-   "title": "MOTTI S PRESENTS: Beyond the Atmosphere 🚀🌠 – מרדכי הס",
-   "text": "",
-   "image": "data/media/44b2f0e8806383d4.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/k2AIVfccfXQ-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/motti-s-presents-beyond-the-atmosphere-%f0%9f%9a%80%f0%9f%8c%a0-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1/",
-   "download": null,
-   "ts": "2026-09-02T08:43:28+00:00"
-  },
-  {
-   "id": "s942b17b68be7bd",
-   "title": "מרדכי הס • וזכנו לקבל שבתות 🕯️🕯️ • לייב על הפסנתר 🎹✨",
-   "text": "",
-   "image": "data/media/bb4c33b14a6271b9.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/a7uoaNSJa0E-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%95%d7%96%d7%9b%d7%a0%d7%95-%d7%9c%d7%a7%d7%91%d7%9c-%d7%a9%d7%91%d7%aa%d7%95%d7%aa-%f0%9f%95%af%ef%b8%8f%f0%9f%95%af%ef%b8%8f-%d7%9c/",
-   "download": null,
-   "ts": "2026-09-02T08:43:10+00:00"
   }
  ]
 }
