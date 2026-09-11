@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T04:58:47.837030+00:00",
+ "updated": "2026-09-11T09:08:31.704869+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s824bacce960d59",
+   "title": "משה דוד שטיין & שרגי קלוגר - שובו אלי",
+   "text": "השיבנו ונשובה: משה דוד שטיין מארח את שרגי קלוגר בסינגל חדש לימי התשובה - \"שובו אלי\"בקהילה היהודית באנטוורפן (בלגיה), שמו של משה דוד שטיין הולך ותופס מקום של כבוד בשנים האחרונות. הזמר והמוזיקאי מופיע באירועים ובזיצים ברחבי העיר, ומביא איתו שילוב של רגש, סגנון חסידי ושימת לב לפרטים הקטנים, שהפכו אותו לאחד הקולות המזוהים…",
+   "image": "data/media/3b7db7eccaebafe0.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ6th4W9zxB-L1PlfaDqCVmf_ufp_8DZT7DA0bB_JpBQ_EOGrjAUOM9it06ExMTTtadWbX1Gc2AylhzKwYUJig_El1escNBRwoaEMqWLE-Ry7N5xefDzbj9m27xcjYsJvC1ZhTDiiirnM6MbGhUJ3VYFIfZ7kgiG3GrFn4Z5x29zvBfvjbucpclgbkAAwO/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%A9%D7%95%D7%91%D7%95%20%D7%90%D7%9C%D7%99.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_812.html",
+   "download": "https://archive.org/download/hadshotmusic_20260911/%D7%9E%D7%A9%D7%94%20%D7%93%D7%95%D7%93%20%D7%A9%D7%98%D7%99%D7%99%D7%9F%20%26%20%D7%A9%D7%A8%D7%92%D7%99%20%D7%A7%D7%9C%D7%95%D7%92%D7%A2%D7%A8%20-%20%D7%A9%D7%95%D7%91%D7%95%20%D7%90%D7%9C%D7%99.mp3",
+   "ts": "2026-09-11T06:40:53+00:00"
+  },
+  {
+   "id": "s585bbf4bd4ad03",
+   "title": "הרב יגאל כהן | מהו הדבר שכדאי לעשות ביום האחרון של השנה?",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9e%d7%94%d7%95-%d7%94%d7%93%d7%91%d7%a8-%d7%a9%d7%9b%d7%93%d7%90%d7%99-%d7%9c%d7%a2%d7%a9%d7%95%d7%aa-%d7%91%d7%99%d7%95%d7%9d/",
+   "download": null,
+   "ts": "2026-09-11T06:24:32+00:00"
+  },
+  {
+   "id": "s92639eb2a9f795",
+   "title": "הרב יצחק פנגר | שנה טובה זה בידיים שלך",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%a4%d7%a0%d7%92%d7%a8-%d7%a9%d7%a0%d7%94-%d7%98%d7%95%d7%91%d7%94-%d7%96%d7%94-%d7%91%d7%99%d7%93%d7%99%d7%99%d7%9d-%d7%a9%d7%9c%d7%9a/",
+   "download": null,
+   "ts": "2026-09-11T06:24:30+00:00"
+  },
   {
    "id": "sd75c21bf12da12",
    "title": "סט שירים ופיוטים לסליחות וימים נוראים • חלק ב' – דיג'יי יצחק כהן | האזינו",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%a8%d7%95%d7%96%d7%a0%d7%91%d7%a8%d7%92-%d7%9e%d7%a9%d7%95%d7%9c%d7%9d-%d7%96%d7%95%d7%a9%d7%90-%d7%a7%d7%9c%d7%9e%d7%99-%d7%a9%d7%95%d7%95%d7%90%d7%a8%d7%a5-%d7%a0/",
    "download": null,
    "ts": "2026-09-02T12:51:48+00:00"
-  },
-  {
-   "id": "s108c771a8220a2",
-   "title": "יענקי יוזשעף בביצוע מרגש לימים הנוראים: ניגון \"מלוך\" העתיק | האזינו",
-   "text": "יענקי יוזשעף בביצוע מרגש לימים הנוראים: ניגון \"מלוך\" העתיק לקראת הימים הנוראים, עת המלכת הקב\"ה על העולם, מגיש כוכב הרגש יענקי יוזשעף ביצוע מרטיט ומרגש ללחן הקדוש של הרה\"ק ר' מאיר מאפטא זי\"ע בעל ה'אור לשמים', המותאם במיוחד למילים \"מלוך\". הניגון העתיק והמיוחס, שכמעט אבד מן העולם לאחר כ-200 שנה, חודש בשנים האחרונות ע\"י…",
-   "image": "data/media/9d8708e19e22f7cb.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/b7FgX3edP_o-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%99%d7%95%d7%96%d7%a9%d7%a2%d7%a3-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a8%d7%92%d7%a9-%d7%9c%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99/",
-   "download": null,
-   "ts": "2026-09-02T12:34:21+00:00"
-  },
-  {
-   "id": "sf1a239f73ecdde",
-   "title": "​לקראת הימים הנוראים והסליחות | שרולי נידאם בסינגל מרגש | דרוש נא | האזינו",
-   "text": "לקראת הימים הנוראים והסליחות, אני מרגיש זכות גדול להגיש לכם את הסינגל החדש שלי – \"דרוש נא\". ​את השיר המרגש הזה הלחין וביצע במקור יצחק מאיר. המילים האלו מקבלות משמעות מיוחדת ועמוקה כל כך בתקופה הזו של השנה, שבה כל אחד מאיתנו פותח את הלב ומבקש רחמים. ​תודה ענקית למוישי כהנא המוכשר על העיבוד וההפקה המוזיקלית המדויקת.…",
-   "image": "data/media/7af66113b764856b.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4de.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%95%d7%94%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%a9%d7%a8%d7%95%d7%9c%d7%99/",
-   "download": null,
-   "ts": "2026-09-02T10:40:43+00:00"
-  },
-  {
-   "id": "s018e07f688a96c",
-   "title": "מרדכי שפירא – אחת | קאבר מרדכי הס (אינסטרומנטלי) | האזינו",
-   "text": "",
-   "image": "data/media/f0c39229db8b79fb.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/LsTwQkIgPwQ-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%a9%d7%a4%d7%99%d7%a8%d7%90-%d7%90%d7%97%d7%aa-%d7%a7%d7%90%d7%91%d7%a8-%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%90%d7%99%d7%a0%d7%a1%d7%98%d7%a8%d7%95/",
-   "download": null,
-   "ts": "2026-09-02T08:43:57+00:00"
   }
  ]
 }
