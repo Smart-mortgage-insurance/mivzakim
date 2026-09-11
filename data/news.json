@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T09:32:25.993347+00:00",
+ "updated": "2026-09-11T13:32:16.595388+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "se7de7a174b5d32",
+   "title": "יואלי פאלאטשעק - רחמים",
+   "text": "רגע לפני ראש השנה: יואלי פאלאטשעק מבקש רחמים ב״רחמים״יש תקופה בשנה שבה גם שיר יכול להרגיש כמו תפילה. רגע לפני ראש השנה, כשהמילים של הסליחות והפיוטים מקבלות משמעות אחרת, יואלי פאלאטשעק מוציא סינגל חדש בשם ״רחמים״, שעוסק באחת הבקשות המרכזיות של הימים הנוראים – שהדין יהפוך לרחמים.פאלאטשעק, הזמר, המלחין והמפיק הווקאלי…",
+   "image": "data/media/f17ce77f354a77d6.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNzqVXa8PDsuLA6Ed96aNkWG0d8sqllkSVPTLU-QBvjcAU8P5-ydHWUX8BtreCibFDqGFS4_n7sapioFL-9ot72Rk72IFfn-F4kw_g43a9IOYcD_7dkSIc4lo6oCO2u7KfzVd0nUnK5H2Ulvk93BSLyED4JpMOJuiXWKkEA3FcGQxkS1bE2HA4VuaIjKQb/s72-w320-h320-c/Yoily%20Polatseck%20-%20Rachamim.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_676.html",
+   "download": "https://archive.org/download/hadshotmusic_20260911_1023/%D7%99%D7%95%D7%90%D7%9C%D7%99%20%D7%A4%D7%95%D7%9C%D7%90%D7%A6%D7%B3%D7%A7%20-%20%D7%A8%D7%97%D7%9E%D7%99%D7%9D.mp3",
+   "ts": "2026-09-11T11:30:13+00:00"
+  },
+  {
+   "id": "se0116c183cdfb3",
+   "title": "אורי סגל - אומן",
+   "text": "כיסופים לרבינו: אורי סגל משיק את סינגל הבכורה שלו - \"אומן\"הכיסופים לקיבוץ הקדוש באומן בראש השנה מקבלים ביטוי מוזיקלי חדש ומרגש: הזמר והיוצר אורי סגל משחרר את סינגל הבכורה שלו, \"אומן\" - יצירה אישית שנולדה מתוך הגעגוע העמוק להתפלל על ציונו של רבי נחמן מברסלב זיע\"א והשתוקקות להיות חלק מהמעמד הנשגב בימי ראש השנה.עבור…",
+   "image": "data/media/c3279b171cfa78e6.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0v5fkbLEe6BHy_5xAnjS_s_G4FNR1N47UOsLCQoCvA4dXZWaWWvE5SXI1D7DWaJmHdfZ8R4Ly35CEtSsPe6TkBWtkS9Ba8VpUWNzY7EIl2gs2orQBLeR6GLp3v4wdB4VYN4gYuKgfRlK8xQSGdD0HmZ5v5rJqIEjFO5gZ__JR1u0QA4VV0i_M-HlW8Fb/s72-w320-h320-c/%D7%90%D7%95%D7%9E%D7%9F%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2%D7%AA.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_11.html",
+   "download": "https://archive.org/download/hadshotmusic_20260911_0958/%D7%90%D7%95%D7%A8%D7%99%20%D7%A1%D7%92%D7%9C%20-%20%D7%90%D7%95%D7%9E%D7%9F.mp3",
+   "ts": "2026-09-11T10:02:39+00:00"
+  },
   {
    "id": "s824bacce960d59",
    "title": "משה דוד שטיין & שרגי קלוגר - שובו אלי",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%99%d7%a6%d7%97%d7%a7-%d7%a9%d7%99%d7%93%d7%9c%d7%90-%d7%9e%d7%92%d7%99%d7%a9-%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%99%d7%95%d7%a1%d7%a3-%d7%94%d7%99%d7%a8%d7%a9-%d7%9e/",
    "download": null,
    "ts": "2026-09-02T13:52:03+00:00"
-  },
-  {
-   "id": "s3fd82d62bd62f4",
-   "title": "יוסף גשטטנר בסינגל לקראת ראש השנה | שופר | האזינו",
-   "text": "הזמר והיוצר יוסף גשטטנר, מגיש לקראת ראש השנה את שירו החדש שהלחין במיוחד לימים קדושים אלו – \"שופר\". גשטטנר: \"המילים \"אַשְׁרֵי הָעָם יוֹדְעֵי תְרוּעָה\" תמיד תפסו את תשומת הלב שלי. מה זה אומר בעצם \"לדעת\" ולהבין באמת את קול השופר? עבורי, השופר הוא זעקה, קריאה להתעורר, לעשות תשובה ולחזור לה'. אבל יש עוד שופר שכולנו מחכים…",
-   "image": "data/media/a1e656f0d6ca2f93.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/0gVZmyyd21Q-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%95%d7%a1%d7%a3-%d7%92%d7%a9%d7%98%d7%98%d7%a0%d7%a8-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%a9%d7%95%d7%a4%d7%a8/",
-   "download": null,
-   "ts": "2026-09-02T13:25:51+00:00"
-  },
-  {
-   "id": "s570d51568aaac9",
-   "title": "נחמן רוזנברג, משולם זושא, קלמי שווארץ, נותי פוקס, מוישי פרסברגר מגישים | אומן טריפ 2 | האזינו",
-   "text": "להזמנת אירועים ומופעים: 052-671-7130 ————————————– נחמן רוזנברג מארח: הטריפ חוזר לסיבוב שני בדרך לאומן! אומן מגיע, ואיתו הטריפ השנתי. ימים ספורים לפני הקיבוץ הגדול של ראש השנה באומן, נחמן רוזנברג לפרויקט השנתי שהפך לפסקול הדרכים לאומן. במחרוזת החדשה הוא מארח שורה של שמות אהובים: משולם זושא, נותי פוקס, קלמי שוורץ…",
-   "image": "data/media/bef4319e06de0a5d.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%a8%d7%95%d7%96%d7%a0%d7%91%d7%a8%d7%92-%d7%9e%d7%a9%d7%95%d7%9c%d7%9d-%d7%96%d7%95%d7%a9%d7%90-%d7%a7%d7%9c%d7%9e%d7%99-%d7%a9%d7%95%d7%95%d7%90%d7%a8%d7%a5-%d7%a0/",
-   "download": null,
-   "ts": "2026-09-02T12:51:48+00:00"
   }
  ]
 }
