@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T00:10:10.183273+00:00",
+ "updated": "2026-09-12T02:11:38.292050+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s09028626bce178",
+   "title": "שולם למר – Hashem, bring us closer to You. Help us take that first step and lead us back to where we belong.",
+   "text": "",
+   "image": "data/media/faf722a2abdfc90a.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/cfW3b6Dy4e0-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%95%d7%9c%d7%9d-%d7%9c%d7%9e%d7%a8-hashem-bring-us-closer-to-you-help-us-take-that-first-step-and-lead-us-back-to-where-we-belong/",
+   "download": null,
+   "ts": "2026-09-11T14:25:41+00:00"
+  },
   {
    "id": "se7de7a174b5d32",
    "title": "יואלי פאלאטשעק - רחמים",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%a4%d7%99%d7%9c%d7%9e%d7%a8-%d7%9e%d7%92%d7%99%d7%a9-%d7%a1%d7%98-%d7%97%d7%a1%d7%99%d7%93%d7%99-%d7%9c%d7%99%d7%9e%d7%99-%d7%94%d7%a8%d7%97%d7%9e%d7%99%d7%9d-%d7%95/",
    "download": null,
    "ts": "2026-09-02T14:32:54+00:00"
-  },
-  {
-   "id": "sf3d40f68fb4ec2",
-   "title": "אברהם יצחק שידלא מגיש: אברהם יוסף הירש משיק קליפ בכורה | קול דודי דופק | צפו",
-   "text": "להזמנות אירועים – אברהם יוסף הירש 055-670-6855 a036195974@gmail.com להזמנות אירועים – דודי פולק 0527167414 ____ אברהם יצחק שידלא מגיש: אברהם יוסף הירש משיק קליפ בכורה – \"קול דודי דופק\" הזמר הצעיר אברהם יוסף הירש מזניק את הקריירה המוזיקלית בצעד ראשון ומבטיח, ומשחרר ביצוע מיוחד לקראת ימי הרחמים והסליחות לקלאסיקה של…",
-   "image": "data/media/02c8357a231472b8.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%99%d7%a6%d7%97%d7%a7-%d7%a9%d7%99%d7%93%d7%9c%d7%90-%d7%9e%d7%92%d7%99%d7%a9-%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%99%d7%95%d7%a1%d7%a3-%d7%94%d7%99%d7%a8%d7%a9-%d7%9e/",
-   "download": null,
-   "ts": "2026-09-02T13:52:03+00:00"
   }
  ]
 }
