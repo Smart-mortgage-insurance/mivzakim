@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14T17:06:53.183317+00:00",
+ "updated": "2026-09-14T20:35:43.814541+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sf72f2171877a89",
+   "title": "מה זו תשובה אמיתית? הרב יהונתן פרטוש",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%94-%d7%96%d7%95-%d7%aa%d7%a9%d7%95%d7%91%d7%94-%d7%90%d7%9e%d7%99%d7%aa%d7%99%d7%aa-%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%a0%d7%aa%d7%9f-%d7%a4%d7%a8%d7%98%d7%95%d7%a9/",
+   "download": null,
+   "ts": "2026-09-14T18:23:26+00:00"
+  },
   {
    "id": "s74ab1f9de7e9cb",
    "title": "יוסף חיים בוסקילה בקאבר מרגש | שערי שמיים | האזינו",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9c%d7%99%d7%a4%d7%90-%d7%a9%d7%9e%d7%a2%d7%9c%d7%a6%d7%a8-%d7%94%d7%aa%d7%a8%d7%aa-%d7%a0%d7%93%d7%a8%d7%99%d7%9d/",
    "download": null,
    "ts": "2026-09-03T02:03:59+00:00"
-  },
-  {
-   "id": "se5ad1875e9dd29",
-   "title": "יוסף גשטטנר - שופר",
-   "text": "לקראת הימים הקדושים: יוסף גשטטנר מגיש סינגל חדש ומעורר - \"שופר\"עם התקרב ימי הרחמים והסליחות וראש השנה הבעל\"ט, משחרר הזמר והיוצר יוסף גשטטנר יצירה חדשה ומרגשת פרי לחנו - \"שופר\". השיר מביא עמו ניגון של התעוררות הלב, המחובר באופן עמוק לאווירת הימים הנוראים.ההשראה לשיר נולדה מתוך התבוננות במאמר הכתוב \"אַשְׁרֵי הָעָם…",
-   "image": "data/media/d33e6d93b78f2875.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx_fFHAzMpF_mVvF05BpJ3CjaJRLb-DdDbGncAgqdQCK_OLzqql8aObqG426zWr-W0lN7P-lf5Gaw2y1yZwLWlDeYnGorN0LfwcMaHSijoNxGfA6jvYtLr87ayxBsilf4KYTYpPcN5JmzuphXyCda_k7JaQm_PINHXKUH8xDMvWwVhtan5zFGStncnAmNY/s72-w320-h320-c/Yosef%20Gestetner%20-%20Shofar.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_833.html",
-   "download": "https://archive.org/download/hadshotmusic_20260903_0147/%D7%99%D7%95%D7%A1%D7%A3%20%D7%92%D7%A9%D7%98%D7%98%D7%A0%D7%A8%20-%20%D7%A9%D7%95%D7%A4%D7%A8.mp3",
-   "ts": "2026-09-03T01:51:05+00:00"
   }
  ]
 }
