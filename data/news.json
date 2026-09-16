@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T15:23:07.519309+00:00",
+ "updated": "2026-09-16T18:42:08.848792+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s108d6e39dd9365",
+   "title": "הרב יגאל כהן | יום כיפור 2026 | השיעור הכי חשוב!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-2026-%d7%94%d7%a9%d7%99%d7%a2%d7%95%d7%a8-%d7%94%d7%9b%d7%99-%d7%97%d7%a9%d7%95/",
+   "download": null,
+   "ts": "2026-09-16T18:24:35+00:00"
+  },
+  {
+   "id": "s422c1e14ce34ba",
+   "title": "אהרל׳ע סמט עם החלק האחרון מתוך הייליגע מינוטן 5 המסורתי | אין קצבה | האזינו",
+   "text": "מוקדש לעי\"נ המשב\"ק ונאמן ביתו של רבינו זי\"ע, איש החסד הרה\"ח ר' שמעון ברוין ז\"ל, ת.נ.צ.ב.ה. ״הייליגע מינוטן״, הפרויקט הנשגב של אהרל׳ע סמט שכבר הפך למסורת, פנה השנה אל שורשים עמוקים. בפרויקט זה מבצע אהרל׳ע ניגונים קדושים מבית מדרשו של ״בעל הדברי אמונה״ זי״ע, שם ינק אהרל׳ע את אלה הניגונים, שעברו מדור לדור לחצרות הבנים…",
+   "image": "data/media/b99bdc043fec3653.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/2kj9BY7DlRY-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%94%d7%a8%d7%9c%d7%b3%d7%a2-%d7%a1%d7%9e%d7%98-%d7%a2%d7%9d-%d7%94%d7%97%d7%9c%d7%a7-%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f-%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%99%d7%99%d7%9c%d7%99%d7%92%d7%a2/",
+   "download": null,
+   "ts": "2026-09-16T16:30:24+00:00"
+  },
   {
    "id": "s831f6cb633df01",
    "title": "דיג'יי ינון טייב מגיש | סט סליחות 2026 | מיטב פיוטי הסליחות והימים הנוראים | האזינו",
@@ -1977,32 +2003,6 @@
    "link": "https://music.tora1.com/1815",
    "download": null,
    "ts": "2026-09-05T18:28:37+00:00"
-  },
-  {
-   "id": "s1f2d1b7235c558",
-   "title": "באנרגיות שיא: חתונה עם הזמר מרדכי אביטאן והקלידן יודל'ה שפיצר – כ\"ב אב ה'תשפ\"ו (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1814",
-   "download": null,
-   "ts": "2026-09-05T18:26:11+00:00"
-  },
-  {
-   "id": "s44dd4edc4e25c7",
-   "title": "איצי וולדנר – Tefilas Chana – תפילת חנה | Yitzy Waldner & Shulem Lemmer (Prod. by Yanky Posen)",
-   "text": "BS\"D Chana, the mother of the great Shmuel Hanavi, came to the Mishkan in Shiloh with a broken, hopeful heart. She poured out her soul before Hashem, ואשפוך את נפשי לפני ה׳, asking for the gift of a child who would grow to bring the word of Hashem into the world. Her tefillah became the model for all of us. From…",
-   "image": "data/media/70fc3c35d74bc185.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f64f-1f3fb.png",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%99%d7%a6%d7%99-%d7%95%d7%95%d7%9c%d7%93%d7%a0%d7%a8-tefilas-chana-%d7%aa%d7%a4%d7%99%d7%9c%d7%aa-%d7%97%d7%a0%d7%94-yitzy-waldner-shulem-lemmer-prod-by-yanky-posen/",
-   "download": null,
-   "ts": "2026-09-04T22:50:34+00:00"
   }
  ]
 }
