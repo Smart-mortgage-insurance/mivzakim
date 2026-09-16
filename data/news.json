@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T05:53:09.696872+00:00",
+ "updated": "2026-09-16T10:13:29.994059+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,84 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s48fd1f8a52a75b",
+   "title": "מקבץ חתונות חדשות מאת הקלידן מוישי באנדא (הורדה מהדרייב)",
+   "text": "חתונה עם הקלידן מוישי באנדא והזמר פישי רכטשפר – תהנו חברים!!! – יא אלול ה'תשפ\"ו הורדה דרך דרייב (תיקייה) * * * חתונה עם הקלידן מוישי באנדא והזמר אושי פורוש – חסידי טירוףףףףףףף – י\"ב אלול ה'תשפ\"ו הורדה דרך דרייב (תיקייה) * * *",
+   "image": "data/media/e1d1a7ca22975e32.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a1.png",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1829",
+   "download": null,
+   "ts": "2026-09-16T08:04:31+00:00"
+  },
+  {
+   "id": "s788de277ab04cf",
+   "title": "חתונה חדשה: הקלידן יחיאל שטיין והזמר אלעזר שטרן בלא \"עוד חתונה\"… (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1828",
+   "download": null,
+   "ts": "2026-09-16T08:00:54+00:00"
+  },
+  {
+   "id": "sfd040b80907511",
+   "title": "חתונה עם הקלידן האלוף אושי לנדסמן והזמרים אהרלע סאמעט, בנימין לייפער, ברוך ויזל ו'מקהלת נשמה' (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1827",
+   "download": null,
+   "ts": "2026-09-16T07:59:08+00:00"
+  },
+  {
+   "id": "s59e37f5f398228",
+   "title": "חתונה עם הקלידן שיעלע רוב והזמר יוסל'ה לייפער והנשפן יהודה לוברבום – ג' אלול ה'תשפ\"ו (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1826",
+   "download": null,
+   "ts": "2026-09-16T07:57:29+00:00"
+  },
+  {
+   "id": "seb3bb81d33b87f",
+   "title": "ממידנק ועד הקדיש: מוטי שטיינמץ עם הפקה מרטיטה לערב יום כיפור | נחדל | צפו",
+   "text": "פרוסת הלחם הגזולה ממידנק צרבה באברום לנצח, אבל דווקא משום כך הוא זינק מאז שוחרר מהמחנה והפך למטאור מצליח בעולם העסקים, שהתאפיין כמי שאינו נוגע באף פרוטה שיש צד קל שאינה שלו. עין לא נותרת יבישה כשמתברר לשני גיבורי הסיפור עשרות שנים אחרי, מה אירע לשכנם לדרגש במחנה. החיבוק העז והדומע מותיר את הצופה עם רגש עז ונוקב שלוקח…",
+   "image": "data/media/2268b4ef3ea7256e.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/pAb0Zd76sjk-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%9e%d7%99%d7%93%d7%a0%d7%a7-%d7%95%d7%a2%d7%93-%d7%94%d7%a7%d7%93%d7%99%d7%a9-%d7%9e%d7%95%d7%98%d7%99-%d7%a9%d7%98%d7%99%d7%99%d7%a0%d7%9e%d7%a5-%d7%a2%d7%9d-%d7%94%d7%a4%d7%a7%d7%94-%d7%9e/",
+   "download": null,
+   "ts": "2026-09-16T07:50:08+00:00"
+  },
+  {
+   "id": "s31d40ccde86db8",
+   "title": "הרב יגאל כהן | עשית עבירות? יש פתרון!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a2%d7%a9%d7%99%d7%aa-%d7%a2%d7%91%d7%99%d7%a8%d7%95%d7%aa-%d7%99%d7%a9-%d7%a4%d7%aa%d7%a8%d7%95%d7%9f/",
+   "download": null,
+   "ts": "2026-09-16T06:24:34+00:00"
+  },
   {
    "id": "sd22d3e3807aaf0",
    "title": "וטהרנו – ישראל קרמר",
@@ -1925,84 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_04.html",
    "download": null,
    "ts": "2026-09-04T10:47:13+00:00"
-  },
-  {
-   "id": "scedcee8aed546b",
-   "title": "ישיבת ההסדר נווה דקלים מאשדוד מגישים מחרוזת מיוחדת | מחרוזת שבת קודש | צפו",
-   "text": "עיבוד והפקה מוסיקלית: ישי גבריאלי בס: אבי יפרח גיטרות: אריאל אהרון קלידים: אורי כהן קלרינט/סקסופון: יהושע לרנר תופים: ישי גבריאלי קולות ושירה: יהושע לרנר, אלון בננו, ישי גבריאלי, ר׳ אלעד פורטל, ר׳ בועז עמירה, הראל וולס, ר׳ עידו זאב, הרב דוד גבריאלי מיקס ומאסטרינג: אורי כהן צילום קליפ ועיצוב עטיפה: מאודי אלכסלסי בימוי…",
-   "image": "data/media/5437a049abd72eec.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/f7FWo6fjCwA-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%94%d7%94%d7%a1%d7%93%d7%a8-%d7%a0%d7%95%d7%95%d7%94-%d7%93%d7%a7%d7%9c%d7%99%d7%9d-%d7%9e%d7%90%d7%a9%d7%93%d7%95%d7%93-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%9e/",
-   "download": null,
-   "ts": "2026-09-04T10:00:48+00:00"
-  },
-  {
-   "id": "sa9c8bc0957ec41",
-   "title": "שרוליק לפקוביץ ומרדכי הס מגישים | קול דודי בקאבר כינור | צפו",
-   "text": "",
-   "image": "data/media/bf9d9df3c9d66401.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/iWI_0mNH2JI-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%a8%d7%95%d7%9c%d7%99%d7%a7-%d7%9c%d7%a4%d7%a7%d7%95%d7%91%d7%99%d7%a5-%d7%95%d7%9e%d7%a8%d7%93%d7%9b%d7%99-%d7%94%d7%a1-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%a7%d7%95%d7%9c-%d7%93%d7%95/",
-   "download": null,
-   "ts": "2026-09-04T09:58:35+00:00"
-  },
-  {
-   "id": "sda561716b063ea",
-   "title": "סוד ראש השנה ומה תפקדו של השופר? | הרב הרצל חודר",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%95%d7%93-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%95%d7%9e%d7%94-%d7%aa%d7%a4%d7%a7%d7%93%d7%95-%d7%a9%d7%9c-%d7%94%d7%a9%d7%95%d7%a4%d7%a8-%d7%94%d7%a8%d7%91-%d7%94%d7%a8%d7%a6/",
-   "download": null,
-   "ts": "2026-09-04T06:24:33+00:00"
-  },
-  {
-   "id": "s51cc2164b689bb",
-   "title": "בני פרידמן – The Making of Homeward Bound | Benny Friedman",
-   "text": "With just three weeks until release day, Benny Friedman and producer Nochum Levitan head upstate for a race against the clock to complete the hit EP Homeward Bound. Follow along as the songs come together, vocals are recorded, and the final production takes shape. With serious creative discussions and plenty of fun…",
-   "image": "data/media/f1bece7be6644f38.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/PLWCD2w2TZI-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%91%d7%a0%d7%99-%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f-the-making-of-homeward-bound-benny-friedman/",
-   "download": null,
-   "ts": "2026-09-03T22:32:45+00:00"
-  },
-  {
-   "id": "s3e6e4e154e9fb4",
-   "title": "דוד פדר – כנפי רוח 🕊️ keep rising. Your wings are already there. 🕊️",
-   "text": "",
-   "image": "data/media/87e67ac8abfd8cb5.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/49OrGcYE1Dk-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%93%d7%95%d7%93-%d7%a4%d7%93%d7%a8-%d7%9b%d7%a0%d7%a4%d7%99-%d7%a8%d7%95%d7%97-%f0%9f%95%8a%ef%b8%8f-keep-rising-your-wings-are-already-there-%f0%9f%95%8a%ef%b8%8f/",
-   "download": null,
-   "ts": "2026-09-03T20:08:40+00:00"
-  },
-  {
-   "id": "s140d75e9357df8",
-   "title": "הרב ליאור גלזר – ראש השנה 2026 – 🤣 להתחיל את השנה עם חיוך. קורע מצחוק!!!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%9c%d7%99%d7%90%d7%95%d7%a8-%d7%92%d7%9c%d7%96%d7%a8-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-2026-%f0%9f%a4%a3-%d7%9c%d7%94%d7%aa%d7%97%d7%99%d7%9c-%d7%90%d7%aa-%d7%94/",
-   "download": null,
-   "ts": "2026-09-03T18:24:37+00:00"
   }
  ]
 }
