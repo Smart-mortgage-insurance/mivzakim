@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T20:51:16.147452+00:00",
+ "updated": "2026-09-17T22:58:03.279452+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sd7f0d815e05e54",
+   "title": "שרוליק כהן - אוי ויי טאטע",
+   "text": "כשהסנגוריה החסידית פוגשת אנרגיה מקפיצה: שרוליק כהן בסינגל-קליפ חדש – \"אוי ויי טאטע\"בעיצומם של עשרת ימי תשובה, ימים ספורים לפני יום הכיפורים, הזמר והיוצר שרוליק כהן מוציא סינגל-קליפ חדש בשם \"אוי ויי טאטע\", המבוסס על הניגון הידוע \"ריבונו של עולם - לאמיר מאכן א בייט\" המיוחס לרבי לוי יצחק מברדיטשוב זי\"ע - \"סנגורן של…",
+   "image": "data/media/cbe51c1a9689f7fc.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e27LxE_D8Xqyya9IZ0fTJGOrif400UFwm-RrMTe_C_M4xprnIbmH4zZiuj4sM1jjG3Xx5e55iXlIDAaXNnMOPpIOa_qdQ2_cyv3Iepz1yPFtrLEMnkzSsuyu37hD2UDsLS6T5UWOY59pW0V_KS19P47ww3-Cmpdk88Xs5VzuZCEERZahT6pbqTJOHkEr/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%95%D7%99%20%D7%95%D7%99%D7%99%20%D7%98%D7%90%D7%98%D7%A2.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_17.html",
+   "download": "https://archive.org/download/hadshotmusic_20260917_2203/%D7%A9%D7%A8%D7%95%D7%9C%D7%99%D7%A7%20%D7%9B%D7%94%D7%9F%20-%20%D7%90%D7%95%D7%99%20%D7%95%D7%99%D7%99%20%D7%98%D7%90%D7%98%D7%A2.mp3",
+   "ts": "2026-09-17T22:19:34+00:00"
+  },
   {
    "id": "sf39c4a69a4e0fa",
    "title": "הרב יגאל כהן – האם אתה אוהב באמת?",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%90%d7%99%d7%9a-%d7%97%d7%95%d7%96%d7%a8%d7%99%d7%9d-%d7%91%d7%aa%d7%a9%d7%95%d7%91%d7%94-%d7%91%d7%90%d7%9e%d7%aa-%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%a0%d7%aa%d7%9f-%d7%a4%d7%a8%d7%98%d7%95/",
    "download": null,
    "ts": "2026-09-06T18:23:13+00:00"
-  },
-  {
-   "id": "s4c1fea02fbed2f",
-   "title": "לחכות כבר לא יכולים | דוד חפצדי מגיש ביצוע ייחודי | נשמת כל חי | צפו בקליפ מילים",
-   "text": "בס\"ד להזמנות משה בן ישי : 058-7070120 עיבוד והפקה מוזיקלית: עובדיה יוסף חפצדי קלידים ותכנותים: עובדיה יוסף חפצדי תופים: אמיר אהרון גיטרות עוד בגלמה שמעון יחיא מיקס ומאסטרינג : אלי מלמד צילום יהודה רוזן קליפ מילים ועיצוב עטיפה משה כהן",
-   "image": "data/media/7673c0bab8ce3d51.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/Y8doef_-xFc-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%97%d7%9b%d7%95%d7%aa-%d7%9b%d7%91%d7%a8-%d7%9c%d7%90-%d7%99%d7%9b%d7%95%d7%9c%d7%99%d7%9d-%d7%93%d7%95%d7%93-%d7%97%d7%a4%d7%a6%d7%93%d7%99-%d7%9e%d7%92%d7%99%d7%a9-%d7%91%d7%99%d7%a6/",
-   "download": null,
-   "ts": "2026-09-06T17:28:58+00:00"
   }
  ]
 }
