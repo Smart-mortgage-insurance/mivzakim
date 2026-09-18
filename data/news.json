@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18T10:40:31.132733+00:00",
+ "updated": "2026-09-18T14:34:24.639710+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2d55be86b8ddbf",
+   "title": "משולם זושא - אל תרחק ממני",
+   "text": "אל תעזבני ה' אלוקינו: משולם זושא בסינגל-קליפ חדש - ״אל תרחק ממני״בתוך ימי התשובה וההתקרבות, משולם זושא מוציא סינגל-קליפ חדש בשם ״אל תרחק ממני״, שיר תפילה אישי המפגיש בין לשונות מוכרות מן המקורות לבין תחינה פשוטה וכנה לקרבת ה'.במילות השיר מבקש משולם מריבונו של עולם: ״אל תעזבני השם אלקינו, אל תרחק ממני״, תוך שילוב מילים…",
+   "image": "data/media/7530c1ed833ebc12.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBPB70MaWicDDpPa5s9XMS6_lIlkixtRf5f-vP561rMP5A0xA0TT8Hb74ry_ewota42D3j_y1HKm8DCXDarRIdQh0di3mBYSBxdOucUHsuoao6iENqvLQdRAlWJHZvFps9jZVP0A4dQsAyEboJBGVmuJ09o0XFXx2D8jfXhH-aNhpR4BCQke36vaOyMna/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%9C%20%D7%AA%D7%A8%D7%97%D7%A7%20%D7%9E%D7%9E%D7%A0%D7%99.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_713.html",
+   "download": null,
+   "ts": "2026-09-18T12:03:46+00:00"
+  },
+  {
+   "id": "sce3de0ca906dfa",
+   "title": "אבי שפרונג - מעט טוב",
+   "text": "לחפש את מעט הטוב שבתוכנו: אבי שפרונג בסינגל חדש - ״מעט טוב״יש זמנים שבהם האדם מרגיש רחוק, מתמודד עם נפילות ועם תחושה שאינו מצליח למצוא את הדרך חזרה. דווקא אל המקום הזה פונה אבי שפרונג בסינגל החדש שלו, ״מעט טוב״, שנכתב מתוך ההתבוננות בדברי רבי נחמן מברסלב על עבודת ה׳ ועל ההתמודדויות שבדרך.ב׳ליקוטי מוהר״ן תנינא׳, תורה…",
+   "image": "data/media/6d3343bef5705034.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisDKziOAXVj_E8RVq210S3-EpihvJ_mfHZ6Vv-skK-odZ_hGzCF9ydoCGA0q3zKMLVtVaSxWNiQcaDWTsGmthH2W7IK7SC8jpS_ZcaXXze2mBYTCe9tRfHGcEjaYibPkawZwyMhden4YSPkl2zNTbDlDnidBdrLsuIWLyhdByUlnY3qx2GYqZpApEEwnvi/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%9E%D7%A2%D7%98%20%D7%98%D7%95%D7%91.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_18.html",
+   "download": "https://archive.org/download/hadshotmusic_20260918_1041/%D7%90%D7%91%D7%99%20%D7%A9%D7%A4%D7%A8%D7%95%D7%A0%D7%92%20-%20%D7%9E%D7%A2%D7%98%20%D7%98%D7%95%D7%91.mp3",
+   "ts": "2026-09-18T10:45:14+00:00"
+  },
   {
    "id": "s4fb36f6c33ddf6",
    "title": "אבי הס בסינגל מרגש לקראת יום הכיפורים | תשובתי [ לך א-לי תשוקתי נוסח אשכנז ] | האזינו",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%a8%d7%92%d7%a9-%d7%9c%d7%99%d7%95%d7%a6%d7%a8-%d7%9e%d7%a9%d7%94-%d7%a4%d7%9c%d7%93-%d7%95%d7%98%d7%94%d7%a8-%d7%a6%d7%a4%d7%95-%d7%91%d7%a7%d7%9c%d7%99/",
    "download": null,
    "ts": "2026-09-07T12:12:57+00:00"
-  },
-  {
-   "id": "s4a5afd4f20ecee",
-   "title": "אלמוג חליבה במאשפ מרגש ועוצמתי | רק אליך | האזינו",
-   "text": "באווירת ימי הסליחות, אלמוג חליבה משחרר משאפ חדש ומרגש בשם ״רק אליך״ – חיבור עוצמתי של תפילה, רגש ואמונה, שמכניס את המאזין לאווירה המיוחדת של הימים הללו. זהו משאפ שנוצר כדי לגעת בלב, לעצור לרגע את השגרה ולהתחבר למילים, לתפילה ולגעגוע לבורא עולם. רשימת שירים 0:00 אוחילה לקל 0:30 אליך השם 0:54 צעקתי תודה לך 1:31 לך אלי…",
-   "image": "data/media/7c798f333bdf360c.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/e4FDkegRwrk-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%97%d7%9c%d7%99%d7%91%d7%94-%d7%91%d7%9e%d7%90%d7%a9%d7%a4-%d7%9e%d7%a8%d7%92%d7%a9-%d7%95%d7%a2%d7%95%d7%a6%d7%9e%d7%aa%d7%99-%d7%a8%d7%a7-%d7%90%d7%9c%d7%99%d7%9a/",
-   "download": null,
-   "ts": "2026-09-07T09:01:15+00:00"
-  },
-  {
-   "id": "s97e176e860e817",
-   "title": "מרדכי דוד זעליקאוויטש – זמר חסידי לאירועים קטנים",
-   "text": "מרדכי דוד זעליקאוויטש זמר חסידי לאירועים קטנים הקלטות לדוגמה: הזמר מרדכי דוד זעליקאוויטש שר בקבלת פנים עם הקלידן מושי מנדלסון והנשפן נתן עטינגער קטע ראשון: הפעלה השהיה הנמכה הגברה הורדה * * * קטע שני: הפעלה השהיה הנמכה הגברה הורדה * * * קטע שלישי: הפעלה השהיה הנמכה הגברה הורדה * * * אהבתם? לפרטים והזמנות: – טלפון:…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1821",
-   "download": "https://share.tora1.com/s/Mgg3dQonqy7YwLg/download",
-   "ts": "2026-09-07T07:27:59+00:00"
   }
  ]
 }
