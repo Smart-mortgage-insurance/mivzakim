@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19T21:35:28.958517+00:00",
+ "updated": "2026-09-19T23:00:47.274734+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sbe7ef0f4db20d6",
+   "title": "באווירת עשרת ימי תשובה: ביצוע משותף של אורי זיו ומרדכי הס | מכניסי רחמים | צפו",
+   "text": "",
+   "image": "data/media/fc5039cc1d0f75a7.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/bWMXTApKUPE-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%91%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%aa-%d7%a2%d7%a9%d7%a8%d7%aa-%d7%99%d7%9e%d7%99-%d7%aa%d7%a9%d7%95%d7%91%d7%94-%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a9%d7%95%d7%aa%d7%a3-%d7%a9%d7%9c-%d7%90/",
+   "download": null,
+   "ts": "2026-09-19T21:58:52+00:00"
+  },
   {
    "id": "s5a44126bb4a1ff",
    "title": "מחילה – ישראל קרמר",
@@ -1990,19 +2003,6 @@
    "link": "https://music.tora1.com/1822",
    "download": null,
    "ts": "2026-09-07T13:43:43+00:00"
-  },
-  {
-   "id": "s1aecd5a6571c4a",
-   "title": "פיני איינהורן – סליחות תשפ\"ו | Pini Einhorn – Selichot 2026",
-   "text": "מוזמנים להירשם לערוץ ולהתעדכן בכל מה שחדש האגף לתרבות תורנית בעיריית ירושלים, יונתן יחיאל וקול חי מיוזיק מגישים: סליחות ראשונות עם פיני איינהורן הפקה: יונתן יחיאל ניהול אמנותי: מוישי רוט ניהול מוסיקלי: אביה גרינברג ניהול מוסיקלי וקלידים: אביה גרינברג גיטרה חשמלית: לוי יצחק מאורר גיטרה אקוסטית: רון חניה כלי הקשה וכחון:…",
-   "image": "data/media/5acc720de2dd6720.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f514.png",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a4%d7%99%d7%a0%d7%99-%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f-%d7%a1%d7%9c%d7%99%d7%97%d7%95%d7%aa-%d7%aa%d7%a9%d7%a4%d7%95-pini-einhorn-selichot-2026/",
-   "download": null,
-   "ts": "2026-09-07T13:05:38+00:00"
   }
  ]
 }
