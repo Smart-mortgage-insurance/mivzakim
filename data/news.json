@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T01:29:11.499994+00:00",
+ "updated": "2026-09-20T06:11:55.223925+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -79,6 +79,19 @@
    "link": "https://hamenagen.net/%d7%9e%d7%97%d7%99%d7%9c%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a7%d7%a8%d7%9e%d7%a8/",
    "download": null,
    "ts": "2026-09-19T21:32:11+00:00"
+  },
+  {
+   "id": "s9ebcfbd3181629",
+   "title": "הלל מאיר – מחילה גמורה",
+   "text": "עיבוד והפקה מוזיקלית, מיקס ומאסטרינג: מוישי אולחוב וחיים דייטש יחסי ציבור ותקשורת: ישראל רוזן",
+   "image": "data/media/a0cacc8a8b0ec785.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/lkdrfmG2UQ4-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%9c%d7%9c-%d7%9e%d7%90%d7%99%d7%a8-%d7%9e%d7%97%d7%99%d7%9c%d7%94-%d7%92%d7%9e%d7%95%d7%a8%d7%94/",
+   "download": null,
+   "ts": "2026-09-19T19:40:27+00:00"
   },
   {
    "id": "sb3427966db1b66",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9b%d7%91%d7%a8-5-%d7%a9%d7%a0%d7%99%d7%9d-%d7%a7%d7%95%d7%91%d7%99-%d7%91%d7%a8%d7%95%d7%9e%d7%a8-%d7%95%d7%90%d7%95%d7%a8%d7%99%d7%99%d7%aa%d7%90-%d7%9e%d7%9e%d7%a9%d7%99%d7%9b%d7%99%d7%9d/",
    "download": null,
    "ts": "2026-09-07T13:50:53+00:00"
-  },
-  {
-   "id": "s7ffe158b9b21f9",
-   "title": "חתונה עם הקלידן מוטי כהן, הזמר בנימין לייפער והנשפן משה סומר – חתונה מפציצה ביותר – י\"א אלול ה'תשפ\"ו",
-   "text": "הורדה ישירה תצוגה מקדימה * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1822",
-   "download": null,
-   "ts": "2026-09-07T13:43:43+00:00"
   }
  ]
 }
