@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T20:42:45.686408+00:00",
+ "updated": "2026-09-22T23:05:33.543043+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s4e1fc3ab6c4f5e",
+   "title": "יואלי דוידוביץ - עננים (אלבום EP)",
+   "text": "מבית המדרש לכל סוכה: יואלי דוידוביץ משיק אלבום בכורה מיוחד לחג הסוכות - \"עננים\"לאחר שכבש את הלבבות בשורה של להיטים אהובים ובהם \"ממלכת כהנים\", \"אשרי רבו\" ו\"בנים אתם\", עושה הזמר ובעל המנגן יואלי דוידוביץ צעד משמעותי בקריירה המוזיקלית ומשיק לראשונה אלבום בכורה חגיגי לקראת חג הסוכות הבעל\"ט: \"עננים\" (וואלקענעס).מאחורי…",
+   "image": "data/media/752dc8a6ec889eb1.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-BGRs2H2zMCvjGJvVduBqdfNo9AbTcNpMYifvwo3LRSgdjrNw8Fn2yPs1aOENjS4VGpfQdKWcVenfRxzBzA1we2GJPSPwaRucQgGyUzPiAIY-zVDAGJoIfo1wwziaYGo-rqM5CWV9L-pBOxUXXcidnbTjNLnQl53ghvYTnXkiE_iIPDXRq8lR-bNJgLp_/s72-w320-h320-c/%D7%97%D7%95%D7%91%D7%A8%D7%AA%20%D7%90%D7%9C%D7%91%D7%95%D7%9D%20%D7%A2%D7%A0%D7%A0%D7%99%D7%9D%20%D7%99%D7%95%D7%90%D7%9C%D7%99%20%D7%93%D7%95%D7%99%D7%93%D7%95%D7%91%D7%99%D7%A52_Page_1.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/ep_0661077559.html",
+   "download": "https://archive.org/download/hadshotmusic_20260922_2043/01%20%D7%A2%D7%A0%D7%A0%D7%99%D7%9D.mp3",
+   "ts": "2026-09-22T21:05:56+00:00"
+  },
   {
    "id": "s7c96232c11d2c3",
    "title": "יענקי רוזנבוים מגיש: ״עולו אושפיזין״ להיט סוכות אנרגטי בניחוח חדשני | האזינו",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%90%d7%9c%d7%95%d7%9c-%d7%90%d7%99%d7%96-%d7%92%d7%95%d7%98-%d7%a1%d7%a0%d7%93%d7%99-%d7%93%d7%99%d7%a0%d7%a7%d7%9c-%d7%a2%d7%9d-%d7%9e%d7%a1%d7%a8-%d7%9e%d7%99%d7%95%d7%97%d7%93-%d7%9c%d7%99/",
    "download": null,
    "ts": "2026-09-08T13:17:01+00:00"
-  },
-  {
-   "id": "s3e99a96c181ebe",
-   "title": "נחמן זוננשטיין – ZANO ונחמן סרבגולה בסינגל לקראת ראש השנה | בזכות הצדיק | האזינו",
-   "text": "שירה וקולות – נחמן סרבגולה ונחמן זוננשיין. סינת׳ וקלידים – חסד עליון פשוט גודינגר. גיטרות – נחמן שפר. גיטרה בס – חסד עליון פשוט גודינגר. הפקה עיבוד תכנותים והקלטות – נחמן סרבגולה. מיקס מאסטרינג – אבי טל. עזרה בתכנותים – יראה נאור. גרפיקה – עיצוב עטיפת סינגל: GRAPHIC – NADAV הפצה דיגיטלית – ספארק הפקות. הכל בזכות הצדיק…",
-   "image": "data/media/4361ebe66f861ed3.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/hvV4g68i4XA-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%96%d7%95%d7%a0%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f-zano-%d7%95%d7%a0%d7%97%d7%9e%d7%9f-%d7%a1%d7%a8%d7%91%d7%92%d7%95%d7%9c%d7%94-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c/",
-   "download": null,
-   "ts": "2026-09-08T13:00:22+00:00"
   }
  ]
 }
