@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T17:24:58.233137+00:00",
+ "updated": "2026-09-22T17:27:09.014749+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s1a1da20c4a1b79",
+   "title": "שבשפלנו זכר לנו | שמואל דוד לאנדא שר קרליבך | האזינו",
+   "text": "This song has always spoken to me deeply. It’s a holy Niggun from Reb Shlomo Carlebach Zt”l. It reminds us that even in our lowest moments, Hashem remembers us. שבשפלנו זכר לנו כי לעולם חסדו ————- CREDITS: Performed: Shmuel Dovid Landau Arranged: Lazer Landau Guitars: Motty Feldman Mixed: Yitzy Berry Mastered: Yitzy…",
+   "image": "data/media/f033e1143cb29bc0.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/FgQOr17A_Jg-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%91%d7%a9%d7%a4%d7%9c%d7%a0%d7%95-%d7%96%d7%9b%d7%a8-%d7%9c%d7%a0%d7%95-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%93%d7%95%d7%93-%d7%9c%d7%90%d7%a0%d7%93%d7%90-%d7%a9%d7%a8-%d7%a7%d7%a8%d7%9c/",
+   "download": null,
+   "ts": "2026-09-22T17:25:09+00:00"
+  },
   {
    "id": "s033fa2ce7260d2",
    "title": "סט סוכות מקפיץ תשפ\"ז • 2026 – דיג'יי יצחק כהן",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%9e%d7%9c%d7%9b%d7%95%d7%aa-%d7%9e%d7%92%d7%99%d7%a9%d7%94-%d7%99%d7%9e%d7%99%d7%9d-%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%91%d7%97%d7%a6%d7%a8%d7%95%d7%aa-%d7%94/",
    "download": null,
    "ts": "2026-09-08T11:08:05+00:00"
-  },
-  {
-   "id": "sb1b5dbbf577769",
-   "title": "ישי ריבו & להקת זושא - דרך העושים מאהבה",
-   "text": "תומת ישרים תנחם: ישי ריבו ולהקת 'זושא' בשיר חדש לראש השנה - כדרך העושים מאהבהלקראת הימים הנוראים, משיק האמן והיוצר ישי ריבו סינגל חדש ומרגש: \"דרך העושים מאהבה\", בו הוא מארח את הצמד היהודי-אמריקאי 'להקת זושא'. זהו החיבור המוזיקלי הראשון של ריבו המשלב בין שירה בעברית לבתים באנגלית.השיר החדש נולד מתוך רגע של עיון עמוק…",
-   "image": "data/media/a8579a108a9cf831.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ5DPJgZrMXF2-TBx41RyA-muLzqxnz-Cm6odD0ssrUpQEXDppBc5L0zMfqVHzVXKvSnkLjtoz4HOtLdKHb5bG0y-xqyBDTcgWuryyI9wl98x-oO7ucYK0rWLvOWU3WeM97_bZsY3r5NIhyIx8g8o1axI8igRzA7uOXSlZze47bthscGWmDnhdSwhmaWHU/s72-w320-h320-c/%D7%93%D7%A8%D7%9A%203000.jpeg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_08.html",
-   "download": "https://archive.org/download/hadshotmusic_20260908_1053/%D7%99%D7%A9%D7%99%20%D7%A8%D7%99%D7%91%D7%95%20%26%20%D7%9C%D7%94%D7%A7%D7%AA%20%D7%96%D7%95%D7%A9%D7%90%20-%20%D7%93%D7%A8%D7%9A%20%D7%94%D7%A2%D7%95%D7%A9%D7%99%D7%9D%20%D7%9E%D7%90%D7%94%D7%91%D7%94.mp3",
-   "ts": "2026-09-08T11:05:09+00:00"
   }
  ]
 }
