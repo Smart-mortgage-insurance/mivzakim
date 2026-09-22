@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T17:32:11.849788+00:00",
+ "updated": "2026-09-22T17:34:31.200007+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s0be82c51eac3d1",
+   "title": "חיים גרין בסינגל לקראת חג הסוכות | זמן שמחתנו | האזינו",
+   "text": "I'm so excited to share my new single, \"Zman Simchatenu\" (זמן שמחתנו)! This is an uplifting freilach track to the special words we say in Kiddush on Yom Tov night in the Sukkah: \"את יום חג הסוכות הזה, זמן שמחתנו…\" I hope it brings pure simcha and high-energy vibes to your Sukkah and Yom Tov! Turn up the speakers, add…",
+   "image": "data/media/726a9f3e8933cda8.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%97%d7%99%d7%99%d7%9d-%d7%92%d7%a8%d7%99%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%96%d7%9e%d7%9f-%d7%a9/",
+   "download": null,
+   "ts": "2026-09-22T17:32:46+00:00"
+  },
   {
    "id": "s69f8ad39bf2df4",
    "title": "אלי מרכוס וברוך לוין בביצוע מרומם | גלה | צפו",
@@ -1990,19 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_557.html",
    "download": "https://archive.org/download/hadshotmusic_20260908_1134/%D7%9E%D7%90%D7%99%D7%A8%20%D7%A0%D7%95%D7%A1%D7%A0%D7%A6%D7%95%D7%95%D7%99%D7%99%D7%92%20-%20%D7%A8%D7%A6%D7%95%D7%9F.mp3",
    "ts": "2026-09-08T11:36:50+00:00"
-  },
-  {
-   "id": "sb7a08e8ca99332",
-   "title": "הנשמה לך | בנימין לוי מרגש לקראת ראש השנה | צפו בקליפ מילים",
-   "text": "",
-   "image": "data/media/cdbe62cbf4d95541.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/wGM9JsNR9-c-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a0%d7%a9%d7%9e%d7%94-%d7%9c%d7%9a-%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%9f-%d7%9c%d7%95%d7%99-%d7%9e%d7%a8%d7%92%d7%a9-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0/",
-   "download": null,
-   "ts": "2026-09-08T11:10:32+00:00"
   }
  ]
 }
