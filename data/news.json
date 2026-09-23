@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T06:24:44.928502+00:00",
+ "updated": "2026-09-23T06:26:21.393971+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s1c7ee020dc2194",
+   "title": "הרב יגאל כהן | זה מה שכל אחד חייב לעשות בסוכות הקרוב!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%96%d7%94-%d7%9e%d7%94-%d7%a9%d7%9b%d7%9c-%d7%90%d7%97%d7%93-%d7%97%d7%99%d7%99%d7%91-%d7%9c%d7%a2%d7%a9%d7%95%d7%aa-%d7%91%d7%a1/",
+   "download": null,
+   "ts": "2026-09-23T06:24:35+00:00"
+  },
   {
    "id": "sc482626e60612a",
    "title": "מרדכי רביבו, שלמה נחמיאס, אמנים שונים - סוכה ולולב (4 לחנים)",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-%d7%90%d7%99%d7%9a-%d7%9c%d7%96%d7%9b%d7%95%d7%aa-%d7%9c%d7%a9%d7%a0%d7%94-%d7%98%d7%95/",
    "download": null,
    "ts": "2026-09-09T06:24:32+00:00"
-  },
-  {
-   "id": "sbd5eb5ebac770e",
-   "title": "שביל הניגון מגיש | היום הרת עולם – נעימות ללא מילים (אינסטרומנטלי) | האזינו",
-   "text": "",
-   "image": "data/media/22cf252cafecdfc7.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/zLkeRt02klE-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%91%d7%99%d7%9c-%d7%94%d7%a0%d7%99%d7%92%d7%95%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%94%d7%99%d7%95%d7%9d-%d7%94%d7%a8%d7%aa-%d7%a2%d7%95%d7%9c%d7%9d-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa/",
-   "download": null,
-   "ts": "2026-09-08T22:22:06+00:00"
   }
  ]
 }
