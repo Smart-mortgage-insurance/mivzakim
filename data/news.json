@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T22:44:51.401385+00:00",
+ "updated": "2026-09-24T22:46:21.375025+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sc02a6cc7050dd5",
+   "title": "TYH Boys – Billionaire (UPMIX) Visualizer",
+   "text": "TYH Nation Presents Little Bardichevers UPMIX TYH Boys Get ready for an electrifying experience with Thank You Hashem Nation's new TYH BOYS Upmix album! We've taken the pure, powerhouse energy of the TYH Boys and made their biggest hits even more epic. This music is here to stay, touching your neshama and inspiring…",
+   "image": "data/media/b5ebc539cc6b149e.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/oyoj9h1c5xY-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/tyh-boys-billionaire-upmix-visualizer/",
+   "download": null,
+   "ts": "2026-09-24T22:45:56+00:00"
+  },
   {
    "id": "s7a24152d6ef33d",
    "title": "עופר הלוי - הכל זה סייעתא דשמיא",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a9%d7%a0%d7%94-%d7%97%d7%93%d7%a9%d7%94-%d7%90%d7%aa%d7%a8-%d7%97%d7%93%d7%a9-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%9e%d7%9c%d7%9b%d7%95%d7%aa-%d7%9e%d7%a9%d7%99%d7%a7%d7%94-%d7%90%d7%aa/",
    "download": null,
    "ts": "2026-09-15T11:58:34+00:00"
-  },
-  {
-   "id": "sdb0e4e78e6f94e",
-   "title": "החזן אריה הורוויץ מגיש | כל נדרי | האזינו",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%97%d7%96%d7%9f-%d7%90%d7%a8%d7%99%d7%94-%d7%94%d7%95%d7%a8%d7%95%d7%95%d7%99%d7%a5-%d7%9e%d7%92%d7%99%d7%a9-%d7%9b%d7%9c-%d7%a0%d7%93%d7%a8%d7%99-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
-   "download": null,
-   "ts": "2026-09-15T11:58:11+00:00"
   }
  ]
 }
