@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T22:47:40.567473+00:00",
+ "updated": "2026-09-24T00:38:36.206161+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sd924c0d37f2af5",
+   "title": "TAI מגיש לקראת סוכות | Succos Dovid – סוכת דוד | האזינו",
+   "text": "",
+   "image": "data/media/6e90c36e5b4284d8.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/yvUmtRLe5N4-maxresdefault.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/tai-%d7%9e%d7%92%d7%99%d7%a9-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-succos-dovid-%d7%a1%d7%95%d7%9b%d7%aa-%d7%93%d7%95%d7%93-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-24T00:30:04+00:00"
+  },
+  {
+   "id": "se23dced005d157",
+   "title": "שרוליק אלישע בביצוע לייב מתוך שידור הידברות | אתה זוכר | צפו",
+   "text": "",
+   "image": "data/media/113d67eed2acb2e4.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/bgPJzqyHau8-maxresdefault.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%a8%d7%95%d7%9c%d7%99%d7%a7-%d7%90%d7%9c%d7%99%d7%a9%d7%a2-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9c%d7%99%d7%99%d7%91-%d7%9e%d7%aa%d7%95%d7%9a-%d7%a9%d7%99%d7%93%d7%95%d7%a8-%d7%94%d7%99/",
+   "download": null,
+   "ts": "2026-09-24T00:29:28+00:00"
+  },
+  {
+   "id": "s362a45c1755e91",
+   "title": "יענקי רוזנבוים - עולו אושפיזין",
+   "text": "הזמנה חגיגית לסוכה: יענקי רוזנבוים בשיר חדש וקצבי לחג הסוכות - ״עולו אושפיזין״הזמר יענקי רוזנבוים לא עוצר. לפני כשלושה חודשים הוציא את הסינגל הראשון שלו, יצירה שבתית אותנטית בניחוח נוסטלגי, וכעת הוא חוזר עם שיר חדש לרגל חג הסוכות - ״עולו אושפיזין״. הפעם, הכיוון שונה: קצבי, שמח ואנרגטי.על ההפקה המוזיקלית הופקד המעבד…",
+   "image": "data/media/f85474796cafd6d5.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg69m1j5ChuXfOPwXuwlC9A8gShovWnw8_GVn10DvUtucL4w_S6R320zXaj6FIVvvtD3vmn-qhy8Fri1mVxQqfP0jBf4L1eTZjuKvyxrWjrUqWIodJ1Z86Pb-s3o6l7uUm6b2iwlQ2VMHrIXioI-Zo5Vkb1SG4rjw0xtsWVYegFeRhiJM71S9ykIbB3-KAy/s72-w320-h320-c/%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%A2%D7%95%D7%9C%D7%95%20%D7%90%D7%95%D7%A9%D7%A4%D7%99%D7%96%D7%99%D7%9F%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_693.html",
+   "download": "https://archive.org/download/hadshotmusic_20260923_2254/%D7%99%D7%A2%D7%A0%D7%A7%D7%99%20%D7%A8%D7%95%D7%96%D7%A0%D7%91%D7%95%D7%99%D7%9D%20-%20%D7%A2%D7%95%D7%9C%D7%95%20%D7%90%D7%95%D7%A9%D7%A4%D7%99%D7%96%D7%99%D7%9F.mp3",
+   "ts": "2026-09-23T22:57:49+00:00"
+  },
   {
    "id": "s050f2986809dd7",
    "title": "אהר'לה סמט, הרשי ויינברגר וצאלי גולד בפרויקט חגיגי לסוכות | Sukkos תשמ״ו | האזינו",
@@ -1964,45 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_10.html",
    "download": "https://archive.org/download/hadshotmusic_20260910/%D7%98%D7%95%D7%91%D7%99%D7%94%20%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%AA%D7%A9%D7%A8%D7%99%20%D7%91%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.mp3",
    "ts": "2026-09-10T13:17:17+00:00"
-  },
-  {
-   "id": "sf7214dc29089a5",
-   "title": "צלילי הימים הנוראים: יענקי ווליגער בביצוע מרגש ל\"יום הדין\" של מוטי וויזל ונמואל | צפו",
-   "text": "בעיצומן של ההכנות האחרונות לקראת השנה החדשה ותפילות ראש השנה הממשמשות ובאות, מגיש בעל המנגן יענקי ווליגער ביצוע מחודש, נוגע וייחודי ליצירה הסוחפת \"יום הדין\". כאשר בעל התפילה ניגש לפני העמוד, תפילתנו ובקשתנו שתפילתו תבקע שערי שמים, שהקב\"ה ישמע את שוועתנו וישפיע עלינו שנה טובה ומתוקה. יהי רצון שקולותיהם של כלל ישראל…",
-   "image": "data/media/5b8e7f413fe09d30.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/g_Y5K8gI29o-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a6%d7%9c%d7%99%d7%9c%d7%99-%d7%94%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d-%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%95%d7%95%d7%9c%d7%99%d7%92%d7%a2%d7%a8-%d7%91%d7%91%d7%99/",
-   "download": null,
-   "ts": "2026-09-10T13:13:23+00:00"
-  },
-  {
-   "id": "s722e586eae8204",
-   "title": "שלום ג'ייקובס בביצוע מרגש | אבינו מלכנו | צפו",
-   "text": "הקליפ מכיל נשים בעקיפין אני נרגש לשתף אתכם בביצוע החדש שלי, ״אבינו מלכנו״ — ביצוע אולפן חי ומרגש לתפילה הנצחית והעוצמתית של הימים הנוראים. הביצוע הוקלט בלייב יחד עם הפסנתרן המדהים ירון ורשבסקי, והוא מביא לידי ביטוי את הרגש העמוק והיופי הטמון במילים הקדושות הללו — אבינו, מלכנו. לקראת הימים הנוראים, אני מקווה שהלחן הזה…",
-   "image": "data/media/2b6c7d9fdf27cc9a.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%9c%d7%95%d7%9d-%d7%92%d7%99%d7%99%d7%a7%d7%95%d7%91%d7%a1-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a8%d7%92%d7%a9-%d7%90%d7%91%d7%99%d7%a0%d7%95-%d7%9e%d7%9c%d7%9b%d7%a0%d7%95/",
-   "download": null,
-   "ts": "2026-09-10T13:10:12+00:00"
-  },
-  {
-   "id": "sa78ac963b86bbf",
-   "title": "הזמר, המלחין והמפיק הווקאלי הנודע יואלי פולאצ׳ק מגיש סינגל לימי הרחמים | רחמים | האזינו",
-   "text": "הזמר, המלחין והמפיק הווקאלי הנודע יואלי פולאצ׳ק, מי שעמד בראש מקהלת זמירות לשעבר, מגיש את הסינגל החדש שלו — ״רחמים״. בשעות שלפני ראש השנה, כאשר כולנו עומדים ומתחננים לפני בורא עולם שירחם עלינו, משחרר יואלי שיר עוצמתי ונוגע ללב, שנועד לעורר את הלב ולהכין אותנו לקראת יום הדין. הקב״ה יושב על כסאו, ואנו מבקשים ממנו…",
-   "image": "data/media/d9c53cac08643a60.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2763.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%96%d7%9e%d7%a8-%d7%94%d7%9e%d7%9c%d7%97%d7%99%d7%9f-%d7%95%d7%94%d7%9e%d7%a4%d7%99%d7%a7-%d7%94%d7%95%d7%95%d7%a7%d7%90%d7%9c%d7%99-%d7%94%d7%a0%d7%95%d7%93%d7%a2-%d7%99%d7%95%d7%90%d7%9c/",
-   "download": null,
-   "ts": "2026-09-10T13:06:25+00:00"
   }
  ]
 }
