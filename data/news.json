@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T05:48:34.712948+00:00",
+ "updated": "2026-09-24T10:19:23.120296+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "secafbc1c5c6c06",
+   "title": "משכני אחריך – ניגוני הינוקא | האזינו",
+   "text": "לחן וביצוע: הרב הינוקא גרפיקה – עיצוב עטיפת סינגל: GRAPHIC – NADAV __________________________________________________",
+   "image": "",
+   "image_src": "",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%a9%d7%9b%d7%a0%d7%99-%d7%90%d7%97%d7%a8%d7%99%d7%9a-%d7%a0%d7%99%d7%92%d7%95%d7%a0%d7%99-%d7%94%d7%99%d7%a0%d7%95%d7%a7%d7%90-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-24T09:52:41+00:00"
+  },
+  {
+   "id": "s66fd067fc10b20",
+   "title": "ממשיכים בדרכו של יהודה שרמן – רציתי שתהיו | שירו של אבא | ריבונו של עולם | האזינו",
+   "text": "ממשיכים בדרכו של יהודה שמואל שרמן הי\"ד שהיה שותף פעיל בהקמת חוות שובה ישראל ונרצח על קידוש ה'. התכנסנו יחד, משפחה וחברים לשיר יחד ולהתחבר עוד לארץ הטובה. זכות היא ללמוד מהו חיבור לארץ הקדושה, וכמו שיהודה תמיד היה אומר כשהיה נוסע לחווה – \"ארץ ישראל צריכה אותי\". תודה למשפחת שרמן על פתיחת הלב שלכם בכל הזדמנות שהיא. הוצאת…",
+   "image": "",
+   "image_src": "",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%9e%d7%a9%d7%99%d7%9b%d7%99%d7%9d-%d7%91%d7%93%d7%a8%d7%9b%d7%95-%d7%a9%d7%9c-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%a9%d7%a8%d7%9e%d7%9f-%d7%a8%d7%a6%d7%99%d7%aa%d7%99-%d7%a9%d7%aa%d7%94%d7%99/",
+   "download": null,
+   "ts": "2026-09-24T07:50:37+00:00"
+  },
+  {
+   "id": "s58c1d09dc22f0d",
+   "title": "ישראל דיין מגיש | מחרוזת סוכות | האזינו",
+   "text": "בשם ה׳ נעשה ונצליח פותחים את חג הסוכות עם מחרוזת של שמחה משולבת במסורת מבית אבא וגם כמה לחנים חדשים ומיוחדים ישראל דיין במחרוזת שירי סוכות שתכניס אתכם לאווירת החג בטעם של פעם בשילוב חדשני ומקפיץ. כל מה שנשאר זה להגביר את הווליום לשיר יחד ולשתף את השמחה זכות שלי כל פעם להכניס אתכם לאווירת הימים המיוחדים האלו… חג סוכות…",
+   "image": "data/media/e469b5925a54206d.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2764.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%93%d7%99%d7%99%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-24T07:44:29+00:00"
+  },
+  {
+   "id": "s6e26bf694dedee",
+   "title": "הרב יהודה יוספי | חג סוכות 2026 | מסר מטלטל!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%99%d7%95%d7%a1%d7%a4%d7%99-%d7%97%d7%92-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026-%d7%9e%d7%a1%d7%a8-%d7%9e%d7%98%d7%9c%d7%98%d7%9c/",
+   "download": null,
+   "ts": "2026-09-24T06:23:09+00:00"
+  },
   {
    "id": "sd924c0d37f2af5",
    "title": "TAI מגיש לקראת סוכות | Succos Dovid – סוכת דוד | האזינו",
@@ -1951,58 +2003,6 @@
    "link": "https://hamenagen.net/%d7%99%d7%95%d7%a1%d7%a3-%d7%9e%d7%9e%d7%99%d7%94-%d7%9e%d7%92%d7%99%d7%a9-%d7%94%d7%9e%d7%9c%d7%9a-%f0%9f%91%91-%d7%a1%d7%98-%d7%99%d7%9e%d7%99%d7%9d-%d7%94%d7%a0%d7%95%d7%a8%d7%90%d7%99%d7%9d/",
    "download": null,
    "ts": "2026-09-10T21:12:00+00:00"
-  },
-  {
-   "id": "s0f957e7f91d95c",
-   "title": "הרב יגאל כהן – להתחיל ברגל ימין (הרצאת חוף)",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9c%d7%94%d7%aa%d7%97%d7%99%d7%9c-%d7%91%d7%a8%d7%92%d7%9c-%d7%99%d7%9e%d7%99%d7%9f-%d7%94%d7%a8%d7%a6%d7%90%d7%aa-%d7%97%d7%95/",
-   "download": null,
-   "ts": "2026-09-10T18:24:52+00:00"
-  },
-  {
-   "id": "sce19f7daa5142c",
-   "title": "הרב יהודה יוספי | ראש השנה 2026 – חיזוק אדיר!!!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%99%d7%95%d7%a1%d7%a4%d7%99-%d7%a8%d7%90%d7%a9-%d7%94%d7%a9%d7%a0%d7%94-2026-%d7%97%d7%99%d7%96%d7%95%d7%a7-%d7%90%d7%93%d7%99%d7%a8/",
-   "download": null,
-   "ts": "2026-09-10T18:24:43+00:00"
-  },
-  {
-   "id": "s975d3036141bde",
-   "title": "מנדי פורטנוי - אבינו מלכנו",
-   "text": "המפיק מבית \"תודה לך השם\" (TYH Nation) משיק יצירה מקורית במסגרת פרויקט \"just mendel\" – ניגון אופטימי המחבר בין חרדת יום הדין לאופטימיות ותשובה מאהבה.לקראת ראש השנה ועשרת ימי תשובה, המפיק המוזיקלי מנדי פורטנוי - העומד בראש הצוות המוזיקלי של הארגון \"תודה לך השם\" (TYH Nation) - משיק סינגל חדש במסגרת \"just mendel\", סדרת…",
-   "image": "data/media/2cd1ac3b54069d55.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigtnlx5n95Ap_-0jqlU0zhBlNp5hPErbU-TJmxVoM2vrg8UvJO7wqPyrBDvHwnJ8pcd6HT_GE1UOHeCF5Jv3KZKbg9ud902E-AdD1hUxU6R5XrZf6GHlzI1Z2CKs7y9Aa0165qc0upeJEE3O-a9ZRiQj2sqoMY6LLs9VxOcpLZZzqSzQ4mKPRY3bmzdCBF/s72-w320-h320-c/%D7%90%D7%91%D7%99%D7%A0%D7%95%203000.jpeg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_981.html",
-   "download": "https://archive.org/download/hadshotmusic_20260910_1648/%D7%9E%D7%A0%D7%93%D7%99%20%D7%A4%D7%95%D7%A8%D7%98%D7%A0%D7%95%D7%99%20-%20%D7%90%D7%91%D7%99%D7%A0%D7%95%20%D7%9E%D7%9C%D7%9B%D7%A0%D7%95.mp3",
-   "ts": "2026-09-10T16:53:42+00:00"
-  },
-  {
-   "id": "s0a663ef92a9ef3",
-   "title": "מקבץ מחרוזות ושירים לימים נוראים (אלול תשפ\"ו)",
-   "text": "בחודש האחרון יצאו לא מעט מחרוזות, קאברים וביצועים מיוחדים לכבוד חודש אלול והימים הנוראים. בגלל עומס וסדר עדיפויות (תמיד מעדיף לתת מקום ראשון לסינגלים החדשים), לא יצא לי להעלות אותם בזמן אמת.כדי ששום דבר לא יתפספס וכדי שתוכלו ליהנות מכל הטוב הזה - ריכזתי לכם את כולם במקום אחד, נקי ובלי חפירות. האזנה ערבה!שימו לב ייתכן…",
-   "image": "data/media/24770a73801a510a.png",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg28y1PBqXjvmEEqg_RTMSKNpWakC3ioWrROe22UJeSo4igz68odPaRjSZCdrr1uGSWKxiSLcD1PWTRMKjuC2DLg_mrCVZ_jhwHMcuEweKZs1oBk1ft9uYcQR5iAcV2xl5JW4Oh09MAN-W5S8RaV8g6ZrcQKWIK6l6N8AeKMG27MGEGyw8L8tRrZUH1W84z/s1600/image1789043688",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_10.html",
-   "download": "https://archive.org/download/hadshotmusic_20260910/%D7%98%D7%95%D7%91%D7%99%D7%94%20%D7%A4%D7%A8%D7%99%D7%93%D7%9E%D7%9F%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%AA%D7%A9%D7%A8%D7%99%20%D7%91%D7%9C%D7%99%D7%95%D7%91%D7%90%D7%95%D7%95%D7%99%D7%98%D7%A9.mp3",
-   "ts": "2026-09-10T13:17:17+00:00"
   }
  ]
 }
