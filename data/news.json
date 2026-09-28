@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T18:33:01.056803+00:00",
+ "updated": "2026-09-28T23:13:34.238074+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,19 @@
  "count": 150,
  "items": [
   {
+   "id": "s8eefddf5e14fba",
+   "title": "\"השמחה בחג הסוכות יכולה לשנות את כל השנה ✨\" | הרב גבע בן ששון",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a9%d7%9e%d7%97%d7%94-%d7%91%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%99%d7%9b%d7%95%d7%9c%d7%94-%d7%9c%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%aa-%d7%9b%d7%9c-%d7%94%d7%a9%d7%a0/",
+   "download": null,
+   "ts": "2026-09-28T18:34:10+00:00"
+  },
+  {
    "id": "s3d3d90707f43e8",
    "title": "חיים ישכיל - א סוכה ליד",
    "text": "בקצב אחר: חיים ישכיל מחדש את הקלאסיקה \"אַ סוכּה'לע אַ קליינע\"הניגון המוכר והאהוב \"אַ סוכּה'לע אַ קליינע\", שליווה מזה דורות את ימי חג הסוכות בכיסופים וברגש נוסטלגי, זוכה כעת לרענון מוזיקלי מפתיע וקצבי. האמן והיוצר חיים ישכיל משחרר את \"א סוכה ליד\" – עיבוד תוסס, אנרגטי ומלא שמחה לקלאסיקה המוכרת.היצירה נולדה מתוך רצון…",
@@ -66,6 +79,32 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_977.html",
    "download": "https://archive.org/download/hadshotmusic_20260928_1742/%D7%97%D7%99%D7%99%D7%9D%20%D7%99%D7%A9%D7%9B%D7%99%D7%9C%20-%20%D7%90%20%D7%A1%D7%95%D7%9B%D7%94%20%D7%9C%D7%99%D7%93.mp3",
    "ts": "2026-09-28T17:49:19+00:00"
+  },
+  {
+   "id": "s56ffd1d2b73c62",
+   "title": "שמוליק ברגר מגיש | ארי היל – סוכל'ה – מאשאפ | האזינו",
+   "text": "",
+   "image": "data/media/f680976dc8c7aece.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/EhGgrAHH9xg-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%91%d7%a8%d7%92%d7%a8-%d7%9e%d7%92%d7%99%d7%a9-%d7%90%d7%a8%d7%99-%d7%94%d7%99%d7%9c-%d7%a1%d7%95%d7%9b%d7%9c%d7%94-%d7%9e%d7%90%d7%a9%d7%90%d7%a4/",
+   "download": null,
+   "ts": "2026-09-28T16:22:47+00:00"
+  },
+  {
+   "id": "sdff55b8f6eeabe",
+   "title": "נחמן פילמר מגיש | סט לכבוד רבנו הקדוש מברסלב זיע\"א | האזינו",
+   "text": "שמח ונרגש להגיש לכם סט לכבוד רבינו הקדוש זיע\"א לרגל יום ההילולא החל בי\"ח תשרי. סט מלא וגדוש עם שירי ברסלב חדשים וישנים, שירי רגש ושירים קצביים מכל הזמנים..",
+   "image": "data/media/07c7bd28178f9c38.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/Y8zTkt9Ypzs-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%a4%d7%99%d7%9c%d7%9e%d7%a8-%d7%9e%d7%92%d7%99%d7%a9-%d7%a1%d7%98-%d7%9c%d7%9b%d7%91%d7%95%d7%93-%d7%a8%d7%91%d7%a0%d7%95-%d7%94%d7%a7%d7%93%d7%95%d7%a9-%d7%9e%d7%91/",
+   "download": null,
+   "ts": "2026-09-28T16:21:29+00:00"
   },
   {
    "id": "s8b71680f8de3c1",
@@ -81,6 +120,19 @@
    "ts": "2026-09-28T15:58:48+00:00"
   },
   {
+   "id": "s65c8fdc6ff0dff",
+   "title": "סט שמחת תורה מקפיץ תשפ\"ז • 2026 – דיג'יי יצחק כהן",
+   "text": "יצחק כהן | סט שמחת תורה תשפ\"ז 2026 הלהיטים והמחרוזות הכי מקפיצים לשמחת תורה, ישר מהאמנים הכי אהובים. שמחה, ריקודים ואווירת חג אמיתית מהערב הראשון של סוכות ועד הקפות שניות 1:11 יבוא מלך הכבוד • דוד זיתוני 3:03 האדרת והאמונה • הפרוייקט של רביבו 5:58 מחרוזת כבוד התורה • להקת מזמור שיר 12:25 מחרוזת הכנסת ספר תורה ושמחת…",
+   "image": "data/media/742833ae1f22a5aa.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4dc.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a9%d7%9e%d7%97%d7%aa-%d7%aa%d7%95%d7%a8%d7%94-%d7%9e%d7%a7%d7%a4%d7%99%d7%a5-%d7%aa%d7%a9%d7%a4%d7%96-2026-%d7%93%d7%99%d7%92%d7%99%d7%99-%d7%99%d7%a6%d7%97%d7%a7-%d7%9b/",
+   "download": null,
+   "ts": "2026-09-28T15:21:40+00:00"
+  },
+  {
    "id": "sc34dca4a73f5e7",
    "title": "עקיבא גרומן, דובי מייזלעס, אהרלה סאמעט, דודי פולק - מחרוזת הושענה רבה",
    "text": "ארבעה זמרים, מקהלה אחת ואווירת חג: עקיבא גרומן והחברייא ב\"הושענא רבה\"לקראת הושענא רבה יוצא לאור פרויקט מוזיקלי חדש של עקיבא גרומן, שבו הוא מארח את דובי מייזלעס, אהרלה סאמט ודודי פולק, יחד עם מקהלת קאפלה. המיזם נבנה במיוחד עבור אווירת החג ומביא אל שולחן הסוכה רצף של ניגוני התעוררות והוד.גרומן, שכבר הוציא בעבר את…",
@@ -92,6 +144,32 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_28.html",
    "download": "https://archive.org/download/hadshotmusic_20260928/%D7%A2%D7%A7%D7%99%D7%91%D7%90%20%D7%92%D7%A8%D7%95%D7%9E%D7%9F%2C%20%D7%93%D7%95%D7%91%D7%99%20%D7%9E%D7%99%D7%99%D7%96%D7%9C%D7%A2%D7%A1%2C%20%D7%90%D7%94%D7%A8%D7%9C%D7%94%20%D7%A1%D7%90%D7%9E%D7%A2%D7%98%2C%20%D7%93%D7%95%D7%93%D7%99%20%D7%A4%D7%95%D7%9C%D7%A7%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%94%D7%95%D7%A9%D7%A2%D7%A0%D7%94%20%D7%A8%D7%91%D7%94.mp3",
    "ts": "2026-09-28T15:02:34+00:00"
+  },
+  {
+   "id": "s46b61a815fa385",
+   "title": "אריאל לוי – מחרוזת שמחת תורה | האזינו",
+   "text": "בס\"ד להזמנות אירועים ומופעים: 058-740-5575 לחן חלקי מעבר(C-Part): נתנאל אברהם עיבוד והפקה מוזיקלית: נתנאל אברהם לינק לכל חנויות המוזיקה: אריאל באינסטגרם: https://www.instagram.com/arielleviofficial אריאל בטיקטוק: @ariellevi20 אריאל בפייסבוק: /https://www.facebook.com/ArieL2Levi בגלמה : יוסי ישראלי מיקס מאסטר : נתנאל…",
+   "image": "data/media/b7408ef7c1a9d8df.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/r3ukE58PkIQ-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%a8%d7%99%d7%90%d7%9c-%d7%9c%d7%95%d7%99-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%9e%d7%97%d7%aa-%d7%aa%d7%95%d7%a8%d7%94-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-28T13:43:24+00:00"
+  },
+  {
+   "id": "s25f9fbd9c6a842",
+   "title": "לכבוד הילולת רבי נחמן – סט ברסלב קצבי ללא מילים | האזינו",
+   "text": "אם אהבתם את המוזיקה — נשמח שתירשמו לערוץ ותפעילו את הפעמון לכבוד הילולת רבי נחמן מברסלב זיע\"א – נעימות ברסלב ללא מילים אוסף מיוחד ומרגש לכבוד יום הילולת רבינו הקדוש רבי נחמן מברסלב זיע\"א ניגוני ברסלב אהובים בעיבוד אינסטרומנטלי מזרחי-קצבי – מפגש מיוחד בין רוח ברסלב לצליל המזרחי החם פסקול מרומם לימי אלול, לכבוד רבינו,…",
+   "image": "data/media/1a495f06186ef3b5.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f514.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%9b%d7%91%d7%95%d7%93-%d7%94%d7%99%d7%9c%d7%95%d7%9c%d7%aa-%d7%a8%d7%91%d7%99-%d7%a0%d7%97%d7%9e%d7%9f-%d7%a1%d7%98-%d7%91%d7%a8%d7%a1%d7%9c%d7%91-%d7%a7%d7%a6%d7%91%d7%99-%d7%9c/",
+   "download": null,
+   "ts": "2026-09-28T09:56:09+00:00"
   },
   {
    "id": "s6a4629cb05a845",
@@ -107,6 +185,19 @@
    "ts": "2026-09-28T09:08:00+00:00"
   },
   {
+   "id": "s8b4a7511feaf27",
+   "title": "DJ Avi Kay – סט לייב חסידי מקפיץ 2026 | האזינו",
+   "text": "סט חסידי 2026 הגיע הזמן להרים את הווליום! סט חסידי חדש עם קצב, אנרגיות ומלא רגעים שיגרמו לכם להישאר עד הסוף. שימו אוזניות, תגבירו — ויאללה מתחילים! אם אהבתם את הסט, אל תשכחו לפרגן בלייק ולשתף עם חברים האזנה מהנה! צילום ועריכה: מיכאל ספדג׳ #סטחסידי #סטחסידי2026 #מוזיקהחסידית #מוזיקהיהודית #מוזיקהחסידית2026 #חסידי…",
+   "image": "data/media/12dbb9825889950a.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3a7.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/dj-avi-kay-%d7%a1%d7%98-%d7%9c%d7%99%d7%99%d7%91-%d7%97%d7%a1%d7%99%d7%93%d7%99-%d7%9e%d7%a7%d7%a4%d7%99%d7%a5-2026-%d7%94%d7%90%d7%96%d7%99%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-09-28T09:06:10+00:00"
+  },
+  {
    "id": "se3c5758e0fb896",
    "title": "חיות לילדים | 60 דקות – עולם החיות – בהמחשת AI מיוחדת 🐘🦁🦒🐔🐍🦈🐟",
    "text": "",
@@ -118,6 +209,19 @@
    "link": "https://hamenagen.net/%d7%97%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-60-%d7%93%d7%a7%d7%95%d7%aa-%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%97%d7%99%d7%95%d7%aa-%d7%91%d7%94%d7%9e%d7%97%d7%a9%d7%aa-ai-%d7%9e/",
    "download": null,
    "ts": "2026-09-28T06:23:59+00:00"
+  },
+  {
+   "id": "scf7f88ab0cd2fa",
+   "title": "פרחי מיאמי – Miami Boys Choir – & On That Day ( Preview)",
+   "text": "Yerachmiel Begun & The Miami Boys Choir Atoh Kail @ American Dream Aug. 2026, In Israel July 2026. MBC @ American Dream EVENTS Composed and Directed by: Yerachmiel Begun \"& On that Day\" from the New Miami Album \"& On That Day\" First 2 songs (Atoh kail and \"& On That Day\") from the new MIAMI Album \"& On That Day\". Now…",
+   "image": "data/media/e270c91c78c46dab.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/slKJlZ9kuJI-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a4%d7%a8%d7%97%d7%99-%d7%9e%d7%99%d7%90%d7%9e%d7%99-miami-boys-choir-on-that-day-preview/",
+   "download": null,
+   "ts": "2026-09-28T02:05:07+00:00"
   },
   {
    "id": "sa948173bdc2e5f",
@@ -1899,110 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%90%d7%9c%d7%99%d7%94%d7%95-%d7%a2%d7%9e%d7%a8-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%99%d7%a9-%d7%9c%d7%9a-%d7%90%d7%a4%d7%a9%d7%a8%d7%95%d7%aa-%d7%9c%d7%a9/",
    "download": null,
    "ts": "2026-09-17T18:24:35+00:00"
-  },
-  {
-   "id": "s76cbf17e11d5cf",
-   "title": "יום כיפור: ההזדמנות שאסור לך לפספס | הרב יהונתן פרטוש",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%94%d7%94%d7%96%d7%93%d7%9e%d7%a0%d7%95%d7%aa-%d7%a9%d7%90%d7%a1%d7%95%d7%a8-%d7%9c%d7%9a-%d7%9c%d7%a4%d7%a1%d7%a4%d7%a1-%d7%94%d7%a8%d7%91/",
-   "download": null,
-   "ts": "2026-09-17T18:24:31+00:00"
-  },
-  {
-   "id": "sd33a5b0c49d2ed",
-   "title": "מוטי שטיינמץ – מחזמר מצמרר כנסו👇",
-   "text": "",
-   "image": "data/media/639e87b05a98f335.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/vcUhgPmqPx4-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%95%d7%98%d7%99-%d7%a9%d7%98%d7%99%d7%99%d7%a0%d7%9e%d7%a5-%d7%9e%d7%97%d7%96%d7%9e%d7%a8-%d7%9e%d7%a6%d7%9e%d7%a8%d7%a8-%d7%9b%d7%a0%d7%a1%d7%95%f0%9f%91%87/",
-   "download": null,
-   "ts": "2026-09-17T15:47:36+00:00"
-  },
-  {
-   "id": "s52c54d71b7c1b0",
-   "title": "מנחם ברנשטיין בשיר מקרב לקראת יום הכיפורים | איך טו תשובה | האזינו",
-   "text": "עיבוד והפקה מוזקאלית: מאיר ליברמן לחן ומילים: מנחם ברנשטיין תודה רבה למוישי פרסברגר ושרוליק כהן על היעוץ",
-   "image": "data/media/b02b49be010bd34b.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/c5knkKS1So-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a0%d7%97%d7%9d-%d7%91%d7%a8%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%91%d7%a9%d7%99%d7%a8-%d7%9e%d7%a7%d7%a8%d7%91-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4/",
-   "download": null,
-   "ts": "2026-09-17T15:12:41+00:00"
-  },
-  {
-   "id": "s5fdf9ebc3e6488",
-   "title": "\"אב הרחמן\" – שמוליק גולדשטיין בטעימה נוספת לחג! | אב הרחמן – קאבר | צפו",
-   "text": "\"אב הרחמן\" – שמוליק גולדשטיין בטעימה נוספת לחג! \"בין כסה לעשור\" באווירת הימים הנוראים וכהמשך לסדרת הטעימות לחג מגיש שמוליק גולדשטיין קאבר מרגש ללחנו של יוסי גרין \"אב הרחמן\" שבוצע במקור ע\"י שרולי וורדיגר. ביצוע במקור: שרולי ורדיגר עיבוד ומיקס: שמוליק גולדשטיין שירה: שמוליק גולדשטיין גרפיקה ועיצוב פרוייקט: זעירא יחסי…",
-   "image": "data/media/eaffde1804884ec0.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%91-%d7%94%d7%a8%d7%97%d7%9e%d7%9f-%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%92%d7%95%d7%9c%d7%93%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%91%d7%98%d7%a2%d7%99%d7%9e%d7%94-%d7%a0%d7%95%d7%a1/",
-   "download": null,
-   "ts": "2026-09-17T15:08:02+00:00"
-  },
-  {
-   "id": "s71ad12d0b69761",
-   "title": "עומרי גורן ואוריה בדואט | אין מה לפחד | האזינו",
-   "text": "",
-   "image": "data/media/10340f302b06335b.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/KkpPLgQf4Xw-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a2%d7%95%d7%9e%d7%a8%d7%99-%d7%92%d7%95%d7%a8%d7%9f-%d7%95%d7%90%d7%95%d7%a8%d7%99%d7%94-%d7%91%d7%93%d7%95%d7%90%d7%98-%d7%90%d7%99%d7%9f-%d7%9e%d7%94-%d7%9c%d7%a4%d7%97%d7%93-%d7%94%d7%90/",
-   "download": null,
-   "ts": "2026-09-17T13:21:12+00:00"
-  },
-  {
-   "id": "s78d079915814aa",
-   "title": "לאחר יציאת אלבום הבכורה שלו \"בבואו מאדום\" – הזמר והיוצר רפאל בוקוב, משחרר סינגל מרגש | ענני | האזינו",
-   "text": "לאחר יציאת אלבום הבכורה שלו \"בבואו מאדום\", הזמר והיוצר רפאל בוקוב, משחרר סינגל חדש בשם \"ענני\". הסינגל החדש הוא ביצוע מרגש, חשוף ואינטימי למילות פרק קמ\"ג בתהילים. העיבוד התזמורתי המהפנט, בביצוע תזמורת B.A.R. Symphony ממקדוניה, לצד יכולות השירה וההלחנה של רפאל, יוצרים יחד תוצאה ייחודית ברמה הגבוהה ביותר. רפאל, זמר ויוצר…",
-   "image": "data/media/c6a965172babe7a6.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/NgF5k8P9Tf4-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%90%d7%97%d7%a8-%d7%99%d7%a6%d7%99%d7%90%d7%aa-%d7%90%d7%9c%d7%91%d7%95%d7%9d-%d7%94%d7%91%d7%9b%d7%95%d7%a8%d7%94-%d7%a9%d7%9c%d7%95-%d7%91%d7%91%d7%95%d7%90%d7%95-%d7%9e%d7%90%d7%93%d7%95/",
-   "download": null,
-   "ts": "2026-09-17T13:18:35+00:00"
-  },
-  {
-   "id": "s7e87a8a778e7f3",
-   "title": "אל תרחק ממני | משולם זושא בסינגל נוגע | צפו",
-   "text": "כשהוא נחשב לאחד מהקולות הפורצים בשנה האחרונה, עם שורת פרוייקטים ושיתופי פעולה מרשימים. משיק משולם זושא סינגל קליפ חדש \"אל תרחק ממני\", אותו כתב והלחין יחד עם סנדי שטיינר ואברומי שטרנפלד, שאף אמון על העיבוד וההפקה המוזיקלית. \"אל תרחק ממני\" הוא סינגל קליפ נוגע ומלא ברגש, המשלב בין מילות התפילה המוכרות, יחד עם זעקה אישית…",
-   "image": "data/media/cc30d7cccdebb016.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%9c-%d7%aa%d7%a8%d7%97%d7%a7-%d7%9e%d7%9e%d7%a0%d7%99-%d7%9e%d7%a9%d7%95%d7%9c%d7%9d-%d7%96%d7%95%d7%a9%d7%90-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a0%d7%95%d7%92%d7%a2-%d7%a6%d7%a4/",
-   "download": null,
-   "ts": "2026-09-17T13:09:28+00:00"
-  },
-  {
-   "id": "s250fb801fc4848",
-   "title": "דרוש נא – נעימות ללא מילים (אינסטרומנטלי) – שביל הניגון",
-   "text": "",
-   "image": "data/media/852f1bc0bbfb3963.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/3Wp4A-eFG0w-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%93%d7%a8%d7%95%d7%a9-%d7%a0%d7%90-%d7%a0%d7%a2%d7%99%d7%9e%d7%95%d7%aa-%d7%9c%d7%9c%d7%90-%d7%9e%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%99%d7%a0%d7%a1%d7%98%d7%a8%d7%95%d7%9e%d7%a0%d7%98%d7%9c%d7%99/",
-   "download": null,
-   "ts": "2026-09-17T12:41:26+00:00"
   }
  ]
 }
