@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T02:58:59.482843+00:00",
+ "updated": "2026-09-29T09:01:40.654753+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,71 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sfb211b3da7ac2d",
+   "title": "השכרת הגברה במודיעין עילית – הכי זול בארץ!!!",
+   "text": "השכרת הגברה במודיעין עילית הכי זול בארץ!!! לפרטים והזמנות: טלפון: 052-712-1829",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1847",
+   "download": null,
+   "ts": "2026-09-29T07:30:59+00:00"
+  },
+  {
+   "id": "sdec4ca33047a15",
+   "title": "הראפר היהודי ניסים בלאק חובר לזמר אלי דאקס בסינגל משותף | WHERE YOU ARE | צפו",
+   "text": "הקליפ מכיל נשים בעקיפין את השיר כתבו והפיקו השניים יחד, עם הפקה נוספת של אבי טרנר , שגם אחראי על המיקס. Nissim Black, Eli Dachs – WHERE YOU ARE מילים ולחן: ניסים בלאק ואלי דאקס הפקה מוזיקלית: ניסים בלאק ואלי דאקס הפקה נוספת ומיקס: אבי טרנר",
+   "image": "data/media/bb32e7002c227d54.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%90%d7%a4%d7%a8-%d7%94%d7%99%d7%94%d7%95%d7%93%d7%99-%d7%a0%d7%99%d7%a1%d7%99%d7%9d-%d7%91%d7%9c%d7%90%d7%a7-%d7%97%d7%95%d7%91%d7%a8-%d7%9c%d7%96%d7%9e%d7%a8-%d7%90%d7%9c%d7%99-%d7%93/",
+   "download": null,
+   "ts": "2026-09-29T06:39:27+00:00"
+  },
+  {
+   "id": "sf09ce11aead0ed",
+   "title": "שלושה קולות, במה אחת | יהודה לנגר מארח את שמעי' פישער והערשי וויינבערגער לביצוע לייב משותף ומלא אנרגיה: 2GETHER. | האזינו",
+   "text": "הביצוע הוקלט בלייב בקעמפ דגל התורה , בליווי מקהלת ידידים , ומחבר על במה אחת שלושה קולות מוכרים לביצוע מוזיקלי סוחף. Yehuda Langer Ft. Shmaya Fischer & Hershy Weinberger – 2GETHER יהודה לאנגער, שמעי' פישער והערשי וויינבערגער מקהלה: ידידים Live At Camp Degel Hatorah",
+   "image": "data/media/d4916c77be4887f2.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%a7%d7%95%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%94-%d7%90%d7%97%d7%aa-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%9c%d7%90%d7%a0%d7%92%d7%a2%d7%a8-%d7%9e%d7%90%d7%a8%d7%97/",
+   "download": null,
+   "ts": "2026-09-29T06:36:45+00:00"
+  },
+  {
+   "id": "s1d2749d64c7296",
+   "title": "חיזקו – ישראל קרמר",
+   "text": "",
+   "image": "data/media/e056621296244651.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/QXjuBhoXigY-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%97%d7%99%d7%96%d7%a7%d7%95-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a7%d7%a8%d7%9e%d7%a8/",
+   "download": null,
+   "ts": "2026-09-29T06:29:55+00:00"
+  },
+  {
+   "id": "sab163dcd21b0cc",
+   "title": "יג שנה – ישראל קרמר",
+   "text": "",
+   "image": "data/media/ea8bb110a889db0f.jpg",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/3lv5WDhlswY-maxresdefault.jpg",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%92-%d7%a9%d7%a0%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a7%d7%a8%d7%9e%d7%a8/",
+   "download": null,
+   "ts": "2026-09-29T06:29:43+00:00"
+  },
   {
    "id": "s0b5e6adf2ad1e7",
    "title": "ישי ריבו מוטי שטיינמץ נפשי לייב סוכות בירושלים",
@@ -1938,71 +2003,6 @@
    "link": "https://hamenagen.net/%d7%99%d7%a9-%d7%9c%d7%9a-%d7%90%d7%a4%d7%a9%d7%a8%d7%95%d7%aa-%d7%9c%d7%94%d7%a4%d7%95%d7%9a-%d7%90%d7%aa-%d7%94%d7%93%d7%99%d7%9f-%d7%94%d7%a8%d7%91-%d7%94%d7%a8%d7%a6%d7%9c-%d7%97%d7%95%d7%93/",
    "download": null,
    "ts": "2026-09-18T06:24:31+00:00"
-  },
-  {
-   "id": "s7c3d38ef5255db",
-   "title": "מוטי סגל – אורגניסט חסידי – חתונות, בר מצוות, שבע ברכות, אירוסין, סיום, ישיבות וכל אירוע – כולל הגברה מקצועית!",
-   "text": "מוטי סגל אורגניסט חסידי חתונות, בר מצוות, שבע ברכות, אירוסין, סיום, ישיבות וכל אירוע – כולל הגברה מקצועית! – לפרטים והזמנות: טלפון: 054-841-4868 אימייל: SM0548414868@GMAIL.COM",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1831",
-   "download": null,
-   "ts": "2026-09-18T01:57:36+00:00"
-  },
-  {
-   "id": "s7775fddf3e1ef5",
-   "title": "אברך חסידי – קלידן מקצועי – לכל סוגי האירועים: חתונות, אירוסין, בר מצווה, סיומים וכו' – כולל הגברה – במחיר טוב!",
-   "text": "אברך חסידי קלידן מקצועי לכל סוגי האירועים: חתונות, אירוסין, בר מצווה, סיומים וכו' – כולל הגברה (של המותג RCF) – במחיר טוב! לפרטים והזמנות: טלפון: 053-311-2529 אימייל: 8489007@gmail.com",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1830",
-   "download": null,
-   "ts": "2026-09-18T01:44:07+00:00"
-  },
-  {
-   "id": "sd7f0d815e05e54",
-   "title": "שרוליק כהן - אוי ויי טאטע",
-   "text": "כשהסנגוריה החסידית פוגשת אנרגיה מקפיצה: שרוליק כהן בסינגל-קליפ חדש – \"אוי ויי טאטע\"בעיצומם של עשרת ימי תשובה, ימים ספורים לפני יום הכיפורים, הזמר והיוצר שרוליק כהן מוציא סינגל-קליפ חדש בשם \"אוי ויי טאטע\", המבוסס על הניגון הידוע \"ריבונו של עולם - לאמיר מאכן א בייט\" המיוחס לרבי לוי יצחק מברדיטשוב זי\"ע - \"סנגורן של…",
-   "image": "data/media/cbe51c1a9689f7fc.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1e27LxE_D8Xqyya9IZ0fTJGOrif400UFwm-RrMTe_C_M4xprnIbmH4zZiuj4sM1jjG3Xx5e55iXlIDAaXNnMOPpIOa_qdQ2_cyv3Iepz1yPFtrLEMnkzSsuyu37hD2UDsLS6T5UWOY59pW0V_KS19P47ww3-Cmpdk88Xs5VzuZCEERZahT6pbqTJOHkEr/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%95%D7%99%20%D7%95%D7%99%D7%99%20%D7%98%D7%90%D7%98%D7%A2.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_17.html",
-   "download": "https://archive.org/download/hadshotmusic_20260917_2203/%D7%A9%D7%A8%D7%95%D7%9C%D7%99%D7%A7%20%D7%9B%D7%94%D7%9F%20-%20%D7%90%D7%95%D7%99%20%D7%95%D7%99%D7%99%20%D7%98%D7%90%D7%98%D7%A2.mp3",
-   "ts": "2026-09-17T22:19:34+00:00"
-  },
-  {
-   "id": "sf39c4a69a4e0fa",
-   "title": "הרב יגאל כהן – האם אתה אוהב באמת?",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%94%d7%90%d7%9d-%d7%90%d7%aa%d7%94-%d7%90%d7%95%d7%94%d7%91-%d7%91%d7%90%d7%9e%d7%aa/",
-   "download": null,
-   "ts": "2026-09-17T18:24:52+00:00"
-  },
-  {
-   "id": "s3ea74663feaf8f",
-   "title": "הרב דוד פריוף | יום כיפור 2026",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%93%d7%95%d7%93-%d7%a4%d7%a8%d7%99%d7%95%d7%a3-%d7%99%d7%95%d7%9d-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-2026/",
-   "download": null,
-   "ts": "2026-09-17T18:24:40+00:00"
   }
  ]
 }
