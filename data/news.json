@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T16:09:40.692921+00:00",
+ "updated": "2026-09-29T20:20:43.091109+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,45 @@
  "count": 150,
  "items": [
   {
+   "id": "sdb015a80e9773a",
+   "title": "הרב יגאל כהן | חג סוכות – לשמוח בכל מחיר!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%97%d7%92-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9c%d7%a9%d7%9e%d7%95%d7%97-%d7%91%d7%9b%d7%9c-%d7%9e%d7%97%d7%99%d7%a8/",
+   "download": null,
+   "ts": "2026-09-29T18:24:15+00:00"
+  },
+  {
+   "id": "se8cfb36c7ce998",
+   "title": "הזמר והפייטן ישראל בן חמו במחרוזת שבת מיוחדת | מחרוזת שבת מזרח ומערב | צפו",
+   "text": "סדר השירים במחרוזת: \"כי אשמרה שבת\" לחנים משתנים עממי \"ידידי השכחת\" \"יוצר מידו\" עיבוד והפקה מוסיקלית: עובדיה יוסף חפצדי HAFZADI STUDIO עריכה והפקה אומנותית/ קונספט: ישראל בן חמו קלידים ותיכנותים: עובדיה יוסף חפצדי תופים : אמיר אהרון גיטרות : חרגול בורג כינורות ועוד : מקסים משעלי מיקס ומאסטרינג: אלי מלמד צילום סטילס :…",
+   "image": "data/media/52de6ab0baaee7a3.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/mUXF-V4SK9E-maxresdefault.webp",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%96%d7%9e%d7%a8-%d7%95%d7%94%d7%a4%d7%99%d7%99%d7%98%d7%9f-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%91%d7%9f-%d7%97%d7%9e%d7%95-%d7%91%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9e/",
+   "download": null,
+   "ts": "2026-09-29T16:29:58+00:00"
+  },
+  {
+   "id": "s93d07f6274bc00",
+   "title": "הביצוע של חיים פריינד לשיר הסוכות הקלאסי \"א סוכה'לה\" קם לתחייה בתוך עולם ייחודי בעבודת יד.| צפו",
+   "text": "סוכה קטנה עשויה מלוחות עץ פשוטים, שאינם תואמים, ומכוסה במעט סכך. הרוח הקרה נושבת מבין הסדקים ומכבה את הנרות, אך איכשהו האורות הקטנים שלו ממשיכים לבעור ביציבות מושלמת. כבר כמעט אלפיים שנה שהסוכה הזו עומדת על תילה, ואנחנו עדיין מחכים ליום שבו השם יקים את סוכת דוד הנופלת ויבנה את בית המקדש השלישי. חג שמח! קרדיטים * שם…",
+   "image": "data/media/c30bc7a00c249318.png",
+   "image_src": "https://fonts.gstatic.com/s/e/notoemoji/17.0/1f34b/72.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%a9%d7%9c-%d7%97%d7%99%d7%99%d7%9d-%d7%a4%d7%a8%d7%99%d7%99%d7%a0%d7%93-%d7%9c%d7%a9%d7%99%d7%a8-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%94%d7%a7%d7%9c%d7%90/",
+   "download": null,
+   "ts": "2026-09-29T16:24:39+00:00"
+  },
+  {
    "id": "sa187b08c87f1bc",
    "title": "חדש 🔥 סט שמחת היום 3 🎉 האזינו כעת לסט המלא 🎶 – פול ווליום",
    "text": "",
@@ -79,6 +118,19 @@
    "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a9%d7%9e%d7%97%d7%aa-%d7%94%d7%99%d7%95%d7%9d-3-%d7%a4%d7%95%d7%9c-%d7%95%d7%95%d7%9c%d7%99%d7%95%d7%9d/",
    "download": null,
    "ts": "2026-09-29T12:04:04+00:00"
+  },
+  {
+   "id": "sc6b4765e62b3ed",
+   "title": "הרב יגאל כהן ועידן בקשי – להיות בשמחה",
+   "text": "בס״ד הפקה מוזיקלית: טוהר אוחיון, אליאור רביד הפקה מוזיקלית ומיקס: טוהר אוחיון, אליאור רביד גיטרות וכלי מיתר: גלעד מסיקה בס: אורי פלומן מאסטרינג: מתן דרור קליפ: צחי בן שטרית מפיק פרויקט: שמעון ברדי הפצה דיגיטלית: D-Music תודה רבה לכל מי שלקח חלק בשיר הרב יגאל כהן, צחי בן שטרית, שמעון ברדי, אבי אוחיון, אליאור רביד, רון…",
+   "image": "data/media/41121277dda651cb.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/rFnO2Nlq8BU-maxresdefault.webp",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%95%d7%a2%d7%99%d7%93%d7%9f-%d7%91%d7%a7%d7%a9%d7%99-%d7%9c%d7%94%d7%99%d7%95%d7%aa-%d7%91%d7%a9%d7%9e%d7%97%d7%94/",
+   "download": null,
+   "ts": "2026-09-29T09:00:09+00:00"
   },
   {
    "id": "sfb211b3da7ac2d",
@@ -1951,58 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%96%d7%94-%d7%a2%d7%95%d7%93-%d7%9c%d7%90-%d7%a0%d7%92%d7%9e%d7%a8-%d7%97%d7%95%d7%91%d7%94-%d7%9c/",
    "download": null,
    "ts": "2026-09-19T18:24:34+00:00"
-  },
-  {
-   "id": "s2d55be86b8ddbf",
-   "title": "משולם זושא - אל תרחק ממני",
-   "text": "אל תעזבני ה' אלוקינו: משולם זושא בסינגל-קליפ חדש - ״אל תרחק ממני״בתוך ימי התשובה וההתקרבות, משולם זושא מוציא סינגל-קליפ חדש בשם ״אל תרחק ממני״, שיר תפילה אישי המפגיש בין לשונות מוכרות מן המקורות לבין תחינה פשוטה וכנה לקרבת ה'.במילות השיר מבקש משולם מריבונו של עולם: ״אל תעזבני השם אלקינו, אל תרחק ממני״, תוך שילוב מילים…",
-   "image": "data/media/7530c1ed833ebc12.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBPB70MaWicDDpPa5s9XMS6_lIlkixtRf5f-vP561rMP5A0xA0TT8Hb74ry_ewota42D3j_y1HKm8DCXDarRIdQh0di3mBYSBxdOucUHsuoao6iENqvLQdRAlWJHZvFps9jZVP0A4dQsAyEboJBGVmuJ09o0XFXx2D8jfXhH-aNhpR4BCQke36vaOyMna/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%9C%20%D7%AA%D7%A8%D7%97%D7%A7%20%D7%9E%D7%9E%D7%A0%D7%99.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_713.html",
-   "download": null,
-   "ts": "2026-09-18T12:03:46+00:00"
-  },
-  {
-   "id": "sce3de0ca906dfa",
-   "title": "אבי שפרונג - מעט טוב",
-   "text": "לחפש את מעט הטוב שבתוכנו: אבי שפרונג בסינגל חדש - ״מעט טוב״יש זמנים שבהם האדם מרגיש רחוק, מתמודד עם נפילות ועם תחושה שאינו מצליח למצוא את הדרך חזרה. דווקא אל המקום הזה פונה אבי שפרונג בסינגל החדש שלו, ״מעט טוב״, שנכתב מתוך ההתבוננות בדברי רבי נחמן מברסלב על עבודת ה׳ ועל ההתמודדויות שבדרך.ב׳ליקוטי מוהר״ן תנינא׳, תורה…",
-   "image": "data/media/6d3343bef5705034.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisDKziOAXVj_E8RVq210S3-EpihvJ_mfHZ6Vv-skK-odZ_hGzCF9ydoCGA0q3zKMLVtVaSxWNiQcaDWTsGmthH2W7IK7SC8jpS_ZcaXXze2mBYTCe9tRfHGcEjaYibPkawZwyMhden4YSPkl2zNTbDlDnidBdrLsuIWLyhdByUlnY3qx2GYqZpApEEwnvi/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%9E%D7%A2%D7%98%20%D7%98%D7%95%D7%91.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_18.html",
-   "download": "https://archive.org/download/hadshotmusic_20260918_1041/%D7%90%D7%91%D7%99%20%D7%A9%D7%A4%D7%A8%D7%95%D7%A0%D7%92%20-%20%D7%9E%D7%A2%D7%98%20%D7%98%D7%95%D7%91.mp3",
-   "ts": "2026-09-18T10:45:14+00:00"
-  },
-  {
-   "id": "s4fb36f6c33ddf6",
-   "title": "אבי הס בסינגל מרגש לקראת יום הכיפורים | תשובתי [ לך א-לי תשוקתי נוסח אשכנז ] | האזינו",
-   "text": "לאתר הרשמי https://avihass.com/ השיבני ואשובה. תפילה על תשובה שלמה ואמיתית. שנזכה לשוב ושנזכה לזכור במשך כל השנה, שעמוק בפנים – לך א-לי תשוקתי להזמנת אירועים 0548426248",
-   "image": "data/media/7cdf169992f81d78.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/A5zx4R9lRio-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%91%d7%99-%d7%94%d7%a1-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%a8%d7%92%d7%a9-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d/",
-   "download": null,
-   "ts": "2026-09-18T09:51:36+00:00"
-  },
-  {
-   "id": "s23eac66385b07e",
-   "title": "יוצאים מהקירות אל הסוכה: זושא בשיר חדש לכבוד חג הסוכות | Roof Over My Head | האזינו",
-   "text": "להקת זושא (Zusha), בהובלת שלמה גייסין וזאק גולדשמידט, חוזרת עם שיר חדש באווירת חג הסוכות – ועם מסר שמתחבר בדיוק למהות של החג. כל השנה אנחנו בונים קירות סביבנו, מחפשים יציבות, ביטחון ונוחות. ואז מגיע סוכות ומוציא אותנו החוצה – אל הסוכה, מתחת לסכך הפתוח לגשם ולכוכבים. דווקא שם, כשמשאירים לרגע מאחור את כל מה שאנחנו…",
-   "image": "data/media/450e367b5acc0502.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/DIwpITuZNUw-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%95%d7%a6%d7%90%d7%99%d7%9d-%d7%9e%d7%94%d7%a7%d7%99%d7%a8%d7%95%d7%aa-%d7%90%d7%9c-%d7%94%d7%a1%d7%95%d7%9b%d7%94-%d7%96%d7%95%d7%a9%d7%90-%d7%91%d7%a9%d7%99%d7%a8-%d7%97%d7%93%d7%a9-%d7%9c/",
-   "download": null,
-   "ts": "2026-09-18T09:37:38+00:00"
   }
  ]
 }
