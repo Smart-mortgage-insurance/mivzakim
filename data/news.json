@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T20:44:02.656543+00:00",
+ "updated": "2026-09-29T23:50:07.945816+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s7f615935aee847",
+   "title": "הערשי רוטנבערג, אברימי לונגר, יודעל'ע שאטן - אושפיזין",
+   "text": "בצילא דמהימנותא: הערשי רוטנבערג, אברימי לונגר ויודעל'ע שאטן מגישים את \"אושפיזין\"בעיצומם של ימי חג הסוכות, כשהמוני בית ישראל כבר יושבים בצילא דמהימנותא, מגיע ניגון חדש ששנועד לחבר אותנו ישירות אל תוך אווירת הקדושה והרוממות של החג. המלחין הערשי רוטנבערג חובר לזמר אברימי לונגר ולכוכב העולה יודעל'ע שאטן לביצוע משותף ומרגש…",
+   "image": "data/media/326ac46a68ad0e21.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVpCe-nAwITt9Qu6i57YcaBPBNrnu2xoIZj5MYORqZ4EyUAtFSGhH2brPuGouq1Gqz8Cle-TyiZFVi6_2GpwIF815LPpAUk-ftRCxtkHESCJH0FtoUTio-u2QIjP9kGnn8N64zjXPjNDIsrRahkGyC4xiKKJlJ4QuLGY40HEZGb3dAU0ZwTbUDHWkbqW4L/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%90%D7%95%D7%A9%D7%A4%D7%99%D7%96%D7%99%D7%9F.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_3919.html",
+   "download": "https://archive.org/download/hadshotmusic_20260929_2228/%D7%94%D7%A2%D7%A8%D7%A9%D7%99%20%D7%A8%D7%95%D7%98%D7%A0%D7%91%D7%A2%D7%A8%D7%92%2C%20%D7%90%D7%91%D7%A8%D7%99%D7%9E%D7%99%20%D7%9C%D7%95%D7%A0%D7%92%D7%A8%2C%20%D7%99%D7%95%D7%93%D7%A2%D7%9C%27%D7%A2%20%D7%A9%D7%90%D7%98%D7%9F%20-%20%D7%90%D7%95%D7%A9%D7%A4%D7%99%D7%96%D7%99%D7%9F.mp3",
+   "ts": "2026-09-29T22:32:38+00:00"
+  },
+  {
+   "id": "s49fa3934fadb53",
+   "title": "חיים פריינד - א סוכה'לע",
+   "text": "א סוכה'לע: חיים פריינד מחזיר לחיים את הקלאסיקה היידישאית של חג הסוכותלכבוד חג הסוכות, הזמר חיים פריינד מחדש את אחד משירי החג המוכרים ביידיש, \"א סוכה'לע\", ומלווה את הביצוע בקליפ אנימציה ייחודי שנוצר כולו בעבודת יד.השיר מתאר סוכה קטנה ופשוטה, הבנויה מלוחות עץ בסיסיים ומכוסה במעט סכך, העומדת מול רוחות קרות המאיימות לכבות…",
+   "image": "data/media/72aa485a722cb7a7.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqVRi_vTsJ0T_njwsiKx39yIco8P1TnlffUGfzjUowd4Jb978JHBibiRzP724_00qmqCgMWwiCbOsDq4TxUUSAEToj7UK-6Lsy8QjIkp0yZ7xVkTme7gi9JXYfshyV7ITEf74_FsWu6OxxJ9wAzzn7VP-GJUUuy36yYMNQYofN-r46PpmmO05VX9MaYzPm/s72-w320-h320-c/A%20Sukkaleh%20-%20Spotify%20Cover_.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_29.html",
+   "download": "https://archive.org/download/hadshotmusic_20260929/%D7%97%D7%99%D7%99%D7%9D%20%D7%A4%D7%A8%D7%99%D7%99%D7%A0%D7%93%20-%20%D7%90%20%D7%A1%D7%95%D7%9B%D7%94%27%D7%9C%D7%A2.mp3",
+   "ts": "2026-09-29T22:14:36+00:00"
+  },
   {
    "id": "sdb015a80e9773a",
    "title": "הרב יגאל כהן | חג סוכות – לשמוח בכל מחיר!",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9e%d7%97%d7%99%d7%9c%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%a7%d7%a8%d7%9e%d7%a8/",
    "download": null,
    "ts": "2026-09-19T21:32:11+00:00"
-  },
-  {
-   "id": "s9ebcfbd3181629",
-   "title": "הלל מאיר – מחילה גמורה",
-   "text": "עיבוד והפקה מוזיקלית, מיקס ומאסטרינג: מוישי אולחוב וחיים דייטש יחסי ציבור ותקשורת: ישראל רוזן",
-   "image": "data/media/a0cacc8a8b0ec785.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/lkdrfmG2UQ4-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%9c%d7%9c-%d7%9e%d7%90%d7%99%d7%a8-%d7%9e%d7%97%d7%99%d7%9c%d7%94-%d7%92%d7%9e%d7%95%d7%a8%d7%94/",
-   "download": null,
-   "ts": "2026-09-19T19:40:27+00:00"
-  },
-  {
-   "id": "sb3427966db1b66",
-   "title": "הרב זמיר כהן | כיפור – זה עוד לא נגמר! חובה לשמוע לפני כיפור!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%96%d7%94-%d7%a2%d7%95%d7%93-%d7%9c%d7%90-%d7%a0%d7%92%d7%9e%d7%a8-%d7%97%d7%95%d7%91%d7%94-%d7%9c/",
-   "download": null,
-   "ts": "2026-09-19T18:24:34+00:00"
   }
  ]
 }
