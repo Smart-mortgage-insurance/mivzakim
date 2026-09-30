@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T03:27:17.346493+00:00",
+ "updated": "2026-09-30T09:37:37.736667+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2a9dd85fc864ca",
+   "title": "סט שירי שמחת תורה הקפות שניות • אוסף שירי תורה קצבי מכל הזמנים | בהגשת יוסף ממיה – יוסף ממיה",
+   "text": "",
+   "image": "data/media/cc3335d1ae930fdc.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/zD6Ao_glISI-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a9%d7%99%d7%a8%d7%99-%d7%a9%d7%9e%d7%97%d7%aa-%d7%aa%d7%95%d7%a8%d7%94-%d7%94%d7%a7%d7%a4%d7%95%d7%aa-%d7%a9%d7%a0%d7%99%d7%95%d7%aa-%d7%90%d7%95%d7%a1%d7%a3-%d7%a9%d7%99/",
+   "download": null,
+   "ts": "2026-09-30T09:06:46+00:00"
+  },
+  {
+   "id": "s0e8d4202338276",
+   "title": "הקהל אמר את דברו: אלו הזוכים במצעד השנתי של המנגן מיוזיק לשנת תשפ\"ו 🏆",
+   "text": "שנת תשפ\"ו הגיעה לסיומה, ואחרי שנה עמוסה בסינגלים, אלבומים, יוצרים חדשים והפקות שכבשו את עולם המוזיקה היהודית, הגיע הזמן לחשוף את הזוכים הגדולים של המצעד השנתי של המנגן מיוזיק . הקהל הצביע, הקולות נספרו, ויש לנו מנצחים. קבלו את נבחרי השנה שלכם: שיר השנה | \"דיבורים של אמת\" – אלייצור השיר של אלייצור הצליח לגעת בקהל…",
+   "image": "data/media/701b82c4a085a5aa.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3c6.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a7%d7%94%d7%9c-%d7%90%d7%9e%d7%a8-%d7%90%d7%aa-%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%9c%d7%95-%d7%94%d7%96%d7%95%d7%9b%d7%99%d7%9d-%d7%91%d7%9e%d7%a6%d7%a2%d7%93-%d7%94%d7%a9%d7%a0%d7%aa%d7%99/",
+   "download": null,
+   "ts": "2026-09-30T08:55:28+00:00"
+  },
   {
    "id": "s7f615935aee847",
    "title": "הערשי רוטנבערג, אברימי לונגר, יודעל'ע שאטן - אושפיזין",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-%d7%9b%d7%a0%d7%a1-%d7%a2%d7%a0%d7%a7-%d7%91%d7%99%d7%91%d7%a0/",
    "download": null,
    "ts": "2026-09-20T06:24:33+00:00"
-  },
-  {
-   "id": "s57de380a69dc22",
-   "title": "הרב יגאל כהן | כיפור – אל תגיד לא ידעתי! שיעור חובה לפני יום כיפור!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9b%d7%99%d7%a4%d7%95%d7%a8-%d7%90%d7%9c-%d7%aa%d7%92%d7%99%d7%93-%d7%9c%d7%90-%d7%99%d7%93%d7%a2%d7%aa%d7%99-%d7%a9%d7%99%d7%a2/",
-   "download": null,
-   "ts": "2026-09-20T06:24:30+00:00"
-  },
-  {
-   "id": "sbe7ef0f4db20d6",
-   "title": "באווירת עשרת ימי תשובה: ביצוע משותף של אורי זיו ומרדכי הס | מכניסי רחמים | צפו",
-   "text": "",
-   "image": "data/media/fc5039cc1d0f75a7.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/bWMXTApKUPE-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%91%d7%90%d7%95%d7%95%d7%99%d7%a8%d7%aa-%d7%a2%d7%a9%d7%a8%d7%aa-%d7%99%d7%9e%d7%99-%d7%aa%d7%a9%d7%95%d7%91%d7%94-%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a9%d7%95%d7%aa%d7%a3-%d7%a9%d7%9c-%d7%90/",
-   "download": null,
-   "ts": "2026-09-19T21:58:52+00:00"
   }
  ]
 }
