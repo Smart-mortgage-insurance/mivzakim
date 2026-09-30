@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T10:01:22.623454+00:00",
+ "updated": "2026-09-30T16:05:05.014817+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sb5c353399dfbdc",
+   "title": "אברומי וינברג - קבץ קבץ",
+   "text": "עם הפנים לגאולה: בדרך לאלבום חדש אברומי וינברג מגיש מתוכו את הסינגל הראשון - \"קבץ קבץ\"לאחר תקופת עבודה ממושכת באולפני ההקלטות, הזמר והיוצר אברומי וינברג משיק סינגל חדש וקצבי מתוך אלבום חדש: \"קבץ קבץ\". השיר מהווה את הסנונית הראשונה מתוך אלבום מלא בן 10 רצועות, שצפוי לראות אור מיד לאחר ימי החגים.העיתוי של יציאת השיר…",
+   "image": "data/media/0e082fee70563f9a.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92yyWrKXEkGX4bphKsNsMEtScl2em4ALvRCOf2tnCpbsR0d3SHqkLmeM9eiD3fcXwpa5x1S1DRUu7kC3rjUcXR3Pt_dAxJqhZ5OyjYnvT08d5IlaBKaMbTsNW3_ydIPfeQpNMH6078zitqQda0J_vL-2dP5bN2SbwMoizeECnfm3Ui6SpgCjNT_72o_wj/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%A7%D7%91%D7%A5%20%D7%A7%D7%91%D7%A5.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_414.html",
+   "download": null,
+   "ts": "2026-09-30T14:07:19+00:00"
+  },
+  {
+   "id": "s901f70f0f49531",
+   "title": "שלוימי בוקשפן - חבוקה ודבוקה",
+   "text": "הלהיט מחצר טאלנא מגיע לאולפן: שלוימי בוקשפן מבצע את הניגון על \"חבוקה ודבוקה בך\"ניגון שהפך בשנים האחרונות לחלק מהווי התפילה והטישים בחצר טאלנא יוצא כעת לראשונה בהפקה מוזיקלית רשמית: שלוימי בוקשפן מבצע את הלחן של ר' ישראל עדלמאן על המילים \"חבוקה ודבוקה בך\", מתוך תפילת ההושענות.ראשיתו של הניגון בערב חג השבועות תשפ\"ה, אז…",
+   "image": "data/media/edf1b773cb8491bd.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKUg4jeySvQ8bxbnYNiIS-4vmfadArGkNpfmT1H4KL4Sks1-njUP2mrm64RFiW3dfrR43DmgSc5BRuImTOBzj0qBdTPYCRLoYChehqz3XenV0ZII1D2maj1nIR-mKdpxCyGR_NVxFB9Tj83ATgusXOC7HFPbrmPIAGZRqlgYvHXb8ix8yB9r5gM-S2wsgU/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%97%D7%91%D7%95%D7%A7%D7%94%20%D7%95%D7%93%D7%91%D7%95%D7%A7%D7%94.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_30.html",
+   "download": null,
+   "ts": "2026-09-30T13:18:35+00:00"
+  },
+  {
+   "id": "s318a917c6145c4",
+   "title": "🎉 מפי אל | הביצוע שהילדים לא יפסיקו לשיר 🎶 | קליפ אנימציה לשמחת תורה – שביל הניגון",
+   "text": "",
+   "image": "data/media/7497ea3eb8560f4a.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/qx6-JEHSzzc-maxresdefault.webp",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%8e%89-%d7%9e%d7%a4%d7%99-%d7%90%d7%9c-%d7%94%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%a9%d7%94%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90-%d7%99%d7%a4%d7%a1%d7%99%d7%a7%d7%95-%d7%9c%d7%a9%d7%99/",
+   "download": null,
+   "ts": "2026-09-30T10:56:00+00:00"
+  },
   {
    "id": "sb8f39717226cab",
    "title": "לייבי צישינסקי במחרוזת סוחפת | א לייבידיקע הקפה | האזינו",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%99%d7%95%d7%90%d7%9c%d7%99-%d7%93%d7%95%d7%99%d7%93%d7%95%d7%91%d7%99%d7%a5-%d7%a2%d7%a0%d7%a0%d7%99%d7%9d/",
    "download": null,
    "ts": "2026-09-21T18:42:20+00:00"
-  },
-  {
-   "id": "s5d9f75a23bda3c",
-   "title": "לייב מקיסריה ובדרך למנורה: יניב בן משיח – מחרוזת 'פעם בחיים' | צפו",
-   "text": "עם צאת יום הכיפורים, יניב בן משיח שכבש בשנה האחרונה את אמפי קיסריה עם הופעה בהפרדה מלאה וקידוש ה' שטרם נראה כמותו, מוציא מחרוזת חפלה שמחה במיוחד עם מיטב הלהיטים שלו מכל הזמנים, מתוך ההופעה שהשאירה חותם בהיסטוריה של המוזיקה היהודית. את היעד הבא כבר אי אפשר להסתיר, במהלך הראיונות האחרונים והופעות הענק ברחבי הארץ, הכריז…",
-   "image": "data/media/3be2e1a748303c1a.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/eWE-u2KuT9E-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%99%d7%99%d7%91-%d7%9e%d7%a7%d7%99%d7%a1%d7%a8%d7%99%d7%94-%d7%95%d7%91%d7%93%d7%a8%d7%9a-%d7%9c%d7%9e%d7%a0%d7%95%d7%a8%d7%94-%d7%99%d7%a0%d7%99%d7%91-%d7%91%d7%9f-%d7%9e%d7%a9%d7%99%d7%97/",
-   "download": null,
-   "ts": "2026-09-21T18:26:16+00:00"
-  },
-  {
-   "id": "s0757a98fac7aec",
-   "title": "לקראת חג הסוכות | שוקי סלומון ויהודה גרין בביצוע מרגש | שיר המשאלות | צפו",
-   "text": "לקראת חג הסוכות, שוקי סלומון משיק ביצוע חדש ומרגש במיוחד, יחד עם אמן הקומזיצים מארצות הברית, יהודה גרין – חיבור מוזיקלי שמאחוריו סיפור אישי ומטלטל. אביו של שוקי, שנפטר השנה, אהב והעריץ את יהודה גרין, ואחד החלומות שלו היה לראות את בנו שר ומוציא שיר יחד איתו. כעת, בשיר הראשון ששוקי מוציא מאז פטירת אביו, החלום הזה הופך…",
-   "image": "data/media/20ee3e82ea4df9b1.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/JYrTEpjDPwA-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%a9%d7%95%d7%a7%d7%99-%d7%a1%d7%9c%d7%95%d7%9e%d7%95%d7%9f-%d7%95%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%92%d7%a8%d7%99/",
-   "download": null,
-   "ts": "2026-09-21T18:11:18+00:00"
-  },
-  {
-   "id": "sdf5aa16ffec37c",
-   "title": "איצי באלד בסינגל קליפ ליום הכיפורים | כפרות | צפו",
-   "text": "לכבוד מנהג הכפרות השנתי והמיוחד של ערב יום הכיפורים, המלחין והיוצר איצי באלד, מגיש סינגל קליפ חדש, מרגש, מעורר השראה ומלא באנרגיה, אותו הלחין, עיבד, שר והפיק בעצמו. על הפקת הקליפ חתום בנו, שמואל באלד. באלד: \"כפרות זה לא רק לסובב תרנגול מעל הראש ולהעביר אליו את העוונות שלנו. מדובר בעשיית שינוי אמיתי בתוכנו! שינוי…",
-   "image": "data/media/7780ce7258a64086.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/L9nFp-s4sm0-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%99%d7%a6%d7%99-%d7%91%d7%90%d7%9c%d7%93-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a7%d7%9c%d7%99%d7%a4-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%9b%d7%99%d7%a4%d7%95%d7%a8%d7%99%d7%9d-%d7%9b%d7%a4/",
-   "download": null,
-   "ts": "2026-09-20T08:29:27+00:00"
   }
  ]
 }
