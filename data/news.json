@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T02:25:47.449758+00:00",
+ "updated": "2026-10-02T08:27:03.099003+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s08225c0f5a3f81",
+   "title": "ליל הושענא רבה 2026 בשידור חי ממרכז פסגות – הרב יגאל כהן, הרב לסרי ועוד",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%99%d7%9c-%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-2026-%d7%91%d7%a9%d7%99%d7%93%d7%95%d7%a8-%d7%97%d7%99-%d7%9e%d7%9e%d7%a8%d7%9b%d7%96-%d7%a4%d7%a1%d7%92%d7%95%d7%aa-%d7%94/",
+   "download": null,
+   "ts": "2026-10-02T06:24:02+00:00"
+  },
+  {
+   "id": "s8a3cb7e7672ebe",
+   "title": "הושענא רבה | הרב זמיר כהן, הרב יצחק פנגר, הרב דלויה, הרב גלזר, הרב לאו ועוד",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-%d7%94%d7%a8%d7%91-%d7%99%d7%a6%d7%97%d7%a7-%d7%a4%d7%a0%d7%92%d7%a8-%d7%94/",
+   "download": null,
+   "ts": "2026-10-02T06:24:01+00:00"
+  },
+  {
+   "id": "sf66e62acdfe824",
+   "title": "הרב יגאל כהן | הושענא רבה 2026 | הסבל שעברתי בילדות ומאז ה 7 באוקטובר!",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-2026-%d7%94%d7%a1%d7%91%d7%9c-%d7%a9%d7%a2%d7%91%d7%a8%d7%aa%d7%99-%d7%91/",
+   "download": null,
+   "ts": "2026-10-02T06:24:00+00:00"
+  },
   {
    "id": "s3252654ec78697",
    "title": "הרב יגאל כהן | לקראת הושענא רבה | לאן ממשיכים מכאן? (מאשדוד)",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%99%d7%95%d7%9d-%d7%a4%d7%98%d7%99%d7%a8%d7%aa-%d7%a8%d7%91%d7%99-%d7%90%d7%a9%d7%a8-%d7%a4%d7%a8%d7%99%d7%99%d7%a0%d7%93-%d7%96%d7%a6%d7%95%d7%a7%d7%b4%d7%9c/",
    "download": null,
    "ts": "2026-09-22T12:26:24+00:00"
-  },
-  {
-   "id": "s9bec10e36d1cce",
-   "title": "אני טוב גמור – נהוראי רחמימוב",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%a0%d7%99-%d7%98%d7%95%d7%91-%d7%92%d7%9e%d7%95%d7%a8-%d7%a0%d7%94%d7%95%d7%a8%d7%90%d7%99-%d7%a8%d7%97%d7%9e%d7%99%d7%9e%d7%95%d7%91/",
-   "download": null,
-   "ts": "2026-09-22T08:00:00+00:00"
-  },
-  {
-   "id": "sbdfb1405c14152",
-   "title": "בני פרידמן – Benny & Friends 2: Whee Are Homeward Bound!",
-   "text": "Drumroll please… something huge is marching your way! SING Entertainment presents Benny & Friends 2: Whee Are Homeward Bound! Join us for an afternoon of incredible music, entertainment and plenty of surprises! Grab your tickets at https://singentertainment.net Chol Hamoed Sukkos Thursday, October 1 | 3pm The Ritz…",
-   "image": "data/media/0c765283c62bc4da.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3ba.png",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%91%d7%a0%d7%99-%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f-benny-friends-2-whee-are-homeward-bound/",
-   "download": null,
-   "ts": "2026-09-22T02:43:27+00:00"
-  },
-  {
-   "id": "sf4d5fc8f75c4f6",
-   "title": "סוכות 2026 | דיג'י מאוריקו מגיש יחד עם בצלאל שמיר ויוסף חיים של'שמחות | מחרוזת סוכות | צפו",
-   "text": "בס״ד סדר השירים 00:00 ושמחת בחגך 00:29 אתה בחרתנו 01:30 מאוריקו 01:43 סוכה ולולב 02:16 בסוכה שלנו 02:23 הושיע נא הצליחה נא 02:34 שלמה בונה סוכה 02:54 א,ב,ג,ד… 03:20 משיב הרוח ומוריד הגשם 03:46 דרופ 03:59 הלוליה הללו עבדי ה' 04:32 מי פי אל 05:07 גשם מטפטף 05:20 סוכת דוד הנופלת 05:46 דרופ 05:59 בזכות יוסף הצדיק 06:25…",
-   "image": "data/media/9e56be2972343134.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b5.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026-%d7%93%d7%99%d7%92%d7%99-%d7%9e%d7%90%d7%95%d7%a8%d7%99%d7%a7%d7%95-%d7%9e%d7%92%d7%99%d7%a9-%d7%99%d7%97%d7%93-%d7%a2%d7%9d-%d7%91%d7%a6%d7%9c%d7%90%d7%9c/",
-   "download": null,
-   "ts": "2026-09-21T22:41:19+00:00"
   }
  ]
 }
