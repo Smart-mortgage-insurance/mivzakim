@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T07:49:34.478198+00:00",
+ "updated": "2026-10-04T13:20:47.504850+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,84 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s90dabbe56cebe9",
+   "title": "אבי גרינבלט - החזירנו בתשובה",
+   "text": "עם תפילת \"אבינו מלכנו\": אבי גרינבלט בסינגל בכורה - \"החזירנו בתשובה\"הזמר, המלחין והיוצר אבי גרינבלט יוצא לדרך עם סינגל הבכורה שלו, \"החזירנו בתשובה\", שהוקדש לימי הרחמים והסליחות ולימים הנוראים. השיר החדש מעניק לחן וביצוע חדשים לאחת הבקשות המוכרות מתוך תפילת \"אבינו מלכנו\", באווירה של רגש וקומזיץ.את הלחן ל\"החזירנו בתשובה\"…",
+   "image": "data/media/23ebece4f2f160e9.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg593g9YYMkg3iS5brPoVG1R2PTA5kGeWT6U5v_Xh09jXcy2ns-xC4BZ9eZswA8HE5wmjQVEfuuxEy8-ivdylb0ieiMrI7oc1uiHnZgmfhBqkbYJGL1Q-sDtxko15qJGzgHgdn2TwDCizYLPWd66W59w2UQb_YZtxOLg_lPqB3sTO2V5HyYZ237QE68rFIN/s72-w320-h320-c/%D7%90%D7%91%D7%99%20%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%9C%D7%98%20-%20%D7%94%D7%97%D7%96%D7%99%D7%A8%D7%A0%D7%95%20%D7%91%D7%AA%D7%A9%D7%95%D7%91%D7%94%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_957.html",
+   "download": "https://archive.org/download/hadshotmusic_20261004_1208/%D7%90%D7%91%D7%99%20%D7%92%D7%A8%D7%99%D7%A0%D7%91%D7%9C%D7%98%20-%20%D7%94%D7%97%D7%96%D7%99%D7%A8%D7%A0%D7%95%20%D7%91%D7%AA%D7%A9%D7%95%D7%91%D7%94.mp3",
+   "ts": "2026-10-04T12:13:24+00:00"
+  },
+  {
+   "id": "s99a6c0feaaf157",
+   "title": "דוד בן ארזה מגיש גרסה עברית ללהיט של זושא | אם אני כאן | צפו",
+   "text": "להזמנת הופעות: יונתן יחיאל – 052-500-0210 | j5000210@gmail.com ______ תרגום: דוד בן ארזה ______ הפקה מוזיקלית, מיקס ומאסטר: אלי קליין ואיצי ברי פסנתר: דוד בן ארזה גיטרה: אלי קליין צילום וידאו ועטיפה: דוד טירנובר, 709",
+   "image": "data/media/182f9b1c4c415f31.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/g08O7V3qW7I-maxresdefault.webp",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%95%d7%93-%d7%91%d7%9f-%d7%90%d7%a8%d7%96%d7%94-%d7%9e%d7%92%d7%99%d7%a9-%d7%92%d7%a8%d7%a1%d7%94-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%9c%d7%9c%d7%94%d7%99%d7%98-%d7%a9%d7%9c-%d7%96%d7%95%d7%a9/",
+   "download": null,
+   "ts": "2026-10-04T11:57:05+00:00"
+  },
+  {
+   "id": "s189e2e2945ef79",
+   "title": "יואל ווייס מגיש | רבי חיים זאנוויל בן ר' משה | האזינו",
+   "text": "המשמח אלוקים ואנשים רודף צדקה וחסד הנגיד יצחק פויגעל ברענגט א ניגון צי כלל ישראל און זכות פון ריבניצע רבי זיעוכ\"י אמן זכותו יגן עלינו אמן זכותו יגן עלינו.",
+   "image": "data/media/006d1f307c1c7d86.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/PKUJ_O_a4P0-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%99%d7%95%d7%90%d7%9c-%d7%95%d7%95%d7%99%d7%99%d7%a1-%d7%9e%d7%92%d7%99%d7%a9-%d7%a8%d7%91%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%96%d7%90%d7%a0%d7%95%d7%95%d7%99%d7%9c-%d7%91%d7%9f-%d7%a8-%d7%9e/",
+   "download": null,
+   "ts": "2026-10-04T11:49:37+00:00"
+  },
+  {
+   "id": "s9cc4d3535781ef",
+   "title": "אלעזר יפרח - אבי נתן",
+   "text": "להחזיק מעמד, לבחור לקום: אלעזר יפרח בסינגל הבכורה - \"אבי נתן\"אחרי שנים שבהן עסק במוזיקה אנדלוסית, פיוט ונגינת עוּד, הזמר והיוצר הירושלמי אלעזר יפרח יוצא לדרך מוזיקלית עצמאית עם סינגל הבכורה שלו, \"אבי נתן\". השיר נכתב מתוך ההתמודדות האישית של יפרח בשנות המלחמה, לצד המציאות הלאומית המורכבת והכואבת, ובוחר דווקא מתוך הקושי…",
+   "image": "data/media/0827ba09f1052347.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTDSkRheTVZGdugH2JGb561r1mdmvHLQ1n9qqfMzxpE1lD3zUtDQTYiqoE8xMACDEqwm6Uh_WEdzDsJDi4W_W3zi3Sj37d84p-BRReq3lh2ag4zLFrNKRkLSNWEFQFS2LhaalAggmINQYiKkPh-gVX5T__Yx2x65xf1ouJs_t6gxvQZ_2OSr9aN51amMl/s72-w320-h320-c/%D7%90%D7%91%D7%99%20%D7%A0%D7%AA%D7%9F%203000.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_04.html",
+   "download": "https://archive.org/download/hadshotmusic_20261004/%D7%90%D7%9C%D7%A2%D7%96%D7%A8%20%D7%99%D7%A4%D7%A8%D7%97%20-%20%D7%90%D7%91%D7%99%20%D7%A0%D7%AA%D7%9F.mp3",
+   "ts": "2026-10-04T11:47:16+00:00"
+  },
+  {
+   "id": "s6ec61898959485",
+   "title": "אליעזר אולמן & אהרן ברייער - אנוכי אנחמכם",
+   "text": "אשוב לנחמכם: אליעזר אולמן ממשיך מגיש סינגל שני - \"אנוכי אנחמכם\", בביצוע של אהרן ברייערלאחר שיר הבכורה \"רוצה ה' את יראיו\" אותו הוציא לפני תקופה קצרה, המלחין אליעזר אולמן מוציא סינגל חדש בשם \"אנוכי אנחמכם\", כשהפעם על השירה אמון הזמר אהרן ברייער. על העיבוד הופקד יצחק שור.השיר החדש הוא מתוך קינה שחיבר האלשיך הקדוש, רבי…",
+   "image": "data/media/a99fc8029ae98a17.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MFtrTfaGYcRw3OARqiQ5hG4N7HyZhAgxtnXxEPbNMi2o0LergssvlAFNGMOzSRXyAnOPbKYXMHktjfio-4VBLcs7b3GpOV699iIYjAvxCICK6EGiIBQjnDJJhFFdfP97Wkezp3a2z5wt2HLx6_PQgB6b3YTYK_nDa_cgsPC1OPsGyeQMm7JEWnpd7k5A/s72-w314-h320-c/%D7%A1%D7%99%D7%A0%D7%92%D7%9C%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2%20%D7%9C%D7%9C%D7%90.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post.html",
+   "download": "https://archive.org/download/hadshotmusic_202610/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%20%D7%90%D7%95%D7%9C%D7%9E%D7%9F%20%26%20%D7%90%D7%94%D7%A8%D7%9F%20%D7%91%D7%A8%D7%99%D7%99%D7%A2%D7%A8%20-%20%D7%90%D7%A0%D7%95%D7%9B%D7%99%20%D7%90%D7%A0%D7%97%D7%9E%D7%9B%D7%9D.mp3",
+   "ts": "2026-10-04T10:28:04+00:00"
+  },
+  {
+   "id": "s5a60c856586467",
+   "title": "אייל צרפתי בשיר לזכר הנרצחים הי\"ד | דודי ירד לגנו | צפו",
+   "text": "הקליפ מכיל נשים בעקיפין \"דודי ירד לגנו \" שיר שנכתב והולחן לזכרם של הקדושים שמסרו את נפשם למען עם ישראל , ולזכר כל הקדושים שנלקחו מאיתנו על עצם היותם יהודים . השיר מתאר, שלא תמיד אנחנו מבינים למה נקטפים מחיינו אנשים מיוחדים, אנשים מלאכים בדמות אדם, אבל אנחנו מאמינים שהם נקטפו כדי להגן ולכפר על כולם ,ושרוחם עדיין פועם…",
+   "image": "data/media/bde3f65fe714845f.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f494.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%99%d7%99%d7%9c-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99-%d7%91%d7%a9%d7%99%d7%a8-%d7%9c%d7%96%d7%9b%d7%a8-%d7%94%d7%a0%d7%a8%d7%a6%d7%97%d7%99%d7%9d-%d7%94%d7%99%d7%93-%d7%93%d7%95%d7%93%d7%99/",
+   "download": null,
+   "ts": "2026-10-04T07:55:24+00:00"
+  },
   {
    "id": "s2177dff1eeea42",
    "title": "עם ' עוּד' ביד ואור בלב: סינגל בכורה על אחדות, אופטימיות וכוח להמשיך | אלעזר יפרח – אבי נתן | צפו",
@@ -1925,84 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/ep_0661077559.html",
    "download": "https://archive.org/download/hadshotmusic_20260922_2043/01%20%D7%A2%D7%A0%D7%A0%D7%99%D7%9D.mp3",
    "ts": "2026-09-22T21:05:56+00:00"
-  },
-  {
-   "id": "s7c96232c11d2c3",
-   "title": "יענקי רוזנבוים מגיש: ״עולו אושפיזין״ להיט סוכות אנרגטי בניחוח חדשני | האזינו",
-   "text": "יענקי רוזנבוים מגיש: ״עולו אושפיזין״ להיט סוכות אנרגטי בניחוח חדשני! אחרי שכבש את האוזן עם יצירה שבתית בניחוח של פעם, יענקי רוזנבוים משיק את ״עולו אושפיזין״ סינגל חדש, קצבי וסוחף לחג הסוכות, בעיבודו של יידלה אלטר. לאחר סינגל הבכורה שבו הציג יצירה שבתית אותנטית, הזמר יענקי רוזנבוים בוחר להפתיע עם סגנון מוזיקלי. לצורך…",
-   "image": "data/media/6d13dc8804ed7a6b.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/CoyvPx9kRSA-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%a8%d7%95%d7%96%d7%a0%d7%91%d7%95%d7%99%d7%9d-%d7%9e%d7%92%d7%99%d7%a9-%d7%b4%d7%a2%d7%95%d7%9c%d7%95-%d7%90%d7%95%d7%a9%d7%a4%d7%99%d7%96%d7%99%d7%9f%d7%b4-%d7%9c/",
-   "download": null,
-   "ts": "2026-09-22T19:02:20+00:00"
-  },
-  {
-   "id": "s065ab0f01892c9",
-   "title": "אברהם עזר מארח את אליהו לייפער ומאיר בריקמן במחרוזת דאנס אנרגטית | דאנסוכות | צפו",
-   "text": "לקראת חג הסוכות הבעל\"ט, הקלידן והמעבד אברהם עזר משיק את \"דאנסוכות\" – פרויקט ראשון מסוגו, עם מחרוזת מגוונת, אנרגטית ושמחה, בשיתוף הזמרים אליהו לייפער ומאיר בריקמן. המחרוזת מלווה בקליפ שמחבר בין התחושות הנשגבות של מוצאי יום הכיפורים לבין שמחת חג הסוכות המתקרב, עם קצב ואנרגיה שמכניסים את הצופים היישר לאווירת החג. מוזמנים…",
-   "image": "data/media/9c1b756d896d6026.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/uSbjyjTLwRE-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%91%d7%a8%d7%94%d7%9d-%d7%a2%d7%96%d7%a8-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%90%d7%9c%d7%99%d7%94%d7%95-%d7%9c%d7%99%d7%99%d7%a4%d7%a2%d7%a8-%d7%95%d7%9e%d7%90%d7%99%d7%a8-%d7%91%d7%a8/",
-   "download": null,
-   "ts": "2026-09-22T18:27:53+00:00"
-  },
-  {
-   "id": "s0be82c51eac3d1",
-   "title": "חיים גרין בסינגל לקראת חג הסוכות | זמן שמחתנו | האזינו",
-   "text": "I'm so excited to share my new single, \"Zman Simchatenu\" (זמן שמחתנו)! This is an uplifting freilach track to the special words we say in Kiddush on Yom Tov night in the Sukkah: \"את יום חג הסוכות הזה, זמן שמחתנו…\" I hope it brings pure simcha and high-energy vibes to your Sukkah and Yom Tov! Turn up the speakers, add…",
-   "image": "data/media/726a9f3e8933cda8.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%97%d7%99%d7%99%d7%9d-%d7%92%d7%a8%d7%99%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%97%d7%92-%d7%94%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%96%d7%9e%d7%9f-%d7%a9/",
-   "download": null,
-   "ts": "2026-09-22T17:32:46+00:00"
-  },
-  {
-   "id": "s69f8ad39bf2df4",
-   "title": "אלי מרכוס וברוך לוין בביצוע מרומם | גלה | צפו",
-   "text": "GALEI – Eli Marcus, Baruch Levine, Shloimi Schinfeld Band Few words capture the yearning of the Yomim Noraim quite like \"ּגַּלֵּה כְּבוֹד מַלְכוּתְָ עָלֵינו,\" a powerful tefillah for Hashem's malchus to be revealed throughout the entire world. Recorded live this past summer at Camp Ruach Chaim, the sweet voices of Eli…",
-   "image": "data/media/7bf0e6099a665fe6.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/epIvcgFtzHw-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%99-%d7%9e%d7%a8%d7%9b%d7%95%d7%a1-%d7%95%d7%91%d7%a8%d7%95%d7%9a-%d7%9c%d7%95%d7%99%d7%9f-%d7%91%d7%91%d7%99%d7%a6%d7%95%d7%a2-%d7%9e%d7%a8%d7%95%d7%9e%d7%9d-%d7%92%d7%9c%d7%94/",
-   "download": null,
-   "ts": "2026-09-22T17:30:08+00:00"
-  },
-  {
-   "id": "s1a1da20c4a1b79",
-   "title": "שבשפלנו זכר לנו | שמואל דוד לאנדא שר קרליבך | האזינו",
-   "text": "This song has always spoken to me deeply. It’s a holy Niggun from Reb Shlomo Carlebach Zt”l. It reminds us that even in our lowest moments, Hashem remembers us. שבשפלנו זכר לנו כי לעולם חסדו ————- CREDITS: Performed: Shmuel Dovid Landau Arranged: Lazer Landau Guitars: Motty Feldman Mixed: Yitzy Berry Mastered: Yitzy…",
-   "image": "data/media/f033e1143cb29bc0.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/FgQOr17A_Jg-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%91%d7%a9%d7%a4%d7%9c%d7%a0%d7%95-%d7%96%d7%9b%d7%a8-%d7%9c%d7%a0%d7%95-%d7%a9%d7%9e%d7%95%d7%90%d7%9c-%d7%93%d7%95%d7%93-%d7%9c%d7%90%d7%a0%d7%93%d7%90-%d7%a9%d7%a8-%d7%a7%d7%a8%d7%9c/",
-   "download": null,
-   "ts": "2026-09-22T17:25:09+00:00"
-  },
-  {
-   "id": "s033fa2ce7260d2",
-   "title": "סט סוכות מקפיץ תשפ\"ז • 2026 – דיג'יי יצחק כהן",
-   "text": "",
-   "image": "data/media/80d10862aac62440.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/lyaqSP2vPD0-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9e%d7%a7%d7%a4%d7%99%d7%a5-%d7%aa%d7%a9%d7%a4%d7%96-2026-%d7%93%d7%99%d7%92%d7%99%d7%99-%d7%99%d7%a6%d7%97%d7%a7-%d7%9b%d7%94%d7%9f/",
-   "download": null,
-   "ts": "2026-09-22T16:34:07+00:00"
   }
  ]
 }
