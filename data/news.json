@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T02:09:42.954746+00:00",
+ "updated": "2026-10-04T07:25:21.388819+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s2177dff1eeea42",
+   "title": "עם ' עוּד' ביד ואור בלב: סינגל בכורה על אחדות, אופטימיות וכוח להמשיך | אלעזר יפרח – אבי נתן | צפו",
+   "text": "הזמר, היוצר ונגן העוּד אלעזר יפרח (24) מירושלים, משיק את סינגל הבכורה שלו \"אבי נתן\" . השיר עוסק בפער שבין ההתמודדות האישית להתמודדות הלאומית בשלוש השנים האחרונות, בתחושה של מי שנושא קושי פרטי בתוך תקופה קשה ממילא. יפרח לא מסתיר את הקושי (\"ויש ימים של גאולה, ויש קרוב להתייאש\"), אבל בוחר בכל בוקר מחדש, עם \"מודה אני\" ועם…",
+   "image": "data/media/c54e813c23adb349.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/E_asBjJL5Vw-maxresdefault.webp",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a2%d7%9d-%d7%a2%d7%95%d6%bc%d7%93-%d7%91%d7%99%d7%93-%d7%95%d7%90%d7%95%d7%a8-%d7%91%d7%9c%d7%91-%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%91%d7%9b%d7%95%d7%a8%d7%94-%d7%a2%d7%9c-%d7%90%d7%97%d7%93/",
+   "download": null,
+   "ts": "2026-10-04T07:03:15+00:00"
+  },
   {
    "id": "s5ae890d5021e1e",
    "title": "'שטארקס' הפקות: יענקי שטארק – אמרגן אירועים במחירים הכי זולים, בהתחייבות!",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%f0%9f%8e%88-%d7%95%d7%a9%d7%9e%d7%97%d7%aa-%d7%91%d7%97%d7%92%d7%9a-%d7%a9%d7%99%d7%a8-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%f0%9f%8e%89-%d7%a7%d7%9c%d7%99%d7%a4/",
    "download": null,
    "ts": "2026-09-22T15:36:21+00:00"
-  },
-  {
-   "id": "sd3e71a9581b28f",
-   "title": "מנחם טוקר הערוץ הרשמי | Toker.FM – מנחם טוקר חושף את מה שמעולם לא סיפר ברדיו | ראיון באנגלית עם עוזיאל נפרסטק",
-   "text": "0:00 – Intro 3:24 – Beginning of Radio Career 7:13 – Kashrus in Media 10:58 – Escapism 15:06 – Interviewing Style 19:14 – Audience Feedback 23:01 – Radio and Music 26:04 – Evolution of Jewish Music 29:55 – Music Competitions 43:42 – Highlighting Composers 50:50 – Future of Frum Entertainment 1:02:22 Outro טוקר FM –…",
-   "image": "data/media/213802f75b703356.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4fb.png",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a0%d7%97%d7%9d-%d7%98%d7%95%d7%a7%d7%a8-%d7%94%d7%a2%d7%a8%d7%95%d7%a5-%d7%94%d7%a8%d7%a9%d7%9e%d7%99-toker-fm-%d7%9e%d7%a0%d7%97%d7%9d-%d7%98%d7%95%d7%a7%d7%a8-%d7%97%d7%95%d7%a9%d7%a3/",
-   "download": null,
-   "ts": "2026-09-22T12:38:54+00:00"
   }
  ]
 }
