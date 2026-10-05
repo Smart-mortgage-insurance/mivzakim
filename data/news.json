@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T02:37:48.300356+00:00",
+ "updated": "2026-10-05T09:04:58.838475+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s3d01e564ba52c1",
+   "title": "הרב יגאל כהן | לאחר 3 שנים – מה למדנו מהשביעי באוקטובר? | שידור חי",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9c%d7%90%d7%97%d7%a8-3-%d7%a9%d7%a0%d7%99%d7%9d-%d7%9e%d7%94-%d7%9c%d7%9e%d7%93%d7%a0%d7%95-%d7%9e%d7%94%d7%a9%d7%91%d7%99%d7%a2/",
+   "download": null,
+   "ts": "2026-10-05T06:24:04+00:00"
+  },
+  {
+   "id": "s5b0c58a34cffd6",
+   "title": "הרב זמיר כהן – איך להגיע לשמחה אמיתית בחיים?",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%96%d7%9e%d7%99%d7%a8-%d7%9b%d7%94%d7%9f-%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%92%d7%99%d7%a2-%d7%9c%d7%a9%d7%9e%d7%97%d7%94-%d7%90%d7%9e%d7%99%d7%aa%d7%99%d7%aa-%d7%91%d7%97/",
+   "download": null,
+   "ts": "2026-10-05T06:24:01+00:00"
+  },
   {
    "id": "s7468431a640402",
    "title": "אלחנן ענבל – שמחת בית השואבה & משה לוין \"אנא השם \"",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%96%d7%94-%d7%9e%d7%94-%d7%a9%d7%9b%d7%9c-%d7%90%d7%97%d7%93-%d7%97%d7%99%d7%99%d7%91-%d7%9c%d7%a2%d7%a9%d7%95%d7%aa-%d7%91%d7%a1/",
    "download": null,
    "ts": "2026-09-23T06:24:35+00:00"
-  },
-  {
-   "id": "sc482626e60612a",
-   "title": "מרדכי רביבו, שלמה נחמיאס, אמנים שונים - סוכה ולולב (4 לחנים)",
-   "text": "ארבעה לחנים, פיוט אחד: החזן מרדכי רביבו והרב שלמה נחמיאס מגישים ביצוע מיוחד לקראת חג הסוכות - \"סוכה ולולב\"חג הסוכות מביא עמו עשרות ניגונים ופיוטים, אך אחד הפיוטים המזוהים ביותר עם החג הוא הפיוט \"סוכה ולולב לעם סגולה\". לקראת ימי החג, החזן מרדכי רביבו מארח את הרב שלמה נחמיאס לקליפ חגיגי ויצירה מוזיקלית ייחודית: פיוט…",
-   "image": "data/media/1217c282779f0555.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmBxe44cgxaroY3dJznr18dVKd7kcZtkcyvymi2-JnXHC0GrAENUqdwC1_iPWgVzIu4XhQhRVObsppjiwSRLC-hWh9muPpTfeJNeU1U6UCydyfZe2SkeQyZEyToPvRpiPdgYeMUfMA6Uo9wrtxwd67TGxzoAHog-zddvEElUWjOUFYbBbOE7tmnpJhVqBh/s72-w320-h320-c/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%A8%D7%91%D7%99%D7%91%D7%95,%20%D7%A9%D7%9C%D7%9E%D7%94%20%D7%A0%D7%97%D7%9E%D7%99%D7%90%D7%A1,%20%D7%90%D7%9E%D7%A0%D7%99%D7%9D%20%D7%A9%D7%95%D7%A0%D7%99%D7%9D%20-%20%D7%A1%D7%95%D7%9B%D7%94%20%D7%95%D7%9C%D7%95%D7%9C%D7%91%20(4%20%D7%9C%D7%97%D7%A0%D7%99%D7%9D)%20-%20%D7%A2%D7%98%D7%99%D7%A4%D7%94.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/4.html",
-   "download": null,
-   "ts": "2026-09-23T01:42:40+00:00"
-  },
-  {
-   "id": "s2d445473a4589d",
-   "title": "רועי הרוש מגיש | סט דתי להיטים 2026 – סוף עונה | האזינו",
-   "text": "אתר רשמי: תקליטן דתי וידיאו ועריכה: רחלי הרוש",
-   "image": "data/media/e04c398b60085b1b.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/eZy-bHNO93g-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a8%d7%95%d7%a2%d7%99-%d7%94%d7%a8%d7%95%d7%a9-%d7%9e%d7%92%d7%99%d7%a9-%d7%a1%d7%98-%d7%93%d7%aa%d7%99-%d7%9c%d7%94%d7%99%d7%98%d7%99%d7%9d-2026-%d7%a1%d7%95%d7%a3-%d7%a2%d7%95%d7%a0%d7%94/",
-   "download": null,
-   "ts": "2026-09-23T00:39:54+00:00"
   }
  ]
 }
