@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T08:20:06.449654+00:00",
+ "updated": "2026-10-07T14:58:08.220732+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s43997f6ddf5f0a",
+   "title": "⭐ כוכב מאיר | עוזיה צדוק | לזכר מרן הרב עובדיה יוסף | אינסטרומנטלי – שביל הניגון",
+   "text": "",
+   "image": "data/media/fa94064b5aed93f6.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/TqD-vCNbUss-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%e2%ad%90-%d7%9b%d7%95%d7%9b%d7%91-%d7%9e%d7%90%d7%99%d7%a8-%d7%a2%d7%95%d7%96%d7%99%d7%94-%d7%a6%d7%93%d7%95%d7%a7-%d7%9c%d7%96%d7%9b%d7%a8-%d7%9e%d7%a8%d7%9f-%d7%94%d7%a8%d7%91-%d7%a2%d7%95/",
+   "download": null,
+   "ts": "2026-10-07T12:19:34+00:00"
+  },
+  {
+   "id": "s3f3119c12c2212",
+   "title": "מני דיסקינד - ניחוח קדם",
+   "text": "חדש ימינו: מני דיסקינד מחבר בין ארץ האבות לשרשרת הדורות בסינגל חדש - ניחוח קדםהזמר והיוצר מני דיסקינד משיק סינגל-קליפ חדש בשם \"ניחוח קדם\", שנע בין נופי ארץ ישראל לבין הזיכרון, התורה והתפילות שעברו בה מדור לדור.\"ניחוח קדם\" מביט על ארץ ישראל לא רק דרך נופיה, אלא גם דרך הסיפור היהודי שנרקם בה לאורך הדורות. הרי הקדם,…",
+   "image": "data/media/c6a96c46d3b9a097.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyk5dSBu7eLdIYDQZggdzNrjIZ7J2_GXVz5IgEDphwAvtSM_P2Fmp4C0sRS3PZim2l96Aq0NFztJoRjAeaG0tddvI_8ft4gOtw3Mr4heyw6-QSDlD31F_Xr_7CQvNx86GetHaSONx400vDPxnYuHSn3tlOWD1Z9Ds83ozLUKIdLAFX4jP3smhwN14XSTlX/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%A0%D7%99%D7%97%D7%95%D7%97%20%D7%A7%D7%93%D7%9D.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_07.html",
+   "download": "https://archive.org/download/hadshotmusic_20261007/%D7%9E%D7%A0%D7%99%20%D7%93%D7%99%D7%A1%D7%A7%D7%99%D7%A0%D7%93%20-%20%D7%A0%D7%99%D7%97%D7%95%D7%97%20%D7%A7%D7%93%D7%9D.mp3",
+   "ts": "2026-10-07T11:27:16+00:00"
+  },
+  {
+   "id": "s09aaa865eb75fb",
+   "title": "חתונה אנרגטית במיוחד עם הקלידן לייזר ברנדמרק והזמר יואלי סמואל – כ\"ד תשרי ה'תשפ\"ז",
+   "text": "הורדה ישירה תצוגה מקדימה * * * אהבתם? לפרטים והזמנות: הזמר יואלי סמואל טלפון: 053-413-4724 אימייל: zx0555517828@gmail.com",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1855",
+   "download": null,
+   "ts": "2026-10-07T10:44:45+00:00"
+  },
   {
    "id": "s9d90971b4adfc9",
    "title": "מפגש פסגה בבריכת הסולטן: מרדכי בן דוד ושמוליק סוכות סחפו את האלפים עם \"אמת\" | צפו",
@@ -1964,45 +2003,6 @@
    "link": "https://music.tora1.com/1838",
    "download": "https://share.tora1.com/s/7x3Jxe4fyjkF7Hg/download",
    "ts": "2026-09-23T18:25:25+00:00"
-  },
-  {
-   "id": "sb8415744462a8b",
-   "title": "הרב יגאל כהן | חג סוכות 2026 | השיעור הכי חשוב!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%97%d7%92-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026-%d7%94%d7%a9%d7%99%d7%a2%d7%95%d7%a8-%d7%94%d7%9b%d7%99-%d7%97%d7%a9%d7%95%d7%91/",
-   "download": null,
-   "ts": "2026-09-23T18:23:10+00:00"
-  },
-  {
-   "id": "s5d928e966ac6f5",
-   "title": "סוכות – מלכות, יודי ביאלסטוצקי, יואלי דוידוביץ, מנדי ויס, ארי קראוס ושמוליק וינריך במחרוזת אנרגטית | יוֹם טוֹב דִּיג | האזינו",
-   "text": "יום-טוב-דיג! מחרוזת החג החדשה מבית מקהלת 'מלכות', מנדי וייס, יודי ביאלוסטוצקי, יואלי דווידוביץ, ילד הפלא ארי קראוס ושמוליק ויינריך… היכן שרק לא תהיו בחג, בסוכה, בסלון, ברכב או בכל רחבת ריקודים כזו או אחרת, פשוט לחצו 'פליי' והיסחפו עם מחרוזת שכולה שמחת חג פורצת גבולות, יחד עם מקהלת 'מלכות' בניצוחו של פנחס ביכלר, מנדי…",
-   "image": "data/media/6c547365f4d593bc.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/xtzu6qf6_2I-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9e%d7%9c%d7%9b%d7%95%d7%aa-%d7%99%d7%95%d7%93%d7%99-%d7%91%d7%99%d7%90%d7%9c%d7%a1%d7%98%d7%95%d7%a6%d7%a7%d7%99-%d7%99%d7%95%d7%90%d7%9c%d7%99-%d7%93%d7%95/",
-   "download": null,
-   "ts": "2026-09-23T16:53:29+00:00"
-  },
-  {
-   "id": "s5516288270f742",
-   "title": "אברהם עזר, אליהו לייפער, מאיר בריקמן - מחרוזת דאנסוכות",
-   "text": "נכנסים לסוכות בקצב: אברהם עזר מגיש מחרוזת אנרגטית לחג הסוכות עם אליהו לייפער ומאיר בריקמן - \"דאנסוכות\"עם צאת יום הכיפורים והמעבר המהיר לאווירת חג הסוכות, מגיעה מחרוזת חדשה שמבקשת לקחת את שמחת החג לכיוון קצבי במיוחד. הקלידן והמעבד אברהם עזר חבר לזמרים אליהו לייפער ומאיר בריקמן, ויחד הם מגישים את \"דאנסוכות\" – רצף…",
-   "image": "data/media/8614e8318a4fefa0.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghYw149aaEid3V2oO0Qd820r_ECoGsVevkAfUYjLAmAuTjV9PSUePEmgOPjXX8IGYoGOnF9IuXxtL3IWiSVp2PG-izrUhXSgw06jUc16LN4hbtYrTjEaHMuc1Tazim5PPQDPCGsrUCVYrBCuCuKhAyxxznWy5cly0Ttc83QR3AHV7-rkj5UvC-Vjuw0k76/s72-w320-h320-c/%D7%93%D7%90%D7%A0%D7%A1%20%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20-%20%D7%A2%D7%96%D7%A8,%20%D7%9C%D7%99%D7%99%D7%A4%D7%A2%D7%A8,%20%D7%91%D7%A8%D7%99%D7%A7%D7%9E%D7%9F%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_23.html",
-   "download": "https://archive.org/download/hadshotmusic_20260923_1603/%D7%90%D7%91%D7%A8%D7%94%D7%9D%20%D7%A2%D7%96%D7%A8%20%D7%9E%D7%92%D7%99%D7%A9%20-%20%D7%90%D7%9C%D7%99%D7%94%D7%95%20%D7%9C%D7%99%D7%99%D7%A4%D7%A2%D7%A8%20%26%20%D7%9E%D7%90%D7%99%D7%A8%20%D7%91%D7%A8%D7%99%D7%A7%D7%9E%D7%9F%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%93%D7%90%D7%A0%D7%A1%D7%95%D7%9B%D7%95%D7%AA.mp3",
-   "ts": "2026-09-23T16:08:44+00:00"
   }
  ]
 }
