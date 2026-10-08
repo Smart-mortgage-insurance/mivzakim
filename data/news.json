@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T14:11:39.619819+00:00",
+ "updated": "2026-10-08T19:35:02.573292+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,71 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s768bd15ec4ad49",
+   "title": "עשה ועושה ויעשה – משה קרישבסקי & מקהלת מלכות",
+   "text": "הזמר משה קרישבסקי, יחד עם מקהלת מלכות, משיקים ביצוע חדש למילות ה\"אני מאמין\" – \"עשה ועושה ויעשה\", על גבי ניגון לעלוב העתיק והאהוב. הרעיון לחבר את מילות האמונה לניגון נולד מתוך חיבור אישי עמוק, ובפרט לזכר אביו של משה, ר' פסח קרישבסקי זצ\"ל, שהיה קשור מאוד לאמונה ושמר על שמחתו גם מתוך שנות ייסורים. השיר יוצא לעילוי נשמתו,…",
+   "image": "data/media/68c53887d7828f95.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/FgkDhwVLySM-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a2%d7%a9%d7%94-%d7%95%d7%a2%d7%95%d7%a9%d7%94-%d7%95%d7%99%d7%a2%d7%a9%d7%94-%d7%9e%d7%a9%d7%94-%d7%a7%d7%a8%d7%99%d7%a9%d7%91%d7%a1%d7%a7%d7%99-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%9e%d7%9c/",
+   "download": null,
+   "ts": "2026-10-08T18:31:35+00:00"
+  },
+  {
+   "id": "saf6dbd14969c85",
+   "title": "למה קרה ה-7 באוקטובר? | הרב דוד פריוף",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9c%d7%9e%d7%94-%d7%a7%d7%a8%d7%94-%d7%94-7-%d7%91%d7%90%d7%95%d7%a7%d7%98%d7%95%d7%91%d7%a8-%d7%94%d7%a8%d7%91-%d7%93%d7%95%d7%93-%d7%a4%d7%a8%d7%99%d7%95%d7%a3/",
+   "download": null,
+   "ts": "2026-10-08T18:24:00+00:00"
+  },
+  {
+   "id": "sc1f4b6838e6b48",
+   "title": "דניאל אלישע וישיבת 'היכל צבי - אהל יוסף' - מחרוזת רעווא דרעווין",
+   "text": "אל שולחן השבת: דניאל אלישע ובחורי \"היכל צבי - אוהל יוסף\" במחרוזת ניגוני סעודה שלישית - רעווא דרעוויןניגוני סעודה שלישית מוכרים היטב לכל מי שחווה את האווירה המיוחדת של שבת בישיבה. אם יש משהו שמסוגל להחזיר ברגע אחד לאווירת ההתעלות של סעודה שלישית בישיבה, אלו הניגונים שיוצאים מן הלב.הזמר דניאל אלישע ובחורי ישיבת \"היכל…",
+   "image": "data/media/c43af618e2b61649.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglldhk0V5R-D2bw5cf7r5VuR-p1wGN5CFalS7FyD90cgCsi_EkAx845wB7u7jG5l1FtLrJH4yd4_1zvqEmfGP1NKud2ohUl_mhTdzFn_z7o7J3uscybbvB48xapeIr3ZeGzj8fBWsTHbU40lvze5ookjaY58cEiRVX6nviR3Cx0RcJ_KJrDpHUjQ_B-nOP/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%A8%D7%A2%D7%95%D7%95%D7%90%20%D7%93%D7%A8%D7%A2%D7%95%D7%95%D7%99%D7%9F.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_216.html",
+   "download": null,
+   "ts": "2026-10-08T17:41:37+00:00"
+  },
+  {
+   "id": "sab5dc6aeb7fb5f",
+   "title": "רעווא דרעווין | ישיבת \"היכל צבי – אהל יוסף\" מארחת את דניאל אלישע | צפו",
+   "text": "שירה: דניאל אלישע הפקה וקונספט: שמוליק שרבאני עיבוד: נפתלי לנדסמן מיקס: מוישי כהנא צילום ועריכה: ש.כ בימוי: יהודה אהרוני עריכת ווקאל וטיון: אליה נתנאלי גיטרות וכלי נשיפה: חרגול וארי (זכריה) ברנד נגנים בקליפ: שרוליק שטרן, דודי שמעונוביץ ופיני אלכמיסטר בהוקרה ובתודה לרבנית שראבני תחי׳, לרבני הישיבה ולצוות מארגני הקעמפ:…",
+   "image": "data/media/54dad5713f0a6b1f.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a8%d7%a2%d7%95%d7%95%d7%90-%d7%93%d7%a8%d7%a2%d7%95%d7%95%d7%99%d7%9f-%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%94%d7%99%d7%9b%d7%9c-%d7%a6%d7%91%d7%99-%d7%90%d7%94%d7%9c-%d7%99%d7%95%d7%a1%d7%a3/",
+   "download": null,
+   "ts": "2026-10-08T17:22:57+00:00"
+  },
+  {
+   "id": "se725a147b0350a",
+   "title": "קובי ברומר - המאורות הגדולים",
+   "text": "גם אור קטן מאיר את החושך: קובי ברומר בסינגל חדש לפרשת בראשית - המאורות הגדוליםעם החזרה לעונת החתונות הבעל\"ט ולקראת פרשת בראשית, הזמר והיוצר קובי ברומר משחרר סינגל חדש בשם ״המאורות הגדולים״, המלווה בעיבוד קצבי וסוחף, באווירה מוזיקלית קלילה.מילות השיר לקוחות מפרשת בראשית, ובהן הפסוקים העוסקים בבריאת המאורות, השמש והירח.…",
+   "image": "data/media/68f52cd2b50a7575.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2VwGGbXFgSZ4M8BtCDpBGrYX51EEpYw1NGlGN2JKArdtCaoFUTJYTgB52-WlX-AFq-crdRRzSDG37NIB2J4YouNW_HYI8fszjdzTfP-OTn7QluK2MlKK6K28W1FAoR2DY8EuYMB9ialvplo0U8e-pQz8JC0FyfEXE5WBYWm6Rr5x0-OfwT1M4oOtBFvkq/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%94%D7%9E%D7%90%D7%95%D7%A8%D7%95%D7%AA%20%D7%94%D7%92%D7%93%D7%95%D7%9C%D7%99%D7%9D.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_882.html",
+   "download": null,
+   "ts": "2026-10-08T15:00:50+00:00"
+  },
   {
    "id": "scc8801eb43612d",
    "title": "שמחת בית השואבה ה'תשפ\"ז – בחצר הקודש ויז'ניץ – עם מאיר אדלר ויענקי דסקל (הורדה מהדרייב)",
@@ -1938,71 +2003,6 @@
    "link": "https://hamenagen.net/%d7%90%d7%9e%d7%99%d7%a8-%d7%90%d7%9c%d7%99%d7%94%d7%95-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%94%d7%a9%d7%9d-%d7%9e%d7%9c%d7%9a-%d7%a6%d7%a4%d7%95/",
    "download": null,
    "ts": "2026-09-24T14:39:33+00:00"
-  },
-  {
-   "id": "sa3ed19f181ff44",
-   "title": "ארי היל ויהודה רושגולד במשאפ קצר | סוכות ✖️ גלות | צפו",
-   "text": "לחן: מעכל ליבער שירה: ארי היל עיבוד וקלידים: יהודה רושגולד הקלטה: שלוימי אלבוים מיקס ומאסטרינג: מנחם ברנשטיין צילום ועריכה: יהודה גרנובסקי הפקה: ישראל שר יחסי ציבור ותקשורת: ישראל רוזן",
-   "image": "data/media/1f7b91a8ef2e255e.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/9sWlEHSkues-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%a8%d7%99-%d7%94%d7%99%d7%9c-%d7%99%d7%94%d7%95%d7%93%d7%94-%d7%a8%d7%95%d7%a9%d7%92%d7%95%d7%9c%d7%93-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%e2%9c%96%ef%b8%8f-%d7%92%d7%9c%d7%95%d7%aa/",
-   "download": null,
-   "ts": "2026-09-24T13:31:26+00:00"
-  },
-  {
-   "id": "s83d7eadd5b0cca",
-   "title": "לקראת שמחת תורה: ישראל אדלר מציג \"שמחת התורה – ממלכת מיר\" | צפו",
-   "text": "בימים קדושים ומרוממים אלו ולקראת שמחת תורה הקרב ובא בהם אנו ששים ושמחים בתורה הקדושה, מגיש הגראמער הרב ישראל אדלר יצירת ענק – שכולה מסע אל לב הלבבות של עולם התורה – \"ממלכת ישיבת מיר\". היצירה הופקה במיוחד לכבוד המעמד ההיסטורי \"מלכי רבנן\" שהתקיים בהיכל ארנה בירושלים בשנת התשפ\"ו, והיא מתארת בגראמען בשלוש שפות: לשה\"ק,…",
-   "image": "data/media/37db0ad556a5396d.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/femkHIE5Ojg-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%a9%d7%9e%d7%97%d7%aa-%d7%aa%d7%95%d7%a8%d7%94-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%90%d7%93%d7%9c%d7%a8-%d7%9e%d7%a6%d7%99%d7%92-%d7%a9%d7%9e%d7%97%d7%aa-%d7%94/",
-   "download": null,
-   "ts": "2026-09-24T13:15:03+00:00"
-  },
-  {
-   "id": "s436bcfd5da090d",
-   "title": "🎻 אתה בחרתנו | ניגון אינסטרומנטלי לסוכות – שביל הניגון",
-   "text": "",
-   "image": "data/media/5b6b8d5afa05dc6e.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/NKiskw6vo6M-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%f0%9f%8e%bb-%d7%90%d7%aa%d7%94-%d7%91%d7%97%d7%a8%d7%aa%d7%a0%d7%95-%d7%a0%d7%99%d7%92%d7%95%d7%9f-%d7%90%d7%99%d7%a0%d7%a1%d7%98%d7%a8%d7%95%d7%9e%d7%a0%d7%98%d7%9c%d7%99-%d7%9c%d7%a1%d7%95%d7%9b/",
-   "download": null,
-   "ts": "2026-09-24T12:24:20+00:00"
-  },
-  {
-   "id": "sc42c4e3b5a001c",
-   "title": "דוד אורגובי – קלידן בסגנון חסידי-ישיבתי",
-   "text": "דוד אורגובי – קלידן תותח!! – בסגנון חסידי-ישיבתי מתאים לכל סוגי האירועים שרוצים בהם שמחה ואנרגיה! לפרטים ויצירת קשר: טלפון: 052-717-8741 אימייל: hadassa05083265924@gmail.com בברכת חג שמח!",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1840",
-   "download": null,
-   "ts": "2026-09-24T11:57:08+00:00"
-  },
-  {
-   "id": "s77adb0d2c3a1b5",
-   "title": "סוכות טאנץ! – אלבום מקסים של הזמר המוכשר שיעלה רוט – מאוד יפה! (משנה שעברה) (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (קובץ) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "audio",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1839",
-   "download": null,
-   "ts": "2026-09-24T11:55:01+00:00"
   }
  ]
 }
