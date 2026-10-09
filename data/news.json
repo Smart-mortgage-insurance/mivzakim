@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T11:45:18.172314+00:00",
+ "updated": "2026-10-09T17:29:44.922836+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,45 @@
  "count": 150,
  "items": [
   {
+   "id": "s04b76682678c94",
+   "title": "משה קרישבסקי - עשה ועושה ויעשה",
+   "text": "חיבור של אמונה וניגון עתיק: משה קרישבסקי ומקהלת 'מלכות' בסינגל חדש – \"עשה ועושה ויעשה\"לקראת שבת בראשית, הזמר משה קרישבסקי מגיש יצירה מרגשת בשם - \"עשה ועושה ויעשה\", בה הוא מארח את מקהלת 'מלכות' לביצוע של מילות יסוד האמונה מתוך ה\"אני מאמין\" (י\"ג עיקרים לרמב\"ם). הביצוע נשען על גבי הלחן החסידי האהוב והעתיק של חצר לעלוב,…",
+   "image": "data/media/9af18411f01f3889.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHTfOAApCda_Yf1GjPqMyA9lg_83pBztJqxi9AO1aQF1AJXmN-xg57GF_AwJ03e_sz7YawSYW4dV5qopORNUMIGtuf9bduA1GhFsEMAkjhR-fkd8v33Sy8qmkHOilpHuZHiC7rtWUbqux0sZFmSd4g8NL4XpE8rgBEIB8K74doFYKH-2Bgdx0xC0J-F2YG/s72-w320-h320-c/%D7%A2%D7%A9%D7%94%20%D7%95%D7%A2%D7%95%D7%A9%D7%94%20%D7%95%D7%99%D7%A2%D7%A9%D7%94%20%D7%A7%D7%A8%D7%99%D7%A9%D7%91%D7%A1%D7%A7%D7%99%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_09.html",
+   "download": "https://archive.org/download/hadshotmusic_20261009/%D7%9E%D7%A9%D7%94%20%D7%A7%D7%A8%D7%99%D7%A9%D7%91%D7%A1%D7%A7%D7%99%20%26%20%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%9E%D7%9C%D7%9B%D7%95%D7%AA%20-%20%D7%A2%D7%A9%D7%94%20%D7%95%D7%A2%D7%95%D7%A9%D7%94%20%D7%95%D7%99%D7%A2%D7%A9%D7%94.mp3",
+   "ts": "2026-10-09T14:12:27+00:00"
+  },
+  {
+   "id": "se78097a283fd04",
+   "title": "מאיר חג'בי – פסנתר על הפרשה – בראשית תשפ״ז 🙏🏾❤️",
+   "text": "",
+   "image": "data/media/9119c3f28f8d261d.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/Be2bcefEQZw-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%90%d7%99%d7%a8-%d7%97%d7%92%d7%91%d7%99-%d7%a4%d7%a1%d7%a0%d7%aa%d7%a8-%d7%a2%d7%9c-%d7%94%d7%a4%d7%a8%d7%a9%d7%94-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%aa%d7%a9%d7%a4%d7%b4%d7%96/",
+   "download": null,
+   "ts": "2026-10-09T12:49:34+00:00"
+  },
+  {
+   "id": "sc43fe5f5455137",
+   "title": "\"המלחין הבא\" – קעמפ אור ישראל תשפ\"ו",
+   "text": "",
+   "image": "data/media/3f68b405d26a872a.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-15.07.33.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%94%d7%9e%d7%9c%d7%97%d7%99%d7%9f-%d7%94%d7%91%d7%90-%d7%a7%d7%a2%d7%9e%d7%a4-%d7%90%d7%95%d7%a8-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%aa%d7%a9%d7%a4%d7%95/",
+   "download": null,
+   "ts": "2026-10-09T12:06:47+00:00"
+  },
+  {
    "id": "sc4662a9a53e968",
    "title": "הרב יצחק פנגר | מודל \"איכה\" – השיעור שיעיף אתכם למעלה!",
    "text": "",
@@ -79,6 +118,19 @@
    "link": "https://hamenagen.net/%d7%94%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%a9%d7%91%d7%91%d7%a8%d7%99%d7%90%d7%94-%d7%a4%d7%a8%d7%a9%d7%aa-%d7%91%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%94%d7%a8%d7%91-%d7%94%d7%a8%d7%a6%d7%9c-%d7%97/",
    "download": null,
    "ts": "2026-10-09T06:24:05+00:00"
+  },
+  {
+   "id": "s6169d263934360",
+   "title": "בני פרידמן – Benny & Friends 2: Whee Are Homeward Bound! Sukkos '26 Concert Recap",
+   "text": "What a day! Still taking in everything that happened at Benny & Friends 2: Whee Are Homeward Bound. Thank you to everyone who packed The Ritz on Thursday of Chol Hamoed Sukkos and brought so much energy from beginning to end. And of course, thank you to my friends @moshetischlermusic, @itsyoniz, @dovidgabay4555,…",
+   "image": "data/media/57a92fbf468aa576.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f3b6.png",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%91%d7%a0%d7%99-%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f-benny-friends-2-whee-are-homeward-bound-sukkos-26-concert-recap/",
+   "download": null,
+   "ts": "2026-10-09T04:55:49+00:00"
   },
   {
    "id": "s768bd15ec4ad49",
@@ -1951,58 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%aa-%d7%91%d7%99%d7%aa-%d7%a9%d7%9e%d7%a9-%d7%9e%d7%92%d7%99%d7%a9%d7%94-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%99%d7%a8%d7%99-%d7%97%d7%92-%d7%94%d7%a1%d7%95/",
    "download": null,
    "ts": "2026-09-24T16:41:34+00:00"
-  },
-  {
-   "id": "s3a90deb65ca880",
-   "title": "סט סוכות 2026 – פול ווליום",
-   "text": "",
-   "image": "data/media/c605bb53d50a5943.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/YalJw2TI34I-maxresdefault.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026-%d7%a4%d7%95%d7%9c-%d7%95%d7%95%d7%9c%d7%99%d7%95%d7%9d/",
-   "download": null,
-   "ts": "2026-09-24T16:36:47+00:00"
-  },
-  {
-   "id": "s1d8c42233a9056",
-   "title": "רגעים לפני החג: חילי לאנדמאן בסינגל הכנה לסוכות | וטהר ליבנו | צפו",
-   "text": "הזמר חילי לאנדמאן משחרר קאבר קצבי, אנרגטי וסוחף ללהיט של שמוליק קליין ואברומי שטרנפלד, רגעים ספורים לפני כניסת חג הסוכות הבעל\"ט. השיר, שהפך בחודשים האחרונים ללהיט חתונות אהוב שמרקיד את עולם הישיבות, מקבל בביצוע החדש של לאנדמאן גוון מיוחד של הכנה רוחנית ועמוקה לימי המועד. המטרה המוזיקלית והרוחנית של הסינגל היא לעורר את…",
-   "image": "data/media/c0d859984b8a12dc.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/2XECkZGCZmo-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a8%d7%92%d7%a2%d7%99%d7%9d-%d7%9c%d7%a4%d7%a0%d7%99-%d7%94%d7%97%d7%92-%d7%97%d7%99%d7%9c%d7%99-%d7%9c%d7%90%d7%a0%d7%93%d7%9e%d7%90%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%94%d7%9b%d7%a0/",
-   "download": null,
-   "ts": "2026-09-24T16:36:15+00:00"
-  },
-  {
-   "id": "sa434e5af79df7d",
-   "title": "חיים דייטש ויידל’ה אלטר מגישים | הייליגע אבות | האזינו",
-   "text": "בעוד רגעים ספורים נשב כולנו תחת הסכך מוקפים בדפנות קישוטים ובשמחה. איתנו יחד נזמין את \"האבות הקדושים\" לשבת להסתופף בסוכה, הרעיון של הלחן והמילים נולד מתוך רצון פשוט לחבר ולהנגיש את ה\"'אושפיזין\"הישר אלינו אל תוך הלב ולהרגיש איך אנחנו יוצאים מהבית ונכנסים לסוכה שבנינו,וממש מהמקום האישי שלנו, מזמינים את האבות אחד אחד…",
-   "image": "data/media/8537546497aa7ecd.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/5AAnXrWVfkM-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%97%d7%99%d7%99%d7%9d-%d7%93%d7%99%d7%99%d7%98%d7%a9-%d7%95%d7%99%d7%99%d7%93%d7%9c%d7%94-%d7%90%d7%9c%d7%98%d7%a8-%d7%9e%d7%92%d7%99%d7%a9%d7%99%d7%9d-%d7%94%d7%99%d7%99%d7%9c%d7%99/",
-   "download": null,
-   "ts": "2026-09-24T16:02:21+00:00"
-  },
-  {
-   "id": "s5e0fb5ad18ce75",
-   "title": "נחמן פילמר מגיש | סט שמחה פורצת גבולות 16 – מוזיקה חסידית שמחה ומקפיצה | האזינו",
-   "text": "​ לתמיכה בערוץ | To support the channel: באמצעות פייבוקס: https://links.payboxapp.com/7jTY8EbdIWb ​━━━━━━━━━━━━━━ ​ קרדיטים: התודה והברכה לבורא עולם על כל הטוב הזה תודה לאמנים והיוצרים האלופים! תודה לנחמן רוזנברג ויענקי כהן עריכה והגשה: נחמן פילמר ​━━━━━━━━━━━━━━ ​ רשימת שירים: 00:00 לישועתך קיווינו | משולם זושא 02:10…",
-   "image": "data/media/63994cbe1921d624.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f48e.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a0%d7%97%d7%9e%d7%9f-%d7%a4%d7%99%d7%9c%d7%9e%d7%a8-%d7%9e%d7%92%d7%99%d7%a9-%d7%a1%d7%98-%d7%a9%d7%9e%d7%97%d7%94-%d7%a4%d7%95%d7%a8%d7%a6%d7%aa-%d7%92%d7%91%d7%95%d7%9c%d7%95%d7%aa-16-%d7%9e/",
-   "download": null,
-   "ts": "2026-09-24T15:12:35+00:00"
   }
  ]
 }
