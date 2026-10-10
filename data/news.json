@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T14:18:17.973391+00:00",
+ "updated": "2026-10-10T18:07:48.853912+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s3c0f17ea41747a",
+   "title": "סט שירי רגש ונשמה 2 – פול ווליום",
+   "text": "",
+   "image": "data/media/2d7beeef5c4fc6a9.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/2DwvXb2imBo-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a1%d7%98-%d7%a9%d7%99%d7%a8%d7%99-%d7%a8%d7%92%d7%a9-%d7%95%d7%a0%d7%a9%d7%9e%d7%94-2-%d7%a4%d7%95%d7%9c-%d7%95%d7%95%d7%9c%d7%99%d7%95%d7%9d/",
+   "download": null,
+   "ts": "2026-10-10T17:04:52+00:00"
+  },
+  {
+   "id": "sdafa9ec8e8bfa5",
+   "title": "רגעים של קדושה: אלחנן ענבל מגיש | מחרוזת חופה | צפו",
+   "text": "להזמנת אירועים ומופעים: 058-3262204 אייל רגעים של קדושה: אלחנן ענבל מגיש מחרוזת \"חופה\" רגע החופה הוא אולי השיא המרגש והמשמעותי ביותר בחתונה היהודית, כזה שדורש שילוב מדויק בין קדושה, כוונה ועוצמה רגשית. אלחנן ענבל, שהפך בתקופה האחרונה לקול בולט ואהוב במעמדים אלו, משיק מחרוזת חופה ייחודית שנועדה לתמצת את אותם רגעים…",
+   "image": "data/media/a687985a4d58bc3f.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a8%d7%92%d7%a2%d7%99%d7%9d-%d7%a9%d7%9c-%d7%a7%d7%93%d7%95%d7%a9%d7%94-%d7%90%d7%9c%d7%97%d7%a0%d7%9f-%d7%a2%d7%a0%d7%91%d7%9c-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa/",
+   "download": null,
+   "ts": "2026-10-10T16:50:58+00:00"
+  },
   {
    "id": "s04b76682678c94",
    "title": "משה קרישבסקי - עשה ועושה ויעשה",
@@ -1977,32 +2003,6 @@
    "link": "https://hamenagen.net/tyh-boys-stars-upmix-visualizer/",
    "download": null,
    "ts": "2026-09-24T19:29:43+00:00"
-  },
-  {
-   "id": "s10cfbe8348615e",
-   "title": "TYH Boys – Yiddishkeit (UPMIX) Visualizer",
-   "text": "TYH Nation Presents Little Bardichevers UPMIX TYH Boys Get ready for an electrifying experience with Thank You Hashem Nation's new TYH BOYS Upmix album! We've taken the pure, powerhouse energy of the TYH Boys and made their biggest hits even more epic. This music is here to stay, touching your neshama and inspiring…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/tyh-boys-yiddishkeit-upmix-visualizer/",
-   "download": null,
-   "ts": "2026-09-24T19:25:51+00:00"
-  },
-  {
-   "id": "s0fa0f93494f0c2",
-   "title": "עיריית בית שמש מגישה: מחרוזת שירי חג הסוכות – ׳סוכת שלום׳ בביצוע מרהיב של אומני בית שמש #2 | צפו",
-   "text": "עיריית בית שמש מגישה: מחרוזת ׳סוכת שלום׳ מחרוזת מיוחדת לחג הסוכות תשפ״ז עם הלהיטים של כל הזמנים בביצוע מיטב אומני בית שמש, מחרוזת אחת שמאגדת את כל הגוונים של שירי חג הסוכות. בהפקה מוזיקלית מושקעת התכנסו מיטב אומני בית שמש ל׳סוכת שלום׳ אחת שמארחת את הלהיטים הגדולים של כל הזמנים: האמנים פיני פולק, אהרלע שארף, יואלי…",
-   "image": "data/media/695bc399305525a9.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4de.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%aa-%d7%91%d7%99%d7%aa-%d7%a9%d7%9e%d7%a9-%d7%9e%d7%92%d7%99%d7%a9%d7%94-%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%99%d7%a8%d7%99-%d7%97%d7%92-%d7%94%d7%a1%d7%95/",
-   "download": null,
-   "ts": "2026-09-24T16:41:34+00:00"
   }
  ]
 }
