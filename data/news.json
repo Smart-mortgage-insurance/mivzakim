@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T18:30:50.474201+00:00",
+ "updated": "2026-10-10T18:32:11.795379+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sf2b403a01421cd",
+   "title": "נטע לוין מגיש: משה דוד וייסמאנדל בקליפ מלא רגש | מחרוזת חופה | צפו",
+   "text": "להזמנת אירועים ומופעים: נטע לוין הפקות: 054-8454159 אחרי שני מחרוזות לייב שזכו לתהודה רבה, משה דוד וייסמאנדל משיק קליפ שלישי יחד עם יענקי לנדאו \"מחרוזת חופה\". יחד עם קליפ משובח. על ההפקה המוזיקלית חתום המעבד והקלידן יענקי לנדאו, כשאל הביצוע המוזיקלי מצטרף קליפ לייב משובח שצולם בטבע. עיבוד והפקה מוזיקלית: יענקי לנדאו…",
+   "image": "data/media/17ed59c8838d23a1.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a0%d7%98%d7%a2-%d7%9c%d7%95%d7%99%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%9e%d7%a9%d7%94-%d7%93%d7%95%d7%93-%d7%95%d7%99%d7%99%d7%a1%d7%9e%d7%90%d7%a0%d7%93%d7%9c-%d7%91%d7%a7%d7%9c%d7%99%d7%a4-%d7%9e/",
+   "download": null,
+   "ts": "2026-10-10T18:31:17+00:00"
+  },
   {
    "id": "s3c0f17ea41747a",
    "title": "סט שירי רגש ונשמה 2 – פול ווליום",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/tyh-boys-finish-line-upmix-visualizer/",
    "download": null,
    "ts": "2026-09-24T19:30:48+00:00"
-  },
-  {
-   "id": "s40f047990f5cca",
-   "title": "TYH Boys – Stars (UPMIX) Visualizer",
-   "text": "TYH Nation Presents Little Bardichevers UPMIX TYH Boys Get ready for an electrifying experience with Thank You Hashem Nation's new TYH BOYS Upmix album! We've taken the pure, powerhouse energy of the TYH Boys and made their biggest hits even more epic. This music is here to stay, touching your neshama and inspiring…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/tyh-boys-stars-upmix-visualizer/",
-   "download": null,
-   "ts": "2026-09-24T19:29:43+00:00"
   }
  ]
 }
