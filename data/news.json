@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:06:44.966419+00:00",
+ "updated": "2026-10-11T17:48:15.847160+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,32 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s566404b7c9e932",
+   "title": "טוב להודות להשם: יענקי הוכהייזר אומר תודה עם \"מחרוזת הודאה\" | האזינו",
+   "text": "במירוץ החיים המטורף והעמוס, קל מאוד לשקוע בשגרה השוחקת או חלילה להישבר ברגעים מאתגרים. אך דווקא אז אנו נדרשים לעצור ולזהות את חסדי ה' המלווים אותנו בכל פסיעה. הדבר קיבל משנה תוקף רק לאחרונה, כאשר נס ההצלה המצמרר בטיסת 'פליי דובאי' הזכיר לכולנו שחיינו תלויים מנגד בכל רגע, וכי על כל נשימה ונשימה אנו מחויבים להודות…",
+   "image": "data/media/d21bba81b33635f0.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/875VdsKE4kU-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%98%d7%95%d7%91-%d7%9c%d7%94%d7%95%d7%93%d7%95%d7%aa-%d7%9c%d7%94%d7%a9%d7%9d-%d7%99%d7%a2%d7%a0%d7%a7%d7%99-%d7%94%d7%95%d7%9b%d7%94%d7%99%d7%99%d7%96%d7%a8-%d7%90%d7%95%d7%9e%d7%a8-%d7%aa%d7%95/",
+   "download": null,
+   "ts": "2026-10-11T14:39:34+00:00"
+  },
+  {
+   "id": "s05f28b071bb614",
+   "title": "ענפים – האם מותר למרוח משחה בשבת? – הרב נריה ברבי שליט\"א",
+   "text": "לשותפות בזיכוי הרבים ◄ https://matching.kalsoft.co.il/payment/6/480?tashlumim=999 לאתר הילדים החדש (הרשמה בחינם) ◄ https://anafeam-kids.co.il/ הרב יגאל כהן בווצאפ ◄https://is.gd/Yyjz1K",
+   "image": "data/media/9ee2fb676898fd8e.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/2gUPj4n1AAI-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a2%d7%a0%d7%a4%d7%99%d7%9d-%d7%94%d7%90%d7%9d-%d7%9e%d7%95%d7%aa%d7%a8-%d7%9c%d7%9e%d7%a8%d7%95%d7%97-%d7%9e%d7%a9%d7%97%d7%94-%d7%91%d7%a9%d7%91%d7%aa-%d7%94%d7%a8%d7%91-%d7%a0%d7%a8%d7%99/",
+   "download": null,
+   "ts": "2026-10-11T13:40:47+00:00"
+  },
   {
    "id": "s4b855e02233e88",
    "title": "גד אלבז מגיש סינגל מרגש | הגלה נא | צפו בקליפ מילים",
@@ -170,6 +196,32 @@
    "link": "https://music.tora1.com/1862",
    "download": "https://share.tora1.com/s/Jmm4b573q3F4AST/download",
    "ts": "2026-10-11T07:45:16+00:00"
+  },
+  {
+   "id": "sf0c5a4ec410d57",
+   "title": "נשיא דרשו בחנוכת היכל בהמ\"ד דרשו בישיבת ראדין | Dirshu Radin",
+   "text": "",
+   "image": "data/media/e0554d2b8291cd0d.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/sOWLiZrBO7g-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%a0%d7%a9%d7%99%d7%90-%d7%93%d7%a8%d7%a9%d7%95-%d7%91%d7%97%d7%a0%d7%95%d7%9b%d7%aa-%d7%94%d7%99%d7%9b%d7%9c-%d7%91%d7%94%d7%9e%d7%93-%d7%93%d7%a8%d7%a9%d7%95-%d7%91%d7%99%d7%a9%d7%99%d7%91%d7%aa/",
+   "download": null,
+   "ts": "2026-10-11T06:18:21+00:00"
+  },
+  {
+   "id": "s30d4180f0f6266",
+   "title": "דרשו – Dirshu | HaGaon HaRav Efraim Wachsman | הג\"ר אפרים ווקסמן בישיבת ראדין לאחר תפילת שחרית",
+   "text": "",
+   "image": "data/media/74215d76583e2f0c.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/TtMtoxRMdwI-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%a8%d7%a9%d7%95-dirshu-hagaon-harav-efraim-wachsman-%d7%94%d7%92%d7%a8-%d7%90%d7%a4%d7%a8%d7%99%d7%9d-%d7%95%d7%95%d7%a7%d7%a1%d7%9e%d7%9f-%d7%91%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%a8/",
+   "download": null,
+   "ts": "2026-10-11T06:11:02+00:00"
   },
   {
    "id": "s77dbfafe045d61",
@@ -1951,58 +2003,6 @@
    "link": "https://hamenagen.net/%d7%91%d7%a9%d7%9e%d7%97%d7%94-%d7%a1%d7%a7%d7%95%d7%95%d7%99%d7%a8%d7%90%d7%99%d7%aa-%d7%9e%d7%a7%d7%94%d7%9c%d7%aa-%d7%97%d7%a1%d7%99%d7%93%d7%99-%d7%a1%d7%a7%d7%95%d7%95%d7%99%d7%a8%d7%90-%d7%91/",
    "download": null,
    "ts": "2026-09-26T16:39:28+00:00"
-  },
-  {
-   "id": "s92ea3c76cd223c",
-   "title": "סוכות 2026 | הרב דוד פריוף",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026-%d7%94%d7%a8%d7%91-%d7%93%d7%95%d7%93-%d7%a4%d7%a8%d7%99%d7%95%d7%a3/",
-   "download": null,
-   "ts": "2026-09-25T18:23:58+00:00"
-  },
-  {
-   "id": "s245545d9ad89cc",
-   "title": "דייויד טויב & מוישל׳ה שניידר - חברותא לייב - סוכות",
-   "text": "חג של צלילים: צמד 'חברותא' במופע לייב מיוחד לסוכותלכבוד חג הסוכות, צמד המוזיקאים והיוצרים דייויד טויב ומוישל׳ה שניידר (הרכב 'חברותא') מגישים מופע לייב אינטימי שנערך בסלון של המוזיקאי והמעבד רולי אזרחי, בהשתתפות דוידי נחשון.הלייב-סשן החדש מציג רפרטואר מוזיקלי עשיר ומגוון מפרי עטם של השניים, הכולל לחנים מקוריים שראו אור…",
-   "image": "data/media/b95caab7fb9aaffc.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigBJi9W02NbFKvR7kgy6xiF-dE3E81GYogsMbaFNCLAzWwAjKYjKrw-HMKLEQYEwq9N2rdrrOqok1y5LUKO0WCxe4EKvR8Pta1HGSNNslav2JE0x670YYVzmNqTyDyUCNyi7AtW-s1CUxb-lNC6SYHwv1lG_38mEanyrK3nDBUWM3adRkii8KD92infmVK/s72-w320-h320-c/%D7%A1%D7%95%D7%9B%D7%95%D7%AA%20%D7%97%D7%91%D7%A8%D7%95%D7%AA%D7%90%20%D7%A2%D7%98%D7%99%D7%A4%D7%94%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg",
-   "type": "news",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_608.html",
-   "download": null,
-   "ts": "2026-09-25T13:58:11+00:00"
-  },
-  {
-   "id": "s343f65edbb958a",
-   "title": "אומני בית שמש #2 - מחרוזת חג סוכות - סוכת שלום",
-   "text": "בירת המוזיקה החסידית חוגגת סוכות: 14 דקות של מיטב האמנים במחרוזת \"סוכת שלום\"אחרי ההצלחה של הפרק הראשון, עיריית בית שמש מגישה את החלק השני בפרויקט המוזיקלי העירוני: 12 מגדולי הזמרים התושבים, מקהלה עשירה ועיבוד מושקע שמאחדים את קלאסיקות החג של כל הזמנים למחרוזת אחת.לקראת ימי החג, עיריית בית שמש משיקה פרויקט חגיגי…",
-   "image": "data/media/bda523b48c8dd6be.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglnQiisCoV3YlI567X2kqqx1irU8IRHopv_XG-I_x4CRSbEwzdPMvy4AqjRxCvMM66gJ9Ap6YPnx-186G9hE2LWa7e6wrCvRUitEAZ3MlG-unbNEEk3Fdn8sDJRPD8mPphquiIcBPnHhyphenhyphenhOg73rWNO-75PTC9uEVDUD_JGxaXl4jiEiWwodKwL1bWi9AL7/s72-w320-h320-c/%D7%A1%D7%95%D7%9B%D7%AA%20%D7%A9%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A8%D7%95%D7%91%D7%A2.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/2.html",
-   "download": null,
-   "ts": "2026-09-25T13:33:34+00:00"
-  },
-  {
-   "id": "sbd0453f1908a44",
-   "title": "חיים דייטש & יידל’ה אלטר - הייליגע אבות",
-   "text": "לכבוד האושפיזין קדישין: חיים דייטש ויידל'ה אלטר מגישים - \"הייליגע אבות\"לקראת ימי חג הסוכות והישיבה בצילא דמהימנותא, מגישים המעבדים והמוזיקאים חיים דייטש ויידל'ה אלטר ניגון שמחה חדש לכבודה של מצווה - \"הייליגע אבות\".הרעיון שעומד מאחורי השיר נולד מתוך רצון לפתוח את הלב ולהרגיש מקרוב את ביאתם של האבות הקדושים אל תוך…",
-   "image": "data/media/0b58431aa7462b24.png",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj15qozvdHYwOv9Ceap1Q4UOob9n7jPdwp59G0CzqmqCjQ0_NFhqTq65M2jEgM125LDxKCQtoQzGriG46etl08Vi6kd9-Pf0PRFtQERnhWtmqGC4HNx7K9-j0TPWA0jHpcXcsXjygm094FDf8PFbqJTQUlH9aT9RPhtf-lGuCp0B776LfPDGWW3Iv22NQK-/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_889.html",
-   "download": null,
-   "ts": "2026-09-25T12:48:54+00:00"
   }
  ]
 }
