@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T00:52:33.339757+00:00",
+ "updated": "2026-10-11T06:10:32.659886+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s77dbfafe045d61",
+   "title": "🔥 *חתונה מיוחדת* 🔥 – עם הקלידן מושי מנדלסון והזמר סנדי דינקל – והאומנים 🎷 נחמן צוקר, 🪈 יוסף גולן, 🎸 אלחנן חריטן – תרימו ווליום וכנסו לאווירה! (הורדה מהדרייב)",
+   "text": "*חתונה מטורפת* מושי מנדלסון & סנדי דינקל נחמן צוקר יוסף גולן אלחנן חריטן תרימו ווליום וכנסו לאווירה! הורדה דרך דרייב (תיקייה) * * *",
+   "image": "data/media/92b09796287c646f.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f525.png",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1861",
+   "download": null,
+   "ts": "2026-10-11T05:34:20+00:00"
+  },
+  {
+   "id": "s049210f3d9c6f2",
+   "title": "שמחת הברית לבן כ\"ק האדמו\"ר מסאדיגורא שליט\"א – עם אהרלע סמט ומקהלת סאדיגורה, בניצוחו של פינחס ביכלר, אברימי בלטי וצביקי לוין – אב ה'תשפ\"ו (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1859",
+   "download": null,
+   "ts": "2026-10-11T05:30:20+00:00"
+  },
+  {
+   "id": "s77ea9fe2266d41",
+   "title": "שמחת בית השואבה המרכזית בישיבת 'עטרת שלמה' קרית הישיבה ה'תשפ\"ז – עם גדולי הזמר: אהר'לע סמט, זאנוויל ויינברגר, מקהלת 'מלכות' בניצוחו של פינחס ביכלר ואיציק אייזנשטט (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1860",
+   "download": null,
+   "ts": "2026-10-11T05:27:46+00:00"
+  },
+  {
+   "id": "sd470583285332f",
+   "title": "שירות סיוע בבחירת קלידן, זמר, צלם, גראמר (למצווה טאנץ), וארגון החתונה",
+   "text": "אני נותן שירות של החל מבחירת הקלידן, הזמר, הצלם והגראמר למצוה טאנץ ועד שירות בחתונה עצמה לפרטים והזמנות: 058-320-2844 נפתלי",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1857",
+   "download": null,
+   "ts": "2026-10-11T05:24:07+00:00"
+  },
   {
    "id": "sf2b403a01421cd",
    "title": "נטע לוין מגיש: משה דוד וייסמאנדל בקליפ מלא רגש | מחרוזת חופה | צפו",
@@ -1951,58 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_531.html",
    "download": "https://archive.org/download/hadshotmusic_20260924_2229/%D7%A2%D7%95%D7%A4%D7%A8%20%D7%94%D7%9C%D7%95%D7%99%20-%20%D7%94%D7%9B%D7%9C%20%D7%96%D7%94%20%D7%A1%D7%99%D7%99%D7%A2%D7%AA%D7%90%20%D7%93%D7%A9%D7%9E%D7%99%D7%90.mp3",
    "ts": "2026-09-24T22:32:01+00:00"
-  },
-  {
-   "id": "s92360360d15bfe",
-   "title": "מנשה פרלשטיין מגיש: יוסי שנעק מארח את ברוך ויזל | מיין סוכה'לע | צפו",
-   "text": "רגע לפני שחג הסוכות פורש את כנפיו ומכניס את כולנו לאווירת החג, הזמר יוסי שנעק בקליפ בכורה מושקע במיוחד \"מיין סוכה'לע\", לחן חדש ומרענן לכבוד חג הסוכות, בו הוא מארח את הזמר ברוך ויזל לביצוע משותף מלא שמחה ואווירה. \"מיין סוכה'לע\" מביא איתו את הניחוח המיוחד של ערב חג הסוכות ואת ההתרגשות שמלווה את ההכנות לחג: בניית הסוכה,…",
-   "image": "data/media/b855a5a252ad2f32.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/AcVEhfuu6n4-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%a0%d7%a9%d7%94-%d7%a4%d7%a8%d7%9c%d7%a9%d7%98%d7%99%d7%99%d7%9f-%d7%9e%d7%92%d7%99%d7%a9-%d7%99%d7%95%d7%a1%d7%99-%d7%a9%d7%a0%d7%a2%d7%a7-%d7%9e%d7%90%d7%a8%d7%97-%d7%90%d7%aa-%d7%91%d7%a8/",
-   "download": null,
-   "ts": "2026-09-24T21:22:50+00:00"
-  },
-  {
-   "id": "s7362a01d077135",
-   "title": "TYH Boys – Little Bardichevers (UPMIX) Visualizer",
-   "text": "TYH Nation Presents Little Bardichevers UPMIX TYH Boys Get ready for an electrifying experience with Thank You Hashem Nation's new TYH BOYS Upmix album! We've taken the pure, powerhouse energy of the TYH Boys and made their biggest hits even more epic. This music is here to stay, touching your neshama and inspiring…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/tyh-boys-little-bardichevers-upmix-visualizer/",
-   "download": null,
-   "ts": "2026-09-24T20:48:45+00:00"
-  },
-  {
-   "id": "s8b814217f1473a",
-   "title": "חברותא לייב – סוכות | צמד המוזיקאים דייויד טויב ומוישל׳ה שניידר מגישים יחד עם דוידי נחשון ורולי אזרחי | צפו",
-   "text": "צמד המוזיקאים דייויד טויב ומוישל׳ה שניידר במיני מופע לייב לכבוד חג סוכות בסלון של רולי אזרחי יחד עם המוזיקאי דוידי נחשון הרפרטואר העשיר והמגוון הוא שלהם, לחנים שהוציאו שנה שעברה חלקם באלבום לחג הסוכות ״מקימי״ וחלקם יצאו קודם לכן כסינגלים קרדיטים: מאסטרינג: רונן הלל צילום: נחמן אלבר גרפיקה: Graphic Nadav יח״צ: קונטרול",
-   "image": "data/media/4adc42d460ff44d5.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/3WdYHJ_Dfkw-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%97%d7%91%d7%a8%d7%95%d7%aa%d7%90-%d7%9c%d7%99%d7%99%d7%91-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%a6%d7%9e%d7%93-%d7%94%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%90%d7%99%d7%9d-%d7%93%d7%99%d7%99%d7%95/",
-   "download": null,
-   "ts": "2026-09-24T19:46:04+00:00"
-  },
-  {
-   "id": "s78ecb16af695e9",
-   "title": "TYH Boys – Finish Line (UPMIX) Visualizer",
-   "text": "TYH Nation Presents Little Bardichevers UPMIX TYH Boys Get ready for an electrifying experience with Thank You Hashem Nation's new TYH BOYS Upmix album! We've taken the pure, powerhouse energy of the TYH Boys and made their biggest hits even more epic. This music is here to stay, touching your neshama and inspiring…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/tyh-boys-finish-line-upmix-visualizer/",
-   "download": null,
-   "ts": "2026-09-24T19:30:48+00:00"
   }
  ]
 }
