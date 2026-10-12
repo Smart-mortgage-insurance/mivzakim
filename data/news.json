@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:30:00.501979+00:00",
+ "updated": "2026-10-12T22:55:42.647986+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "se7f35988a4a8ba",
+   "title": "🙏 כשאתה מוותר למען בורא עולם – אתה רק מרוויח ! | הרב גבע בן ששון",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%99%8f-%d7%9b%d7%a9%d7%90%d7%aa%d7%94-%d7%9e%d7%95%d7%95%d7%aa%d7%a8-%d7%9c%d7%9e%d7%a2%d7%9f-%d7%91%d7%95%d7%a8%d7%90-%d7%a2%d7%95%d7%9c%d7%9d-%d7%90%d7%aa%d7%94-%d7%a8%d7%a7-%d7%9e/",
+   "download": null,
+   "ts": "2026-10-12T18:24:01+00:00"
+  },
   {
    "id": "sca7257aca8ea9e",
    "title": "דמעות בבנייני האומה: שמוליק קליין בביצוע מרטיט ללהיט | לראות בנים | צפו",
@@ -1990,19 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_27.html",
    "download": "https://archive.org/download/hadshotmusic_20260927_0927/%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%97%D7%A1%D7%99%D7%93%D7%99%20%D7%A1%D7%A7%D7%95%D7%95%D7%99%D7%A8%D7%90%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%95%D7%A9%D7%9E%D7%97%D7%AA%20%28%D7%A1%D7%95%D7%9B%D7%95%D7%AA%29.mp3",
    "ts": "2026-09-27T09:34:06+00:00"
-  },
-  {
-   "id": "s70f54342770f65",
-   "title": "מרדכי שפירא - חננו | Just The Way You Are",
-   "text": "בין תשובה לאמונה: רגע לפני החג מרדכי שפירא מגיש סינגל כפול – \"חננו\" ו-\"Just The Way You Are\"בין יום הכיפורים לסוכות, משחרר הזמר מרדכי שפירא שני שירים חדשים במקביל: \"חננו\" (Chaneinu) ו-\"Just The Way You Are\". היצירות החדשות שנכתבו מתוך מקום אישי ועמוק של כיסופים והתעוררות, נוגעות בעולמות של קשר, תשובה, והיכולת למצוא…",
-   "image": "data/media/a1ec88c7481e7d46.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva4Ool72Thc-nbFmaDq0y-m3Ppi-tMpvB1G049kmasdPJlhnmLNMIjIUeZsjxX3wF3Nqn-6_l2WOK6cIfJmUH4IIbnwuZauzYnxXO64gUX58ArkxFKeXel9XOcGEVTPpBQax6YIX5dCXOXBXsyUQiAls9TpJS3Wnudn3cqAFbiY-y99afwfB9oBPIU6mA/s72-w320-h320-c/%D7%9B%D7%A4%D7%95%D7%9C%203000.jpeg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/just-way-you-are.html",
-   "download": "https://archive.org/download/hadshotmusic_20260927/%D7%9E%D7%A8%D7%93%D7%9B%D7%99%20%D7%A9%D7%A4%D7%99%D7%A8%D7%90%20-%20%D7%97%D7%A0%D7%A0%D7%95.mp3",
-   "ts": "2026-09-27T08:57:54+00:00"
   }
  ]
 }
