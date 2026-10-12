@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T00:58:07.621843+00:00",
+ "updated": "2026-10-12T06:30:52.760204+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -66,6 +66,19 @@
    "link": "https://hamenagen.net/%d7%9e%d7%a8%d7%9f-%d7%a9%d7%9c%d7%99-%d7%99%d7%a2%d7%a7%d7%91-%d7%a9%d7%95%d7%95%d7%90%d7%a7%d7%99-%d7%9c%d7%96%d7%9b%d7%a8-%d7%9e%d7%a8%d7%9f-%d7%94%d7%a8%d7%91-%d7%a2%d7%95%d7%91%d7%93%d7%99/",
    "download": null,
    "ts": "2026-10-11T22:46:48+00:00"
+  },
+  {
+   "id": "s4cdf14587c6e94",
+   "title": "אלחנן ענבל – \"ממעמקים\" בנייני האומה – לייב",
+   "text": "",
+   "image": "data/media/669572e2cbf34de1.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/Y-RZRfNGEHw-hqdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%97%d7%a0%d7%9f-%d7%a2%d7%a0%d7%91%d7%9c-%d7%9e%d7%9e%d7%a2%d7%9e%d7%a7%d7%99%d7%9d-%d7%91%d7%a0%d7%99%d7%99%d7%a0%d7%99-%d7%94%d7%90%d7%95%d7%9e%d7%94-%d7%9c%d7%99%d7%99/",
+   "download": null,
+   "ts": "2026-10-11T21:43:09+00:00"
   },
   {
    "id": "sbf740ad94938b4",
@@ -1990,19 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_26.html",
    "download": "https://archive.org/download/hadshotmusic_20260926/%D7%99%D7%95%D7%A1%D7%99%20%D7%A9%D7%A0%D7%A2%D7%A7%20%26%20%D7%91%D7%A8%D7%95%D7%9A%20%D7%95%D7%99%D7%96%D7%9C%20-%20%D7%9E%D7%99%D7%99%D7%9F%20%D7%A1%D7%95%D7%9B%D7%94%27%D7%9C%D7%A2.mp3",
    "ts": "2026-09-26T18:30:59+00:00"
-  },
-  {
-   "id": "s98109bb1285f66",
-   "title": "סוכות מקבל קצב אחר: \"א סוכה ליד\" חיים ישכיל מחדש את הקלאסיקה | צפו",
-   "text": "את \"א סוכאלע א קליינע\" כולנו מכירים כניגון נוסטלגי של כיסופים שמלווה דורות בסוכה. מיד במוצאי יום הכיפורים, מתוך הציפייה לחג והרצון להביא איתו שמחה טהורה, חיים ישכיל החליט לקחת את הקלאסיקה הזו לכיוון חדש לחלוטין. ביום שלישי הלחן התגבש, וברביעי השיר כבר הועבר לידיו של המעבד יענקי כהן, שלקח את זה למקום תוסס ואנרגטי…",
-   "image": "data/media/3e9a4aca034d49e5.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/GH_zWwORQ0-maxresdefault.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9e%d7%a7%d7%91%d7%9c-%d7%a7%d7%a6%d7%91-%d7%90%d7%97%d7%a8-%d7%90-%d7%a1%d7%95%d7%9b%d7%94-%d7%9c%d7%99%d7%93-%d7%97%d7%99%d7%99%d7%9d-%d7%99%d7%a9%d7%9b%d7%99/",
-   "download": null,
-   "ts": "2026-09-26T17:25:59+00:00"
   }
  ]
 }
