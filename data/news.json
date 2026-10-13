@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T23:19:24.259707+00:00",
+ "updated": "2026-10-13T03:17:36.065923+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s3e703a905d2766",
+   "title": "חתונה שמחה במיוחד עם הקלידן המוכשר נחמן ישראל, הזמר התותח לייבי דייטש והנשפן האלוף נתן עוזרי – כ\"ז תשרי ה'תשפ\"ז (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (תיקייה) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1870",
+   "download": null,
+   "ts": "2026-10-13T02:22:02+00:00"
+  },
+  {
+   "id": "s5ef75c047b89b2",
+   "title": "איצי וולדנר – Lovely Session today with a master accordion player",
+   "text": "there is somthing special about an accordion sound just so warm and fuzzy!!",
+   "image": "data/media/ebce26867147e221.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/o5tt2q4C8bc-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%99%d7%a6%d7%99-%d7%95%d7%95%d7%9c%d7%93%d7%a0%d7%a8-lovely-session-today-with-a-master-accordion-player/",
+   "download": null,
+   "ts": "2026-10-13T01:07:27+00:00"
+  },
+  {
+   "id": "s009cd14d4c93fa",
+   "title": "מוטי כרמל – 13 באוקטובר 2026",
+   "text": "7 ברכות @NaftaliKempeh @Moticarmel",
+   "image": "data/media/4d9deb61a4ef97e2.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/Vqzr-aEMvPw-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%95%d7%98%d7%99-%d7%9b%d7%a8%d7%9e%d7%9c-13-%d7%91%d7%90%d7%95%d7%a7%d7%98%d7%95%d7%91%d7%a8-2026/",
+   "download": null,
+   "ts": "2026-10-12T22:42:40+00:00"
+  },
   {
    "id": "se7f35988a4a8ba",
    "title": "🙏 כשאתה מוותר למען בורא עולם – אתה רק מרוויח ! | הרב גבע בן ששון",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/ai-jewish-music-%d7%9e%d7%92%d7%99%d7%a9-%f0%9f%8e%a7-%d7%a9%d7%9e%d7%97%d7%aa-%d7%91%d7%99%d7%aa-%d7%94%d7%a9%d7%95%d7%90%d7%91%d7%94-%d7%9b%d7%9c%d7%99%d7%96%d7%9e%d7%a8-%d7%90%d7%a0/",
    "download": null,
    "ts": "2026-09-27T10:40:26+00:00"
-  },
-  {
-   "id": "s916da8ca192800",
-   "title": "יהושע ברדא מגיש את המחרוזת שתקפיץ לכם את החג | מחרוזת סוכות טראנס תשפ\"ז | האזינו",
-   "text": "רשימת השירים: ושמחת בחגך 1 ושמחת בחגך 2 אתה בחרתנו צמאה קדשינו הטוב הטוב",
-   "image": "data/media/256e43aa5343f64e.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/SV9NFzpvQpE-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%94%d7%95%d7%a9%d7%a2-%d7%91%d7%a8%d7%93%d7%90-%d7%9e%d7%92%d7%99%d7%a9-%d7%90%d7%aa-%d7%94%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%aa%d7%a7%d7%a4%d7%99%d7%a5-%d7%9c%d7%9b%d7%9d-%d7%90/",
-   "download": null,
-   "ts": "2026-09-27T10:37:01+00:00"
-  },
-  {
-   "id": "s27d44c76b4da0b",
-   "title": "dj shlom מגיש | סט שירי סוכות תשפ\"ז מקפיץ ביותר | האזינו",
-   "text": "זה המקום לתת קרדיט ולפרגן לכל האומנים שמופיעים בסט אין לי חלילה ענין להפר זכויות יוצרים האזנה נעימה .",
-   "image": "data/media/00a2fe40fa78dd0f.jpg",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/KustoibQ0bw-maxresdefault.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/dj-shlom-%d7%9e%d7%92%d7%99%d7%a9-%d7%a1%d7%98-%d7%a9%d7%99%d7%a8%d7%99-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%aa%d7%a9%d7%a4%d7%96-%d7%9e%d7%a7%d7%a4%d7%99%d7%a5-%d7%91%d7%99%d7%95%d7%aa%d7%a8/",
-   "download": null,
-   "ts": "2026-09-27T10:33:42+00:00"
-  },
-  {
-   "id": "s968d6528cc04e2",
-   "title": "מקהלת חסידי סקווירא - מחרוזת ושמחת (סוכות)",
-   "text": "חצר סקווירא בשמחה מתפרצת: מקהלת חסידי סקווירא מגישה מחרוזת חדשה לכבוד החג – ״ושמחת״לכבוד חג הסוכות, מקהלת חסידי סקווירא משיקה פרויקט מוזיקלי מיוחד בשם \"ושמחת\" – 26 דקות של מחרוזת סוחפת המאגדת את מיטב הניגונים האהובים מבית החצר החסידית. היצירה החדשה מנגישה למאזינים את האווירה החמה, האותנטיות והחיוניות הייחודית של…",
-   "image": "data/media/1608794bee28c27d.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDMTw_HJ2k4MTU23GKveg6lObxAzQk-QiJXgqjxCBx4nzLkqs8gmb_1WCgo8f95XY_4DytviSkhqxKbK9HabHB8uDun7QMssesJ-Ztm84u2-jillT7P0Pd2lA-MJ-JYOb6NPRkIi0xtZXLaYhyNQ1Exm5w5dXU186cfobyy5Pmp2aoDbmCgZ6PPFxYiUn8/s72-w320-h320-c/YT%20Thumbnail%20%E2%80%A2%20Vesamachta%20%E2%80%A2%20Skver%20Choir%20feat.%20Moshe%20David%20Weissmandl,%20Moshe%20Eisenberg,%20Moshe%20Hertzl%20@MusicOnTime.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_27.html",
-   "download": "https://archive.org/download/hadshotmusic_20260927_0927/%D7%9E%D7%A7%D7%94%D7%9C%D7%AA%20%D7%97%D7%A1%D7%99%D7%93%D7%99%20%D7%A1%D7%A7%D7%95%D7%95%D7%99%D7%A8%D7%90%20-%20%D7%9E%D7%97%D7%A8%D7%95%D7%96%D7%AA%20%D7%95%D7%A9%D7%9E%D7%97%D7%AA%20%28%D7%A1%D7%95%D7%9B%D7%95%D7%AA%29.mp3",
-   "ts": "2026-09-27T09:34:06+00:00"
   }
  ]
 }
