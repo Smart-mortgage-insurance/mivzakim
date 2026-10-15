@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T06:31:48.749492+00:00",
+ "updated": "2026-10-15T11:22:02.030958+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sb9da51c3f87eab",
+   "title": "🕯️ קול ברמה נשמע | פרחי לונדון | רחל אמנו | אינסטרומנטלי – שביל הניגון",
+   "text": "",
+   "image": "data/media/17f20e9f0370f191.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/ME3CVk8ExHY-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%95%af%ef%b8%8f-%d7%a7%d7%95%d7%9c-%d7%91%d7%a8%d7%9e%d7%94-%d7%a0%d7%a9%d7%9e%d7%a2-%d7%a4%d7%a8%d7%97%d7%99-%d7%9c%d7%95%d7%a0%d7%93%d7%95%d7%9f-%d7%a8%d7%97%d7%9c-%d7%90%d7%9e%d7%a0%d7%95/",
+   "download": null,
+   "ts": "2026-10-15T11:16:13+00:00"
+  },
   {
    "id": "s1579ed887ddf59",
    "title": "הרב יהודה יוספי | פרשת נח | המבול של 2026",
@@ -1990,19 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_977.html",
    "download": "https://archive.org/download/hadshotmusic_20260928_1742/%D7%97%D7%99%D7%99%D7%9D%20%D7%99%D7%A9%D7%9B%D7%99%D7%9C%20-%20%D7%90%20%D7%A1%D7%95%D7%9B%D7%94%20%D7%9C%D7%99%D7%93.mp3",
    "ts": "2026-09-28T17:49:19+00:00"
-  },
-  {
-   "id": "s56ffd1d2b73c62",
-   "title": "שמוליק ברגר מגיש | ארי היל – סוכל'ה – מאשאפ | האזינו",
-   "text": "",
-   "image": "data/media/f680976dc8c7aece.webp",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/EhGgrAHH9xg-maxresdefault.webp",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%91%d7%a8%d7%92%d7%a8-%d7%9e%d7%92%d7%99%d7%a9-%d7%90%d7%a8%d7%99-%d7%94%d7%99%d7%9c-%d7%a1%d7%95%d7%9b%d7%9c%d7%94-%d7%9e%d7%90%d7%a9%d7%90%d7%a4/",
-   "download": null,
-   "ts": "2026-09-28T16:22:47+00:00"
   }
  ]
 }
