@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:09:03.847067+00:00",
+ "updated": "2026-10-17T18:56:58.383421+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,19 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s0b721a1fc4bc15",
+   "title": "מאמע רחל | פינקי וועבר | הילולת רחל אמנו | אינסטרומנטלי – שביל הניגון",
+   "text": "",
+   "image": "data/media/d0679197471a80c2.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/vS-6kyGHdoY-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%90%d7%9e%d7%a2-%d7%a8%d7%97%d7%9c-%d7%a4%d7%99%d7%a0%d7%a7%d7%99-%d7%95%d7%95%d7%a2%d7%91%d7%a8-%d7%94%d7%99%d7%9c%d7%95%d7%9c%d7%aa-%d7%a8%d7%97%d7%9c-%d7%90%d7%9e%d7%a0%d7%95-%d7%90/",
+   "download": null,
+   "ts": "2026-10-17T17:33:37+00:00"
+  },
   {
    "id": "s78a047be47bb3c",
    "title": "מה באמת הסתתר מאחורי המבול? – פרשת נח – הרב הרצל חודר",
@@ -1990,19 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%95%d7%a2%d7%99%d7%93%d7%9f-%d7%91%d7%a7%d7%a9%d7%99-%d7%9c%d7%94%d7%99%d7%95%d7%aa-%d7%91%d7%a9%d7%9e%d7%97%d7%94/",
    "download": null,
    "ts": "2026-09-29T09:00:09+00:00"
-  },
-  {
-   "id": "sfb211b3da7ac2d",
-   "title": "השכרת הגברה במודיעין עילית – הכי זול בארץ!!!",
-   "text": "השכרת הגברה במודיעין עילית הכי זול בארץ!!! לפרטים והזמנות: טלפון: 052-712-1829",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1847",
-   "download": null,
-   "ts": "2026-09-29T07:30:59+00:00"
   }
  ]
 }
