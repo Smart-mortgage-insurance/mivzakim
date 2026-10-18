@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:17:52.038189+00:00",
+ "updated": "2026-10-18T13:40:51.751340+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s233f6546ef79ce",
+   "title": "בין סערות החיים לאמונה: דניאל יטיב משיק | לגעת בשמיים | האזינו",
+   "text": "הזמר והיוצר דניאל יטיב משיק סינגל חדש בשם ״לגעת בשמיים״, שיר אישי ומלא אמונה על השאיפה להתקרב לבורא עולם, להתמודד עם אתגרי החיים ולזכור שגם ברגעים המורכבים ביותר תמיד יש מקום לתקווה. את מילות השיר כתב יטיב בעצמו שהלחין יחד עם מאור שושן, וההפקה המוזיקלית של מאור שושן וסתיו נחמיאס. לדברי יטיב, השיר מבטא את השאיפה של כל…",
+   "image": "data/media/516511736495503a.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/CW5fdIJi-IE-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%91%d7%99%d7%9f-%d7%a1%d7%a2%d7%a8%d7%95%d7%aa-%d7%94%d7%97%d7%99%d7%99%d7%9d-%d7%9c%d7%90%d7%9e%d7%95%d7%a0%d7%94-%d7%93%d7%a0%d7%99%d7%90%d7%9c-%d7%99%d7%98%d7%99%d7%91-%d7%9e%d7%a9%d7%99%d7%a7/",
+   "download": null,
+   "ts": "2026-10-18T13:38:16+00:00"
+  },
+  {
+   "id": "s4dfca149747a9f",
+   "title": "אהרן גרסטל - ערב שבת עם דמדומי חמה (Twilight Friday Night)",
+   "text": "קול חדש באווירה של שבת: אהרן גרסטל בסינגל בכורה - \"ערב שבת עם דמדומי חמה\"קול חדש מצטרף לעולם המוזיקה היהודית: הזמר והיוצר אהרן גרסטל משיק את סינגל הבכורה המקורי שלו, ״ערב שבת עם דמדומי חמה״ (Twilight Friday Night). השיר, שהעבודה עליו נמשכה כשנה, מציג שילוב בין עומק רגשי ליכולת ווקאלית מקצועית.גרסטל משלב בביצוע את…",
+   "image": "data/media/94964ccb23abb833.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7Nbb3Kurk0QUL1NU_D3JwLKJJFHRcoMY7fu1M7qwxSVvy4lUJR15VJIIxGb7896G8OXvSI-tR-2sGPWQIHoaPAoweTosRdX01qvXdJGSpPdDwkUteFaeVYxb2xoY3AovfgB6dNv-lRo4mXM4pVvoqmqOOwRTC5pyJYMInG2vo-b6GJvfY2gB74cYXaB5/s72-w320-h320-c/Aron%20Gerstel%20-%20Twilight%20Friday%20Night.jpeg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/twilight-friday-night.html",
+   "download": null,
+   "ts": "2026-10-18T12:16:47+00:00"
+  },
+  {
+   "id": "sdb28d6ff826036",
+   "title": "שמילי שטיינמץ - ענבי הגפן",
+   "text": "מזל טוב: שמילי שטיינמץ ומקהלת ידידים העולמית בלהיט חתונות חדש - \"ענבי הגפן\"הזמר שמילי שטיינמץ משיק סינגל חדש בשם \"ענבי הגפן\", בהשתתפות מקהלת \"ידידים\" העולמית. השיר נוצר במיוחד לכבוד חתונתה של בת הנגיד עוזר אובלנדר מלונדון, ואת הלחן חיבר דודה של הכלה, המלחין מיכל אובלנדר.על הביצוע הופקד שמילי שטיינמץ, ולצדו מקהלת…",
+   "image": "data/media/d12dd7663a59019f.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr_jHJ7v68bSjwrLCuNyC1qC_1WL9Xwl9bx5WwDuV-lK8Ml-Ed3dafCU6SS6zzXunE1MwB06gXS8Q1f8RllJ3475sbS7Z_mwjt0bIz1TP589Xpo3qEPLPrbLAAYDVMx3M08qRdgL7M8M6laVqc73-2XMpEpTa8Ps3KmFTlSuMilCHVBlQrctIYUNFDX6X6/s72-w320-h320-c/Invay%20Hagefen%20-%20Square%20Cover.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_18.html",
+   "download": null,
+   "ts": "2026-10-18T11:33:35+00:00"
+  },
   {
    "id": "s2604b8f275185c",
    "title": "חתונה מיוחדת עם הקלידן יוחנן קליימן, הזמר יואלי דוידוביץ והנשפן אברימי גלבשטיין – ג' חשוון ה'תשפ\"ז (הורדה מהדרייב)",
@@ -1964,45 +2003,6 @@
    "link": "https://newsmusic.blogspot.com/2026/09/blog-post_3919.html",
    "download": "https://archive.org/download/hadshotmusic_20260929_2228/%D7%94%D7%A2%D7%A8%D7%A9%D7%99%20%D7%A8%D7%95%D7%98%D7%A0%D7%91%D7%A2%D7%A8%D7%92%2C%20%D7%90%D7%91%D7%A8%D7%99%D7%9E%D7%99%20%D7%9C%D7%95%D7%A0%D7%92%D7%A8%2C%20%D7%99%D7%95%D7%93%D7%A2%D7%9C%27%D7%A2%20%D7%A9%D7%90%D7%98%D7%9F%20-%20%D7%90%D7%95%D7%A9%D7%A4%D7%99%D7%96%D7%99%D7%9F.mp3",
    "ts": "2026-09-29T22:32:38+00:00"
-  },
-  {
-   "id": "s49fa3934fadb53",
-   "title": "חיים פריינד - א סוכה'לע",
-   "text": "א סוכה'לע: חיים פריינד מחזיר לחיים את הקלאסיקה היידישאית של חג הסוכותלכבוד חג הסוכות, הזמר חיים פריינד מחדש את אחד משירי החג המוכרים ביידיש, \"א סוכה'לע\", ומלווה את הביצוע בקליפ אנימציה ייחודי שנוצר כולו בעבודת יד.השיר מתאר סוכה קטנה ופשוטה, הבנויה מלוחות עץ בסיסיים ומכוסה במעט סכך, העומדת מול רוחות קרות המאיימות לכבות…",
-   "image": "data/media/72aa485a722cb7a7.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqVRi_vTsJ0T_njwsiKx39yIco8P1TnlffUGfzjUowd4Jb978JHBibiRzP724_00qmqCgMWwiCbOsDq4TxUUSAEToj7UK-6Lsy8QjIkp0yZ7xVkTme7gi9JXYfshyV7ITEf74_FsWu6OxxJ9wAzzn7VP-GJUUuy36yYMNQYofN-r46PpmmO05VX9MaYzPm/s72-w320-h320-c/A%20Sukkaleh%20-%20Spotify%20Cover_.jpg",
-   "type": "clip",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/09/blog-post_29.html",
-   "download": "https://archive.org/download/hadshotmusic_20260929/%D7%97%D7%99%D7%99%D7%9D%20%D7%A4%D7%A8%D7%99%D7%99%D7%A0%D7%93%20-%20%D7%90%20%D7%A1%D7%95%D7%9B%D7%94%27%D7%9C%D7%A2.mp3",
-   "ts": "2026-09-29T22:14:36+00:00"
-  },
-  {
-   "id": "sdb015a80e9773a",
-   "title": "הרב יגאל כהן | חג סוכות – לשמוח בכל מחיר!",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%97%d7%92-%d7%a1%d7%95%d7%9b%d7%95%d7%aa-%d7%9c%d7%a9%d7%9e%d7%95%d7%97-%d7%91%d7%9b%d7%9c-%d7%9e%d7%97%d7%99%d7%a8/",
-   "download": null,
-   "ts": "2026-09-29T18:24:15+00:00"
-  },
-  {
-   "id": "se8cfb36c7ce998",
-   "title": "הזמר והפייטן ישראל בן חמו במחרוזת שבת מיוחדת | מחרוזת שבת מזרח ומערב | צפו",
-   "text": "סדר השירים במחרוזת: \"כי אשמרה שבת\" לחנים משתנים עממי \"ידידי השכחת\" \"יוצר מידו\" עיבוד והפקה מוסיקלית: עובדיה יוסף חפצדי HAFZADI STUDIO עריכה והפקה אומנותית/ קונספט: ישראל בן חמו קלידים ותיכנותים: עובדיה יוסף חפצדי תופים : אמיר אהרון גיטרות : חרגול בורג כינורות ועוד : מקסים משעלי מיקס ומאסטרינג: אלי מלמד צילום סטילס :…",
-   "image": "data/media/52de6ab0baaee7a3.webp",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/mUXF-V4SK9E-maxresdefault.webp",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%96%d7%9e%d7%a8-%d7%95%d7%94%d7%a4%d7%99%d7%99%d7%98%d7%9f-%d7%99%d7%a9%d7%a8%d7%90%d7%9c-%d7%91%d7%9f-%d7%97%d7%9e%d7%95-%d7%91%d7%9e%d7%97%d7%a8%d7%95%d7%96%d7%aa-%d7%a9%d7%91%d7%aa-%d7%9e/",
-   "download": null,
-   "ts": "2026-09-29T16:29:58+00:00"
   }
  ]
 }
