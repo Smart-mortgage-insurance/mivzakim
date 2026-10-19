@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T02:04:11.515006+00:00",
+ "updated": "2026-10-19T06:48:15.086258+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -55,6 +55,58 @@
  "count": 150,
  "items": [
   {
+   "id": "s7e6cd2ffcb1962",
+   "title": "פודקאסט של בערי וובער ששודר במוצ\"ש ברדיו קול חי לרגל השקת אלבומו החדש \"המחדש\" – תיהנו! (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (קובץ) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1877",
+   "download": null,
+   "ts": "2026-10-19T05:16:51+00:00"
+  },
+  {
+   "id": "sfe410858ef2bf2",
+   "title": "\"בתופים ובמחולות\": שמחת בית השואבה בישיבה הגבוהה 'אורייתא' – סוכות ה'תשפ\"ז (הורדה מהדרייב)",
+   "text": "הורדה דרך דרייב (קובץ) * * *",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "תורה אור",
+   "link": "https://music.tora1.com/1876",
+   "download": null,
+   "ts": "2026-10-19T05:14:27+00:00"
+  },
+  {
+   "id": "s79b3b409ed3cfb",
+   "title": "מוזיקה מרגיעה יפה, מוזיקה להקלה על מתח, מוזיקת ​​שינה, מוזיקה מרגיעה | האזינו",
+   "text": "Music to sleep deeply and rest the mind, relaxing and calm music to sleep. To stay calm and relieve stress after a hard day at work, turn on soothing music. By listening to relaxing music, you can reduce stress hormones in the body. It helps the body fight the symptoms of prolonged stress. We are a music label that…",
+   "image": "data/media/26d6a2d31365ded5.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2714.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%94-%d7%9e%d7%a8%d7%92%d7%99%d7%a2%d7%94-%d7%99%d7%a4%d7%94-%d7%aa%d7%a4%d7%a1%d7%99%d7%a7-%d7%9c%d7%97%d7%a9%d7%95%d7%91-%d7%99%d7%95%d7%aa%d7%a8-%d7%9e%d7%93%d7%99/",
+   "download": null,
+   "ts": "2026-10-19T04:28:28+00:00"
+  },
+  {
+   "id": "s383dffbabecd9e",
+   "title": "תזמורת פריילאך משיקה סדרה מוזיקלית: מחרוזת אינסטרומנטלית משירי ABBA 🎻 | האזינו",
+   "text": "תזמורת פריילאך (Freilach Band) משיקה את Freilach Selects, סדרה מוזיקלית חדשה שתביא את המחרוזות האינסטרומנטליות המוכרות שלה מבמות החתונות היישר לאוזניות שלכם. הסדרה נפתחת עם The Music of ABBA, מחרוזת סוחפת של להיטי להקת ABBA האגדית, בעיבוד תזמורתי עשיר ובביצוע האנרגטי המזוהה עם פריילאך. וזוהי רק ההתחלה! בתזמורת מבטיחים…",
+   "image": "data/media/f21bda2f93a59522.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/f1gM3zgedGE-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%aa%d7%96%d7%9e%d7%95%d7%a8%d7%aa-%d7%a4%d7%a8%d7%99%d7%99%d7%9c%d7%90%d7%9a-%d7%9e%d7%a9%d7%99%d7%a7%d7%94-%d7%a1%d7%93%d7%a8%d7%94-%d7%9e%d7%95%d7%96%d7%99%d7%a7%d7%9c%d7%99%d7%aa-%d7%9e%d7%97/",
+   "download": null,
+   "ts": "2026-10-19T03:23:34+00:00"
+  },
+  {
    "id": "s3099912d78f08d",
    "title": "שלומי דסקל - כ׳קום שוין",
    "text": "עם הפנים לגאולה: שלומי דסקל בשיר חדש לכבוד שמחת נישואי בנו - \"כ׳קום שוין\"לרגל נישואי בנו, הזמר שלומי דסקל משיק סינגל חדש בשם \"כ׳קום שוין\" (אני כבר מגיע), שנושא עמו תפילה וכמיהה לביאת הגאולה. את הלחן יצרו יענקי דסקל, בנו של שלומי, ואיצי וולדנר, ועל ההפקה המוזיקלית והמיקס הופקד אברומי לונגר.השיר מבטא את ציפייתו רבת…",
@@ -92,6 +144,19 @@
    "link": "https://newsmusic.blogspot.com/2026/10/blog-post_625.html",
    "download": "https://archive.org/download/hadshotmusic_20261019/%D7%90%D7%9C%D7%99%20%D7%94%D7%A8%D7%A6%D7%9C%D7%99%D7%9A%20-%20%D7%AA%D7%96%D7%9B%D7%94%20%D7%90%D7%95%D7%AA%D7%99.mp3",
    "ts": "2026-10-19T00:22:20+00:00"
+  },
+  {
+   "id": "sf328c3b77e0292",
+   "title": "אלחנן ענבל – בזה הבית & רולי מנדלזון",
+   "text": "",
+   "image": "data/media/a45c7ab6b17039b7.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/F0IMBpwpG2A-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%9c%d7%97%d7%a0%d7%9f-%d7%a2%d7%a0%d7%91%d7%9c-%d7%91%d7%96%d7%94-%d7%94%d7%91%d7%99%d7%aa-%d7%a8%d7%95%d7%9c%d7%99-%d7%9e%d7%a0%d7%93%d7%9c%d7%96%d7%95%d7%9f/",
+   "download": null,
+   "ts": "2026-10-18T21:19:33+00:00"
   },
   {
    "id": "s8d7e98eebc63df",
@@ -1938,71 +2003,6 @@
    "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-2026-%d7%94%d7%a1%d7%91%d7%9c-%d7%a9%d7%a2%d7%91%d7%a8%d7%aa%d7%99-%d7%91/",
    "download": null,
    "ts": "2026-10-02T06:24:00+00:00"
-  },
-  {
-   "id": "s3252654ec78697",
-   "title": "הרב יגאל כהן | לקראת הושענא רבה | לאן ממשיכים מכאן? (מאשדוד)",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%94%d7%a8%d7%91-%d7%99%d7%92%d7%90%d7%9c-%d7%9b%d7%94%d7%9f-%d7%9c%d7%a7%d7%a8%d7%90%d7%aa-%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-%d7%9c%d7%90%d7%9f-%d7%9e%d7%9e%d7%a9%d7%99/",
-   "download": null,
-   "ts": "2026-10-01T18:24:08+00:00"
-  },
-  {
-   "id": "sca6dd99eec1cc0",
-   "title": "חתונת האמרגן שמואל רוזנברג – מבית פרקטי פקרקט בע\"מ",
-   "text": "חתונת האמרגן שמואל רוזנברג מבית פרקטי פקרקט בע\"מ קלידן בחופה: נחמן בזאנסון קלידן: שרוליק דייטל נשיפה: אברימי קלצקין גיטרה: שרוליק קלצקין זמרים בחופה: עקיבה גרומן זמרים בחתונה: יוסל לייפער בסופו קומזיץ מיוחד עם כל גדולי הזמר: אהרל'ע שארף, יואלי דוידוביץ', חיים פולק, עקיבא רוטמן, מוישי פרסברגר, בנימין לייפער ועוד…",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1852",
-   "download": null,
-   "ts": "2026-10-01T12:45:46+00:00"
-  },
-  {
-   "id": "s39f80ea10513a5",
-   "title": "סט חדש של \"פול ווליום\" לחג הסוכות – סט חסידי קצבי אש (הורדה מהדרייב)",
-   "text": "פול ווליום • שמחת היום 3 • סט חסידי קצבי אש.mp3 הורדה דרך דרייב (קובץ) * * * רשימת השירים • שמחת היום 3 • פול ווליום.txt הורדה דרך דרייב (קובץ) * * * תמונה • שמחת היום 3 • פול ווליום.png הורדה דרך דרייב (קובץ) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1851",
-   "download": null,
-   "ts": "2026-10-01T12:08:00+00:00"
-  },
-  {
-   "id": "s281ede23215096",
-   "title": "שמחת בית השואבה – בחצר הקודש ויז'ניץ – ה'תשפ\"ו (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1850",
-   "download": null,
-   "ts": "2026-10-01T12:05:23+00:00"
-  },
-  {
-   "id": "s6b6af66ef6710b",
-   "title": "שמחת בית השואבה – בחצר הקודש ויז'ניץ – ה'תשפ\"ז – אושפיזין דמשה (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (קובץ) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1849",
-   "download": null,
-   "ts": "2026-10-01T12:04:00+00:00"
   }
  ]
 }
