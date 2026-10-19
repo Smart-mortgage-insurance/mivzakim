@@ -231,7 +231,7 @@
       <input id="q" type="search" placeholder="חיפוש משרה, תחום או עיר…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </div>
-    <button class="postjob" data-job>＋ <span id="postLbl">פרסום משרה</span> <small>חינם</small></button>
+    <button class="postjob" data-job><span id="postPlus">＋ </span><span id="postLbl">פרסום משרה</span> <small id="postFree">חינם</small></button>
   </div>
   <div class="secbar"><div class="sectabs"><button class="sectab on" data-sec="news">📰 מבזקים</button><button class="sectab" data-sec="jobs">💼 דרושים</button><button class="sectab" data-sec="deals">🏷️ מבצעים</button></div></div>
   <div class="chips-bar"><div class="chips" id="chips"></div></div>
@@ -363,9 +363,9 @@ const AD_HOLD_MS=10*60000, FEED_MAX_AGE=14*864e5;               // 10 דקות �
 let feedAds=[], holdTimer=0, holdTimer2=0;
 /* שני לוחות באותו אתר: דרושים ומבצעים */
 const SEC={
-  news:{tag:"מבזקי חדשות",q:"חיפוש בחדשות…",post:"הודעה למערכת",empty:"אין מבזקים כרגע. חוזרים בקרוב…",hash:""},
+  news:{tag:"מבזקי חדשות",q:"חיפוש בחדשות…",post:"💬 הודעה למערכת",empty:"אין מבזקים כרגע. חוזרים בקרוב…",hash:""},
   jobs:{tag:"לוח דרושים",q:"חיפוש משרה, תחום או עיר…",post:"פרסום משרה",empty:"אין משרות כרגע. חוזרים בקרוב…",hash:"#jobs"},
-  deals:{tag:"מבצעים ודילים",q:"חיפוש מוצר, מותג או חנות…",post:"הודעה למערכת",empty:"אין מבצעים כרגע. חוזרים בקרוב…",hash:"#deals"}
+  deals:{tag:"מבצעים ודילים",q:"חיפוש מוצר, מותג או חנות…",post:"💬 הודעה למערכת",empty:"אין מבצעים כרגע. חוזרים בקרוב…",hash:"#deals"}
 };
 let section=location.hash==="#deals"?"deals":location.hash==="#jobs"?"jobs":"news";
 const kindOf=i=>i.kind||"news";                                       // פוסט בלי סוג = ערוץ חדשות
@@ -375,6 +375,7 @@ function applySection(){
   const c=SEC[section];
   document.querySelectorAll(".sectab").forEach(b=>b.classList.toggle("on",b.dataset.sec===section));
   $("tagline").textContent=c.tag; $("q").placeholder=c.q; $("postLbl").textContent=c.post;
+  $("postPlus").hidden=$("postFree").hidden=section!=="jobs";             // "＋ … חינם" שייך רק לפרסום משרה
   document.title="מבזקים · "+c.tag;
 }
 function setSection(sec){
