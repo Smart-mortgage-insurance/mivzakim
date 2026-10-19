@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>מבזקים · חדשות, דרושים ומבצעים</title>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%239c1b2e'/%3E%3Ctext x='32' y='44' font-size='34' text-anchor='middle' fill='%23fff' font-family='Arial' font-weight='700'%3E%D7%9E%3C/text%3E%3C/svg%3E">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50'%3E%3Ccircle cx='25' cy='25' r='24' fill='%23121418'/%3E%3Ctext x='22' y='34' text-anchor='middle' font-family='Arial' font-weight='700' font-size='26' fill='%23fff'%3E%D7%9E%3C/text%3E%3Cpath d='M37 14a15 15 0 0 1 0 22' fill='none' stroke='%23e0324a' stroke-width='3.5' stroke-linecap='round'/%3E%3C/svg%3E">
 <meta name="description" content="מבזקים — חדשות, לוח דרושים ומבצעים, במקום אחד ומתעדכן לאורך היום.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Rubik:wght@800&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --paper:#eef1f4; --card:#fff; --ink:#15171c; --muted:#8a9099; --line:#e4e7ec;
@@ -28,7 +28,11 @@
   .top-in{max-width:1320px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:16px}
   .brand{display:flex;align-items:center;gap:11px;min-width:0}
   .brand{flex-direction:column;align-items:center;gap:1px;text-decoration:none}
-  .logo{font-family:"Suez One",serif;font-size:34px;line-height:1;color:var(--tg);letter-spacing:-.5px}
+  .logo{display:flex;align-items:center;gap:10px;line-height:1}
+  .logo svg{width:49px;height:42px;flex-shrink:0;overflow:visible}
+  .logo .w{font:800 34px Rubik,Heebo,sans-serif;letter-spacing:-1px;color:var(--ink)}
+  .logo .w b{color:var(--tg);font-weight:800}
+  @media(max-width:640px){.logo svg{width:42px;height:36px}.logo .w{font-size:29px}}
   .chips-bar{display:none!important}
   .ava.gen{background:var(--tg);color:#fff;font-family:"Suez One",serif}
   .tagline{font-size:11px;font-weight:500;color:#3c3f42;letter-spacing:.6px;white-space:nowrap}
@@ -226,7 +230,7 @@
 
 <header class="top">
   <div class="top-in">
-    <a class="brand" href="./" aria-label="מבזקים"><span class="logo">מבזקים</span><span class="tagline" id="tagline">מבזקי חדשות</span></a>
+    <a class="brand" href="./" aria-label="מבזקים"><span class="logo"><svg viewBox="0 0 58 50" aria-hidden="true"><circle cx="25" cy="25" r="23" fill="#121418"/><text x="25" y="34" text-anchor="middle" font-family="Rubik,Arial" font-weight="800" font-size="26" fill="#fff">מ</text><path d="M38 12a17 17 0 0 1 0 26" fill="none" stroke="#9c1b2e" stroke-width="3.5" stroke-linecap="round"/><path d="M43 7a24 24 0 0 1 0 36" fill="none" stroke="#9c1b2e" stroke-width="3" stroke-linecap="round" opacity=".5"/></svg><span class="w">מבזק<b>ים</b></span></span><span class="tagline" id="tagline">מבזקי חדשות</span></a>
     <div class="search">
       <input id="q" type="search" placeholder="חיפוש משרה, תחום או עיר…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
@@ -584,6 +588,18 @@ function buildTicker(){
   $("tickTrack").innerHTML=one+one;
   document.querySelector(".ticker").style.display=top.length?"":"none";
 }
+/* מקורות שפותחים כל ידיעה בשמם ("שם:") — הקידומת מזוהה לבד ומוסרת, בלי לכתוב שמות בקוד */
+function stripSourcePrefix(items){
+  const lead=t=>{ const m=String(t||"").match(/^[\s*_\u{1F300}-\u{1FAFF}☀-➿️]*([^:\n]{2,24}):\s*/u); return m?{label:m[1].trim(),len:m[0].length}:null; };
+  const by={};
+  items.forEach(i=>{ if(i.direct) return; const u=i.post.split("/")[0], l=lead(i.text);
+    const b=by[u]=by[u]||{n:0,c:{}}; b.n++; if(l) b.c[l.label]=(b.c[l.label]||0)+1; });
+  const pre={};
+  for(const u in by){ const top=Object.entries(by[u].c).sort((a,b)=>b[1]-a[1])[0];
+    if(top&&top[1]>=3&&top[1]>=by[u].n*.5) pre[u]=top[0]; }
+  items.forEach(i=>{ const p=pre[i.post.split("/")[0]]; if(!p) return; const l=lead(i.text);
+    if(l&&l.label===p) i.text=i.text.slice(l.len); });
+}
 async function jget(u){const r=await fetch(u+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);return r.json();}
 async function load(isRefresh){
   try{
@@ -592,6 +608,7 @@ async function load(isRefresh){
     const inHours=x=>!x.from_hour||!x.to_hour||(x.from_hour<=x.to_hour?hm>=x.from_hour&&hm<x.to_hour:hm>=x.from_hour||hm<x.to_hour);
     const live=x=>(!x.until||new Date(x.until+"T23:59:59")>=new Date())&&(!x.start||new Date(x.start)<=new Date())&&inHours(x);   // start = "להציג החל מ-"
     data={items:n.items||[],channels:n.channels||{}}; promos={items:(p.items||[]).filter(live)}; removed=new Set(r.posts||[]);
+    stripSourcePrefix(data.items);
     const direct=(dj.items||[]).filter(d=>d.id&&d.text&&d.kind!=="realestate"&&live(d)).map(d=>({post:DIRECT_CH+"/"+d.id,kind:"jobs",text:d.text,ts:d.ts,direct:true}));
     if(direct.length){
       data.channels[DIRECT_CH]={title:"משרות מהגולשים"};
