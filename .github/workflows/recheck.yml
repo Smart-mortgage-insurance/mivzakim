@@ -1,0 +1,36 @@
+name: Recheck blocked posts
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  recheck:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python tools/recheck.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: |
+          git config user.name  "mivzakim"
+          git config user.email "editor@mivzakim.news"
+          cp released.json /tmp/released.json
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python -c "import json; p='data/person_filter.json'; s=json.load(open(p, encoding='utf-8')); r=json.load(open('/tmp/released.json')); [s.get('blocked', {}).pop(x, None) for x in r]; json.dump(s, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)"
+            git add data/person_filter.json
+            git diff --cached --quiet && exit 0
+            git commit -q -m "recheck blocked posts [skip ci]"
+            git push && exit 0
+            sleep 7
+          done
+          exit 1
+      - uses: actions/upload-artifact@v4
+        with:
+          name: released
+          path: released.html
+          retention-days: 1

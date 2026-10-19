@@ -3,335 +3,777 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>מבזקים • מהדורת החדשות המובילה</title>
-<meta name="description" content="מבזקים — מהדורת החדשות המובילה. כל העדכונים החשובים במקום אחד.">
+<title>מבזקים · חדשות, דרושים ומבצעים</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%239c1b2e'/%3E%3Ctext x='32' y='44' font-size='34' text-anchor='middle' fill='%23fff' font-family='Arial' font-weight='700'%3E%D7%9E%3C/text%3E%3C/svg%3E">
+<meta name="description" content="מבזקים — חדשות, לוח דרושים ומבצעים, במקום אחד ומתעדכן לאורך היום.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#eef1f4;
-    --card:#ffffff;
-    --bubble:#ffffff;
-    --ink:#15171c;
-    --muted:#8a9099;
-    --accent:#9c1b2e;
-    --accent-soft:#fbe7ea;
-    --gold:#9a7b26;
-    --gold-soft:#f7efd9;
-    --line:#e4e7ec;
-    --shadow:0 1px 1px rgba(20,20,25,.04),0 4px 14px rgba(20,20,25,.06);
-    --hdr:126px;
+    --paper:#eef1f4; --card:#fff; --ink:#15171c; --muted:#8a9099; --line:#e4e7ec;
+    --tg:#9c1b2e; --tg-deep:#7a1424; --tg-soft:#f5e2e4;
+    --free:#1e7d4f; --free-soft:#e0f1e8;
+    --gold:#9a7b26; --gold-soft:#f7efd9;
+    --shadow:0 1px 1px rgba(20,33,43,.04),0 4px 14px rgba(20,33,43,.06);
   }
   *{box-sizing:border-box}
   html,body{margin:0}
-  body{
-    background:var(--paper);color:var(--ink);
-    font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;
-    line-height:1.5;-webkit-font-smoothing:antialiased;
-  }
+  body{background:var(--paper);color:var(--ink);font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
   a{color:inherit;text-decoration:none}
+  button{font-family:inherit}
 
-  /* ---------- Header ---------- */
-  header.top{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50;box-shadow:0 1px 8px rgba(20,20,25,.05)}
-  .top-in{max-width:1080px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:18px}
-  .brand{display:flex;align-items:center;gap:12px;min-width:0}
-  .brand .logo{
-    width:52px;height:52px;border-radius:50%;flex-shrink:0;
-    background:radial-gradient(circle at 30% 25%,#c62a3f,#7d1023);
-    display:flex;align-items:center;justify-content:center;font-size:26px;
-    box-shadow:0 4px 12px rgba(156,27,46,.35);
-  }
-  .brand .txt{min-width:0}
-  .brand h1{
-    font-family:"Suez One",Georgia,serif;font-weight:400;margin:0;
-    font-size:clamp(24px,4vw,32px);line-height:1;letter-spacing:-.5px;
-    display:flex;align-items:center;gap:6px;
-  }
-  .brand h1 .burst{font-family:"Heebo";font-size:.7em}
-  .brand .sub{font-size:12.5px;color:var(--muted);font-weight:600;margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .brand .sub b{color:var(--accent)}
-  .search{flex:1;max-width:420px;margin-inline-start:auto;position:relative}
-  .search input{
-    width:100%;border:1px solid var(--line);background:#f4f6f8;border-radius:999px;
-    padding:11px 42px 11px 16px;font-size:14px;font-family:inherit;color:var(--ink);outline:none;
-  }
-  .search input:focus{border-color:var(--accent);background:#fff}
-  .search svg{position:absolute;top:50%;transform:translateY(-50%);inset-inline-start:14px;width:17px;height:17px;opacity:.4}
-  @media(max-width:720px){.search{display:none}}
+  /* header */
+  header.top{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50}
+  .top-in{max-width:1320px;margin:0 auto;padding:12px 16px;display:flex;align-items:center;gap:16px}
+  .brand{display:flex;align-items:center;gap:11px;min-width:0}
+  .brand{flex-direction:column;align-items:center;gap:1px;text-decoration:none}
+  .logo{font-family:"Suez One",serif;font-size:34px;line-height:1;color:var(--tg);letter-spacing:-.5px}
+  .chips-bar{display:none!important}
+  .ava.gen{background:var(--tg);color:#fff;font-family:"Suez One",serif}
+  .tagline{font-size:11px;font-weight:500;color:#3c3f42;letter-spacing:.6px;white-space:nowrap}
+  .brand .sub{font-size:12.5px;color:var(--muted);font-weight:600;margin-top:4px}
+  .search{flex:1;max-width:380px;margin-inline-start:auto;position:relative}
+  .search input{width:100%;border:1px solid var(--line);background:#f3f7fa;border-radius:999px;padding:10px 40px 10px 14px;font-size:14px;font-family:inherit;color:var(--ink);outline:none}
+  .search input:focus{border-color:var(--tg);background:#fff}
+  .search svg{position:absolute;top:50%;transform:translateY(-50%);inset-inline-start:13px;width:17px;height:17px;opacity:.4}
+  @media(max-width:640px){.search{display:none}}
+  .postjob{flex-shrink:0;display:inline-flex;align-items:center;gap:8px;border:0;background:var(--tg-deep);color:#fff;border-radius:999px;padding:9px 16px;font-weight:800;font-size:14px;cursor:pointer;white-space:nowrap}
+  .postjob:hover{background:var(--tg)}
+  .postjob small{background:#fff;color:var(--tg-deep);border-radius:999px;padding:1px 8px;font-size:11.5px;font-weight:800}
+  @media(max-width:640px){.postjob{margin-inline-start:auto;padding:8px 13px;font-size:13px}}
+  .freebar{background:var(--tg-soft);border-radius:10px;padding:9px 12px;font-size:13.5px;font-weight:600;color:var(--tg-deep);margin:4px 0 2px}
+  .modal .two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  @media(max-width:520px){.modal .two{grid-template-columns:1fr}}
+  .via.direct{background:var(--tg-soft);color:var(--tg-deep);border-radius:999px;padding:1px 9px;font-weight:700}
 
-  /* ---------- Ticker ---------- */
-  .ticker{background:var(--ink);color:#fff;position:sticky;top:76px;z-index:49;display:flex;align-items:stretch;overflow:hidden;height:44px}
-  .ticker .label{
-    background:var(--accent);font-weight:800;font-size:13px;display:flex;align-items:center;gap:7px;
-    padding:0 16px;white-space:nowrap;flex-shrink:0;z-index:2;
-  }
-  .ticker .label .live{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.4s infinite}
+  /* channel chips */
+  .secbar{background:var(--card);border-bottom:1px solid var(--line)}
+  .sectabs{max-width:1320px;margin:0 auto;padding:0 16px;display:flex;gap:4px}
+  .sectab{border:0;background:none;font-family:inherit;font-weight:800;font-size:16px;color:var(--muted);padding:10px 20px 9px;cursor:pointer;border-bottom:3px solid transparent;display:flex;align-items:center;gap:8px}
+  .sectab:hover{color:var(--tg-deep)}
+  .sectab.on{color:var(--tg-deep);border-bottom-color:var(--tg)}
+  .sectab .new{background:#f2542d;color:#fff;border-radius:999px;font-size:10.5px;font-weight:800;padding:1px 7px}
+  @media(max-width:640px){.sectab{flex:1;justify-content:center;padding:9px 8px 8px;font-size:15px}}
+  .chips-bar{background:var(--card);border-bottom:1px solid var(--line)}
+  .chips{max-width:1320px;margin:0 auto;padding:10px 16px;display:flex;gap:8px;overflow-x:auto;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{display:inline-flex;align-items:center;gap:7px;flex-shrink:0;border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 12px 5px 6px;font-size:14.5px;font-weight:600;cursor:pointer;color:var(--ink)}
+  .chip .cn{max-width:170px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}   /* שמות ערוצים ארוכים מתקצרים */
+  .chip.all{padding-inline:14px}
+  .chip.on{background:var(--tg);border-color:var(--tg);color:#fff}
+  .chip .ava{width:24px;height:24px;font-size:11px}
+
+  /* layout */
+  .wrap{max-width:1320px;margin:0 auto;display:flex;gap:24px;padding:18px 16px;align-items:flex-start}
+  .side{width:250px;flex-shrink:0;position:sticky;top:180px;overflow-y:auto;scrollbar-width:thin;padding:2px 4px 2px 2px}   /* גלילה משלה כשהעמודה גבוהה מהמסך */
+  .adside{width:300px;flex-shrink:0;position:sticky;top:180px}
+  .adside .adframe{margin:0 auto 14px}
+  @media(max-width:1240px){.side{display:none}}
+  .feed{flex:1;min-width:0;max-width:760px;margin-inline:auto}
+  @media(max-width:980px){.side,.adside{display:none}}
+
+  .notice{background:#fff;border:1px solid var(--line);color:#4b5563;border-radius:12px;padding:10px 14px;font-size:13px;margin-bottom:16px;display:flex;gap:9px;align-items:flex-start}
+  .notice b{color:var(--tg-deep)}
+  .notice .x{margin-inline-start:auto;background:none;border:0;color:inherit;cursor:pointer;font-size:16px;opacity:.6}
+
+  /* avatar */
+  .ava{width:42px;height:42px;border-radius:50%;flex-shrink:0;object-fit:cover;display:inline-flex;align-items:center;justify-content:center;
+    color:#fff;font-weight:800;font-size:17px;background:#7a7d80}
+
+  /* ticker */
+  .ticker{background:var(--ink);color:#fff;display:flex;align-items:stretch;overflow:hidden;height:42px}
+  .ticker .label{background:var(--tg-deep);font-weight:800;font-size:13px;display:flex;align-items:center;gap:7px;padding:0 16px;white-space:nowrap;flex-shrink:0;z-index:2}
+  .ticker .label .dot{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.4s infinite}
   @keyframes blink{50%{opacity:.25}}
-  .ticker .track-wrap{flex:1;overflow:hidden;position:relative}
-  .ticker .track{display:flex;align-items:center;gap:34px;position:absolute;white-space:nowrap;height:100%;
-    animation:tick 70s linear infinite;will-change:transform}
+  .ticker .tw{flex:1;overflow:hidden;position:relative}
+  .ticker .track{display:flex;align-items:center;gap:34px;position:absolute;white-space:nowrap;height:100%;animation:tick 80s linear infinite}
   .ticker:hover .track{animation-play-state:paused}
   @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-  .ticker .t-item{display:inline-flex;align-items:center;gap:9px;font-size:13.5px;font-weight:500}
-  .ticker .t-time{background:#c62a3f;color:#fff;font-weight:800;font-size:11.5px;padding:2px 7px;border-radius:4px}
-  .ticker .t-item::after{content:"";width:5px;height:5px;border-radius:50%;background:#555}
+  .t-item{display:inline-flex;align-items:center;gap:9px;font-size:13.5px;font-weight:500}
+  .t-item .t-time{background:var(--tg);font-weight:800;font-size:11.5px;padding:2px 7px;border-radius:4px}
+  .t-item .t-src{color:#e8bcc3;font-weight:700;font-size:12px}
+  @media (prefers-reduced-motion:reduce){.ticker .track{animation:none}}
 
-  /* ---------- Layout ---------- */
-  .wrap{max-width:1080px;margin:0 auto;display:flex;gap:26px;padding:20px;align-items:flex-start}
-  .side{width:300px;flex-shrink:0;position:sticky;top:var(--hdr)}
-  .feed{flex:1;min-width:0;max-width:680px;margin-inline:auto}
-  @media(max-width:980px){.side{display:none}.wrap{padding:16px 12px}}
-
-  /* ---------- Chat message ---------- */
-  .msg{display:flex;gap:11px;margin-bottom:20px;align-items:flex-start;animation:rise .35s ease both}
-  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-  .msg .av{
-    width:44px;height:44px;border-radius:50%;flex-shrink:0;margin-top:20px;
-    background:radial-gradient(circle at 30% 25%,#c62a3f,#7d1023);
-    display:flex;align-items:center;justify-content:center;font-size:21px;
-  }
-  .msg .col{flex:1;min-width:0}
-  .msg .who{display:flex;align-items:center;gap:8px;margin-bottom:5px;padding-inline-start:4px}
-  .msg .who .nm{font-weight:800;font-size:14px}
-  .msg .who .tm{font-size:12px;color:var(--muted);font-weight:500}
-  .bubble{
-    background:var(--bubble);border:1px solid var(--line);border-radius:16px;border-top-right-radius:5px;
-    box-shadow:var(--shadow);padding:14px 17px;
-  }
-  .bubble .bt{font-size:16.5px;white-space:pre-wrap;word-break:break-word;line-height:1.62}
-  .bubble .bt.big{font-size:18.5px;font-weight:500}
-  .msg.fresh .bubble{animation:flash 1.8s ease}
-  @keyframes flash{0%{background:var(--accent-soft);border-color:var(--accent)}100%{background:var(--bubble)}}
-
-  .media{margin-top:12px;display:grid;gap:6px;border-radius:12px;overflow:hidden}
-  .media.n1{grid-template-columns:1fr}
-  .media.n2,.media.n4{grid-template-columns:1fr 1fr}
-  .media.n3{grid-template-columns:1fr 1fr}
+  /* post */
+  .post{display:flex;gap:10px;margin-bottom:18px;align-items:flex-start;animation:rise .3s ease both}
+  @keyframes rise{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .post > .ava{margin-top:2px}
+  .post .col{flex:1;min-width:0}
+  .bubble{background:var(--card);border:1px solid var(--line);border-radius:16px;border-top-right-radius:5px;box-shadow:var(--shadow);padding:11px 15px 9px}
+  .src{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin-bottom:5px}
+  .src .nm{font-weight:800;font-size:16px;color:var(--tg-deep);cursor:pointer}
+  .src .via{font-size:11.5px;color:var(--muted);font-weight:600}
+  .fwd{font-size:12.5px;color:var(--muted);margin-bottom:4px}
+  .fwd b{color:var(--tg-deep);font-weight:700}
+  .bt .hl{font-weight:800}
+  .bt{font-size:17.5px;white-space:pre-wrap;word-break:break-word;line-height:1.65}
+  .post.fresh .bubble{animation:flash 1.8s ease}
+  @keyframes flash{0%{background:var(--tg-soft);border-color:var(--tg)}100%{background:var(--card)}}
+  .media{margin-top:10px;display:grid;gap:5px;border-radius:12px;overflow:hidden}
+  .media.n2,.media.n3,.media.n4{grid-template-columns:1fr 1fr}
   .media.n3 > :first-child{grid-column:1 / -1}
-  .media img,.media video{width:100%;height:100%;max-height:460px;object-fit:cover;display:block;border-radius:9px;background:#e9edf1}
+  .media img,.media video{width:100%;height:100%;max-height:260px;object-fit:cover;display:block;border-radius:8px;background:#e6edf2}   /* תמונה מלאה בלחיצה */
+  .media.n1{max-width:420px}
+  .media.n2 img,.media.n3 img,.media.n4 img,.media.n2 video,.media.n3 video,.media.n4 video{max-height:150px}   /* כמה תמונות: קטנות יותר */
+  .media.n2,.media.n3,.media.n4{max-width:460px}
+  .bt.clamp{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:6;overflow:hidden}
+  .more-t{border:0;background:none;color:var(--tg-deep);font-weight:800;font-family:inherit;font-size:14.5px;cursor:pointer;padding:4px 0 0}
+  .more-t:hover{text-decoration:underline}
+  .miss{margin-top:8px;display:inline-block;background:#f1f4f7;color:#5b6b7a;font-size:13.5px;padding:5px 10px;border-radius:8px}
   .media img{cursor:zoom-in}
+  .meta{display:flex;align-items:center;gap:12px;margin-top:8px;font-size:13px;color:var(--muted);flex-wrap:wrap}
+  .meta .sp{flex:1}
+  .meta a,.meta button{background:none;border:0;padding:0;color:var(--muted);font-size:12px;font-weight:600;cursor:pointer}
+  .meta a:hover,.meta button:hover{color:var(--tg-deep)}
+  .meta .rep:hover{color:#c0392b}
 
-  .reactions{display:flex;gap:7px;margin-top:9px;padding-inline-start:4px;flex-wrap:wrap}
-  .rx{display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);
-    border-radius:999px;padding:4px 11px;font-size:12.5px;font-weight:700;color:var(--muted);cursor:default}
-  .rx.like{cursor:pointer;transition:.12s}
-  .rx.like:hover{border-color:var(--accent)}
-  .rx.like.on{color:var(--accent);background:var(--accent-soft);border-color:var(--accent-soft)}
-  .rx .em{font-size:14px;filter:grayscale(.1)}
-
-  /* ---------- Promo bubble ---------- */
-  .msg.promo .av{background:radial-gradient(circle at 30% 25%,#c39a3a,#7d5f16);font-size:20px}
+  /* promo */
+  .post.promo .ava{background:linear-gradient(135deg,#c39a3a,#7d5f16)}
   .promo .bubble{border-color:var(--gold);background:linear-gradient(180deg,#fffdf6,#fff)}
-  .promo .who .nm{color:var(--gold)}
-  .promo .tag{font-size:10.5px;font-weight:800;color:var(--gold);background:var(--gold-soft);padding:2px 8px;border-radius:5px;letter-spacing:.3px}
-  .promo .adv{font-weight:800;font-size:17px;margin-bottom:5px}
-  .cta{display:inline-block;margin-top:12px;background:var(--ink);color:#fff;font-weight:700;font-size:14.5px;padding:10px 20px;border-radius:10px}
+  .promo .tag{font-size:10.5px;font-weight:800;color:var(--gold);background:var(--gold-soft);padding:2px 8px;border-radius:5px}
+  .promo .adv{font-weight:800;font-size:16px;color:var(--ink)}
+  .cta{display:inline-block;margin-top:10px;background:var(--ink);color:#fff;font-weight:700;font-size:14px;padding:9px 18px;border-radius:10px}
 
-  /* ---------- Side ad column ---------- */
-  .side .ad{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:16px}
-  .side .ad img{width:100%;display:block}
-  .side .ad .body{padding:14px 16px}
-  .side .ad .adv{font-weight:800;font-size:16px;margin-bottom:4px}
-  .side .ad .txt{font-size:13.5px;color:#4b5563;line-height:1.5}
-  .side .ad .cta{margin-top:10px;font-size:13.5px;padding:8px 16px}
-  .side .placard{background:var(--gold-soft);border:1px dashed var(--gold);border-radius:14px;padding:18px 16px;text-align:center}
-  .side .placard .h{font-weight:800;color:#6b5a1e;font-size:15px;margin-bottom:4px}
-  .side .placard .p{font-size:13px;color:#7a6a3a;font-weight:600}
-  .side .placard .n{display:block;margin-top:8px;font-weight:800;color:var(--gold);font-size:16px}
+  /* side */
+  .box{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:15px 16px;margin-bottom:14px;font-size:14.5px}
+  .box h3{margin:0 0 8px;font-size:16.5px}
+  .box p{margin:0;color:#4b5a66}
+  .box .ad-img{width:calc(100% + 32px);margin:-15px -16px 12px;display:block;border-radius:14px 14px 0 0}
+  .placard{background:var(--gold-soft);border:1px dashed var(--gold);border-radius:14px;padding:16px;text-align:center}
+  .placard .h{font-weight:800;color:#6b5a1e}
+  .placard .n{display:inline-block;margin-top:10px;font-weight:800;color:#fff;background:var(--gold);font-size:15px;padding:9px 20px;border-radius:10px;text-decoration:none}
+  .placard .n:hover{filter:brightness(.92)}
+  .post.adask{justify-content:center}
+  .post.adask .placard{width:100%;max-width:420px}
+  @media(min-width:1241px){.post.adask{display:none}}   /* במסך רחב התיבה כבר מוצגת בצד */
 
-  footer{max-width:1080px;margin:0 auto;padding:22px 20px 60px;text-align:center;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
+  footer{max-width:1320px;margin:0 auto;padding:22px 16px 50px;text-align:center;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px;line-height:1.8}
+  footer button{background:none;border:0;color:var(--tg-deep);font-weight:700;cursor:pointer;font-size:12.5px;padding:0}
 
-  .empty,.loading{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
-  .lb{position:fixed;inset:0;background:rgba(12,14,18,.92);display:none;align-items:center;justify-content:center;z-index:100;padding:20px;cursor:zoom-out}
+  .empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
+  .more{display:block;margin:6px auto 30px;background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 26px;font-weight:700;color:var(--tg-deep);cursor:pointer}
+
+  /* overlays */
+  .lb{position:fixed;inset:0;background:rgba(10,16,22,.92);display:none;align-items:center;justify-content:center;z-index:100;padding:16px;cursor:zoom-out}
   .lb.open{display:flex}
   .lb img{max-width:100%;max-height:100%;border-radius:8px}
+  .modal{position:fixed;inset:0;background:rgba(10,16,22,.55);display:none;align-items:center;justify-content:center;z-index:110;padding:16px}
+  .modal.open{display:flex}
+  .modal .card{background:#fff;border-radius:16px;max-width:520px;width:100%;max-height:88vh;overflow:auto;padding:22px 22px 18px;box-shadow:0 20px 60px rgba(0,0,0,.25)}
+  .modal h2{margin:0 0 10px;font-size:20px}
+  .modal p,.modal li{font-size:14px;color:#3d4b57;line-height:1.65}
+  .modal ul{padding-inline-start:20px;margin:8px 0}
+  .modal label{display:block;font-size:13px;font-weight:700;margin:12px 0 4px}
+  .modal input,.modal select,.modal textarea{width:100%;border:1px solid var(--line);border-radius:10px;padding:9px 11px;font-family:inherit;font-size:14px}
+  .modal textarea{min-height:80px;resize:vertical}
+  .modal .row{display:flex;gap:8px;justify-content:flex-start;margin-top:16px}
+  .btn{border:0;border-radius:10px;padding:10px 20px;font-weight:700;font-size:14px;cursor:pointer}
+  .btn.pri{background:var(--tg);color:#fff}
+  .btn.sec{background:#eef3f7;color:var(--ink)}
+  .quote{background:#f5f8fa;border-inline-start:3px solid var(--tg);border-radius:8px;padding:8px 10px;font-size:13px;color:#4b5a66;max-height:90px;overflow:hidden}
+  .status{font-size:13.5px;margin-top:10px;font-weight:600}
+  .bt .lnk{display:inline-block;direction:ltr;background:var(--tg-soft);color:var(--tg-deep);font-weight:700;font-size:13.5px;text-decoration:none;border-radius:999px;padding:0 9px;margin:1px 0;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom}
+  .bt .lnk:hover{background:var(--tg);color:#fff}
+  .wanum{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:10px;background:var(--tg-soft);border-radius:10px;padding:7px 12px;font-size:13.5px;font-weight:600;color:var(--ink)}
+  .wanum a{direction:ltr;font-weight:800;font-size:15px;color:var(--tg-deep);text-decoration:none;letter-spacing:.3px}
+  .wanum button{border:0;background:#fff;color:var(--tg-deep);border-radius:7px;padding:3px 10px;font-family:inherit;font-weight:700;font-size:12.5px;cursor:pointer}
+  .chip.kind{font-weight:800}
+  .adframe{position:relative;display:block;width:100%;overflow:hidden;border-radius:14px;background:#e0f1e8;box-shadow:var(--shadow)}
+  .adframe iframe{position:absolute;top:0;left:0;border:0;transform-origin:0 0;pointer-events:none}
+  .adframe .adtag{position:absolute;top:6px;left:6px;z-index:2;font-size:10px;font-weight:700;background:rgba(255,255,255,.88);color:#55606a;padding:1px 7px;border-radius:5px}
+  /* קרוסלת באנרים: עד 5, מתחלפים כל חצי דקה, אפשר להחליק או ללחוץ על החיצים */
+  .adcar{position:relative;direction:ltr;width:100%;margin:0 auto 14px}
+  .post.adpost .adcar{max-width:360px;margin-bottom:0}
+  .car-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;border-radius:14px}
+  .car-track::-webkit-scrollbar{display:none}
+  .car-slide{flex:0 0 100%;scroll-snap-align:center;display:flex;justify-content:center;align-items:flex-start}
+  .adcar .adframe{margin:0}
+  .car-nav{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:30px;height:30px;border-radius:50%;border:0;background:rgba(255,255,255,.92);color:#2a1418;font-size:18px;font-weight:800;line-height:1;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.25);display:flex;align-items:center;justify-content:center;padding:0}
+  .car-nav:hover{background:#fff}
+  .car-nav.prev{left:6px}.car-nav.next{right:6px}
+  .car-dots{display:flex;justify-content:center;gap:6px;margin-top:8px}
+  .car-dots i{width:8px;height:8px;border-radius:50%;background:#c3ccd2;cursor:pointer}
+  .car-dots i.on{background:var(--tg-deep);width:20px;border-radius:999px}
+  .bt .cta.inl,.box .cta.inl{margin:3px 0;text-decoration:none}
+  .tlink{color:var(--tg-deep);font-weight:700;text-decoration:underline}
+  .chip .star{font-size:14px;line-height:1;color:#b9c2c7;margin-inline-start:2px;padding:0 2px}
+  .chip .star.on{color:#e6a800}
+  .chip.on .star{color:#fff}
+  .chip.mine{font-weight:800}
+  .chip.addch{border-style:dashed;color:var(--tg-deep);font-weight:700}
+  .box.addbox{border:1.5px dashed var(--tg);background:var(--tg-soft)}
+  .box.addbox button{margin-top:8px;border:0;background:var(--tg-deep);color:#fff;font-family:inherit;font-weight:700;font-size:13.5px;padding:8px 14px;border-radius:10px;cursor:pointer}
+  .consent-row{display:flex;gap:8px;align-items:flex-start;margin-top:12px;font-size:13.5px;line-height:1.5}
+  .consent-row input{width:auto;margin-top:3px}
+  .post.adpost{justify-content:center}
+  .post.adpost .adframe{max-width:360px}
+  .promo .pbanner{margin:8px 0 2px}
+  .promo .pbanner .adframe{max-width:360px;margin:0 auto;box-shadow:none}
+  @media(min-width:981px){.post.m-only{display:none}}
+  .fab{position:fixed;bottom:18px;inset-inline-start:18px;z-index:90;display:flex;align-items:center;gap:8px;background:var(--tg-deep);color:#fff;border:0;border-radius:999px;padding:11px 18px;font-weight:700;font-size:14px;cursor:pointer;box-shadow:0 6px 20px rgba(0,0,0,.22)}
+  .fab:hover{background:var(--tg)}
+  .fab svg{width:18px;height:18px}
+  @media(max-width:640px){.fab{padding:12px}.fab span{display:none}}
+  @media(min-width:981px){.fab{display:none}}   /* במחשב: הכפתור נמצא בעמודת הצד */
+  .sidelink{display:block;width:100%;margin-top:10px;border:1px solid var(--line);background:#fff;color:var(--tg-deep);font-family:inherit;font-weight:700;font-size:14px;padding:8px 10px;border-radius:10px;cursor:pointer}
+  .sidelink:hover{background:var(--tg-soft)}
+  #vpop{position:fixed;z-index:200;background:#2a1418;color:#fff;border-radius:12px;padding:10px 14px;font-size:14px;font-weight:700;box-shadow:0 10px 30px rgba(0,0,0,.28);max-width:260px;line-height:1.5}
+  #vpop small{display:block;font-weight:400;color:#d9b3b9;font-size:11.5px;margin-top:2px}
 </style>
 </head>
 <body>
 
 <header class="top">
   <div class="top-in">
-    <div class="brand">
-      <div class="logo">💥</div>
-      <div class="txt">
-        <h1 id="brandName">מבזקים</h1>
-        <div class="sub" id="brandSub"></div>
-      </div>
-    </div>
+    <a class="brand" href="./" aria-label="מבזקים"><span class="logo">מבזקים</span><span class="tagline" id="tagline">מבזקי חדשות</span></a>
     <div class="search">
-      <input id="q" type="search" placeholder="חיפוש בעדכונים…" autocomplete="off">
+      <input id="q" type="search" placeholder="חיפוש משרה, תחום או עיר…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </div>
+    <button class="postjob" data-job>＋ <span id="postLbl">פרסום משרה</span> <small>חינם</small></button>
   </div>
+  <div class="secbar"><div class="sectabs"><button class="sectab on" data-sec="news">📰 מבזקים</button><button class="sectab" data-sec="jobs">💼 דרושים</button><button class="sectab" data-sec="deals">🏷️ מבצעים</button></div></div>
+  <div class="chips-bar"><div class="chips" id="chips"></div></div>
+  <div class="ticker"><div class="label"><span class="dot"></span>עכשיו</div><div class="tw"><div class="track" id="tickTrack"></div></div></div>
 </header>
-
-<div class="ticker">
-  <div class="label"><span class="live"></span>מבזקים חמים</div>
-  <div class="track-wrap"><div class="track" id="tickTrack"></div></div>
-</div>
 
 <div class="wrap">
   <aside class="side" id="side"></aside>
-  <main class="feed"><div id="feed"><div class="loading">טוען מבזקים…</div></div></main>
+  <main class="feed">
+    <div class="notice" id="notice">ℹ️<div>הידיעות והמודעות באתר נאספות ממקורות פומביים ומוצגות אחרי סינון. האחריות לתוכן כל פריט חלה על מי שפרסם אותו במקור. <button id="aboutLink" style="background:none;border:0;padding:0;color:var(--tg-deep);font-weight:700;cursor:pointer;font-size:13px">פרטים</button></div><button class="x" id="noticeX" aria-label="סגירה">✕</button></div>
+    <div id="feed"><div class="empty">טוען עדכונים…</div></div>
+  </main>
+  <aside class="adside" id="adside"></aside>
 </div>
 
-<footer>© <span id="yr"></span> מבזקים · כל הזכויות שמורות · <span id="updatedLine"></span></footer>
+<footer>
+  © <span id="yr"></span> מבזקים · <span id="updatedLine"></span><br>
+  התכנים באתר נאספים ממקורות פומביים. האחריות לתוכן כל פריט חלה על מי שפרסם אותו במקור.<br>
+  <button data-open="about">הבהרה משפטית ותנאי שימוש</button> · <button data-open="report-general">בקשת הסרה / פנייה</button>
+</footer>
 
 <div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
 
+<div class="modal" id="about"><div class="card">
+  <h2>אודות מבזקים והבהרה משפטית</h2>
+  <p>מבזקים מרכז במקום אחד מבזקי חדשות, משרות ומבצעים שפורסמו במקורות פומביים.</p>
+  <ul>
+    <li>הפריטים מוצגים כפי שפורסמו במקור, אחרי סינון פרסומות ותוכן לא ראוי. איננו מאמתים את התוכן, והסינון אינו בודק את נכונות הדברים.</li>
+    <li>האחריות לתוכן כל פריט, לרבות דיוקו, חלה על מי שפרסם אותו במקור. אין לראות בהצגת פריט אימוץ, אישור או הסכמה עם תוכנו.</li>
+    <li>קישורים במשרות ובמבצעים מובילים לאתרי המפרסמים כפי שהם, ואיננו אחראים לתוכנם.</li>
+    <li><b>בקשות הסרה:</b> מי שנפגע מפריט, או בעל זכויות בתוכן, יכול ללחוץ על "בקשת הסרה" ליד הפריט. אנו מטפלים בבקשות בהקדם, ופריט שיש בו פגיעה יוסר.</li>
+    <li>בעל תוכן שאינו מעוניין שהתכנים שלו יוצגו באתר מוזמן לפנות אלינו, והם יוסרו.</li>
+    <li>לא מתפרסמים באתר עדכונים בשבתות ובחגים.</li>
+  </ul>
+  <div class="row"><button class="btn sec" data-close>סגירה</button></div>
+</div></div>
+
+<div class="modal" id="report"><div class="card">
+  <h2 id="repTitle">בקשת הסרה</h2>
+  <div class="quote" id="repQuote"></div>
+  <div class="wanum" id="repId" style="display:none">מזהה הפוסט: <a id="repIdLink" target="_blank" rel="noopener nofollow"></a><button type="button" id="repIdCopy">העתקה</button></div>
+  <form id="repForm">
+    <label for="repReason">סיבת הפנייה</label>
+    <select id="repReason" name="reason">
+      <option>פגיעה בשם טוב / לשון הרע</option>
+      <option>מידע שגוי או מטעה</option>
+      <option>פגיעה בפרטיות</option>
+      <option>הפרת זכויות יוצרים</option>
+      <option>תוכן לא צנוע / לא ראוי</option>
+      <option>בקשת בעל התוכן להסרה מהאתר</option>
+      <option>אחר</option>
+    </select>
+    <label for="repText">פירוט (לא חובה)</label>
+    <textarea id="repText" name="details"></textarea>
+    <label for="repContact">טלפון או מייל לחזרה (לא חובה)</label>
+    <input id="repContact" name="contact" autocomplete="off">
+    <div class="status" id="repStatus"></div>
+    <div class="row"><button class="btn pri" type="submit" id="repSend">שליחה</button><button class="btn sec" type="button" data-close>ביטול</button></div>
+  </form>
+</div></div>
+
+<button class="fab" data-msg aria-label="שליחת הודעה למערכת"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>הודעה למערכת</span></button>
+
+<div class="modal" id="job"><div class="card">
+  <h2>פרסום משרה בלוח</h2>
+  <div class="freebar">🎁 הפרסום כרגע בחינם. המודעה תעלה ללוח לאחר אישור המערכת.</div>
+  <form id="jobForm">
+    <label for="jobTitle">כותרת המשרה</label>
+    <input id="jobTitle" name="title" required maxlength="90" placeholder="לדוגמה: דרוש/ה מזכיר/ה למשרד בירושלים" autocomplete="off">
+    <label for="jobText">פרטי המשרה</label>
+    <textarea id="jobText" name="details" required maxlength="1500" style="min-height:110px" placeholder="תיאור התפקיד, דרישות, שעות ותנאים"></textarea>
+    <div class="two">
+      <div><label for="jobCity">עיר / אזור</label><input id="jobCity" name="city" maxlength="60" autocomplete="off"></div>
+      <div><label for="jobScope">היקף משרה</label><select id="jobScope" name="scope"><option value="">לא צוין</option><option>משרה מלאה</option><option>משרה חלקית</option><option>עבודה מהבית</option><option>עבודה זמנית</option></select></div>
+    </div>
+    <label for="jobContact">איך פונים? (טלפון או מייל — יוצג במודעה)</label>
+    <input id="jobContact" name="contact" required maxlength="120" autocomplete="off">
+    <label for="jobBy">שם העסק / המפרסם (לא חובה)</label>
+    <input id="jobBy" name="by" maxlength="80" autocomplete="off">
+    <input type="checkbox" name="botcheck" id="jobBot" tabindex="-1" autocomplete="off" style="display:none">
+    <div class="status" id="jobStatus"></div>
+    <div class="row"><button class="btn pri" type="submit" id="jobSend">שליחה לאישור</button><button class="btn sec" type="button" data-close>ביטול</button></div>
+  </form>
+</div></div>
+
+<div class="modal" id="msg"><div class="card">
+  <h2>הודעה למערכת</h2>
+  <p>יש לכם ידיעה, הצעה לשיפור, מקור שכדאי להוסיף או סתם מילה טובה? כתבו לנו.</p>
+  <form id="msgForm">
+    <label for="msgText">ההודעה</label>
+    <textarea id="msgText" name="message" required maxlength="2000" style="min-height:120px"></textarea>
+    <label for="msgContact">טלפון או מייל לחזרה (לא חובה)</label>
+    <input id="msgContact" name="contact" autocomplete="off" maxlength="120">
+    <input type="checkbox" name="botcheck" id="msgBot" tabindex="-1" autocomplete="off" style="display:none">
+    <div class="status" id="msgStatus"></div>
+    <div class="row"><button class="btn pri" type="submit" id="msgSend">שליחה</button><button class="btn sec" type="button" data-close>ביטול</button></div>
+  </form>
+</div></div>
+
 <script>
-const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REFRESH_MS=60000;
-const AD_CONTACT="050-0000000";          // ← מספר ליצירת קשר לפרסום
-const DEFAULT_SUBS="12,800";             // ← מספר עוקבים בכותרת (ניתן לעריכה)
-let brandName="מבזקים", currentIds=new Set(), allItems=[], query="";
-const liked=new Set(JSON.parse(localStorage.getItem("mvz_likes")||"[]"));
+const DIRECT_URL="data/direct.json", DIRECT_CH="_direct";         // משרות שפורסמו ישירות באתר (אחרי אישור)
+const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REMOVED_URL="data/removed.json", REFRESH_MS=60000, PAGE=30;
+const AD_MAIL=["netgram111","gmail.com"];                         // ← מייל לפרסום (מורכב רק בלחיצה, לא מוצג בדף)
+const AD_SUBJECT="בקשה לפרסום במבזקים";
+const AD_BODY=`שלום,
+אני מעוניין/ת לפרסם במבזקים.
 
-const feedEl=document.getElementById("feed"), sideEl=document.getElementById("side");
-const updEl=document.getElementById("updatedLine"), tickEl=document.getElementById("tickTrack");
-document.getElementById("yr").textContent=new Date().getFullYear();
+שם העסק:
+סוג הפרסום (באנר / פרסומת טקסט):
+תקופה מבוקשת:
+טלפון לחזרה:
 
+תודה`;
+function adMailURL(){
+  const q=s=>encodeURIComponent(s);
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${q(AD_MAIL.join("@"))}&su=${q(AD_SUBJECT)}&body=${q(AD_BODY)}`;
+}
+const PLACARD=`<div class="placard"><div class="h">📣 מעוניינים לפרסם?</div><a class="n" href="#" data-admail target="_blank" rel="noopener">לחצו כאן לפרסום</a></div>`;
+const REPORT_KEY="ada496e6-156f-4974-9ac9-846bdeebbae1";          // ← web3forms access key לבקשות הסרה
+const COLORS=["#9c1b2e","#7a1424","#7a7d80","#55585b","#c45a6a","#5e0f1b","#9a9d9f","#6b6e71"];
+
+let data={items:[],channels:{}}, promos={items:[]}, removed=new Set(), seen=new Set();
+let filterCh="", filterKind="", query="", shown=PAGE, first=true;
+/* "הערוצים שלי": הגולש מסמן ערוצים בכוכב, נשמר רק בדפדפן שלו */
+let mine=new Set(), filterMine=false;
+try{ mine=new Set(JSON.parse(localStorage.getItem("ng_mine")||"[]")); }catch(_){}
+const saveMine=()=>{ try{ localStorage.setItem("ng_mine",JSON.stringify([...mine])); }catch(_){} };
+const AD_HOLD_MS=10*60000, FEED_MAX_AGE=14*864e5;               // 10 דקות בראש הפיד; כמו גיל המשרות המקסימלי
+let feedAds=[], holdTimer=0, holdTimer2=0;
+/* שני לוחות באותו אתר: דרושים ומבצעים */
+const SEC={
+  news:{tag:"מבזקי חדשות",q:"חיפוש בחדשות…",post:"הודעה למערכת",empty:"אין מבזקים כרגע. חוזרים בקרוב…",hash:""},
+  jobs:{tag:"לוח דרושים",q:"חיפוש משרה, תחום או עיר…",post:"פרסום משרה",empty:"אין משרות כרגע. חוזרים בקרוב…",hash:"#jobs"},
+  deals:{tag:"מבצעים ודילים",q:"חיפוש מוצר, מותג או חנות…",post:"הודעה למערכת",empty:"אין מבצעים כרגע. חוזרים בקרוב…",hash:"#deals"}
+};
+let section=location.hash==="#deals"?"deals":location.hash==="#jobs"?"jobs":"news";
+const kindOf=i=>i.kind||"news";                                       // פוסט בלי סוג = ערוץ חדשות
+const secItems=()=>data.items.filter(i=>kindOf(i)===section);
+const secPromos=()=>(promos.items||[]).filter(p=>p.section!=="realestate");
+function applySection(){
+  const c=SEC[section];
+  document.querySelectorAll(".sectab").forEach(b=>b.classList.toggle("on",b.dataset.sec===section));
+  $("tagline").textContent=c.tag; $("q").placeholder=c.q; $("postLbl").textContent=c.post;
+  document.title="מבזקים · "+c.tag;
+}
+function setSection(sec){
+  if(sec===section) return;
+  section=sec; filterCh=""; filterKind=""; filterMine=false; query=""; $("q").value=""; shown=PAGE;
+  try{history.replaceState(null,"",SEC[sec].hash||location.pathname+location.search);}catch(_){}
+  applySection(); renderChips(); buildTicker(); render(false); window.scrollTo({top:0});
+}
+const $=id=>document.getElementById(id);
+$("yr").textContent=new Date().getFullYear();
+
+const esc=s=>(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
 function relTime(iso){
   if(!iso) return "";
   const d=new Date(iso),s=Math.floor((Date.now()-d)/1000);
   if(s<60) return "כעת";
   if(s<3600) return "לפני "+Math.floor(s/60)+" דק׳";
   if(s<86400){const h=Math.floor(s/3600);return "לפני "+h+(h===1?" שעה":" שעות");}
-  const dy=Math.floor(s/86400);
-  if(dy<7) return "לפני "+dy+(dy===1?" יום":" ימים");
-  return d.toLocaleDateString("he-IL",{day:"numeric",month:"short"});
+  return d.toLocaleDateString("he-IL",{day:"numeric",month:"short"})+" "+d.toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"});
 }
-function hhmm(iso){return iso?new Date(iso).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"}):"";}
-function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));}
-function seed(id,salt,min,max){let h=5381;const s=id+salt;for(let i=0;i<s.length;i++)h=((h<<5)+h+s.charCodeAt(i))>>>0;return min+h%(max-min);}
+const hhmm=iso=>iso?new Date(iso).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"}):"";
+const fmtViews=v=>v==null?"":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(1).replace(/\.0$/,"")+"K":String(v);
+const KIND={jobs:"דרושים",deals:"מבצעים"};
+const linkify=t=>esc(t).replace(/https?:\/\/[^\s<]+/g,m=>{
+  let u=m,tail=""; const e=u.match(/[.,;:!?)\]]+$/); if(e){tail=e[0];u=u.slice(0,-tail.length);}
+  let host; try{host=new URL(u.replace(/&amp;/g,"&")).hostname.replace(/^www\./,"");}catch(_){return m;}
+  return `<a class="lnk" href="${u}" target="_blank" rel="noopener nofollow">${host} ↗</a>`+tail;
+});
+/* מספרי טלפון שמסתתרים בתוך קישורי וואטסאפ — מוצגים בגלוי למי שאין לו וואטסאפ */
+function waNums(text){
+  const t=String(text||""), out=[];
+  const shown=t.replace(/https?:\/\/[^\s<]+/g," ").replace(/[-\s.()]/g,"");
+  const re=/wa\.me\/\+?(\d{9,15})|whatsapp\.com\/send\/?\?[^\s<]*?phone=\+?(\d{9,15})/gi;
+  let m;
+  while((m=re.exec(t))){
+    let d=m[1]||m[2];
+    if(/^0[2-9]\d{7,8}$/.test(d)) d="972"+d.slice(1);
+    const loc=d.indexOf("972")===0?"0"+d.slice(3):"";
+    if(out.some(o=>o.intl===d)) continue;
+    if(shown.includes(loc||d)) continue;                            // המספר כבר כתוב במודעה
+    out.push({intl:d,show:loc?loc.replace(/^(0\d{1,2})(\d{7})$/,"$1-$2"):"+"+d});
+  }
+  return out;
+}
+const waNumHTML=text=>waNums(text).map(n=>
+  `<div class="wanum">📱 מספר הוואטסאפ של המפרסם: <a href="tel:+${n.intl}">${n.show}</a><button data-copynum="${n.show.replace(/-/g,"")}">העתקה</button></div>`).join("");
+/* טקסט פרסומת: [מילה](קישור) = קישור, [!כיתוב](קישור) = כפתור. מותר רק https / tel / mailto */
+const MK=/\[(!?)([^\]\n]{1,80})\]\(((?:https?:\/\/|tel:|mailto:)[^\s)]+)\)/g;
+// mailto: לא עושה כלום כשאין במחשב תוכנת מייל (רוב הגולשים) -> נפתח חלון כתיבה בג'ימייל
+function gmailFromMailto(u){
+  const [to,qs]=u.slice(7).split("?"), p=new URLSearchParams(qs||""), q=encodeURIComponent;
+  return `https://mail.google.com/mail/?view=cm&fs=1&to=${q(decodeURIComponent(to))}`+(p.get("subject")?`&su=${q(p.get("subject"))}`:"")+(p.get("body")?`&body=${q(p.get("body"))}`:"");
+}
+function promoText(t){
+  t=String(t||""); let out="",i=0,m; MK.lastIndex=0;
+  while((m=MK.exec(t))){
+    out+=linkify(t.slice(i,m.index));
+    const href=/^mailto:/i.test(m[3])?gmailFromMailto(m[3]):m[3];
+    out+=`<a class="${m[1]?"cta inl":"tlink"}" href="${esc(href)}"${/^http/.test(href)?' target="_blank" rel="noopener sponsored"':""}>${esc(m[2])}</a>`;
+    i=MK.lastIndex;
+  }
+  return out+linkify(t.slice(i));
+}
+const chName=u=>(data.channels[u]&&data.channels[u].title)||u;
+function avatar(u,cls){
+  const c=data.channels[u]||{};
+  if(c.avatar) return `<img class="ava ${cls||""}" src="${c.avatar}" alt="">`;
+  let h=0;for(const ch of u)h=(h*31+ch.charCodeAt(0))>>>0;
+  return `<span class="ava ${cls||""}" style="background:${COLORS[h%COLORS.length]}">${esc(chName(u).trim().charAt(0))}</span>`;
+}
 
 function mediaHTML(media){
   if(!media||!media.length) return "";
-  const items=media.slice(0,4).map(m=>{
-    if(m.type==="video"){const p=m.poster?` poster="${m.poster}"`:"";return `<video src="${m.file}"${p} controls preload="metadata"></video>`;}
-    const src=m.file||m.image||m.src||"";return `<img src="${src}" loading="lazy" alt="" onerror="this.remove()">`;
-  }).join("");
-  return `<div class="media n${Math.min(media.length,4)}">${items}</div>`;
+  return `<div class="media n${Math.min(media.length,4)}">`+media.slice(0,4).map(m=>
+    m.type==="video"?`<video src="${m.file}"${m.poster?` poster="${m.poster}"`:""} controls preload="none"></video>`
+                    :`<img src="${m.file||m.image}" loading="lazy" alt="" onerror="this.remove()">`).join("")+`</div>`;
 }
 
-function reactionsHTML(it){
-  const isLiked=liked.has(it.id);
-  const likes=seed(it.id,"l",6,140)+(isLiked?1:0);
-  const boom=seed(it.id,"b",3,45);
-  const views=seed(it.id,"v",380,5200).toLocaleString("he-IL");
-  return `<div class="reactions">
-    <span class="rx like${isLiked?" on":""}" data-id="${it.id}"><span class="em">❤️</span><span class="lc">${likes}</span></span>
-    <span class="rx"><span class="em">💥</span>${boom}</span>
-    <span class="rx"><span class="em">👁️</span>${views}</span>
-  </div>`;
-}
-
-function newsMsg(it,fresh){
-  const big=(it.text||"").length<130;
-  return `<div class="msg${fresh?" fresh":""}">
-    <div class="av">💥</div>
-    <div class="col">
-      <div class="who"><span class="nm">${esc(brandName)} 💥</span><span class="tm">${hhmm(it.ts)} · ${relTime(it.ts)}</span></div>
-      <div class="bubble">
-        ${it.text?`<div class="bt${big?" big":""}">${esc(it.text)}</div>`:""}
-        ${mediaHTML(it.media)}
+const openPosts=new Set();                                           // פוסטים שהגולש פתח ב"קרא עוד" (נשמרים גם ברענון)
+function markClamps(root){ (root||document).querySelectorAll("[data-more]").forEach(b=>{ const t=b.previousElementSibling; b.hidden=!openPosts.has(b.dataset.more)&&t.scrollHeight<=t.clientHeight+2; }); }
+function postHTML(it,fresh){
+  return `<article class="post${fresh?" fresh":""}" data-vk="${vkPost(it.post)}">
+    <span class="ava gen">${it.direct?"✎":"מ"}</span>
+    <div class="col"><div class="bubble">
+      <div class="src"><span class="nm">${it.direct?"מהגולשים":({jobs:"דרושים",deals:"מבצעים"})[kindOf(it)]||"מבזק"}</span><span class="via${it.direct?" direct":""}">${hhmm(it.ts)}</span></div>
+      ${it.text?`<div class="bt${openPosts.has(it.post)?"":" clamp"}">${it.title?`<strong class="hl">${esc(it.title)} |</strong> `:""}${linkify(it.text)}</div><button class="more-t" data-more="${esc(it.post)}" hidden>${openPosts.has(it.post)?"הצג פחות ▴":"קרא עוד ▾"}</button>`:""}
+      ${mediaHTML(it.media)}
+      
+      ${waNumHTML(it.text)}
+      <div class="meta">
+        <span>${relTime(it.ts)}</span>${it.views!=null?`<span>👁 ${fmtViews(it.views)}</span>`:""}
+        <span class="sp"></span>
+        <button class="rep" data-rep="${esc(it.post)}">⚑ בקשת הסרה</button>
       </div>
-      ${reactionsHTML(it)}
-    </div>
-  </div>`;
+    </div></div>
+  </article>`;
 }
 
-function promoMsg(p){
-  let cta="";
-  if(p.cta_phone) cta=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")} ${esc(p.cta_phone)}</a>`;
-  else if(p.cta_url) cta=`<a class="cta" href="${p.cta_url}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
-  return `<div class="msg promo">
-    <div class="av">★</div>
-    <div class="col">
-      <div class="who"><span class="nm">${esc(p.advertiser||"תוכן שיווקי")}</span><span class="tag">ממומן</span></div>
-      <div class="bubble">
-        ${p.text?`<div class="bt">${esc(p.text)}</div>`:""}
-        ${p.image?mediaHTML([{type:"image",image:p.image}]):""}
-        ${cta}
-      </div>
-    </div>
-  </div>`;
+function adFrame(p){
+  const w=p.w||1080,h=p.h||1800;
+  return `<a class="adframe" data-vk="${vkAd(p.id)}" href="${esc(p.cta_url||"#")}" target="_blank" rel="noopener sponsored" style="aspect-ratio:${w}/${h}" data-adw="${w}" data-adh="${h}"><span class="adtag">מודעה</span><iframe src="${esc(p.html)}" sandbox="allow-scripts" width="${w}" height="${h}" scrolling="no" tabindex="-1" title="${esc(p.advertiser||"מודעה")}"></iframe></a>`;
 }
-
-function sideHTML(pinned){
-  let h="";
-  pinned.forEach(p=>{
-    let cta="";
-    if(p.cta_phone) cta=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")}</a>`;
-    else if(p.cta_url) cta=`<a class="cta" href="${p.cta_url}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
-    h+=`<div class="ad">${p.image?`<img src="${p.image}" alt="">`:""}<div class="body">
-      <div class="adv">${esc(p.advertiser||"")}</div>${p.text?`<div class="txt">${esc(p.text)}</div>`:""}${cta}</div></div>`;
+const CAR_MAX=5, CAR_MS=30000, carIdx={};
+function carHTML(list,key){
+  if(!list.length) return "";
+  if(list.length===1) return adFrame(list[0]);
+  if((carIdx[key]||0)>=list.length) carIdx[key]=0;
+  return `<div class="adcar" data-car="${key}"><div class="car-track">${list.map(p=>`<div class="car-slide">${adFrame(p)}</div>`).join("")}</div>
+    <button class="car-nav prev" data-cargo="-1" aria-label="הבאנר הקודם">‹</button><button class="car-nav next" data-cargo="1" aria-label="הבאנר הבא">›</button>
+    <div class="car-dots">${list.map((_,i)=>`<i data-cardot="${i}"${i===(carIdx[key]||0)?' class="on"':""}></i>`).join("")}</div></div>`;
+}
+function carGo(car,i,smooth){
+  const tr=car.querySelector(".car-track"), n=tr.children.length;
+  i=((i%n)+n)%n; carIdx[car.dataset.car]=i;
+  tr.scrollTo({left:i*tr.clientWidth,behavior:smooth&&!document.hidden?"smooth":"auto"});
+  car.querySelectorAll(".car-dots i").forEach((d,k)=>d.classList.toggle("on",k===i));
+}
+const restoreCars=()=>document.querySelectorAll(".adcar").forEach(c=>carGo(c,carIdx[c.dataset.car]||0,false));
+let carTimer=0;
+function carStart(){ clearInterval(carTimer); carTimer=setInterval(()=>document.querySelectorAll(".adcar").forEach(c=>{ if(c.offsetParent) carGo(c,(carIdx[c.dataset.car]||0)+1,true); }),CAR_MS); }
+document.addEventListener("scroll",e=>{                       // החלקה ידנית: מעדכנים את הנקודות ואת המיקום השמור
+  const tr=e.target; if(!tr.classList||!tr.classList.contains("car-track")||!tr.clientWidth) return;
+  const car=tr.parentNode, i=Math.round(tr.scrollLeft/tr.clientWidth);
+  if(i!==carIdx[car.dataset.car]){ carIdx[car.dataset.car]=i; car.querySelectorAll(".car-dots i").forEach((d,k)=>d.classList.toggle("on",k===i)); }
+},true);
+carStart();
+document.addEventListener("visibilitychange",()=>{ if(!document.hidden) restoreCars(); });
+function fitAds(){
+  // only the channel bar + ticker stay pinned; the logo row scrolls away to leave room for the ad column
+  const hd=document.querySelector("header.top"), row=hd.querySelector(".top-in");
+  const hide=innerWidth>980&&row?row.offsetHeight:0;
+  hd.style.top=-hide+"px";
+  const top=hd.offsetHeight-hide+14;
+  document.querySelectorAll(".side,.adside").forEach(e=>e.style.top=top+"px");
+  const sd=$("side"); if(sd) sd.style.maxHeight=(innerHeight-top-12)+"px";
+  document.querySelectorAll(".adframe").forEach(a=>{
+    const w0=+a.dataset.adw, col=a.closest(".adside");
+    if(col) a.style.width=Math.max(150,Math.min(col.clientWidth,(innerHeight-top-16)*w0/+a.dataset.adh))+"px";
+    if(a.clientWidth) a.querySelector("iframe").style.transform=`scale(${a.clientWidth/w0})`;
   });
-  h+=`<div class="placard"><div class="h">📣 מעוניינים לפרסם?</div><div class="p">חשיפה לאלפי גולשים ביום.<span class="n">${AD_CONTACT}</span></div></div>`;
-  return h;
+}
+addEventListener("resize",()=>{fitAds();restoreCars();markClamps();});
+let adShown=0, sideHTML="", adHTML="";
+function promoHTML(p){
+  let cta="";
+  if(p.cta_url) cta+=`<a class="cta" href="${esc(p.cta_url)}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a> `;
+  if(p.cta_phone) cta+=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${p.cta_url?"📞":esc(p.cta_label||"לפרטים")} ${esc(p.cta_phone)}</a>`;
+  if(p.html) return `<article class="post promo${p.mobile_only?" m-only":""}"><span class="ava">★</span><div class="col"><div class="bubble">
+    <div class="src"><span class="adv">${esc(p.advertiser||"")}</span><span class="tag">ממומן</span></div>
+    <div class="pbanner">${adFrame(p)}</div>
+    ${p.ts?`<div class="meta"><span>${relTime(p.ts)}</span></div>`:""}
+  </div></div></article>`;                                       // באנר בפיד: עדכון ממומן אחד, בלי גלילה (data-vk על הבאנר עצמו)
+  return `<article class="post promo" data-vk="${vkAd(p.id)}"><span class="ava">★</span><div class="col"><div class="bubble">
+    <div class="src"><span class="adv">${esc(p.advertiser||"")}</span><span class="tag">ממומן</span></div>
+    ${p.text?`<div class="bt">${promoText(p.text)}</div>`:""}${p.image?mediaHTML([{type:"image",image:p.image}]):""}${cta}
+    ${p.ts?`<div class="meta"><span>${relTime(p.ts)}</span></div>`:""}
+  </div></div></article>`;
 }
 
-function buildTicker(items){
-  const top=items.slice(0,10).filter(i=>i.text);
-  if(!top.length){tickEl.innerHTML="";return;}
-  const one=top.map(i=>`<span class="t-item"><span class="t-time">${hhmm(i.ts)}</span>${esc(i.text.split("\n")[0].slice(0,70))}</span>`).join("");
-  tickEl.innerHTML=one+one;  // duplicate for seamless loop
+function renderChips(){
+  const counts={};secItems().forEach(i=>{const u=i.post.split("/")[0];counts[u]=(counts[u]||0)+1;});
+  const us=Object.keys(data.channels).filter(u=>counts[u]&&(!filterKind||data.channels[u].kind===filterKind)).sort((a,b)=>(counts[b]||0)-(counts[a]||0));
+  $("chips").innerHTML=`<button class="chip all${filterCh||filterKind||filterMine?"":" on"}" data-ch="">כל הערוצים</button>`+
+    `<button class="chip mine${filterMine?" on":""}" data-mine>★ הערוצים שלי${mine.size?" ("+[...mine].filter(u=>counts[u]).length+")":""}</button>`+
+    Object.keys(KIND).filter(k=>secItems().some(i=>i.kind===k)).filter((k,_,a)=>a.length>1).map(k=>`<button class="chip kind${filterKind===k&&!filterCh?" on":""}" data-kind="${k}">${KIND[k]}</button>`).join("")+
+    us.map(u=>`<button class="chip${filterCh===u?" on":""}" data-ch="${esc(u)}" title="${esc(chName(u))}">${avatar(u)}<span class="cn">${esc(chName(u))}</span><span class="star${mine.has(u)?" on":""}" data-star="${esc(u)}" title="${mine.has(u)?"הסרה מהערוצים שלי":"הוספה לערוצים שלי"}">${mine.has(u)?"★":"☆"}</span></button>`).join("")+
+    "";
 }
 
-function render(isRefresh,promos){
-  let items=allItems;
-  if(query){const q=query.trim();items=items.filter(i=>(i.text||"").includes(q));}
-  const proms=(promos&&promos.items?promos.items:[]).filter(p=>p.enabled!==false);
-  const inline=proms.filter(p=>!p.pin);
-  const pinned=proms.filter(p=>p.pin);
-
-  if(!items.length){feedEl.innerHTML='<div class="empty">'+(query?"לא נמצאו תוצאות.":"אין מבזקים כרגע. חוזרים בקרוב…")+'</div>';}
-  else{
-    let html="";
-    items.forEach((it,i)=>{
-      html+=newsMsg(it, isRefresh && !currentIds.has(it.id));
-      if(inline.length && (i+1)%7===0) html+=promoMsg(inline[((i+1)/7-1)%inline.length]);
-    });
-    feedEl.innerHTML=html;
-  }
-  sideEl.innerHTML=sideHTML(pinned);
-  currentIds=new Set(allItems.map(i=>i.id));
+function renderSide(){
+  const pinned=secPromos().filter(p=>p.enabled!==false&&p.pin);
+  const ah=carHTML(pinned.filter(p=>p.html).slice(0,CAR_MAX),"side-"+section);
+  if(ah!==adHTML){$("adside").innerHTML=adHTML=ah;}
+  let h=pinned.filter(p=>!p.html).map(p=>`<div class="box" data-vk="${vkAd(p.id)}">${p.image?`<img class="ad-img" src="${esc(p.image)}" alt="">`:""}<h3>${esc(p.advertiser||"")}</h3><p style="white-space:pre-wrap">${promoText(p.text)}</p>
+    ${p.cta_phone?`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")}</a>`:""}</div>`).join("");
+  h+=`<div class="box"><h3>מה זה מבזקים?</h3><p>מבזקי חדשות, משרות ומבצעים במקום אחד, מתעדכן לאורך היום. בלי עדכונים בשבתות ובחגים.</p><button class="sidelink" data-msg>💬 הודעה למערכת</button></div>`;
+  h+=PLACARD;
+  if(h!==sideHTML){$("side").innerHTML=sideHTML=h;}
+  fitAds(); restoreCars(); observeViews($("side")); observeViews($("adside"));
 }
 
+function render(isRefresh){
+  let items=secItems().filter(i=>!removed.has(i.post));
+  if(filterKind) items=items.filter(i=>i.kind===filterKind);
+  if(filterCh) items=items.filter(i=>i.post.split("/")[0]===filterCh);
+  else if(filterMine) items=items.filter(i=>mine.has(i.post.split("/")[0]));
+  if(query) items=items.filter(i=>(i.text||"").includes(query)||(i.title||"").includes(query));
+  if(!query&&!filterCh&&!filterKind&&feedAds.length)            // פרסומות הפיד משתלבות לפי הזמן, כמו עדכון
+    items=items.concat(feedAds.map(p=>({ad:p,ts:p.ts}))).sort((a,b)=>new Date(b.ts||0)-new Date(a.ts||0));
+  if(!items.length){$("feed").innerHTML=`<div class="empty">${query||filterCh||filterKind?"לא נמצאו עדכונים.":filterMine?(mine.size?"אין כרגע פוסטים חדשים בערוצים שסימנת.":"עוד לא סימנת ערוצים. לחצו על ☆ ליד שם ערוץ ברשימה למעלה."):SEC[section].empty}</div>`;return;}
+  const inline=secPromos().filter(p=>p.enabled!==false&&!p.pin&&!p.html&&!p.ts);   // פרסומות טקסט ישנות בלי תור: כמו קודם
+  let html="";
+  items.slice(0,shown).forEach((it,i)=>{
+    html+=it.ad?promoHTML(it.ad):postHTML(it,isRefresh&&!seen.has(it.post));
+    if(i===3) html+=`<article class="post adask">${PLACARD}</article>`;   // נייד/מסך צר: אין עמודת צד
+    if((i+1)%7||!inline.length) return;
+    html+=promoHTML(inline[((i+1)/7-1)%inline.length]);
+  });
+  if(items.length>shown) html+=`<button class="more" id="more">עוד עדכונים</button>`;
+  $("feed").innerHTML=html; fitAds(); restoreCars(); observeViews($("feed")); markClamps($("feed"));
+}
+
+function buildTicker(){
+  const top=secItems().filter(i=>i.text&&!removed.has(i.post)).slice(0,10);
+  const one=top.map(i=>`<span class="t-item"><span class="t-time">${hhmm(i.ts)}</span>${esc(i.title||i.text.split("\n")[0].slice(0,80))}</span>`).join("");
+  $("tickTrack").innerHTML=one+one;
+  document.querySelector(".ticker").style.display=top.length?"":"none";
+}
 async function jget(u){const r=await fetch(u+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);return r.json();}
-
 async function load(isRefresh){
   try{
-    const [news,promos]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]}))]);
-    if(news.brand){
-      brandName=news.brand.name||"מבזקים";
-      document.getElementById("brandName").textContent=brandName;
-      const subs=news.brand.subscribers||DEFAULT_SUBS;
-      document.getElementById("brandSub").innerHTML=(news.brand.tagline||"מהדורת החדשות המובילה")+" · <b>"+subs+"</b> עוקבים";
+    const [n,p,r,dj]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]})),jget(REMOVED_URL).catch(()=>({posts:[]})),jget(DIRECT_URL).catch(()=>({items:[]}))]);
+    const hm=new Date().toTimeString().slice(0,5);                                // "להציג עד" ושעות הצגה מכלי הניהול
+    const inHours=x=>!x.from_hour||!x.to_hour||(x.from_hour<=x.to_hour?hm>=x.from_hour&&hm<x.to_hour:hm>=x.from_hour||hm<x.to_hour);
+    const live=x=>(!x.until||new Date(x.until+"T23:59:59")>=new Date())&&(!x.start||new Date(x.start)<=new Date())&&inHours(x);   // start = "להציג החל מ-"
+    data={items:n.items||[],channels:n.channels||{}}; promos={items:(p.items||[]).filter(live)}; removed=new Set(r.posts||[]);
+    const direct=(dj.items||[]).filter(d=>d.id&&d.text&&d.kind!=="realestate"&&live(d)).map(d=>({post:DIRECT_CH+"/"+d.id,kind:"jobs",text:d.text,ts:d.ts,direct:true}));
+    if(direct.length){
+      data.channels[DIRECT_CH]={title:"משרות מהגולשים"};
+      data.items=data.items.concat(direct).sort((a,b)=>new Date(b.ts||0)-new Date(a.ts||0));
     }
-    allItems=news.items||[];
-    buildTicker(allItems);
-    render(isRefresh,promos);
-    if(news.updated) updEl.textContent="עודכן "+relTime(news.updated);
-    window._promos=promos;
-  }catch(e){ if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון מבזקים כרגע.<br>נסו לרענן בעוד רגע.</div>'; }
+    // פרסומות בפיד (טקסט וגם באנרים) הן עדכונים: עולות בזמן שנקבע להן בתור, ו-10 דקות אחרי כל אחת לא מוצגות משרות חדשות,
+    // כדי שהיא תישאר בראש הפיד. אחר כך המשרות שהצטברו מופיעות מעליה והיא יורדת למטה כמו כל עדכון.
+    // באנר "לנייד בלבד" לא נחשב במחשב (שם הוא מוצג בצד), כדי שלא יעצור משרות בלי שרואים אותו.
+    const now=Date.now(), at=x=>new Date(x.ts).getTime(), wide=matchMedia("(min-width:981px)").matches;
+    feedAds=secPromos().filter(x=>x.enabled!==false&&!x.pin&&!(x.mobile_only&&wide)&&x.ts&&at(x)<=now&&now-at(x)<FEED_MAX_AGE);
+    const lastAd=Math.max(0,...feedAds.map(at));
+    if(now-lastAd<AD_HOLD_MS) data.items=data.items.filter(i=>new Date(i.ts||0).getTime()<=lastAd);
+    clearTimeout(holdTimer); clearTimeout(holdTimer2);                                     // בסוף ההשהיה מרעננים מיד, בלי לחכות לרענון הבא
+    if(now-lastAd<AD_HOLD_MS) holdTimer=setTimeout(()=>load(true),lastAd+AD_HOLD_MS-now+1500);
+    const nextAd=Math.min(...secPromos().filter(x=>x.enabled!==false&&!x.pin&&!(x.mobile_only&&wide)&&x.ts&&at(x)>now).map(at));
+    if(isFinite(nextAd)&&nextAd-now<REFRESH_MS) holdTimer2=setTimeout(()=>load(true),nextAd-now+500);   // פרסומת שמתוזמנת לעוד פחות מדקה
+    renderChips(); renderSide(); buildTicker(); render(isRefresh&&!first);
+    seen=new Set(data.items.map(i=>i.post)); first=false;
+    if(n.updated) $("updatedLine").textContent="עודכן "+relTime(n.updated);
+  }catch(e){ if(!isRefresh) $("feed").innerHTML='<div class="empty">לא ניתן לטעון עדכונים כרגע. נסו לרענן בעוד רגע.</div>'; }
 }
 
-// interactions
-document.addEventListener("click",e=>{
-  const like=e.target.closest(".rx.like");
-  if(like){
-    const id=like.dataset.id, lc=like.querySelector(".lc");
-    if(liked.has(id)){liked.delete(id);like.classList.remove("on");lc.textContent=+lc.textContent-1;}
-    else{liked.add(id);like.classList.add("on");lc.textContent=+lc.textContent+1;}
-    localStorage.setItem("mvz_likes",JSON.stringify([...liked]));return;
-  }
-  const img=e.target.closest(".media img");
-  if(img){const l=document.getElementById("lightbox");document.getElementById("lbImg").src=img.src;l.classList.add("open");}
-});
-document.getElementById("lightbox").addEventListener("click",()=>document.getElementById("lightbox").classList.remove("open"));
-document.getElementById("q").addEventListener("input",e=>{query=e.target.value;render(false,window._promos);});
+/* ── מונה כניסות וצפיות ──
+   abacus: מונה ציבורי, בלי חשבון ובלי מסד נתונים (עובר בנטפרי). לא נשלח שום פרט על הגולש.
+   כניסה: pv-<יום> בכל טעינה, u-<יום> פעם ביום לכל דפדפן. צפייה: פריט שהופיע על המסך לפחות שנייה, פעם אחת לכל דפדפן. */
+const CNT="https://abacus.jasoncameron.dev", CNS="mivzakim-site";
+const dayKey=()=>new Date().toLocaleDateString("en-CA",{timeZone:"Asia/Jerusalem"}).replace(/-/g,"");
+const vkClean=s=>String(s).replace(/[^A-Za-z0-9_.-]/g,"_").slice(0,60);
+const vkPost=post=>"i-"+vkClean(post), vkAd=id=>"a-"+vkClean(String(id||"").replace(/-(side|feed)$/,""));   // פרסומת: צד ופיד נספרים יחד
+const lsGet=(k,d)=>{try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v);}catch(_){return d;}};
+const lsSet=(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v));}catch(_){}};
+const hitQ=[]; let hitBusy=false;
+function hit(key){ hitQ.push(key); if(!hitBusy) hitPump(); }
+function hitPump(){                                             // לאט: המונה מגביל ל-30 בקשות ב-10 שניות
+  const k=hitQ.shift(); if(!k){hitBusy=false;return;} hitBusy=true;
+  fetch(`${CNT}/hit/${CNS}/${k}`,{keepalive:true}).catch(()=>{}).then(()=>setTimeout(hitPump,400));
+}
+(function countVisit(){ const d=dayKey(); hit("pv-"+d); if(lsGet("ng_day","")!==d){ lsSet("ng_day",d); hit("u-"+d); } })();
+const viewed=new Set(lsGet("ng_seen",[]));
+const vio=("IntersectionObserver" in window)?new IntersectionObserver(es=>es.forEach(e=>{
+  const el=e.target, k=el.dataset.vk;
+  // "נראה": חצי ממנו על המסך, או (בפריט ארוך מהמסך) לפחות 40% מגובה המסך
+  const seenNow=e.isIntersecting&&e.intersectionRect.height>=Math.min(e.boundingClientRect.height*.5,innerHeight*.4);
+  if(!seenNow){clearTimeout(el._vt);el._vt=0;return;}
+  if(el._vt) return;
+  el._vt=setTimeout(()=>{ el._vt=0; vio.unobserve(el); if(viewed.has(k)) return;
+    viewed.add(k); lsSet("ng_seen",[...viewed].slice(-3000)); hit(k); hit("iv-"+dayKey()); },1000);
+}),{threshold:[0,.1,.25,.4,.5,.75,1]}):null;
+function observeViews(root){ if(vio&&root) root.querySelectorAll("[data-vk]").forEach(el=>{ if(!viewed.has(el.dataset.vk)) vio.observe(el); }); }
 
+/* לחצן ימני על משרה / עדכון / פרסומת: כמה אנשים צפו בה באתר */
+function closeVpop(){ const p=$("vpop"); if(p) p.remove(); }
+document.addEventListener("contextmenu",e=>{
+  const el=e.target.closest("[data-vk]");
+  if(!el||$("vpop")||e.target.closest("a,img,video,input,textarea")||String(getSelection())) { closeVpop(); return; }   // קישור/תמונה/טקסט מסומן: התפריט הרגיל
+  e.preventDefault();
+  const p=document.createElement("div"); p.id="vpop"; p.innerHTML="👁 בודק…"; document.body.appendChild(p);
+  p.style.left=Math.max(8,Math.min(e.clientX,innerWidth-p.offsetWidth-8))+"px"; p.style.top=Math.max(8,Math.min(e.clientY,innerHeight-p.offsetHeight-8))+"px";
+  const ad=el.dataset.vk.startsWith("a-");
+  fetch(`${CNT}/get/${CNS}/${el.dataset.vk}`).then(r=>r.ok?r.json():{value:0}).catch(()=>null).then(j=>{
+    if(!p.isConnected) return;
+    const n=j&&j.value||0, what=ad?"את הפרסומת":"בזה";
+    p.innerHTML=j?`👁 ${n===0?"עדיין אף אחד לא "+(ad?"ראה ":"צפה ")+what:n===1?"אדם אחד "+(ad?"ראה ":"צפה ")+what:n.toLocaleString("he-IL")+" אנשים "+(ad?"ראו ":"צפו ")+what} באתר<small>כל גולש נספר פעם אחת · הספירה החלה ב-20.10.2026</small>`
+                 :"לא ניתן לבדוק כרגע. נסו שוב בעוד רגע.";
+  });
+});
+["click","scroll","resize"].forEach(ev=>addEventListener(ev,closeVpop,{passive:true}));
+document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeVpop(); });
+
+/* modals */
+const openM=id=>$(id).classList.add("open"), closeM=el=>el.closest(".modal").classList.remove("open");
+let repPost="";
+function openReport(post){
+  repPost=post||"";
+  const it=data.items.find(i=>i.post===post);
+  $("repTitle").textContent=post?"בקשת הסרה לפוסט":"בקשת הסרה / פנייה";
+  $("repQuote").style.display=it?"":"none";
+  $("repQuote").textContent=it?(it.text||"[תמונה]").slice(0,220):"";
+  const tg=false;                                                    // מזהה המקור נשלח רק במייל, לא מוצג
+  $("repId").style.display=tg?"":"none";
+  if(tg){ $("repIdLink").textContent=post; $("repIdLink").href="https://t.me/"+post; $("repIdCopy").dataset.copynum=post; }
+  $("repStatus").textContent=""; $("repForm").reset(); $("repSend").disabled=false;
+  openM("report");
+}
+$("repForm").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const fd=new FormData();
+  fd.append("access_key",REPORT_KEY);
+  fd.append("subject","מבזקים – בקשת הסרה"+(repPost?" ("+repPost+")":""));
+  fd.append("from_name","מבזקים");
+  fd.append("post",repPost||"כללי");
+  if(repPost) fd.append("link","https://t.me/"+repPost);
+  fd.append("reason",$("repReason").value);
+  fd.append("details",$("repText").value);
+  fd.append("contact",$("repContact").value);
+  $("repSend").disabled=true; $("repStatus").style.color=""; $("repStatus").textContent="שולח…";
+  try{
+    const r=await fetch("https://api.web3forms.com/submit",{method:"POST",body:fd}); const j=await r.json();
+    if(!j.success) throw 0;
+    $("repStatus").style.color="var(--free)"; $("repStatus").textContent="✓ הבקשה התקבלה ותטופל בהקדם. תודה!";
+    setTimeout(()=>$("report").classList.remove("open"),2200);
+  }catch(_){ $("repSend").disabled=false; $("repStatus").style.color="#c0392b"; $("repStatus").textContent="השליחה נכשלה. נסו שוב בעוד רגע."; }
+});
+
+function openJob(){ $("jobStatus").textContent=""; $("jobSend").disabled=false; openM("job"); setTimeout(()=>$("jobTitle").focus(),50); }
+$("jobForm").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const v=id=>$(id).value.trim();
+  if(!v("jobTitle")||!v("jobText")||!v("jobContact")) return;
+  const fd=new FormData();
+  fd.append("access_key",REPORT_KEY);
+  fd.append("subject","מבזקים – משרה חדשה לאישור: "+v("jobTitle"));
+  fd.append("from_name","מבזקים");
+  fd.append("title",v("jobTitle"));
+  fd.append("details",v("jobText"));
+  fd.append("city",v("jobCity"));
+  fd.append("scope",$("jobScope").value);
+  fd.append("contact",v("jobContact"));
+  fd.append("by",v("jobBy"));
+  if($("jobBot").checked) fd.append("botcheck","1");
+  $("jobSend").disabled=true; $("jobStatus").style.color=""; $("jobStatus").textContent="שולח…";
+  try{
+    const r=await fetch("https://api.web3forms.com/submit",{method:"POST",body:fd}); const j=await r.json();
+    if(!j.success) throw 0;
+    $("jobStatus").style.color="var(--free)"; $("jobStatus").textContent="✓ המשרה התקבלה ותעלה ללוח לאחר אישור. תודה!";
+    $("jobForm").reset();
+    setTimeout(()=>$("job").classList.remove("open"),2600);
+  }catch(_){ $("jobSend").disabled=false; $("jobStatus").style.color="#c0392b"; $("jobStatus").textContent="השליחה נכשלה. נסו שוב בעוד רגע."; }
+});
+function openMsg(){ $("msgStatus").textContent=""; $("msgSend").disabled=false; openM("msg"); setTimeout(()=>$("msgText").focus(),50); }
+$("msgForm").addEventListener("submit",async e=>{
+  e.preventDefault();
+  const text=$("msgText").value.trim(); if(!text) return;
+  const fd=new FormData();
+  fd.append("access_key",REPORT_KEY);
+  fd.append("subject","מבזקים – הודעה למערכת");
+  fd.append("from_name","מבזקים");
+  fd.append("message",text);
+  fd.append("contact",$("msgContact").value);
+  if($("msgBot").checked) fd.append("botcheck","1");
+  $("msgSend").disabled=true; $("msgStatus").style.color=""; $("msgStatus").textContent="שולח…";
+  try{
+    const r=await fetch("https://api.web3forms.com/submit",{method:"POST",body:fd}); const j=await r.json();
+    if(!j.success) throw 0;
+    $("msgStatus").style.color="var(--free)"; $("msgStatus").textContent="ההודעה נשלחה. תודה!";
+    $("msgForm").reset();
+    setTimeout(()=>$("msg").classList.remove("open"),2200);
+  }catch(_){ $("msgSend").disabled=false; $("msgStatus").style.color="#c0392b"; $("msgStatus").textContent="השליחה נכשלה. נסו שוב בעוד רגע."; }
+});
+if(location.hash==="#msg") openMsg();
+addEventListener("hashchange",()=>{ if(location.hash==="#msg") openMsg(); if(location.hash==="#deals") setSection("deals"); if(location.hash==="#jobs") setSection("jobs"); if(location.hash===""||location.hash==="#news") setSection("news"); });
+
+document.addEventListener("click",e=>{
+  const t=e.target;
+  const cg=t.closest("[data-cargo]"); if(cg){const c=cg.closest(".adcar");carGo(c,(carIdx[c.dataset.car]||0)+(+cg.dataset.cargo),true);carStart();return;}
+  const cd=t.closest("[data-cardot]"); if(cd){carGo(cd.closest(".adcar"),+cd.dataset.cardot,true);carStart();return;}
+  const sc=t.closest("[data-sec]"); if(sc){setSection(sc.dataset.sec);return;}
+  if(t.closest("[data-job]")){section==="jobs"?openJob():openMsg();return;}
+  const st=t.closest("[data-star]"); if(st){const u=st.dataset.star; mine.has(u)?mine.delete(u):mine.add(u); saveMine(); renderChips(); if(filterMine) render(false); return;}
+  if(t.closest("[data-addch]")){openMsg();return;}
+  if(t.closest("[data-mine]")){filterMine=!filterMine; filterCh=""; filterKind=""; shown=PAGE; renderChips(); render(false); window.scrollTo({top:0,behavior:"smooth"}); return;}
+  if(t.closest("[data-msg]")){openMsg();return;}
+  const ch=t.closest("[data-ch]");
+  const kd=t.closest("[data-kind]");
+  if(kd){filterKind=kd.dataset.kind;filterCh="";shown=PAGE;renderChips();render(false);window.scrollTo({top:0,behavior:"smooth"});return;}
+  if(ch){filterCh=ch.dataset.ch;filterMine=false;if(!filterCh)filterKind="";shown=PAGE;renderChips();render(false);window.scrollTo({top:0,behavior:"smooth"});return;}
+  const am=t.closest("[data-admail]"); if(am){am.href=adMailURL();return;}   // הקישור נבנה רק בלחיצה
+  const cn=t.closest("[data-copynum]"); if(cn){navigator.clipboard&&navigator.clipboard.writeText(cn.dataset.copynum).then(()=>{cn.textContent="הועתק ✓";setTimeout(()=>cn.textContent="העתקה",1500);});return;}
+  const rep=t.closest("[data-rep]"); if(rep){openReport(rep.dataset.rep);return;}
+  const op=t.closest("[data-open]"); if(op){op.dataset.open==="about"?openM("about"):openReport("");return;}
+  if(t.closest("[data-close]")||t.classList.contains("modal")){closeM(t);return;}
+  if(t.id==="more"){shown+=PAGE;render(false);return;}
+  const mo=t.closest("[data-more]"); if(mo){ const id=mo.dataset.more, txt=mo.previousElementSibling; if(openPosts.has(id)){openPosts.delete(id);txt.classList.add("clamp");mo.textContent="קרא עוד ▾";mo.closest(".post").scrollIntoView({block:"nearest"});} else {openPosts.add(id);txt.classList.remove("clamp");mo.textContent="הצג פחות ▴";} return; }
+  const img=t.closest(".media img"); if(img){$("lbImg").src=img.src;$("lightbox").classList.add("open");}
+});
+$("lightbox").addEventListener("click",()=>$("lightbox").classList.remove("open"));
+document.addEventListener("keydown",e=>{if(e.key==="Escape")document.querySelectorAll(".modal.open,.lb.open").forEach(m=>m.classList.remove("open"));});
+$("aboutLink").addEventListener("click",()=>openM("about"));
+$("q").addEventListener("input",e=>{query=e.target.value.trim();shown=PAGE;render(false);});
+try{ if(localStorage.getItem("tf_notice")) $("notice").remove(); }catch(_){}
+$("noticeX").addEventListener("click",()=>{$("notice").remove();try{localStorage.setItem("tf_notice","1")}catch(_){}});
+
+applySection();
 load(false);
 setInterval(()=>load(true),REFRESH_MS);
 </script>

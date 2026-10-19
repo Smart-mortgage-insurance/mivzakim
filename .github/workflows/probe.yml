@@ -1,0 +1,14 @@
+name: Probe channels
+on:
+  workflow_dispatch:
+    inputs:
+      usernames: { description: "space-separated usernames", required: false, default: "" }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python tools/probe.py ${{ inputs.usernames }}

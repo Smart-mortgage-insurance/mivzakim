@@ -1,15 +1,37 @@
 {
- "items": [
-  {
-   "id": "promo-example",
-   "enabled": false,
-   "pin": true,
-   "advertiser": "שם העסק",
-   "text": "טקסט הפרסומת כאן. שורה שנייה אם צריך.",
-   "image": "",
-   "cta_label": "לפרטים חייגו",
-   "cta_phone": "050-0000000",
-   "cta_url": ""
-  }
- ]
+  "items": [
+    {
+      "enabled": false,
+      "advertiser": "קונים חכם",
+      "html": "ads/konim.html",
+      "w": 1080,
+      "h": 1800,
+      "cta_url": "https://smart-mortgage-insurance.github.io/konim-hacham/?utm_source=mivzakim",
+      "id": "konim-side",
+      "pin": true
+    },
+    {
+      "enabled": false,
+      "advertiser": "קונים חכם",
+      "html": "ads/konim.html",
+      "w": 1080,
+      "h": 1800,
+      "cta_url": "https://smart-mortgage-insurance.github.io/konim-hacham/?utm_source=mivzakim",
+      "id": "konim-feed",
+      "pin": false,
+      "mobile_only": true,
+      "ts": "2026-10-10T23:27:23Z"
+    },
+    {
+      "enabled": false,
+      "advertiser": "קונים חכם",
+      "html": "ads/ad261011032320.html",
+      "w": 720,
+      "h": 900,
+      "cta_url": "https://smart-mortgage-insurance.github.io/konim-hacham/?utm_source=mivzakim",
+      "id": "ad261011032320-feed",
+      "pin": false,
+      "ts": "2026-10-11T00:35:19Z"
+    }
+  ]
 }

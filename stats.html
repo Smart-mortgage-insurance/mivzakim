@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>מבזקים · נתוני כניסות</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Heebo:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#f6f4ee;--card:#fffdf8;--ink:#1d2b2a;--muted:#5f6d6b;--line:#e3ded2;--tg:#7a1424;--bar:#11876c;--bar-hi:#0b6b55;
+        --gold:#9a7b26;--gold-soft:#f3e9cc;--grid:#ebe6da;--tip:#1d2b2a;--tip-ink:#fff}
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121816;--card:#1a2220;--ink:#eef3f1;--muted:#a3b2ae;--line:#2b3633;--tg:#8fb9ae;
+        --bar:#2fa486;--bar-hi:#4fc0a2;--gold:#d8b860;--gold-soft:#2c2718;--grid:#26302d;--tip:#eef3f1;--tip-ink:#121816}}
+  :root[data-theme="dark"]{--bg:#121816;--card:#1a2220;--ink:#eef3f1;--muted:#a3b2ae;--line:#2b3633;--tg:#8fb9ae;
+        --bar:#2fa486;--bar-hi:#4fc0a2;--gold:#d8b860;--gold-soft:#2c2718;--grid:#26302d;--tip:#eef3f1;--tip-ink:#121816}
+  *{box-sizing:border-box}
+  html,body{overflow-x:clip;max-width:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.55}
+  .wrap{max-width:1040px;margin:0 auto;padding:28px 16px 60px}
+  header{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:34px}
+  header a{display:block;color:inherit}
+  .wordmark{height:42px;width:auto;display:block}
+  header .tag{margin-inline-start:auto;font-size:13px;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:4px 12px}
+  h1{font-family:"Suez One",serif;font-weight:400;font-size:clamp(30px,5.4vw,52px);line-height:1.1;margin:0 0 10px;letter-spacing:-.5px}
+  h1 em{font-style:normal;color:var(--bar)}
+  .lead{font-size:clamp(16px,2vw,19px);color:var(--muted);max-width:640px;margin:0 0 30px}
+  .hero{display:grid;grid-template-columns:1.2fr 1fr;gap:18px;margin-bottom:18px}
+  @media(max-width:760px){.hero{grid-template-columns:1fr}}
+  .big{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:26px 26px 22px}
+  .big .n{font-family:"Suez One",serif;font-size:clamp(64px,11vw,108px);line-height:1;color:var(--ink)}
+  .big .l{font-size:17px;font-weight:700;margin-top:8px}
+  .big .s{font-size:13.5px;color:var(--muted)}
+  .tiles{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .tile{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px}
+  .tile .n{font-family:"Suez One",serif;font-size:32px;line-height:1.1}
+  .tile .l{font-size:13.5px;color:var(--muted)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:22px 22px 16px;margin-bottom:18px}
+  .card h2{font-size:19px;margin:0 0 2px}
+  .card .sub{font-size:13.5px;color:var(--muted);margin:0 0 14px}
+  .chart-top{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+  .chart-top button{margin-inline-start:auto;border:1px solid var(--line);background:none;color:var(--muted);border-radius:999px;padding:4px 12px;font:inherit;font-size:13px;cursor:pointer}
+  #chart{position:relative}
+  #chart svg{display:block;width:100%;height:auto}
+  #chart .tick{font-size:11px;fill:var(--muted)}
+  #chart .col{cursor:default}
+  #chart .col:hover .b{fill:var(--bar-hi)}
+  #tip{position:absolute;pointer-events:none;background:var(--tip);color:var(--tip-ink);border-radius:8px;padding:6px 10px;font-size:13px;white-space:nowrap;opacity:0;transform:translate(-50%,-110%);transition:opacity .1s}
+  #tip b{font-size:15px}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{text-align:right;padding:6px 8px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:500}
+  td.num{font-variant-numeric:tabular-nums}
+  .why{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:30px 0 18px}
+  @media(max-width:760px){.why{grid-template-columns:1fr}}
+  .why div{border-top:3px solid var(--bar);padding-top:12px}
+  .why b{display:block;font-size:17px;margin-bottom:4px}
+  .why p{margin:0;color:var(--muted);font-size:14.5px}
+  .formats{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+  .formats li{display:flex;gap:12px;align-items:flex-start}
+  .formats .k{flex-shrink:0;background:var(--gold-soft);color:var(--gold);border-radius:8px;padding:2px 10px;font-weight:800;font-size:13px;margin-top:2px}
+  .cta{display:flex;align-items:center;gap:18px;flex-wrap:wrap;background:var(--ink);color:var(--bg);border-radius:22px;padding:24px 26px;margin-top:24px}
+  .cta h3{font-family:"Suez One",serif;font-weight:400;font-size:26px;margin:0}
+  .cta p{margin:2px 0 0;opacity:.8}
+  .cta a{margin-inline-start:auto;background:var(--gold);color:#fff;text-decoration:none;font-weight:800;padding:12px 26px;border-radius:12px;font-size:16px}
+  footer{margin-top:26px;font-size:12.5px;color:var(--muted)}
+  .empty{color:var(--muted);padding:30px 0;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <a href="./" aria-label="לאתר מבזקים"><svg class="wordmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 366 92" role="img" aria-label="מבזקים"><path fill="#a3a3a3" fill-rule="evenodd" d="M253.2 28.0L251.7 27.0L250.0 26.7L248.3 25.8L247.3 25.8L244.0 24.8L238.5 24.3L237.7 24.0L231.0 24.0L230.2 24.3L222.2 25.0L220.8 25.5L216.3 26.2L213.3 27.0L211.5 27.8L210.8 28.7L210.7 30.5L209.8 32.3L194.8 52.0L192.5 54.5L191.3 55.0L190.0 55.0L188.7 54.5L187.2 53.0L185.3 49.7L183.0 49.7L183.0 52.0L183.7 53.3L184.0 55.0L184.7 56.2L186.0 60.0L189.0 65.8L189.5 66.3L191.8 66.3L194.5 63.0L200.5 57.0L204.0 54.0L212.2 48.3L220.2 44.2L221.5 43.8L223.0 43.0L224.2 42.8L225.3 42.2L227.2 41.8L228.8 41.0L230.3 40.8L232.0 40.2L234.7 39.8L236.7 39.2L241.7 38.8L242.7 38.5L252.7 38.5L253.0 37.8ZM180.0 18.8L180.0 24.2L180.3 24.5L182.8 24.5L184.0 24.8L192.5 25.2L193.3 25.5L195.8 25.5L197.0 25.8L208.7 26.5L210.8 25.8L212.3 25.0L213.0 25.0L215.7 24.0L218.2 23.7L219.3 23.2L223.3 22.8L226.3 22.2L231.0 21.8L240.7 22.0L245.0 23.0L246.3 23.0L250.7 24.5L253.2 24.5L252.7 14.5L252.2 13.8L249.7 13.0L247.5 12.8L245.0 12.0L242.7 11.7L241.3 11.0L239.7 10.8L237.0 9.8L235.7 9.7L234.3 9.0L233.2 8.8L231.3 8.0L226.8 6.7L225.7 6.0L224.2 5.7L223.2 5.0L219.7 3.8L217.8 2.8L215.3 2.8L213.5 3.8L212.5 4.0L211.5 4.7L210.0 5.0L209.0 5.7L207.5 6.0L206.3 6.7L204.7 7.0L203.0 7.8L201.7 8.0L200.0 8.8L198.7 9.0L197.0 9.8L195.5 10.0L194.2 10.7L192.0 11.0L191.0 11.5L188.8 11.8L185.7 12.8L184.3 12.8L181.5 13.5L180.7 14.2L180.7 15.5L180.3 16.2L180.3 17.7Z"/><path fill="#787878" fill-rule="evenodd" d="M251.8 41.2L239.0 41.2L237.2 42.0L233.5 42.2L232.2 43.0L229.7 43.2L228.5 44.0L226.5 44.2L225.3 45.0L223.8 45.2L222.8 46.0L221.3 46.2L220.3 47.0L219.2 47.2L218.2 48.0L217.2 48.2L216.2 49.0L215.0 49.3L214.0 50.2L213.5 50.2L211.2 52.0L210.0 52.3L208.2 54.0L207.3 54.2L203.0 58.0L202.3 58.2L202.0 58.8L201.3 59.2L201.0 59.8L199.8 60.8L199.3 61.0L197.0 63.8L195.2 65.3L195.0 66.0L192.2 69.2L192.2 70.2L197.2 76.5L197.8 76.8L198.2 77.5L198.8 77.8L199.2 78.5L199.8 78.8L201.3 80.7L202.0 80.8L206.3 84.7L207.2 84.8L208.2 85.8L210.2 86.8L210.8 87.5L212.0 87.8L212.5 88.5L214.0 88.8L214.8 89.7L215.8 90.0L218.5 89.7L219.5 88.8L222.2 87.7L223.0 86.8L225.3 85.7L228.8 82.8L229.5 82.7L236.8 75.5L237.7 74.2L238.7 73.3L238.8 72.7L240.7 70.7L240.8 70.0L242.7 67.7L242.8 66.8L243.5 66.3L245.0 63.0L245.5 62.7L245.8 61.2L246.7 60.2L246.8 59.0L247.7 58.0L247.8 56.5L248.7 55.5L248.8 53.7L249.7 52.5L249.8 50.3L250.7 49.2L250.8 46.3L251.7 44.5ZM75.2 8.0L74.8 25.5L75.2 25.8L103.0 25.8L104.3 26.7L106.0 26.8L106.8 27.7L107.7 28.0L109.8 30.2L110.2 31.2L111.0 32.2L111.2 34.2L112.0 35.8L112.2 39.5L112.2 86.2L132.5 86.3L132.8 85.8L132.7 29.8L131.8 28.3L131.7 25.5L130.8 24.5L130.7 22.8L129.8 22.0L129.5 20.3L129.0 20.0L128.8 19.2L126.8 16.7L126.8 16.3L123.5 13.0L123.2 13.0L121.2 11.3L119.8 10.8L119.5 10.3L117.8 10.0L116.8 9.2L114.5 9.0L113.0 8.2ZM179.5 7.8L145.0 8.0L144.5 8.3L144.5 25.5L145.2 25.8L159.0 25.7L159.8 25.8L160.8 27.2L161.2 33.5L162.0 35.8L162.2 41.5L163.0 43.8L163.2 49.5L164.0 51.5L164.0 52.5L163.7 53.2L162.7 54.0L161.3 54.0L160.5 54.3L159.8 55.0L158.3 55.0L157.5 55.3L156.8 56.0L155.3 56.0L154.5 56.3L153.8 57.0L152.0 57.3L151.7 57.8L150.5 58.2L149.8 58.8L148.8 59.2L148.0 60.0L147.2 60.3L147.0 60.8L144.2 63.5L141.2 68.2L141.0 69.3L140.2 70.3L139.8 72.7L139.2 73.7L139.0 77.0L138.2 79.0L138.0 84.0L137.7 84.7L137.8 86.2L156.8 86.2L157.7 84.8L157.8 79.5L158.7 78.2L159.0 76.2L159.5 75.8L159.8 74.7L160.8 73.7L160.8 73.3L162.3 71.8L162.7 71.8L163.7 70.8L164.7 70.7L165.8 69.8L166.7 69.8L167.0 70.2L167.2 71.8L168.0 73.5L168.2 77.8L169.0 79.5L169.2 83.5L170.3 86.3L188.5 86.3L188.8 86.0L188.7 79.7L187.8 77.3L187.7 71.3L186.8 69.3L186.7 67.8L185.8 67.0L185.7 66.2L184.8 65.2L184.5 64.0L184.0 63.7L183.7 62.2L182.8 61.2L182.5 59.5L181.8 59.0L181.7 57.5L180.8 56.3L180.7 54.5L179.8 53.3L179.7 51.5L179.2 50.5L178.0 49.2L175.0 48.0L173.7 46.2L173.8 43.2L174.5 42.5L175.0 41.0L175.7 40.3L176.0 39.0L176.3 38.7L176.3 37.3L174.5 35.2L173.0 34.2L167.8 29.0L167.8 28.3L167.2 27.0L168.0 24.3L169.5 22.8L171.2 22.7L172.5 21.8L173.5 22.2L175.0 22.2L176.5 21.0L176.8 18.7L176.8 14.3L177.5 13.3L177.8 11.8L178.8 10.8L179.8 10.5L179.8 8.2ZM2.3 7.8L2.2 86.2L67.5 86.3L67.8 85.8L67.8 8.2ZM24.2 25.8L45.3 25.7L46.5 25.8L47.0 26.3L47.2 67.0L46.7 68.0L24.5 68.2L23.8 67.7L23.7 26.7Z"/><path fill="#9c1b2e" fill-rule="evenodd" d="M171.2 26.7L171.2 27.7L171.7 28.3L177.8 33.8L179.2 33.8L179.7 33.5L180.8 33.5L182.7 33.0L187.7 32.8L190.8 32.0L196.0 31.8L198.8 31.0L200.0 31.0L200.5 31.3L198.3 32.8L195.8 33.2L194.7 33.8L192.8 34.0L191.5 34.8L189.7 35.0L188.0 35.8L185.7 36.2L184.7 36.8L182.8 37.0L181.2 38.0L180.2 39.0L178.8 41.8L178.2 42.5L177.7 43.5L177.7 44.8L178.2 45.0L180.0 44.8L181.0 44.2L183.3 43.5L184.3 44.0L185.0 45.0L185.2 45.8L185.8 46.5L187.2 49.3L187.7 49.8L188.2 51.3L189.3 52.8L191.8 52.8L197.0 46.0L197.5 45.7L198.0 44.7L203.7 37.7L204.0 36.8L204.5 36.5L208.3 31.2L208.3 30.0L208.0 29.2L207.5 28.7L206.0 28.3L199.5 27.8L194.7 27.8L193.0 27.3L190.8 27.3L190.2 27.0L181.7 26.8L177.3 26.0L172.3 25.8L171.5 26.2ZM327.2 7.7L327.0 25.8L341.0 25.8L341.5 26.0L342.0 26.8L342.0 64.3L341.8 65.2L341.0 66.3L338.8 68.0L322.8 68.2L323.0 86.3L341.8 86.5L343.5 86.0L348.3 85.7L349.0 85.2L351.0 84.8L352.2 84.0L353.5 83.7L357.5 80.8L358.8 79.5L359.0 78.8L360.7 76.8L360.8 76.0L361.8 74.5L362.0 73.2L362.8 71.7L363.0 69.5L363.8 66.3L363.8 8.0L363.7 7.7ZM306.7 8.0L305.2 7.8L303.5 7.0L301.8 7.0L298.8 6.3L291.0 6.3L289.2 6.8L285.8 7.0L284.2 7.8L282.3 8.0L280.3 9.2L280.5 27.2L283.3 26.8L284.7 26.0L286.5 25.8L288.7 25.0L291.8 25.0L294.2 26.0L295.8 27.3L296.8 28.7L298.0 32.0L297.8 58.0L297.2 59.2L296.8 61.0L296.2 61.8L295.7 63.2L294.0 65.3L291.3 67.8L290.5 68.2L289.8 68.8L286.0 70.0L281.0 69.8L279.5 69.0L278.3 68.8L276.7 67.8L274.0 65.3L273.0 64.0L271.0 59.8L270.8 57.5L270.0 54.2L270.2 8.2L269.7 7.7L249.2 7.7L248.7 8.2L248.7 9.5L249.0 9.8L251.7 10.0L254.2 11.0L255.7 12.8L256.3 20.8L256.8 22.3L256.8 33.2L256.0 37.5L255.8 42.0L255.0 44.5L254.8 47.0L254.0 49.2L253.8 51.0L253.0 52.7L252.8 54.5L252.0 55.8L251.8 57.2L251.0 58.3L250.8 59.7L250.0 60.8L250.0 65.0L250.7 66.0L251.0 68.0L251.8 69.2L252.0 70.5L254.0 74.0L254.8 74.8L255.0 75.5L259.8 80.7L262.3 82.7L263.3 83.0L265.5 84.5L267.3 85.0L268.5 85.8L269.8 86.0L271.3 86.8L273.5 87.0L275.8 87.8L287.5 88.2L292.2 87.8L294.3 87.0L296.3 86.8L297.7 86.0L299.0 85.8L302.3 84.0L303.5 83.7L307.8 80.7L312.8 75.5L313.0 74.8L313.8 74.0L315.5 71.3L316.0 69.8L316.8 68.7L317.0 67.5L317.8 66.3L318.0 64.7L318.8 63.0L319.0 60.2L319.8 57.3L319.8 29.5L319.0 26.0L318.7 22.5L318.0 21.5L317.8 19.8L317.0 18.5L316.8 17.3L316.0 16.3L315.7 15.3L314.0 13.2L311.5 10.8L309.3 9.3L307.8 8.8Z"/></svg></a>
+    <span class="tag">נתונים אמיתיים, מתעדכנים כל שעה</span>
+  </header>
+
+  <h1>מי רואה את <em>מבזקים</em>?</h1>
+  <p class="lead">מבזקים הוא לוח דרושים לגולשי נטפרי: משרות מעשרות ערוצי טלגרם, במקום אחד, בלי צורך בטלגרם. אלה המספרים, כפי שהם נמדדים באתר.</p>
+
+  <div class="hero">
+    <div class="big">
+      <div class="n" id="h30">–</div>
+      <div class="l">כניסות ב-30 הימים האחרונים</div>
+      <div class="s">גולש נספר פעם אחת בכל יום שבו נכנס</div>
+    </div>
+    <div class="tiles">
+      <div class="tile"><div class="n" id="tToday">–</div><div class="l">כניסות היום</div></div>
+      <div class="tile"><div class="n" id="t7">–</div><div class="l">כניסות ב-7 ימים</div></div>
+      <div class="tile"><div class="n" id="tIv">–</div><div class="l">צפיות במשרות ובעדכונים (30 יום)</div></div>
+      <div class="tile"><div class="n" id="tAds">–</div><div class="l">חשיפות לפרסומות מאז ההשקה</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="chart-top"><h2>כניסות ביום</h2><button id="tblBtn" type="button">הצגה כטבלה</button></div>
+    <p class="sub" id="chartSub"></p>
+    <div id="chart"><div id="tip"></div></div>
+    <div id="tbl" hidden></div>
+  </div>
+
+  <div class="why">
+    <div><b>קהל שקשה להגיע אליו</b><p>גולשי נטפרי ובעלי מחשבים מסוננים, שלא נמצאים בטלגרם ובפייסבוק. מבזקים הוא אחד המקומות הבודדים שבהם הם מחפשים עבודה.</p></div>
+    <div><b>אנשים שבאים לחפש</b><p>מי שנכנס ללוח דרושים מחפש עבודה, עובדים או שירות, ולכן קורא את המודעות ולא מדלג עליהן.</p></div>
+    <div><b>מדידה שקופה</b><p>כל פרסומת נמדדת בנפרד: כמה גולשים ראו אותה בפועל על המסך. המספרים מוצגים באתר עצמו.</p></div>
+  </div>
+
+  <div class="card">
+    <h2>אפשרויות פרסום</h2>
+    <p class="sub">אפשר לשלב, ולקבוע תאריכים ושעות הצגה.</p>
+    <ul class="formats">
+      <li><span class="k">עדכון ממומן</span><span>פרסומת בתוך רשימת המשרות, במסגרת זהב ועם התווית "ממומן". היא עולה לראש הלוח ונשארת שם לפחות 10 דקות, ואז יורדת במקומה כמו כל עדכון.</span></li>
+      <li><span class="k">באנר בצד</span><span>באנר קבוע בעמודת הצד במחשב (תמונה או עיצוב HTML מונפש), עם קישור לאתר שלכם.</span></li>
+      <li><span class="k">באנר בפיד</span><span>באנר בתוך רשימת המשרות, בנייד ובמחשב.</span></li>
+    </ul>
+  </div>
+
+  <div class="cta">
+    <div><h3>רוצים להופיע כאן?</h3><p>שלחו פרטים ונחזור אליכם עם הצעה.</p></div>
+    <a href="#" id="mailBtn" target="_blank" rel="noopener">לחצו כאן לפרסום</a>
+  </div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+const CNT="https://abacus.jasoncameron.dev/get/mivzakim-site/";
+const fmt=n=>Number(n||0).toLocaleString("he-IL");
+const ilDay=d=>d.toLocaleDateString("en-CA",{timeZone:"Asia/Jerusalem"}).replace(/-/g,"");
+const keyDate=k=>new Date(+k.slice(0,4),+k.slice(4,6)-1,+k.slice(6,8));
+const heDate=k=>keyDate(k).toLocaleDateString("he-IL",{day:"numeric",month:"numeric"});
+
+/* כפתור הפרסום: הכתובת נבנית רק בלחיצה, כמו באתר */
+$("mailBtn").addEventListener("click",function(){
+  const q=encodeURIComponent, to=["netgram111","gmail.com"].join("@");
+  const body="שלום,\nראיתי את נתוני הכניסות של מבזקים ואני מעוניין/ת לפרסם.\n\nשם העסק:\nסוג הפרסום (עדכון ממומן / באנר):\nתקופה מבוקשת:\nטלפון לחזרה:\n\nתודה";
+  this.href=`https://mail.google.com/mail/?view=cm&fs=1&to=${q(to)}&su=${q("בקשה לפרסום במבזקים")}&body=${q(body)}`;
+});
+
+async function liveToday(){                       // היום: ישר מהמונה, כדי שיהיה עדכני גם בין עדכוני השעה
+  const k=ilDay(new Date()), out={};
+  await Promise.all(["u","pv","iv"].map(s=>fetch(CNT+s+"-"+k).then(r=>r.ok?r.json():{value:0}).then(j=>{out[s]=j.value||0;}).catch(()=>{})));
+  return [k,out];
+}
+
+function drawChart(rows){
+  const box=$("chart"), W=1000, H=300, P={t:16,r:12,b:30,l:40};
+  if(!rows.length){box.insertAdjacentHTML("afterbegin",'<div class="empty">הספירה התחילה עכשיו. הנתונים הראשונים יופיעו כאן בקרוב.</div>');return;}
+  const max=Math.max(4,...rows.map(r=>r.u)), mag=Math.pow(10,Math.floor(Math.log10(max/4)));
+  const step=[1,2,5,10].map(m=>m*mag).find(s=>max/s<=4), n=Math.ceil(max/step), top=n*step;   // קווי רשת בקפיצות עגולות
+  const iw=W-P.l-P.r, ih=H-P.t-P.b, cw=iw/rows.length, bw=Math.min(36,Math.max(3,cw-2));
+  const y=v=>P.t+ih-(v/top)*ih;
+  let g="";
+  for(let i=0;i<=n;i++){const v=step*i, yy=y(v); g+=`<line x1="${P.l}" x2="${W-P.r}" y1="${yy}" y2="${yy}" stroke="var(--grid)" stroke-width="1"/><text class="tick" x="${P.l-8}" y="${yy+4}" text-anchor="end">${fmt(Math.round(v))}</text>`;}
+  const every=Math.ceil(rows.length/8);
+  rows.forEach((r,i)=>{
+    const cx=P.l+cw*i+cw/2, h=Math.max(r.u?2:0,(r.u/top)*ih), x0=cx-bw/2, yb=P.t+ih, rr=Math.min(4,bw/2,h);
+    const bar=h?`<path class="b" fill="var(--bar)" d="M${x0},${yb}V${yb-h+rr}Q${x0},${yb-h} ${x0+rr},${yb-h}H${x0+bw-rr}Q${x0+bw},${yb-h} ${x0+bw},${yb-h+rr}V${yb}Z"/>`:"";
+    g+=`<g class="col" data-i="${i}"><rect x="${P.l+cw*i}" y="${P.t}" width="${cw}" height="${ih}" fill="transparent"/>${bar}</g>`;
+    if(i%every===0||i===rows.length-1) g+=`<text class="tick" x="${cx}" y="${H-8}" text-anchor="middle">${heDate(r.k)}</text>`;
+  });
+  box.insertAdjacentHTML("afterbegin",`<svg viewBox="0 0 ${W} ${H}" dir="ltr" role="img" aria-label="כניסות ביום">${g}</svg>`);
+  const svg=box.querySelector("svg"), tip=$("tip");
+  svg.addEventListener("mousemove",e=>{
+    const c=e.target.closest(".col"); if(!c){tip.style.opacity=0;return;}
+    const r=rows[+c.dataset.i], bb=box.getBoundingClientRect(), sc=bb.width/W;
+    tip.innerHTML=`${keyDate(r.k).toLocaleDateString("he-IL",{weekday:"long",day:"numeric",month:"numeric"})}<br><b>${fmt(r.u)}</b> כניסות · ${fmt(r.pv)} צפיות בדף`;
+    tip.style.left=(P.l+cw*(+c.dataset.i)+cw/2)*sc+"px"; tip.style.top=y(r.u)*sc+"px"; tip.style.opacity=1;
+  });
+  svg.addEventListener("mouseleave",()=>tip.style.opacity=0);
+  $("tbl").innerHTML=`<table><thead><tr><th>תאריך</th><th>כניסות</th><th>צפיות בדף</th><th>צפיות במשרות ועדכונים</th></tr></thead><tbody>`+
+    rows.slice().reverse().map(r=>`<tr><td>${heDate(r.k)}</td><td class="num">${fmt(r.u)}</td><td class="num">${fmt(r.pv)}</td><td class="num">${fmt(r.iv)}</td></tr>`).join("")+`</tbody></table>`;
+}
+$("tblBtn").addEventListener("click",function(){const t=$("tbl"),c=$("chart");t.hidden=!t.hidden;c.hidden=!t.hidden;this.textContent=t.hidden?"הצגה כטבלה":"הצגה כתרשים";});
+
+(async function(){
+  let st={days:{},ads:{}};
+  try{ st=await (await fetch("data/stats.json?t="+Date.now(),{cache:"no-store"})).json(); }catch(_){}
+  const [tk,today]=await liveToday();
+  const days=Object.assign({},st.days||{}); days[tk]=Object.assign({},days[tk]||{},today);
+  const start=st.start?st.start.replace(/-/g,""):tk;
+  const keys=Object.keys(days).filter(k=>k>=start&&k<=tk).sort();
+  const rows=keys.slice(-30).map(k=>({k,u:days[k].u||0,pv:days[k].pv||0,iv:days[k].iv||0}));
+  const sum=(arr,f)=>arr.reduce((a,r)=>a+(r[f]||0),0);
+  $("h30").textContent=fmt(sum(rows,"u"));
+  $("tToday").textContent=fmt(today.u||0);
+  $("t7").textContent=fmt(sum(rows.slice(-7),"u"));
+  $("tIv").textContent=fmt(sum(rows,"iv"));
+  $("tAds").textContent=fmt(Object.values(st.ads||{}).reduce((a,b)=>a+b,0));
+  $("chartSub").textContent=rows.length>1?`${rows.length} הימים האחרונים · גולשים ייחודיים בכל יום`:"הספירה החלה ב-"+heDate(start);
+  drawChart(rows);
+  $("foot").textContent=`הספירה החלה ב-${keyDate(start).toLocaleDateString("he-IL")}. כניסה = גולש (דפדפן) שנכנס לאתר באותו יום; צפייה = משרה, עדכון או פרסומת שהופיעו על המסך שלו לפחות שנייה, פעם אחת לכל גולש. לא נאסף שום מידע אישי.`+
+    (st.updated?` · עודכן ${new Date(st.updated).toLocaleString("he-IL",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"})}`:"");
+})();
+</script>
+</body>
+</html>

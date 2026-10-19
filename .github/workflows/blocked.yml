@@ -1,0 +1,24 @@
+name: Blocked posts review
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "how many blocked posts"
+        default: "100"
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python tools/blocked.py "$LIMIT"
+        env:
+          LIMIT: ${{ inputs.limit }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: blocked
+          path: blocked.html
+          retention-days: 1

@@ -1,18 +1,13 @@
 {
-  "brand": {
-    "name": "מבזקים",
-    "tagline": "מהדורת החדשות המובילה",
-    "kicker": "מבזק",
-    "site_url": ""
-  },
-  "sources": [
+  "channels": [
     {
       "username": "merkaz",
       "enabled": true
     },
     {
       "username": "hamoked_il",
-      "enabled": true
+      "enabled": true,
+      "require_prefix": "המוקד:"
     },
     {
       "username": "ramreports",
@@ -44,7 +39,8 @@
     },
     {
       "username": "Moshepargod",
-      "enabled": true
+      "enabled": true,
+      "require_prefix": "הפרגוד:"
     },
     {
       "username": "behadrey",
@@ -61,90 +57,279 @@
     {
       "username": "RealKikarHashabat",
       "enabled": true
+    },
+    {
+      "username": "Workingyes1",
+      "enabled": false,
+      "kind": "jobs",
+      "consent": "בעל הערוץ ביקש להסיר, 14.10.2026 – לא להחזיר"
+    },
+    {
+      "username": "Jobs_in_Jerusalem",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "OVDIM_BCHIK",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "jobsHOTjobss",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "Israel_media_industry",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "TheMisrot",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "jobnikim",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "Tech_Galilee_Golan_Channel",
+      "enabled": true,
+      "kind": "jobs",
+      "consent": "אושר בכתב בוואטסאפ ע\"י מנכ\"ל נורטק, 14.10.2026"
+    },
+    {
+      "username": "taasuka50plusminus",
+      "enabled": true,
+      "kind": "jobs"
+    },
+    {
+      "username": "jeniatafkidplus",
+      "kind": "jobs",
+      "enabled": true
+    },
+    {
+      "username": "Nortech_Spotlight",
+      "kind": "jobs",
+      "enabled": false,
+      "consent": "אושר בכתב בוואטסאפ ע\"י מנכ\"ל נורטק, 14.10.2026 · הוסר 15.10 כי הוא כפול ל-Galilee-Golan-Tech"
+    },
+    {
+      "username": "PMO_jobs",
+      "kind": "jobs",
+      "enabled": true
+    },
+    {
+      "username": "LogOnSoftware",
+      "kind": "jobs",
+      "enabled": true
+    },
+    {
+      "username": "jobswipe",
+      "kind": "jobs",
+      "enabled": false
+    },
+    {
+      "username": "HiTech_Jobs_In_Israel",
+      "kind": "jobs",
+      "enabled": true
+    },
+    {
+      "username": "telegram",
+      "kind": "jobs",
+      "enabled": false
+    },
+    {
+      "username": "kinopoisk",
+      "kind": "jobs",
+      "enabled": false
+    },
+    {
+      "username": "NewToolsIBuyIL",
+      "enabled": false,
+      "kind": "deals"
+    },
+    {
+      "username": "OuTravel2",
+      "enabled": false,
+      "kind": "deals"
+    },
+    {
+      "username": "couponcodeil",
+      "enabled": false,
+      "kind": "deals"
+    },
+    {
+      "username": "dealsvip",
+      "enabled": false,
+      "kind": "deals"
+    },
+    {
+      "username": "iBuyIL",
+      "kind": "deals",
+      "enabled": true
+    },
+    {
+      "username": "ILcoupons",
+      "kind": "deals",
+      "enabled": true
+    },
+    {
+      "username": "DealIsraeli",
+      "kind": "deals",
+      "enabled": true
+    },
+    {
+      "username": "SALAMTAK_DEALS",
+      "kind": "deals",
+      "enabled": true
+    },
+    {
+      "username": "KSPcoil",
+      "kind": "deals",
+      "enabled": false,
+      "consent": "הוסר 17.10.2026: אתר KSP חוסם גולשי נטפרי, כל הקישורים בערוץ לא נפתחים"
+    },
+    {
+      "username": "AceIsraelofficial",
+      "kind": "deals",
+      "enabled": true
     }
   ],
   "limits": {
-    "max_items": 150,
+    "max_items": 400,
     "max_messages_per_channel": 25,
-    "max_media_bytes": 12000000
+    "max_media_bytes": 12000000,
+    "max_items_per_channel": 20,
+    "max_age_days": 14
   },
   "text_filter": {
     "drop_if_contains": [
-      "הצטרפו לערוץ",
-      "להצטרפות לערוץ",
-      "לפרסום בערוץ",
-      "לפרסום אצלנו",
-      "מעוניינים לפרסם",
-      "שתפו את הערוץ",
-      "לינק לערוץ",
-      "בטלגרם",
-      "בטלגראם",
-      "לערוץ הטלגרם",
-      "@",
-      "לפרסום לחצו",
-      "לפרטים והרשמה",
-      "לפרטים חייגו",
-      "לפרטים נוספים חייגו",
-      "חייגו עכשיו",
-      "התקשרו עכשיו",
-      "הטבה בלעדית",
-      "הנחה בלעדית",
-      "קופון",
+      "Binance",
       "במבצע השבוע",
-      "מוקד המכירות",
-      "להזמנת כרטיסים",
-      "דרושים",
+      "בשיתוף פעולה עם",
+      "דירות אחרונות",
       "דרוש/ה",
-      "עיתון המבשר",
-      "מצ\"ב עיתון"
+      "דרושים",
+      "הון עצמי",
+      "הטבה בלעדית",
+      "הכניסה בתשלום",
+      "הכניסה חופשית",
+      "הנחה בלעדית",
+      "הנחה על",
+      "הפקדת ההשקעה",
+      "הצטרפו עכשיו",
+      "התחדש! כל העדכונים",
+      "התקשרו עכשיו",
+      "וולוג",
+      "זמין לצפייה",
+      "חייגו עכשיו",
+      "כרטיסים אחרונים",
+      "כרטיסים במכירה",
+      "להזמנות",
+      "להזמנת כרטיסים",
+      "להרשמה",
+      "לפרטים והרשמה",
+      "לפרטים נוספים",
+      "לפרסום אצלנו",
+      "לפרסום בערוץ",
+      "לפרסום לחצו",
+      "לצפייה בפרק",
+      "לצפייה בתוכנית המלאה",
+      "לרכישה",
+      "לרכישת כרטיסים",
+      "לשותפות",
+      "מוזמנים להגיע",
+      "מוזמנים לשתף",
+      "מומלץ להגיע בזמן",
+      "מופיעים:",
+      "מוקד המכירות",
+      "מזמינה אתכם",
+      "מזמינים אתכם",
+      "מחירים מיוחדים",
+      "משקיעים שלנו",
+      "נותרו כרטיסים",
+      "פודקאסט",
+      "פרק הבכורה",
+      "פתיחת שערים",
+      "צפו בתוכנית המלאה",
+      "צרו איתי קשר",
+      "קופון",
+      "קריפטו",
+      "רווחים עצומים",
+      "תוכן ממומן",
+      "תוכן שיווקי"
     ],
     "drop_regex": [
       "\\*\\d{3,4}\\b",
       "\\b1-?[78]00\\b",
-      "[A-Za-z0-9][A-Za-z0-9-]*\\.(?:co\\.il|com|net|org|io)\\b",
       ">>>",
-      "<<<"
+      "<<<",
+      "\\d+\\s*%\\s*הנחה",
+      "החל מ[-־]?\\s*[\\d,\\.]+\\s*(₪|ש\"ח|יורו|\\$)",
+      "[\\d,]+\\s*₪",
+      "^\\s*(?:[^:\\n]{0,20}:\\s*)?(?:תמונות|תיעודים|גלריה|בתמונה|בתמונות)(?:\\s|:)",
+      "להגדיל את התמונה"
     ],
-    "strip_urls": true,
-    "strip_handles": true,
-    "strip_trailing_parens": true,
-    "strip_phrases": [
-      "מבזקי רעם - מבזקי חדשות בזמן אמת",
-      "מבזקי רעם",
-      "חדשות המוקד",
-      "המוקד:",
-      "המוקד :",
-      "הקו החרדי",
-      "כיכר השבת",
-      "חדשות כיכר השבת",
-      "בחדרי חרדים",
-      "חדשות ישראל",
-      "המודיע:",
-      "המודיע",
-      "המבשר",
-      "פרבר ב'בחדרי'",
-      "דורון קדוש:",
-      "דורון קדוש",
-      "שילה פריד:",
-      "שילה פריד",
-      "דין פישר",
-      "עמית סגל",
-      "אבו עלי",
-      "רעם |",
-      "| רעם"
+    "min_letters": 12,
+    "cut_from": [
+      "המוקד - להצטרפות",
+      "חדשות 04 | עקבו אחרינו",
+      "מבזקי⚡️רעם",
+      "מבזקי⚡רעם",
+      "-------------",
+      "כדי להגיב לכתבה לחצו כאן",
+      "למבזק המלא ב-ynet",
+      "הקישור המקורי:",
+      "הישארו מעודכנים בכל הפלטפורמות",
+      "לערוץ הוואטסאפ",
+      "להצטרפות לערוץ",
+      "לעדכוני הפרגוד בטלגרם",
+      "להמשך קריאה, כנסו",
+      "להצטרפות לקבוצות",
+      "לכל העדכונים",
+      "לשיתוף בWhatsApp"
     ],
-    "min_length": 8
-  },
-  "text_editor": {
-    "use_gemini": true,
-    "gemini_model": "gemini-2.0-flash"
+    "strip_line_regex": [
+      "^\\d+ תגובות$",
+      "^תגובה אחת$",
+      "^[➖—\\-_=•.▶️\\s]+$",
+      "^\\*?(לצפייה|לצפיה|להצטרפות|למסירת|להמשך|לקריאה|להאזנה|לכתבה|לפרטים|לחצו|כנסו|לעדכונים|להרשמה)[^.!?]{0,60}$",
+      "^\\*?[^.!?]{0,40}(כנסו|לחצו כאן)\\s*:?\\*?$",
+      "^מצור[ףפ]\\S*\\s+(?:תיעוד|סרטון|תמונ).*$"
+    ],
+    "strip_regex": [
+      "\\s*\\*?צילום:.{0,70}$",
+      "\\s*[|•·\\-–]?\\s*\\(?\\*?צפו\\*?\\)?\\s*$",
+      "^\\*?(?:צפו בתיעוד|צפו|תיעוד)\\*?\\s*[|>:•\\-–]+\\s*",
+      "(?:https?://)?(?:[A-Za-z0-9-]+\\.)+(?:com|co\\.il|org\\.il|net|org|ly|me|io|il|news)/\\S*",
+      "\\s*(>>|》+|»|<<)\\s*$",
+      "\\s*\\|\\s*\\*?(?:פרסום ראשון ב)?'?בחדרי חרדים'?\\*?\\s*$",
+      "\\s*ב'בחדרי חרדים'\\s*$",
+      "\\s*•\\s*המחדש\\s*$",
+      "\\s*\\d+ תגובות$",
+      "\\s*תגובה אחת$",
+      "\\s*[👇⬇👈⤵]+[🏻-🏿️]*\\s*$",
+      "\\s*▶️?\\s*$"
+    ],
+    "caption_max_words": 6,
+    "replace_with_space": [
+      "[🎥📷📸📹🎬☝]️?"
+    ],
+    "deals_drop_regex": "מקדונלד|ביג מק|בורגר קינג|KFC|שרימפס|חזיר|בייקון|בגד ים|בגדי ים|ביקיני|הלבשה תחתונה|לנז'רי|חזיי|תחתוני|שמלת |שמלות |יוגה לנשים|קזינו|הימורים|winner|ווינר|טוטו|לוטו"
   },
   "media_filter": {
-    "use_gemini": true,
-    "gemini_model": "gemini-2.0-flash",
-    "on_reject": "drop_media",
-    "allow_images": true,
+    "gemini_model": "gemini-3.5-flash",
     "allow_videos": true,
-    "fallback_without_key": "text_only"
+    "allow_without_gemini": true,
+    "enabled": true
+  },
+  "person_filter": {
+    "enabled": true,
+    "gemini_model": "gemini-3.5-flash-lite",
+    "batch": 20,
+    "min_interval_sec": 180
   }
 }

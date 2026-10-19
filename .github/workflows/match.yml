@@ -1,0 +1,20 @@
+name: Match feed sources
+on:
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "extra candidate channel usernames"
+        required: false
+        default: ""
+jobs:
+  match:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python tools/match_sources.py $ARGS
+        env:
+          ARGS: ${{ inputs.args }}

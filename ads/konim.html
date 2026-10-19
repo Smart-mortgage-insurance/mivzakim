@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Rubik:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root{ --brand:#0f9d6e; --brand-btn:#0a7a54; --brand-dark:#075c40; --ink:#16211c; --green:#12a150; --red:#d23a3a; --gold:#e0b34a; --muted:#5b7268; }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html,body{background:#0b1220}
+  #stage{position:relative;width:1080px;height:1800px;overflow:hidden;font-family:'Rubik',Arial,sans-serif;
+    background:radial-gradient(140% 50% at 22% 2%,#ffffff 0%,#f1f8f4 30%,#e0f1e8 60%,#c9e7d9 100%);}
+  #stage::before{content:"";position:absolute;inset:0;
+    background:radial-gradient(52% 22% at 86% 97%,rgba(15,157,110,.20),transparent 60%),radial-gradient(46% 18% at 10% 92%,rgba(10,122,84,.12),transparent 60%);}
+  .abs{position:absolute}
+
+  #brand{top:54px;left:0;width:100%;display:flex;flex-direction:column;align-items:center;gap:12px}
+  #brand .top{display:flex;align-items:center;gap:18px}
+  #brand .logo{width:84px;height:84px;border-radius:22px;object-fit:cover;box-shadow:0 14px 30px rgba(10,92,64,.30)}
+  #brand .name{font-family:'Suez One',serif;font-size:54px;color:var(--ink);line-height:1}
+  #brand .sub{font-size:23px;color:var(--muted);font-weight:600;letter-spacing:.4px}
+
+  #freebar{top:214px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:14px;
+    background:linear-gradient(180deg,#ffe08a,#f4c44a);color:#3a2a00;font-weight:900;font-size:40px;
+    padding:16px 42px;border-radius:50px;box-shadow:0 14px 30px rgba(180,140,20,.32);white-space:nowrap;opacity:0}
+  #freebar .s{color:#c8901a;font-size:30px}
+
+  #headwrap{top:298px;left:70px;width:940px;height:180px;text-align:center}
+  #kicker{position:absolute;top:0;left:0;width:100%;font-weight:800;font-size:23px;letter-spacing:6px;color:var(--brand);opacity:0}
+  .headline{position:absolute;top:40px;left:0;width:100%;font-family:'Suez One',serif;color:var(--ink);font-size:70px;line-height:1.1;text-shadow:0 2px 0 rgba(255,255,255,.6)}
+
+  #phone{left:250px;top:512px;width:580px;height:1042px;background:#fff;border-radius:52px;
+    box-shadow:0 46px 90px rgba(20,60,44,.24),0 10px 24px rgba(20,60,44,.12);border:1px solid #e9f2ec;overflow:hidden}
+  #phone .topbar{height:82px;background:linear-gradient(180deg,#fbfefc,#f1f7f4);border-bottom:1px solid #e6efe9;
+    display:flex;align-items:center;gap:14px;padding:0 26px}
+  #phone .cart{width:30px;height:30px;color:#93a69c;flex:none}
+  #phone .addr{flex:1;height:34px;border-radius:17px;background:#eaf3ee;border:1px solid #d9e8e0}
+  #phone .menu{color:#a3b8ac;font-size:26px;letter-spacing:3px}
+
+  .row{position:absolute;left:0;right:0;height:224px;display:flex;align-items:center;gap:26px;padding:0 30px;border-bottom:1px solid #eef5f0;opacity:0}
+  .thumb svg{display:block;width:100%;height:100%}
+  .thumb{overflow:hidden;width:158px;height:158px;border-radius:32px;object-fit:cover;flex:none;box-shadow:0 12px 24px rgba(20,60,44,.16);background:#eef2f0}
+  .info{flex:1;min-width:0}
+  .pn{font-weight:800;font-size:38px;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .stars{display:flex;gap:5px;margin-top:12px}
+  .stars svg{width:39px;height:39px;display:block}
+  .pricewrap{display:flex;align-items:center;gap:13px;margin-top:12px}
+  .price{font-weight:800;font-size:35px;color:#b9c7c0}
+  .price.real{color:var(--green)}
+  .old{font-weight:700;font-size:26px;color:#aeb7b2;text-decoration:line-through;opacity:0}
+  .verdict{display:inline-flex;align-items:center;gap:10px;margin-top:13px;font-weight:800;font-size:28px;padding:13px 22px;border-radius:42px;opacity:0;transform:scale(.5);white-space:nowrap}
+  .verdict .ic{width:32px;height:32px;border-radius:50%;color:#fff;font-size:19px;font-weight:900;display:flex;align-items:center;justify-content:center}
+  .verdict.bad{background:#fdecea;color:var(--red)} .verdict.bad .ic{background:var(--red)}
+  .verdict.good{background:#e6f6ef;color:var(--brand-btn)} .verdict.good .ic{background:var(--green)}
+
+  #mag{left:0;top:0;width:224px;height:224px;opacity:0}
+  #mag svg{width:224px;height:224px;display:block;filter:drop-shadow(0 16px 28px rgba(10,60,44,.34))}
+  #scan{position:absolute;left:0;top:0;width:520px;height:6px;background:linear-gradient(90deg,transparent,rgba(15,157,110,.85),transparent);opacity:0;border-radius:6px}
+
+  #subline{position:absolute;top:1576px;left:70px;width:940px;text-align:center;font-size:30px;font-weight:500;color:#3f5a4f;line-height:1.45;opacity:0}
+  #subline b{color:var(--brand-btn);font-weight:800}
+  #cta{position:absolute;top:1674px;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:15px;
+    background:linear-gradient(140deg,#0f9d6e,#075c40);color:#fff;font-weight:800;font-size:36px;padding:26px 56px;border-radius:60px;
+    box-shadow:0 22px 46px rgba(10,92,64,.36);opacity:0;white-space:nowrap}
+  #cta .dot{width:15px;height:15px;border-radius:50%;background:#bff3da}
+
+  #veil{position:absolute;inset:0;background:#eef6f1;opacity:0;pointer-events:none}
+</style>
+<style>html,body{margin:0!important;padding:0!important;background:transparent!important;overflow:hidden}</style>
+</head>
+<body>
+<div id="stage">
+  <div id="brand" class="abs">
+    <div class="top">
+      <img class="logo" src="data:image/png;base64,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" alt="">
+      <div class="name">קונים חכם</div>
+    </div>
+    <div class="sub">האמת מאחורי הביקורות</div>
+  </div>
+
+  <div id="freebar" class="abs"><span class="s">✦</span>10 בדיקות ראשונות חינם<span class="s">✦</span></div>
+
+  <div id="headwrap" class="abs">
+    <div id="kicker">לפני שקונים · בודקים</div>
+    <div class="headline" id="h1">כמה מהכוכבים<br>באמת אמיתיים?</div>
+    <div class="headline" id="h2" style="opacity:0">סורקים כל מוצר<br>בזמן אמת.</div>
+    <div class="headline" id="h3" style="opacity:0">האמת על כל מוצר.</div>
+  </div>
+
+  <div id="phone" class="abs">
+    <div class="topbar"><svg class="cart" viewBox="0 0 24 24" fill="none"><path d="M3 4h2l2.4 12.2a1 1 0 0 0 1 .8h8.2a1 1 0 0 0 1-.8L20 8H6.2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="9.5" cy="20" r="1.3" fill="currentColor"/><circle cx="17.5" cy="20" r="1.3" fill="currentColor"/></svg><div class="addr"></div><div class="menu">≡</div></div>
+    <div id="feed"></div>
+    <div id="scan"></div>
+    <div id="mag" class="abs">
+      <svg viewBox="0 0 120 120" fill="none">
+        <circle cx="50" cy="50" r="40" fill="rgba(230,246,239,.34)" stroke="#e0b34a" stroke-width="7"/>
+        <circle cx="50" cy="50" r="40" stroke="#c98f2e" stroke-width="2" opacity=".5"/>
+        <rect x="82" y="82" width="34" height="15" rx="7.5" transform="rotate(45 82 82)" fill="#0a7a54"/>
+        <g transform="translate(50 50)"><rect x="-15" y="-15" width="30" height="30" rx="6" fill="#0a7a54"/><rect x="-7" y="-7" width="14" height="14" rx="2" fill="#e6f6ef"/><path d="M-4 -1h8M-4 3h8" stroke="#0a7a54" stroke-width="1.5" stroke-linecap="round"/></g>
+      </svg>
+    </div>
+  </div>
+
+  <div id="subline" class="abs">חושף דירוגים מזויפים · מאמת ביקורות אמיתיות<br>ומוצא לך את אותו מוצר — <b>בזול יותר</b></div>
+  <div id="cta" class="abs"><span class="dot"></span>התקינו את "קונים חכם" בחינם</div>
+  <div id="veil" class="abs"></div>
+</div>
+
+<script>
+const IMGS={"watch": "<svg viewBox=\"0 0 160 160\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bg1\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#eef3f9\"/><stop offset=\"1\" stop-color=\"#cfdbe8\"/></linearGradient></defs><rect width=\"160\" height=\"160\" fill=\"url(#bg1)\"/><rect x=\"60\" y=\"4\" width=\"40\" height=\"152\" rx=\"12\" fill=\"#2f3945\"/><rect x=\"60\" y=\"4\" width=\"40\" height=\"152\" rx=\"12\" fill=\"none\" stroke=\"#1d242d\" stroke-width=\"2\"/><rect x=\"40\" y=\"40\" width=\"80\" height=\"80\" rx=\"24\" fill=\"#1a2028\"/><rect x=\"40\" y=\"40\" width=\"80\" height=\"80\" rx=\"24\" fill=\"none\" stroke=\"#8796a8\" stroke-width=\"3\"/><rect x=\"49\" y=\"49\" width=\"62\" height=\"62\" rx=\"17\" fill=\"#0d1319\"/><circle cx=\"80\" cy=\"80\" r=\"23\" fill=\"none\" stroke=\"#243140\" stroke-width=\"6\"/><path d=\"M80 57a23 23 0 1 1-21.6 15\" fill=\"none\" stroke=\"#23c58a\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"80\" cy=\"80\" r=\"13\" fill=\"none\" stroke=\"#243140\" stroke-width=\"5\"/><path d=\"M80 67a13 13 0 0 1 12.4 17\" fill=\"none\" stroke=\"#ff7a59\" stroke-width=\"5\" stroke-linecap=\"round\"/><circle cx=\"80\" cy=\"80\" r=\"3.5\" fill=\"#e9eef4\"/><rect x=\"120\" y=\"70\" width=\"7\" height=\"20\" rx=\"3.5\" fill=\"#8796a8\"/></svg>", "buds": "<svg viewBox=\"0 0 160 160\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bg2\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f8f1e7\"/><stop offset=\"1\" stop-color=\"#e6d8c4\"/></linearGradient></defs><rect width=\"160\" height=\"160\" fill=\"url(#bg2)\"/><ellipse cx=\"80\" cy=\"140\" rx=\"46\" ry=\"6\" fill=\"#000\" opacity=\".08\"/><rect x=\"34\" y=\"78\" width=\"92\" height=\"58\" rx=\"27\" fill=\"#ffffff\" stroke=\"#d5cbbb\" stroke-width=\"2.5\"/><path d=\"M36 100h88\" stroke=\"#d5cbbb\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"116\" r=\"3.5\" fill=\"#23c58a\"/><g transform=\"rotate(-12 60 46)\"><rect x=\"55.5\" y=\"44\" width=\"9\" height=\"34\" rx=\"4.5\" fill=\"#ffffff\" stroke=\"#cfc5b5\" stroke-width=\"2.5\"/><circle cx=\"60\" cy=\"40\" r=\"15\" fill=\"#ffffff\" stroke=\"#cfc5b5\" stroke-width=\"2.5\"/><circle cx=\"56\" cy=\"38\" r=\"5\" fill=\"#e4dccd\"/></g><g transform=\"rotate(12 100 46)\"><rect x=\"95.5\" y=\"44\" width=\"9\" height=\"34\" rx=\"4.5\" fill=\"#ffffff\" stroke=\"#cfc5b5\" stroke-width=\"2.5\"/><circle cx=\"100\" cy=\"40\" r=\"15\" fill=\"#ffffff\" stroke=\"#cfc5b5\" stroke-width=\"2.5\"/><circle cx=\"104\" cy=\"38\" r=\"5\" fill=\"#e4dccd\"/></g></svg>", "shoe": "<svg viewBox=\"0 0 160 160\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bg3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#f1ecfb\"/><stop offset=\"1\" stop-color=\"#d8d0f1\"/></linearGradient></defs><rect width=\"160\" height=\"160\" fill=\"url(#bg3)\"/><ellipse cx=\"82\" cy=\"126\" rx=\"62\" ry=\"6\" fill=\"#000\" opacity=\".08\"/><path d=\"M24 100 L30 62 Q32 54 41 57 L56 63 Q68 84 92 88 L120 93 Q139 97 142 110 L24 110 Z\" fill=\"#5b7cf0\"/><path d=\"M92 88 L120 93 Q139 97 142 110 L104 110 Q100 96 92 88 Z\" fill=\"#8ea6ff\"/><path d=\"M30 62 Q32 54 41 57 L48 60 L40 92 L26 92 Z\" fill=\"#3f5fd3\"/><path d=\"M44 96 L74 84 M52 100 L84 88\" stroke=\"#ffffff\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M60 66 l9 -5 M66 74 l9 -5 M73 81 l9 -5\" stroke=\"#ffffff\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><path d=\"M20 108 H144 Q146 108 146 111 V114 Q146 122 136 122 H32 Q20 122 20 112 Z\" fill=\"#ffffff\" stroke=\"#c6bfdf\" stroke-width=\"2.5\"/><path d=\"M30 116 H138\" stroke=\"#e3def2\" stroke-width=\"2.5\" stroke-linecap=\"round\"/></svg>", "sun": "<svg viewBox=\"0 0 160 160\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bg4\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0\" stop-color=\"#fff5d9\"/><stop offset=\"1\" stop-color=\"#f4dc9c\"/></linearGradient></defs><rect width=\"160\" height=\"160\" fill=\"url(#bg4)\"/><path d=\"M30 70 L16 56 M130 70 L144 56\" stroke=\"#2a2118\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M70 74 Q80 64 90 74\" fill=\"none\" stroke=\"#2a2118\" stroke-width=\"6\" stroke-linecap=\"round\"/><rect x=\"24\" y=\"64\" width=\"50\" height=\"42\" rx=\"18\" fill=\"#22303c\" stroke=\"#2a2118\" stroke-width=\"5\"/><rect x=\"86\" y=\"64\" width=\"50\" height=\"42\" rx=\"18\" fill=\"#22303c\" stroke=\"#2a2118\" stroke-width=\"5\"/><path d=\"M36 76 L52 76 M36 84 L44 84\" stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\".4\"/><path d=\"M98 76 L114 76 M98 84 L106 84\" stroke=\"#ffffff\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\".4\"/><ellipse cx=\"80\" cy=\"124\" rx=\"52\" ry=\"5\" fill=\"#000\" opacity=\".07\"/></svg>"};
+const DUR=12.2;
+const gold='<svg viewBox="0 0 24 24"><path d="M12 2.5l2.7 5.6 6.1.8-4.5 4.3 1.1 6L12 18.4 6.5 21.2l1.1-6L3.1 8.9l6.1-.8z" fill="#e0b34a"/></svg>';
+const grey='<svg viewBox="0 0 24 24"><path d="M12 2.5l2.7 5.6 6.1.8-4.5 4.3 1.1 6L12 18.4 6.5 21.2l1.1-6L3.1 8.9l6.1-.8z" fill="#d3dde8"/></svg>';
+const PRODUCTS=[
+ {img:IMGS.watch,name:"שעון חכם דגם 5",price:"₪49",old:"",    finalStars:5,verdict:"bad", label:"דירוג מזויף"},
+ {img:IMGS.buds ,name:"אוזניות אלחוטיות",price:"₪39",old:"",   finalStars:5,verdict:"good",label:"אמין"},
+ {img:IMGS.shoe ,name:"נעלי סניקרס Air",price:"₪69",old:"₪119",finalStars:4,verdict:"good",label:"מצאנו זול יותר"},
+ {img:IMGS.sun  ,name:"משקפי שמש",price:"₪25",old:"",   finalStars:5,verdict:"bad", label:"חיקוי"},
+];
+const ROWTOP=82, ROWH=238, ROWVIS=224;
+const feed=document.getElementById('feed');
+PRODUCTS.forEach((p,i)=>{const r=document.createElement('div');r.className='row';r.dataset.i=i;r.style.top=(ROWTOP+i*ROWH)+'px';
+  r.innerHTML=`<div class="thumb">${p.img}</div><div class="info"><div class="pn">${p.name}</div><div class="stars">${gold.repeat(5)}</div><div class="pricewrap"><span class="price" dir="ltr">?</span><span class="old" dir="ltr"></span></div><div class="verdict ${p.verdict}"><span class="ic">${p.verdict==='bad'?'✕':'✓'}</span>${p.label}</div></div>`;
+  feed.appendChild(r);});
+const rows=[...feed.querySelectorAll('.row')]; const N=rows.length;
+
+const clamp=(x,a=0,b=1)=>Math.max(a,Math.min(b,x));
+const lerp=(a,b,t)=>a+(b-a)*t;
+const seg=(t,s,e)=>e<=s?(t>=e?1:0):clamp((t-s)/(e-s));
+const easeOut=t=>1-Math.pow(1-t,3);
+const pop=p=>p<=0?.5:p>=1?1:(0.5+0.5*easeOut(p));
+
+const scanIn=2.6, rowGap=1.35, scanDur=0.82;
+const rowReveal=i=>scanIn+i*rowGap+scanDur;
+const lastReveal=rowReveal(N-1);
+
+function seek(t){
+  const ph=document.getElementById('phone');
+  const intro=seg(t,0,0.7); ph.style.opacity=intro; ph.style.transform=`translateY(${lerp(30,0,easeOut(intro))}px)`;
+  const bm=document.getElementById('brand'); bm.style.opacity=seg(t,0.1,0.7); bm.style.transform=`translateY(${lerp(-12,0,easeOut(seg(t,0.1,0.7)))}px)`;
+  // persistent FREE bar — fades in once, then stays visible the whole loop
+  document.getElementById('freebar').style.opacity=seg(t,0.25,0.75);
+
+  rows.forEach((r,i)=>{const a=seg(t,0.35+i*0.10,0.35+i*0.10+0.45); r.style.opacity=a; r.style.transform=`translateX(${lerp(24,0,easeOut(a))}px)`;});
+
+  const h1=seg(t,0.9,1.3)*(1-seg(t,2.4,2.75));
+  const h2=seg(t,2.65,3.05)*(1-seg(t,lastReveal-0.05,lastReveal+0.3));
+  const h3=seg(t,lastReveal+0.15,lastReveal+0.55);
+  document.getElementById('h1').style.opacity=h1; document.getElementById('h1').style.transform=`translateY(${lerp(16,0,easeOut(seg(t,0.9,1.3)))}px)`;
+  document.getElementById('h2').style.opacity=h2; document.getElementById('h2').style.transform=`translateY(${lerp(16,0,easeOut(seg(t,2.65,3.05)))}px)`;
+  document.getElementById('h3').style.opacity=h3; document.getElementById('h3').style.transform=`translateY(${lerp(16,0,easeOut(seg(t,lastReveal+0.15,lastReveal+0.55)))}px)`;
+  document.getElementById('kicker').style.opacity=seg(t,0.9,1.4)*(1-seg(t,2.4,2.75));
+
+  rows.forEach((r,i)=>{
+    const rev=seg(t,rowReveal(i)-0.05,rowReveal(i)+0.3);
+    const fs=PRODUCTS[i].finalStars;
+    r.querySelector('.stars').innerHTML=Array.from({length:5},(_,k)=>(rev>0.5&&k>=fs)?grey:gold).join('');
+    const pr=r.querySelector('.price'); const old=r.querySelector('.old');
+    if(rev>0.5){pr.textContent=PRODUCTS[i].price;pr.classList.add('real');pr.style.transform=`scale(${pop(seg(t,rowReveal(i),rowReveal(i)+0.3))})`;
+      if(PRODUCTS[i].old){old.textContent=PRODUCTS[i].old;old.style.opacity=seg(t,rowReveal(i)+0.05,rowReveal(i)+0.35);}else{old.textContent='';}}
+    else{pr.textContent='?';pr.classList.remove('real');pr.style.transform='none';old.textContent='';old.style.opacity=0;}
+    const v=r.querySelector('.verdict'); const vv=seg(t,rowReveal(i)+0.02,rowReveal(i)+0.34);
+    v.style.opacity=vv; v.style.transform=`scale(${pop(vv)})`;
+  });
+
+  const mag=document.getElementById('mag'), scan=document.getElementById('scan');
+  const mIn=seg(t,scanIn-0.2,scanIn+0.1), mOut=seg(t,lastReveal+0.05,lastReveal+0.4); const vis=mIn*(1-mOut);
+  mag.style.opacity=vis;
+  let pos=0; const frac=(t-scanIn)/rowGap;
+  if(frac>0){ const i=Math.min(Math.floor(frac),N-1); const local=frac-i; pos=clamp((i-1)+easeOut(clamp(local/0.16,0,1)),0,N-1); }
+  const yy=ROWTOP+pos*ROWH+ROWVIS/2;
+  const thumbCX=580-30-79;
+  mag.style.transform=`translate(${thumbCX-112}px, ${yy-112}px)`;
+  scan.style.opacity=vis*0.75;
+  scan.style.transform=`translate(30px, ${yy}px)`;
+
+  document.getElementById('subline').style.opacity=seg(t,lastReveal+0.4,lastReveal+0.9);
+  document.getElementById('subline').style.transform=`translateY(${lerp(12,0,easeOut(seg(t,lastReveal+0.4,lastReveal+0.9)))}px)`;
+  const c=document.getElementById('cta'), cv=seg(t,lastReveal+0.85,lastReveal+1.25);
+  c.style.opacity=cv; c.style.transform=`translateX(-50%) translateY(${lerp(14,0,easeOut(cv))}px) scale(${pop(cv)})`;
+
+  const vIn=seg(t,DUR-0.4,DUR), vOut=1-seg(t,0,0.25);
+  document.getElementById('veil').style.opacity=Math.max(vIn,vOut);
+}
+let start=null,playing=true;
+function frame(ts){if(!playing)return;if(start===null)start=ts;seek(((ts-start)/1000)%DUR);requestAnimationFrame(frame);}
+requestAnimationFrame(frame);
+window.__seek=t=>{playing=false;seek(t);};
+window.__ready=true; window.__DUR=DUR;
+</script>
+</body>
+</html>

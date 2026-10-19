@@ -1,0 +1,32 @@
+name: Collect visit stats
+
+on:
+  schedule:
+    - cron: "23 * * * *"     # hourly (GitHub may delay scheduled runs)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mivzakim-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python tools/stats.py
+      - name: Commit
+        run: |
+          git config user.name  "נטגרם"
+          git config user.email "editor@mivzakim.news"
+          git add data/stats.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "עדכון נתוני כניסות [skip ci]"
+          for i in 1 2 3 4; do git pull --rebase -q origin main && git push -q && break; sleep 5; done

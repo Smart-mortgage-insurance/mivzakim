@@ -1,0 +1,20 @@
+name: Channel contacts
+on:
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "usernames and/or --discover (empty = enabled channels)"
+        required: false
+        default: ""
+jobs:
+  contacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r scraper/requirements.txt
+      - run: python tools/contacts.py
+        env:
+          CONTACT_ARGS: ${{ inputs.args }}
+          CAND_MAX: "450"
