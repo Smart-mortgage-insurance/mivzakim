@@ -10,8 +10,10 @@ import requests
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "stats.json")
 PROMO = os.path.join(ROOT, "data", "sponsored.json")
+NEWS = os.path.join(ROOT, "data", "news.json")
+DIRECT = os.path.join(ROOT, "data", "direct.json")
 BASE, NS = "https://abacus.jasoncameron.dev", "mivzakim-site"
-START = date(2026, 10, 9)          # the day counting started
+START = date(2026, 10, 20)          # the day counting started
 SERIES = ("u", "pv", "iv")         # unique visitors / page views / item views, per day
 
 
@@ -30,6 +32,11 @@ def get(key):
         except requests.RequestException:
             time.sleep(3)
     return None                    # unknown: keep the previous value
+
+
+def vk(post):
+    """Same key the page uses for an item: i-<post>, unsafe chars -> _, max 60."""
+    return "i-" + "".join(c if c.isalnum() and c.isascii() or c in "_.-" else "_" for c in post)[:60]
 
 
 def main():
@@ -63,12 +70,31 @@ def main():
         if v is not None:
             ads[b] = v
 
+    # views per item on the site (shown under each post); only items still in the feed
+    posts = []
+    try:
+        posts += [i["post"] for i in json.load(open(NEWS, encoding="utf-8")).get("items", []) if i.get("post")]
+    except (OSError, ValueError):
+        pass
+    try:
+        posts += ["_direct/%s" % d["id"] for d in json.load(open(DIRECT, encoding="utf-8")).get("items", []) if d.get("id")]
+    except (OSError, ValueError):
+        pass
+    old_items = old.get("items", {})
+    item_views = {}
+    for post in posts:
+        v = get(vk(post))
+        if v is None:
+            v = old_items.get(post, 0)
+        if v:
+            item_views[post] = v
+
     out = {"start": START.isoformat(), "updated": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-           "days": dict(sorted(days.items())), "ads": ads}
+           "days": dict(sorted(days.items())), "ads": ads, "items": item_views}
     with open(OUT, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(out, fh, ensure_ascii=False, indent=1)
         fh.write("\n")
-    print("days:", len(days), "ads:", len(ads))
+    print("days:", len(days), "ads:", len(ads), "items checked:", len(posts), "with views:", len(item_views))
 
 
 if __name__ == "__main__":

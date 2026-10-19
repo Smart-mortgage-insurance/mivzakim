@@ -336,7 +336,7 @@
 
 <script>
 const DIRECT_URL="data/direct.json", DIRECT_CH="_direct";         // משרות שפורסמו ישירות באתר (אחרי אישור)
-const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REMOVED_URL="data/removed.json", REFRESH_MS=60000, PAGE=30;
+const NEWS_URL="data/news.json", STATS_URL="data/stats.json", PROMO_URL="data/sponsored.json", REMOVED_URL="data/removed.json", REFRESH_MS=60000, PAGE=30;
 const AD_MAIL=["netgram111","gmail.com"];                         // ← מייל לפרסום (מורכב רק בלחיצה, לא מוצג בדף)
 const AD_SUBJECT="בקשה לפרסום במבזקים";
 const AD_BODY=`שלום,
@@ -356,7 +356,7 @@ const PLACARD=`<div class="placard"><div class="h">📣 מעוניינים לפ�
 const REPORT_KEY="ada496e6-156f-4974-9ac9-846bdeebbae1";          // ← web3forms access key לבקשות הסרה
 const COLORS=["#9c1b2e","#7a1424","#7a7d80","#55585b","#c45a6a","#5e0f1b","#9a9d9f","#6b6e71"];
 
-let data={items:[],channels:{}}, promos={items:[]}, removed=new Set(), seen=new Set();
+let siteViews={}, data={items:[],channels:{}}, promos={items:[]}, removed=new Set(), seen=new Set();
 let filterCh="", filterKind="", query="", shown=PAGE, first=true;
 /* "הערוצים שלי": הגולש מסמן ערוצים בכוכב, נשמר רק בדפדפן שלו */
 let mine=new Set(), filterMine=false;
@@ -469,7 +469,7 @@ function postHTML(it,fresh){
       
       ${waNumHTML(it.text)}
       <div class="meta">
-        <span>${relTime(it.ts)}</span>${it.views!=null?`<span>👁 ${fmtViews(it.views)}</span>`:""}
+        <span>${relTime(it.ts)}</span>${siteViews[it.post]?`<span title="צפיות באתר">👁 ${fmtViews(siteViews[it.post])}</span>`:""}
         <span class="sp"></span>
         <button class="rep" data-rep="${esc(it.post)}">⚑ בקשת הסרה</button>
       </div>
@@ -603,7 +603,8 @@ function stripSourcePrefix(items){
 async function jget(u){const r=await fetch(u+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);return r.json();}
 async function load(isRefresh){
   try{
-    const [n,p,r,dj]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]})),jget(REMOVED_URL).catch(()=>({posts:[]})),jget(DIRECT_URL).catch(()=>({items:[]}))]);
+    const [n,p,r,dj,st]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]})),jget(REMOVED_URL).catch(()=>({posts:[]})),jget(DIRECT_URL).catch(()=>({items:[]})),jget(STATS_URL).catch(()=>({}))]);
+    siteViews=(st&&st.items)||{};
     const hm=new Date().toTimeString().slice(0,5);                                // "להציג עד" ושעות הצגה מכלי הניהול
     const inHours=x=>!x.from_hour||!x.to_hour||(x.from_hour<=x.to_hour?hm>=x.from_hour&&hm<x.to_hour:hm>=x.from_hour||hm<x.to_hour);
     const live=x=>(!x.until||new Date(x.until+"T23:59:59")>=new Date())&&(!x.start||new Date(x.start)<=new Date())&&inHours(x);   // start = "להציג החל מ-"

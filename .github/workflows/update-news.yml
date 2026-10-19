@@ -57,4 +57,6 @@ jobs:
         if: ${{ success() || failure() }}
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh workflow run update-news.yml --repo "$GITHUB_REPOSITORY" --ref main
+        run: |
+          gh workflow run stats.yml --repo "$GITHUB_REPOSITORY" --ref main || true   # site view counts, once per round
+          gh workflow run update-news.yml --repo "$GITHUB_REPOSITORY" --ref main
