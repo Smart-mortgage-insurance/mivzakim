@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:11:47.434238+00:00",
+ "updated": "2026-10-19T14:13:15.359617+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -66,6 +66,45 @@
    "link": "https://music.tora1.com/1879",
    "download": null,
    "ts": "2026-10-19T12:37:59+00:00"
+  },
+  {
+   "id": "sbcd11006af8a3f",
+   "title": "31 Dirshu convention | הקונוושן ה31 של דרשו",
+   "text": "",
+   "image": "data/media/1ef8bc36d3d2ea78.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/ztIEEZs_vZI-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/31-dirshu-convention-%d7%94%d7%a7%d7%95%d7%a0%d7%95%d7%95%d7%a9%d7%9f-%d7%9431-%d7%a9%d7%9c-%d7%93%d7%a8%d7%a9%d7%95/",
+   "download": null,
+   "ts": "2026-10-19T12:04:28+00:00"
+  },
+  {
+   "id": "s9593ad9eb2a754",
+   "title": "דרשו – Chofetz Chaim | ציון החפץ חיים",
+   "text": "",
+   "image": "data/media/91b53bc8ec5fbbd4.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/9ah5Ew_Ig80-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%a8%d7%a9%d7%95-chofetz-chaim-%d7%a6%d7%99%d7%95%d7%9f-%d7%94%d7%97%d7%a4%d7%a5-%d7%97%d7%99%d7%99%d7%9d/",
+   "download": null,
+   "ts": "2026-10-19T12:03:13+00:00"
+  },
+  {
+   "id": "s3870c8ddceeae4",
+   "title": "דרשו – Radin Yeshiva | ישיבת ראדין",
+   "text": "",
+   "image": "data/media/23a1acef232fee4b.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/SLeMFmCQnCo-maxresdefault.webp",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%93%d7%a8%d7%a9%d7%95-radin-yeshiva-%d7%99%d7%a9%d7%99%d7%91%d7%aa-%d7%a8%d7%90%d7%93%d7%99%d7%9f/",
+   "download": null,
+   "ts": "2026-10-19T12:01:04+00:00"
   },
   {
    "id": "s6bc5f0600e74f5",
@@ -1964,45 +2003,6 @@
    "link": "https://hamenagen.net/%d7%a2%d7%9d-%d7%a2%d7%95%d6%bc%d7%93-%d7%91%d7%99%d7%93-%d7%95%d7%90%d7%95%d7%a8-%d7%91%d7%9c%d7%91-%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%91%d7%9b%d7%95%d7%a8%d7%94-%d7%a2%d7%9c-%d7%90%d7%97%d7%93/",
    "download": null,
    "ts": "2026-10-04T07:03:15+00:00"
-  },
-  {
-   "id": "s40bdf0d6a9e8ec",
-   "title": "פיני איינהורן – Luv u alllll🔥 שמחת בית השואבה",
-   "text": "",
-   "image": "data/media/4d9c1b25a137adc4.webp",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/bzNTSZP2JLs-maxresdefault.webp",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a4%d7%99%d7%a0%d7%99-%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f-luv-u-alllll%f0%9f%94%a5-%d7%a9%d7%9e%d7%97%d7%aa-%d7%91%d7%99%d7%aa-%d7%94%d7%a9%d7%95%d7%90%d7%91%d7%94/",
-   "download": null,
-   "ts": "2026-10-03T18:56:29+00:00"
-  },
-  {
-   "id": "s5ae890d5021e1e",
-   "title": "'שטארקס' הפקות: יענקי שטארק – אמרגן אירועים במחירים הכי זולים, בהתחייבות!",
-   "text": "'שטארקס' הפקות': יענקי שטארק – אמרגן אירועים במחירים הכי זולים, בהתחייבות! סגרתם עם יענקי = בהתחייבות הגעתם לאירוע עם ראש שקט ומחירים זולים! לפרטים והזמנות: טלפון: 055-679-4823 אימייל: a0556794823@gmail.com",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1853",
-   "download": null,
-   "ts": "2026-10-02T13:32:10+00:00"
-  },
-  {
-   "id": "s08225c0f5a3f81",
-   "title": "ליל הושענא רבה 2026 בשידור חי ממרכז פסגות – הרב יגאל כהן, הרב לסרי ועוד",
-   "text": "",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9c%d7%99%d7%9c-%d7%94%d7%95%d7%a9%d7%a2%d7%a0%d7%90-%d7%a8%d7%91%d7%94-2026-%d7%91%d7%a9%d7%99%d7%93%d7%95%d7%a8-%d7%97%d7%99-%d7%9e%d7%9e%d7%a8%d7%9b%d7%96-%d7%a4%d7%a1%d7%92%d7%95%d7%aa-%d7%94/",
-   "download": null,
-   "ts": "2026-10-02T06:24:02+00:00"
   }
  ]
 }
