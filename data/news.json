@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:54:31.938266+00:00",
+ "updated": "2026-10-19T01:40:15.769693+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,45 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "s3099912d78f08d",
+   "title": "שלומי דסקל - כ׳קום שוין",
+   "text": "עם הפנים לגאולה: שלומי דסקל בשיר חדש לכבוד שמחת נישואי בנו - \"כ׳קום שוין\"לרגל נישואי בנו, הזמר שלומי דסקל משיק סינגל חדש בשם \"כ׳קום שוין\" (אני כבר מגיע), שנושא עמו תפילה וכמיהה לביאת הגאולה. את הלחן יצרו יענקי דסקל, בנו של שלומי, ואיצי וולדנר, ועל ההפקה המוזיקלית והמיקס הופקד אברומי לונגר.השיר מבטא את ציפייתו רבת…",
+   "image": "data/media/e07a53eddbf2c805.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgbCWp4xhvPQIHTbrVXNT7xeSSuH80gBdXEnYaZLwMCa-dB_vi1_uzfm42SlBckw2pVPuSq0KG8Qfpvwoo4iDmG46Nwtt2B6-WVHl7VEez1ZiImUv_YLLxag7DOQon4Ts_nKr6ZYYeehII3DQZAj00aNY-ost2-JsPR8a8iIfJZqLmfG_yJ_qjFqSvUaKa/s72-w320-h320-c/Shloime%20Daskal%20-%20Kum%20Shoin%20Single%20Cover.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_430.html",
+   "download": null,
+   "ts": "2026-10-19T01:25:01+00:00"
+  },
+  {
+   "id": "s44a4cdd5af5a56",
+   "title": "דניאל יטיב - לגעת בשמיים",
+   "text": "לא מרים ידיים: דניאל יטיב בסינגל חדש – \"לגעת בשמיים\"כשמאחוריו מספר לא מועט של סינגלים מקוריים, הזמר והיוצר דניאל יטיב ממשיך ומשחרר כעת סינגל חדש - \"לגעת בשמיים\", יצירה חדשה ואישית הנוגעת בחיבור היומיומי לבורא עולם.דרך מילים אישיות, מתאר יטיב את הניסיון למצוא את הדרך הנכונה בחיים, לצד האמונה שגם כשהדברים אינם מסתדרים…",
+   "image": "data/media/abcce350a0d7507e.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh03-t1h43rDHe3Wn5n-TT_Fy17vFzVqoN5hGdCFexsi_y1hOZH95oSHpGn2epVIL1QyMrLH9mSao_jWolQbfP9nNdsW6mPHKzU9ceA4u7WS-o6LDTtvMBfwiGqOvkavHtUhQtn53oCCBVLg07iTZ0joJd6ymSbY9swBv_uSGFq8j8NX_q4nXO8fj7aagud/s72-w320-h320-c/%D7%A8%D7%99%D7%91%D7%95%D7%A2.jpg",
+   "type": "audio",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_237.html",
+   "download": null,
+   "ts": "2026-10-19T01:01:57+00:00"
+  },
+  {
+   "id": "sc3cac1cb830310",
+   "title": "אלי הרצליך - תזכה אותי",
+   "text": "השיר הנכון לרגע החופה: אלי הרצליך מרגש בסינגל-קליפ חדש – \"תזכה אותי\"הזמר אלי הרצליך משיק את \"תזכה אותי\", שיר חופה חדש שנכתב והולחן על ידי שמואל יפת, בהפקתם המוזיקלית של אלי קליין ואיצי ברי. השיר נושא אופי של תפילה אישית לקראת הקמת בית בישראל, עם בקשה לברכה, לבניית הבית בקדושה ובטהרה ולזכות להעמיד דורות של בנים…",
+   "image": "data/media/7b421d54241e24c9.jpg",
+   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxwWxosNsdTgVEic7ZLEmbtMGu_UdwZV2-Z0ceaGWiciNVv0HXcd6o8psRnGmU9gbIMUHloHW2t6clqHaDyFJVBTgkSomzDGfTscT9YGMTZJ-6qQJl0WD6ChWzn90298fmBJeXqdka9b2TrQnz1VaQ1Db70hj1ngQ_zvvk6LJp7UJBLfQOxzvmmUKdbi3h/s72-w320-h320-c/%D7%9E%D7%A8%D7%95%D7%91%D7%A2%20-%20%D7%AA%D7%96%D7%9B%D7%94%20%D7%90%D7%95%D7%AA%D7%99.jpg",
+   "type": "clip",
+   "video_id": null,
+   "source": "חדשות המוזיקה",
+   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_625.html",
+   "download": "https://archive.org/download/hadshotmusic_20261019/%D7%90%D7%9C%D7%99%20%D7%94%D7%A8%D7%A6%D7%9C%D7%99%D7%9A%20-%20%D7%AA%D7%96%D7%9B%D7%94%20%D7%90%D7%95%D7%AA%D7%99.mp3",
+   "ts": "2026-10-19T00:22:20+00:00"
+  },
   {
    "id": "s8d7e98eebc63df",
    "title": "לרגל שמחת נישואי בנו, מגיש שלומי דסקל את שירו הסוחף | כ׳קום שוין | האזינו",
@@ -1964,45 +2003,6 @@
    "link": "https://music.tora1.com/1849",
    "download": null,
    "ts": "2026-10-01T12:04:00+00:00"
-  },
-  {
-   "id": "s4875049256ef87",
-   "title": "שמחת בית השואבה עוצמתית ביותר עם הקלידן יעקב קוט 🎹 והזמר יצחק ריס 🎤 (הורדה מהדרייב)",
-   "text": "הורדה דרך דרייב (תיקייה) * * *",
-   "image": "",
-   "image_src": "",
-   "type": "news",
-   "video_id": null,
-   "source": "תורה אור",
-   "link": "https://music.tora1.com/1848",
-   "download": null,
-   "ts": "2026-10-01T12:01:57+00:00"
-  },
-  {
-   "id": "s06079b9156a275",
-   "title": "רוגע הים מגיש | שירי הלל מרגיעים | להרפיה דבקות והתבודדות | פסנתר וחליל | האזינו",
-   "text": "מחרוזת שירי דבקות מרגיעים לראש חודש ומועדי ישראל מתוך מזמורי ההלל. שנזכה להתדבק בה' מתוך אהבה ושמחה, וגם לדעת שהנסיונות והשברים הם הם הפתח לעילוי, שמחה והרפיה. מתוך מחשבה זו בחרנו 3 ניגונים מופלאים ושקטים המבטאים את העוצמות הנשגבות שבמילותיו של דוד המלך: 00:00 שובי נפשי 2:59 פתחו לי שערי צדק 6:01 אנא ה' כי אני עבדך…",
-   "image": "data/media/cea57a0e6ac73a0c.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f642.png",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%a8%d7%95%d7%92%d7%a2-%d7%94%d7%99%d7%9d-%d7%9e%d7%92%d7%99%d7%a9-%d7%a9%d7%99%d7%a8%d7%99-%d7%94%d7%9c%d7%9c-%d7%9e%d7%a8%d7%92%d7%99%d7%a2%d7%99%d7%9d-%d7%9c%d7%94%d7%a8%d7%a4%d7%99%d7%94/",
-   "download": null,
-   "ts": "2026-10-01T07:56:22+00:00"
-  },
-  {
-   "id": "sd0be89cb00eea5",
-   "title": "מי שמאמין כן מפחד | דב פרידמן בסינגל קליפ | הרמב\"ם קובע | צפו",
-   "text": "כבוד החכמים חשוב מכל כך פסק הרמבם עיבוד והפקה : שלי שלך כתיבה: א. בן יעקב וצבי בניה שירה: דב פרידמן אולפן : אליעזר ארנסטר עריכת וידאו : מ.רושצקי זכויות השיר שמורות לבעליהם בלבד (במקור: עדי לאון, יוסי גיספן, אייל גולן)",
-   "image": "data/media/6e0590d7fc81e379.webp",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/09/fq9CrrvK2NA-hqdefault.webp",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%9e%d7%99-%d7%a9%d7%9e%d7%90%d7%9e%d7%99%d7%9f-%d7%9b%d7%9f-%d7%9e%d7%a4%d7%97%d7%93-%d7%93%d7%91-%d7%a4%d7%a8%d7%99%d7%93%d7%9e%d7%9f-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%a7%d7%9c%d7%99/",
-   "download": null,
-   "ts": "2026-10-01T06:50:22+00:00"
   }
  ]
 }
