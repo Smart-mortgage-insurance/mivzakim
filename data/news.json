@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T14:35:05.239454+00:00",
+ "updated": "2026-10-19T19:53:28.059764+00:00",
  "brand": {
   "name": "מוזיק",
   "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
@@ -54,6 +54,58 @@
  ],
  "count": 150,
  "items": [
+  {
+   "id": "sc714be70334673",
+   "title": "אייזיק גליק בסינגל מלא אופטימיות | היינט | האזינו",
+   "text": "להתחיל את היום ברגל ימין! הזמר והיוצר אייזיק גליק משחרר סינגל חדש וקצבי בשם \"היינט\" (היום), עם מסר חיובי ומחזק על הכוח לבחור בטוב בכל יום מחדש. השיר, שנכתב ביידיש, מזכיר לנו להודות לבורא עולם על הנשמה שהחזיר לנו בכל בוקר, לחשוב טוב, לדבר טוב ולראות את הטוב בכל אדם. את השיר הלחין ועיבד אייזיק גליק בעצמו, על ההפקה…",
+   "image": "data/media/7d977d358861f889.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/2600.png",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%90%d7%99%d7%99%d7%96%d7%99%d7%a7-%d7%92%d7%9c%d7%99%d7%a7-%d7%91%d7%a1%d7%99%d7%a0%d7%92%d7%9c-%d7%9e%d7%9c%d7%90-%d7%90%d7%95%d7%a4%d7%98%d7%99%d7%9e%d7%99%d7%95%d7%aa-%d7%94%d7%99%d7%99%d7%a0/",
+   "download": null,
+   "ts": "2026-10-19T18:34:36+00:00"
+  },
+  {
+   "id": "sb5284b8dcd405c",
+   "title": "מתוך המופע: שמוליק קליין בקליפ לייב נוסף | רחל | צפו",
+   "text": "זהו ביצוע שלישי בסדרת 'בנייני האומה Live'. שמוליק קליין מארח את מלחין השיר שלומי אזריאל לביצוע סוחף על הבמה ללהיט שלו מהאלבום \"רחל\", יחד עם תזמורת מורחבת של יואלי דיקמן ומקהלת נגינה. השיר המיוחד שבוצע במקור באלבומו של שמוליק, יוצא כעת, ערב יום השנה לפטירתה של רחל אימנו סייעתא: דשמיא הפקה וייצוג : סטייג' ארט הפקה…",
+   "image": "data/media/07eab3a0ee638d5f.png",
+   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4f2.png",
+   "type": "clip",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%aa%d7%95%d7%9a-%d7%94%d7%9e%d7%95%d7%a4%d7%a2-%d7%a9%d7%9e%d7%95%d7%9c%d7%99%d7%a7-%d7%a7%d7%9c%d7%99%d7%99%d7%9f-%d7%91%d7%a7%d7%9c%d7%99%d7%a4-%d7%9c%d7%99%d7%99%d7%91-%d7%a0%d7%95%d7%a1/",
+   "download": null,
+   "ts": "2026-10-19T18:32:37+00:00"
+  },
+  {
+   "id": "sabd6a0f4084228",
+   "title": "🥇 שלושה דברים שיכולים להרוס לך את החיים! | הרב גבע בן ששון",
+   "text": "",
+   "image": "",
+   "image_src": "",
+   "type": "news",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%f0%9f%a5%87-%d7%a9%d7%9c%d7%95%d7%a9%d7%94-%d7%93%d7%91%d7%a8%d7%99%d7%9d-%d7%a9%d7%99%d7%9b%d7%95%d7%9c%d7%99%d7%9d-%d7%9c%d7%94%d7%a8%d7%95%d7%a1-%d7%9c%d7%9a-%d7%90%d7%aa-%d7%94%d7%97%d7%99%d7%99/",
+   "download": null,
+   "ts": "2026-10-19T18:24:25+00:00"
+  },
+  {
+   "id": "se9f4b1f6d4c31d",
+   "title": "מאמע רחל | סט ניגוני נשמה מרגשים להילולת רחל אמנו | אינסטרומנטלי – שביל הניגון",
+   "text": "",
+   "image": "data/media/4340d0c5975dfed9.webp",
+   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/RBuhQ8JYPI0-maxresdefault.webp",
+   "type": "audio",
+   "video_id": null,
+   "source": "המנגן",
+   "link": "https://hamenagen.net/%d7%9e%d7%90%d7%9e%d7%a2-%d7%a8%d7%97%d7%9c-%d7%a1%d7%98-%d7%a0%d7%99%d7%92%d7%95%d7%a0%d7%99-%d7%a0%d7%a9%d7%9e%d7%94-%d7%9e%d7%a8%d7%92%d7%a9%d7%99%d7%9d-%d7%9c%d7%94%d7%99%d7%9c%d7%95%d7%9c%d7%aa/",
+   "download": null,
+   "ts": "2026-10-19T17:40:52+00:00"
+  },
   {
    "id": "scf88e721b049e5",
    "title": "אברומי וינברג – ווי לן",
@@ -1951,58 +2003,6 @@
    "link": "https://hamenagen.net/%d7%93%d7%95%d7%93-%d7%91%d7%9f-%d7%90%d7%a8%d7%96%d7%94-%d7%9e%d7%92%d7%99%d7%a9-%d7%92%d7%a8%d7%a1%d7%94-%d7%a2%d7%91%d7%a8%d7%99%d7%aa-%d7%9c%d7%9c%d7%94%d7%99%d7%98-%d7%a9%d7%9c-%d7%96%d7%95%d7%a9/",
    "download": null,
    "ts": "2026-10-04T11:57:05+00:00"
-  },
-  {
-   "id": "s189e2e2945ef79",
-   "title": "יואל ווייס מגיש | רבי חיים זאנוויל בן ר' משה | האזינו",
-   "text": "המשמח אלוקים ואנשים רודף צדקה וחסד הנגיד יצחק פויגעל ברענגט א ניגון צי כלל ישראל און זכות פון ריבניצע רבי זיעוכ\"י אמן זכותו יגן עלינו אמן זכותו יגן עלינו.",
-   "image": "data/media/006d1f307c1c7d86.webp",
-   "image_src": "https://hamenagen.net/wp-content/uploads/2026/10/PKUJ_O_a4P0-maxresdefault.webp",
-   "type": "audio",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%99%d7%95%d7%90%d7%9c-%d7%95%d7%95%d7%99%d7%99%d7%a1-%d7%9e%d7%92%d7%99%d7%a9-%d7%a8%d7%91%d7%99-%d7%97%d7%99%d7%99%d7%9d-%d7%96%d7%90%d7%a0%d7%95%d7%95%d7%99%d7%9c-%d7%91%d7%9f-%d7%a8-%d7%9e/",
-   "download": null,
-   "ts": "2026-10-04T11:49:37+00:00"
-  },
-  {
-   "id": "s9cc4d3535781ef",
-   "title": "אלעזר יפרח - אבי נתן",
-   "text": "להחזיק מעמד, לבחור לקום: אלעזר יפרח בסינגל הבכורה - \"אבי נתן\"אחרי שנים שבהן עסק במוזיקה אנדלוסית, פיוט ונגינת עוּד, הזמר והיוצר הירושלמי אלעזר יפרח יוצא לדרך מוזיקלית עצמאית עם סינגל הבכורה שלו, \"אבי נתן\". השיר נכתב מתוך ההתמודדות האישית של יפרח בשנות המלחמה, לצד המציאות הלאומית המורכבת והכואבת, ובוחר דווקא מתוך הקושי…",
-   "image": "data/media/0827ba09f1052347.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTDSkRheTVZGdugH2JGb561r1mdmvHLQ1n9qqfMzxpE1lD3zUtDQTYiqoE8xMACDEqwm6Uh_WEdzDsJDi4W_W3zi3Sj37d84p-BRReq3lh2ag4zLFrNKRkLSNWEFQFS2LhaalAggmINQYiKkPh-gVX5T__Yx2x65xf1ouJs_t6gxvQZ_2OSr9aN51amMl/s72-w320-h320-c/%D7%90%D7%91%D7%99%20%D7%A0%D7%AA%D7%9F%203000.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/10/blog-post_04.html",
-   "download": "https://archive.org/download/hadshotmusic_20261004/%D7%90%D7%9C%D7%A2%D7%96%D7%A8%20%D7%99%D7%A4%D7%A8%D7%97%20-%20%D7%90%D7%91%D7%99%20%D7%A0%D7%AA%D7%9F.mp3",
-   "ts": "2026-10-04T11:47:16+00:00"
-  },
-  {
-   "id": "s6ec61898959485",
-   "title": "אליעזר אולמן & אהרן ברייער - אנוכי אנחמכם",
-   "text": "אשוב לנחמכם: אליעזר אולמן ממשיך מגיש סינגל שני - \"אנוכי אנחמכם\", בביצוע של אהרן ברייערלאחר שיר הבכורה \"רוצה ה' את יראיו\" אותו הוציא לפני תקופה קצרה, המלחין אליעזר אולמן מוציא סינגל חדש בשם \"אנוכי אנחמכם\", כשהפעם על השירה אמון הזמר אהרן ברייער. על העיבוד הופקד יצחק שור.השיר החדש הוא מתוך קינה שחיבר האלשיך הקדוש, רבי…",
-   "image": "data/media/a99fc8029ae98a17.jpg",
-   "image_src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MFtrTfaGYcRw3OARqiQ5hG4N7HyZhAgxtnXxEPbNMi2o0LergssvlAFNGMOzSRXyAnOPbKYXMHktjfio-4VBLcs7b3GpOV699iIYjAvxCICK6EGiIBQjnDJJhFFdfP97Wkezp3a2z5wt2HLx6_PQgB6b3YTYK_nDa_cgsPC1OPsGyeQMm7JEWnpd7k5A/s72-w314-h320-c/%D7%A1%D7%99%D7%A0%D7%92%D7%9C%20-%20%D7%A8%D7%99%D7%91%D7%95%D7%A2%20%D7%9C%D7%9C%D7%90.jpg",
-   "type": "audio",
-   "video_id": null,
-   "source": "חדשות המוזיקה",
-   "link": "https://newsmusic.blogspot.com/2026/10/blog-post.html",
-   "download": "https://archive.org/download/hadshotmusic_202610/%D7%90%D7%9C%D7%99%D7%A2%D7%96%D7%A8%20%D7%90%D7%95%D7%9C%D7%9E%D7%9F%20%26%20%D7%90%D7%94%D7%A8%D7%9F%20%D7%91%D7%A8%D7%99%D7%99%D7%A2%D7%A8%20-%20%D7%90%D7%A0%D7%95%D7%9B%D7%99%20%D7%90%D7%A0%D7%97%D7%9E%D7%9B%D7%9D.mp3",
-   "ts": "2026-10-04T10:28:04+00:00"
-  },
-  {
-   "id": "s5a60c856586467",
-   "title": "אייל צרפתי בשיר לזכר הנרצחים הי\"ד | דודי ירד לגנו | צפו",
-   "text": "הקליפ מכיל נשים בעקיפין \"דודי ירד לגנו \" שיר שנכתב והולחן לזכרם של הקדושים שמסרו את נפשם למען עם ישראל , ולזכר כל הקדושים שנלקחו מאיתנו על עצם היותם יהודים . השיר מתאר, שלא תמיד אנחנו מבינים למה נקטפים מחיינו אנשים מיוחדים, אנשים מלאכים בדמות אדם, אבל אנחנו מאמינים שהם נקטפו כדי להגן ולכפר על כולם ,ושרוחם עדיין פועם…",
-   "image": "data/media/bde3f65fe714845f.png",
-   "image_src": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f494.png",
-   "type": "clip",
-   "video_id": null,
-   "source": "המנגן",
-   "link": "https://hamenagen.net/%d7%90%d7%99%d7%99%d7%9c-%d7%a6%d7%a8%d7%a4%d7%aa%d7%99-%d7%91%d7%a9%d7%99%d7%a8-%d7%9c%d7%96%d7%9b%d7%a8-%d7%94%d7%a0%d7%a8%d7%a6%d7%97%d7%99%d7%9d-%d7%94%d7%99%d7%93-%d7%93%d7%95%d7%93%d7%99/",
-   "download": null,
-   "ts": "2026-10-04T07:55:24+00:00"
   }
  ]
 }
