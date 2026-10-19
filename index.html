@@ -3,160 +3,149 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>מוזיק • עדכוני המוזיקה החרדית</title>
-<meta name="description" content="עדכוני המוזיקה החרדית — סינגלים, קליפים וחדשות מכל אתרי המוזיקה, במקום אחד.">
+<title>מבזקים • מהדורת החדשות המובילה</title>
+<meta name="description" content="מבזקים — מהדורת החדשות המובילה. כל העדכונים החשובים במקום אחד.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Heebo:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#f4f2f7;
+    --paper:#eef1f4;
     --card:#ffffff;
-    --ink:#191526;
-    --muted:#847f92;
-    --accent:#6d28d9;
-    --accent-2:#c026a6;
-    --accent-soft:#efe7fb;
+    --bubble:#ffffff;
+    --ink:#15171c;
+    --muted:#8a9099;
+    --accent:#9c1b2e;
+    --accent-soft:#fbe7ea;
     --gold:#9a7b26;
     --gold-soft:#f7efd9;
-    --line:#e7e3ee;
-    --shadow:0 1px 2px rgba(25,20,40,.05),0 10px 30px rgba(25,20,40,.07);
-    --hdr:82px;
+    --line:#e4e7ec;
+    --shadow:0 1px 1px rgba(20,20,25,.04),0 4px 14px rgba(20,20,25,.06);
+    --hdr:126px;
   }
   *{box-sizing:border-box}
   html,body{margin:0}
-  body{background:var(--paper);color:var(--ink);
-    font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+  body{
+    background:var(--paper);color:var(--ink);
+    font-family:"Heebo",-apple-system,"Segoe UI",Arial,sans-serif;
+    line-height:1.5;-webkit-font-smoothing:antialiased;
+  }
   a{color:inherit;text-decoration:none}
 
-  /* Header */
-  header.top{position:sticky;top:0;z-index:50;
-    background:linear-gradient(90deg,#6d28d9,#8b1fb0);color:#fff;box-shadow:0 2px 14px rgba(109,40,217,.25)}
+  /* ---------- Header ---------- */
+  header.top{background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50;box-shadow:0 1px 8px rgba(20,20,25,.05)}
   .top-in{max-width:1080px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:18px}
   .brand{display:flex;align-items:center;gap:12px;min-width:0}
-  .brand .logo{width:50px;height:50px;border-radius:15px;flex-shrink:0;background:rgba(255,255,255,.16);
-    display:flex;align-items:center;justify-content:center;font-size:26px;backdrop-filter:blur(4px)}
-  .brand h1{font-family:"Suez One",Georgia,serif;font-weight:400;margin:0;font-size:clamp(24px,4vw,32px);line-height:1;letter-spacing:-.5px}
-  .brand .sub{font-size:12.5px;opacity:.85;font-weight:600;margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-  .brand .sub b{opacity:1}
+  .brand .logo{
+    width:52px;height:52px;border-radius:50%;flex-shrink:0;
+    background:radial-gradient(circle at 30% 25%,#c62a3f,#7d1023);
+    display:flex;align-items:center;justify-content:center;font-size:26px;
+    box-shadow:0 4px 12px rgba(156,27,46,.35);
+  }
+  .brand .txt{min-width:0}
+  .brand h1{
+    font-family:"Suez One",Georgia,serif;font-weight:400;margin:0;
+    font-size:clamp(24px,4vw,32px);line-height:1;letter-spacing:-.5px;
+    display:flex;align-items:center;gap:6px;
+  }
+  .brand h1 .burst{font-family:"Heebo";font-size:.7em}
+  .brand .sub{font-size:12.5px;color:var(--muted);font-weight:600;margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .brand .sub b{color:var(--accent)}
   .search{flex:1;max-width:420px;margin-inline-start:auto;position:relative}
-  .search input{width:100%;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.15);border-radius:999px;
-    padding:11px 42px 11px 16px;font-size:14px;font-family:inherit;color:#fff;outline:none}
-  .search input::placeholder{color:rgba(255,255,255,.7)}
-  .search input:focus{background:rgba(255,255,255,.25)}
-  .search svg{position:absolute;top:50%;transform:translateY(-50%);inset-inline-start:14px;width:17px;height:17px;opacity:.8}
+  .search input{
+    width:100%;border:1px solid var(--line);background:#f4f6f8;border-radius:999px;
+    padding:11px 42px 11px 16px;font-size:14px;font-family:inherit;color:var(--ink);outline:none;
+  }
+  .search input:focus{border-color:var(--accent);background:#fff}
+  .search svg{position:absolute;top:50%;transform:translateY(-50%);inset-inline-start:14px;width:17px;height:17px;opacity:.4}
   @media(max-width:720px){.search{display:none}}
 
-  /* Layout */
-  .wrap{max-width:1080px;margin:0 auto;display:flex;gap:26px;padding:22px 20px;align-items:flex-start}
-  .side{width:300px;flex-shrink:0;position:sticky;top:calc(var(--hdr) + 12px)}
+  /* ---------- Ticker ---------- */
+  .ticker{background:var(--ink);color:#fff;position:sticky;top:76px;z-index:49;display:flex;align-items:stretch;overflow:hidden;height:44px}
+  .ticker .label{
+    background:var(--accent);font-weight:800;font-size:13px;display:flex;align-items:center;gap:7px;
+    padding:0 16px;white-space:nowrap;flex-shrink:0;z-index:2;
+  }
+  .ticker .label .live{width:8px;height:8px;border-radius:50%;background:#fff;animation:blink 1.4s infinite}
+  @keyframes blink{50%{opacity:.25}}
+  .ticker .track-wrap{flex:1;overflow:hidden;position:relative}
+  .ticker .track{display:flex;align-items:center;gap:34px;position:absolute;white-space:nowrap;height:100%;
+    animation:tick 70s linear infinite;will-change:transform}
+  .ticker:hover .track{animation-play-state:paused}
+  @keyframes tick{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+  .ticker .t-item{display:inline-flex;align-items:center;gap:9px;font-size:13.5px;font-weight:500}
+  .ticker .t-time{background:#c62a3f;color:#fff;font-weight:800;font-size:11.5px;padding:2px 7px;border-radius:4px}
+  .ticker .t-item::after{content:"";width:5px;height:5px;border-radius:50%;background:#555}
+
+  /* ---------- Layout ---------- */
+  .wrap{max-width:1080px;margin:0 auto;display:flex;gap:26px;padding:20px;align-items:flex-start}
+  .side{width:300px;flex-shrink:0;position:sticky;top:var(--hdr)}
   .feed{flex:1;min-width:0;max-width:680px;margin-inline:auto}
   @media(max-width:980px){.side{display:none}.wrap{padding:16px 12px}}
 
-  .lead{font-family:"Suez One",serif;font-size:20px;margin:0 0 16px;display:flex;align-items:center;gap:9px}
-  .lead::before{content:"";width:8px;height:22px;border-radius:3px;background:linear-gradient(180deg,var(--accent),var(--accent-2))}
+  /* ---------- Chat message ---------- */
+  .msg{display:flex;gap:11px;margin-bottom:20px;align-items:flex-start;animation:rise .35s ease both}
+  @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .msg .av{
+    width:44px;height:44px;border-radius:50%;flex-shrink:0;margin-top:20px;
+    background:radial-gradient(circle at 30% 25%,#c62a3f,#7d1023);
+    display:flex;align-items:center;justify-content:center;font-size:21px;
+  }
+  .msg .col{flex:1;min-width:0}
+  .msg .who{display:flex;align-items:center;gap:8px;margin-bottom:5px;padding-inline-start:4px}
+  .msg .who .nm{font-weight:800;font-size:14px}
+  .msg .who .tm{font-size:12px;color:var(--muted);font-weight:500}
+  .bubble{
+    background:var(--bubble);border:1px solid var(--line);border-radius:16px;border-top-right-radius:5px;
+    box-shadow:var(--shadow);padding:14px 17px;
+  }
+  .bubble .bt{font-size:16.5px;white-space:pre-wrap;word-break:break-word;line-height:1.62}
+  .bubble .bt.big{font-size:18.5px;font-weight:500}
+  .msg.fresh .bubble{animation:flash 1.8s ease}
+  @keyframes flash{0%{background:var(--accent-soft);border-color:var(--accent)}100%{background:var(--bubble)}}
 
-  /* Music card */
-  .track{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);
-    overflow:hidden;margin-bottom:20px;animation:rise .35s ease both}
-  @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-  .track.fresh{outline:2px solid var(--accent-soft)}
-  .cover{position:relative;display:block;background:#e9e5f0;aspect-ratio:16/9;overflow:hidden}
-  .cover img{width:100%;height:100%;object-fit:cover;display:block}
-  .cover .play{position:absolute;inset:0;margin:auto;width:64px;height:64px;border-radius:50%;
-    background:rgba(109,40,217,.92);display:flex;align-items:center;justify-content:center;
-    box-shadow:0 6px 20px rgba(0,0,0,.3);transition:.15s}
-  .cover:hover .play{transform:scale(1.08);background:var(--accent)}
-  .cover .play::after{content:"";border-style:solid;border-width:11px 0 11px 17px;border-color:transparent transparent transparent #fff;margin-inline-start:4px}
-  .cover .src{position:absolute;top:12px;inset-inline-end:12px;background:rgba(20,15,35,.72);color:#fff;
-    font-size:11.5px;font-weight:700;padding:4px 11px;border-radius:999px;backdrop-filter:blur(3px)}
+  .media{margin-top:12px;display:grid;gap:6px;border-radius:12px;overflow:hidden}
+  .media.n1{grid-template-columns:1fr}
+  .media.n2,.media.n4{grid-template-columns:1fr 1fr}
+  .media.n3{grid-template-columns:1fr 1fr}
+  .media.n3 > :first-child{grid-column:1 / -1}
+  .media img,.media video{width:100%;height:100%;max-height:460px;object-fit:cover;display:block;border-radius:9px;background:#e9edf1}
+  .media img{cursor:zoom-in}
 
-  .body{padding:16px 18px 18px}
-  .cover.ytfacade{background-size:cover;background-position:center;cursor:pointer}
-  .ytembed{width:100%;aspect-ratio:16/9;border:0;display:block;background:#000}
-  .aud{width:100%;margin:10px 0 2px;height:38px}
-  .track .tt{font-size:19px;font-weight:800;line-height:1.32;margin:0 0 7px}
-  .track .desc{font-size:14.5px;color:#5c5570;line-height:1.6;margin:0}
-  .meta{display:flex;align-items:center;gap:10px;margin-top:8px;font-size:12.5px;color:var(--muted);font-weight:600}
-  .meta .src-txt{color:var(--accent);font-weight:700}
+  .reactions{display:flex;gap:7px;margin-top:9px;padding-inline-start:4px;flex-wrap:wrap}
+  .rx{display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);
+    border-radius:999px;padding:4px 11px;font-size:12.5px;font-weight:700;color:var(--muted);cursor:default}
+  .rx.like{cursor:pointer;transition:.12s}
+  .rx.like:hover{border-color:var(--accent)}
+  .rx.like.on{color:var(--accent);background:var(--accent-soft);border-color:var(--accent-soft)}
+  .rx .em{font-size:14px;filter:grayscale(.1)}
 
-  .actions{display:flex;align-items:center;gap:9px;margin-top:14px;flex-wrap:wrap}
-  .btn{display:inline-flex;align-items:center;gap:7px;font-weight:700;font-size:14px;padding:10px 18px;border-radius:11px;cursor:pointer;border:none;font-family:inherit}
-  .btn.primary{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff}
-  .btn.ghost{background:var(--accent-soft);color:var(--accent)}
-  .btn.dl{background:#0f766e;color:#fff}
-  .like{margin-inline-start:auto;display:inline-flex;align-items:center;gap:6px;background:var(--card);border:1px solid var(--line);
-    border-radius:999px;padding:7px 13px;font-size:13px;font-weight:700;color:var(--muted);cursor:pointer}
-  .like.on{color:var(--accent-2);background:#fbe9f6;border-color:#fbe9f6}
-  .like .em{font-size:15px}
+  /* ---------- Promo bubble ---------- */
+  .msg.promo .av{background:radial-gradient(circle at 30% 25%,#c39a3a,#7d5f16);font-size:20px}
+  .promo .bubble{border-color:var(--gold);background:linear-gradient(180deg,#fffdf6,#fff)}
+  .promo .who .nm{color:var(--gold)}
+  .promo .tag{font-size:10.5px;font-weight:800;color:var(--gold);background:var(--gold-soft);padding:2px 8px;border-radius:5px;letter-spacing:.3px}
+  .promo .adv{font-weight:800;font-size:17px;margin-bottom:5px}
+  .cta{display:inline-block;margin-top:12px;background:var(--ink);color:#fff;font-weight:700;font-size:14.5px;padding:10px 20px;border-radius:10px}
 
-  /* no-cover card variant */
-  .track.nocov .body{padding-top:18px}
-  .track.nocov .srcflag{display:inline-block;background:var(--accent-soft);color:var(--accent);font-size:11.5px;font-weight:700;padding:3px 10px;border-radius:999px;margin-bottom:8px}
-
-  /* Promo */
-  .track.promo{border-color:var(--gold)}
-  .track.promo .body{background:linear-gradient(180deg,#fffdf6,#fff)}
-  .promo .tag{display:inline-block;background:var(--gold-soft);color:var(--gold);font-size:11px;font-weight:800;padding:3px 10px;border-radius:6px;margin-bottom:8px}
-  .promo .btn.primary{background:var(--ink)}
-
-  /* Side ad */
-  .side .ad{background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:16px}
+  /* ---------- Side ad column ---------- */
+  .side .ad{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden;margin-bottom:16px}
   .side .ad img{width:100%;display:block}
-  .side .ad .b{padding:14px 16px}
+  .side .ad .body{padding:14px 16px}
   .side .ad .adv{font-weight:800;font-size:16px;margin-bottom:4px}
-  .side .ad .tx{font-size:13.5px;color:#5c5570;line-height:1.5}
-  .side .placard{background:var(--gold-soft);border:1px dashed var(--gold);border-radius:16px;padding:18px 16px;text-align:center}
+  .side .ad .txt{font-size:13.5px;color:#4b5563;line-height:1.5}
+  .side .ad .cta{margin-top:10px;font-size:13.5px;padding:8px 16px}
+  .side .placard{background:var(--gold-soft);border:1px dashed var(--gold);border-radius:14px;padding:18px 16px;text-align:center}
   .side .placard .h{font-weight:800;color:#6b5a1e;font-size:15px;margin-bottom:4px}
   .side .placard .p{font-size:13px;color:#7a6a3a;font-weight:600}
   .side .placard .n{display:block;margin-top:8px;font-weight:800;color:var(--gold);font-size:16px}
 
   footer{max-width:1080px;margin:0 auto;padding:22px 20px 60px;text-align:center;border-top:1px solid var(--line);color:var(--muted);font-size:12.5px}
-  footer .disc{max-width:640px;margin:0 auto 8px;font-size:11.5px;opacity:.9}
+
   .empty,.loading{text-align:center;color:var(--muted);padding:60px 20px;font-size:15px}
-  .lb{position:fixed;inset:0;background:rgba(12,10,20,.93);display:none;align-items:center;justify-content:center;z-index:100;padding:20px;cursor:zoom-out}
-  .lb.open{display:flex}.lb img{max-width:100%;max-height:100%;border-radius:10px}
-
-  /* Playlist button in header */
-  .plbtn{flex-shrink:0;display:inline-flex;align-items:center;gap:7px;background:rgba(255,255,255,.16);
-    border:1px solid rgba(255,255,255,.28);color:#fff;font-weight:700;font-size:13.5px;padding:9px 15px;border-radius:999px;cursor:pointer;font-family:inherit}
-  .plbtn:hover{background:rgba(255,255,255,.26)}
-  .plbtn .cnt{background:#fff;color:var(--accent);border-radius:999px;padding:1px 8px;font-size:12px;font-weight:800}
-
-  /* Sort tabs */
-  .tabs{display:flex;gap:8px;margin-bottom:16px}
-  .tab{border:1px solid var(--line);background:var(--card);color:var(--muted);font-weight:700;font-size:13.5px;padding:8px 17px;border-radius:999px;cursor:pointer;font-family:inherit}
-  .tab.on{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#fff;border-color:transparent}
-  .chips{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:14px}
-  .chips .tab{font-size:12.5px;padding:6px 14px}
-  .sortrow{align-items:center;gap:8px;margin-top:2px}
-  .sortlbl{font-size:12.5px;color:var(--muted);font-weight:700}
-  .tab.sm{font-size:12.5px;padding:6px 13px}
-  .srclist{margin-top:14px;display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
-  .srclist a{font-size:12.5px;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:5px 12px;border-radius:999px}
-  .srctitle{font-size:13.5px;font-weight:700;color:var(--ink);margin-bottom:4px}
-
-  /* small card action buttons */
-  .mini{display:inline-flex;align-items:center;gap:6px;background:var(--accent-soft);color:var(--accent);border:none;
-    font-weight:700;font-size:13px;padding:10px 14px;border-radius:11px;cursor:pointer;font-family:inherit}
-  .mini.on{background:var(--accent);color:#fff}
-  .mini.share{background:#eef1f6;color:#3a4256}
-
-  /* Playlist sheet */
-  .sheet{position:fixed;inset:0;background:rgba(15,12,25,.5);display:none;z-index:90;justify-content:flex-start}
-  .sheet.open{display:flex}
-  .sheet .panel{background:var(--paper);width:100%;max-width:540px;height:100%;overflow:auto;box-shadow:-12px 0 40px rgba(0,0,0,.25);animation:slidein .25s ease}
-  @keyframes slidein{from{transform:translateX(-40px);opacity:.5}to{transform:none;opacity:1}}
-  .sheet .ph{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--line);padding:16px 20px;display:flex;align-items:center;justify-content:space-between;z-index:2}
-  .sheet .ph h3{margin:0;font-family:"Suez One",serif;font-size:21px}
-  .sheet .ph .x{cursor:pointer;font-size:24px;line-height:1;color:var(--muted);background:none;border:none}
-  .pl-item{display:flex;gap:12px;padding:13px 18px;border-bottom:1px solid var(--line);align-items:center}
-  .pl-item img{width:58px;height:58px;border-radius:11px;object-fit:cover;flex-shrink:0;background:#e9e5f0}
-  .pl-item .info{flex:1;min-width:0}
-  .pl-item .t{font-weight:700;font-size:14px;line-height:1.35}
-  .pl-item .row{display:flex;gap:14px;margin-top:7px;font-size:12.5px;font-weight:700}
-  .pl-item .row a{color:var(--accent)}.pl-item .row .rm{color:#b0324a;background:none;border:none;cursor:pointer;font-family:inherit;font-weight:700;font-size:12.5px}
-  .pl-empty{padding:60px 24px;text-align:center;color:var(--muted);font-size:15px}
+  .lb{position:fixed;inset:0;background:rgba(12,14,18,.92);display:none;align-items:center;justify-content:center;z-index:100;padding:20px;cursor:zoom-out}
+  .lb.open{display:flex}
+  .lb img{max-width:100%;max-height:100%;border-radius:8px}
 </style>
 </head>
 <body>
@@ -164,249 +153,185 @@
 <header class="top">
   <div class="top-in">
     <div class="brand">
-      <div class="logo">🎵</div>
-      <div><h1 id="brandName">מוזיק</h1><div class="sub" id="brandSub"></div></div>
+      <div class="logo">💥</div>
+      <div class="txt">
+        <h1 id="brandName">מבזקים</h1>
+        <div class="sub" id="brandSub"></div>
+      </div>
     </div>
     <div class="search">
-      <input id="q" type="search" placeholder="חיפוש זמר / שיר…" autocomplete="off">
+      <input id="q" type="search" placeholder="חיפוש בעדכונים…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </div>
-    <button class="plbtn" id="plBtn">🎵 הפלייליסט שלי <span class="cnt" id="plCount">0</span></button>
   </div>
 </header>
 
+<div class="ticker">
+  <div class="label"><span class="live"></span>מבזקים חמים</div>
+  <div class="track-wrap"><div class="track" id="tickTrack"></div></div>
+</div>
+
 <div class="wrap">
   <aside class="side" id="side"></aside>
-  <main class="feed">
-    <h2 class="lead">חדש במוזיקה</h2>
-    <div class="tabs" id="typeTabs">
-      <button class="tab on" data-type="all">הכל</button>
-      <button class="tab" data-type="audio">🎵 שמע</button>
-      <button class="tab" data-type="clip">🎬 קליפים</button>
-      <button class="tab" data-type="news">📰 חדשות</button>
-    </div>
-    <div class="chips" id="srcChips"></div>
-    <div class="tabs sortrow" id="tabs">
-      <span class="sortlbl">מיון:</span>
-      <button class="tab sm on" data-sort="new">🆕 חדש</button>
-      <button class="tab sm" data-sort="pop">🔥 פופולרי</button>
-    </div>
-    <div id="feed"><div class="loading">טוען עדכונים…</div></div>
-  </main>
+  <main class="feed"><div id="feed"><div class="loading">טוען מבזקים…</div></div></main>
 </div>
 
-<footer>
-  <div class="srctitle">מרכזים עבורכם את כל אתרי המוזיקה החרדית במקום אחד. מקורות המידע:</div>
-  <div class="srclist" id="srcList"></div>
-  <div class="disc">כל התכנים מקושרים למקורות המקוריים. ההאזנה וההורדה מתבצעות באתר המקור בהתאם לתנאיו וזכויות היוצרים שלו.</div>
-  © <span id="yr"></span> מוזיק · <span id="updatedLine"></span>
-</footer>
-
-<div class="sheet" id="sheet">
-  <div class="panel">
-    <div class="ph"><h3>🎵 הפלייליסט שלי</h3><button class="x" id="sheetClose">✕</button></div>
-    <div id="plList"></div>
-  </div>
-</div>
+<footer>© <span id="yr"></span> מבזקים · כל הזכויות שמורות · <span id="updatedLine"></span></footer>
 
 <div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
 
 <script>
-const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REFRESH_MS=90000;
-const AD_CONTACT="050-0000000";      // ← מספר ליצירת קשר לפרסום
-const DEFAULT_SUBS="9,400";
-let brandName="מוזיק", currentIds=new Set(), allItems=[], query="", promos={items:[]}, sortBy="new", typeFilter="all", srcFilter="all";
-const liked=new Set(JSON.parse(localStorage.getItem("mz_likes")||"[]"));
-const playlist=new Set(JSON.parse(localStorage.getItem("mz_pl")||"[]"));
-function savePlaylist(){localStorage.setItem("mz_pl",JSON.stringify([...playlist]));updatePlCount();}
-function updatePlCount(){document.getElementById("plCount").textContent=playlist.size;}
+const NEWS_URL="data/news.json", PROMO_URL="data/sponsored.json", REFRESH_MS=60000;
+const AD_CONTACT="050-0000000";          // ← מספר ליצירת קשר לפרסום
+const DEFAULT_SUBS="12,800";             // ← מספר עוקבים בכותרת (ניתן לעריכה)
+let brandName="מבזקים", currentIds=new Set(), allItems=[], query="";
+const liked=new Set(JSON.parse(localStorage.getItem("mvz_likes")||"[]"));
 
-const feedEl=document.getElementById("feed"), sideEl=document.getElementById("side"), updEl=document.getElementById("updatedLine");
+const feedEl=document.getElementById("feed"), sideEl=document.getElementById("side");
+const updEl=document.getElementById("updatedLine"), tickEl=document.getElementById("tickTrack");
 document.getElementById("yr").textContent=new Date().getFullYear();
 
 function relTime(iso){
   if(!iso) return "";
   const d=new Date(iso),s=Math.floor((Date.now()-d)/1000);
-  if(s<3600) return "לפני "+Math.max(1,Math.floor(s/60))+" דק׳";
+  if(s<60) return "כעת";
+  if(s<3600) return "לפני "+Math.floor(s/60)+" דק׳";
   if(s<86400){const h=Math.floor(s/3600);return "לפני "+h+(h===1?" שעה":" שעות");}
   const dy=Math.floor(s/86400);
   if(dy<7) return "לפני "+dy+(dy===1?" יום":" ימים");
-  return d.toLocaleDateString("he-IL",{day:"numeric",month:"long"});
+  return d.toLocaleDateString("he-IL",{day:"numeric",month:"short"});
 }
+function hhmm(iso){return iso?new Date(iso).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"}):"";}
 function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));}
 function seed(id,salt,min,max){let h=5381;const s=id+salt;for(let i=0;i<s.length;i++)h=((h<<5)+h+s.charCodeAt(i))>>>0;return min+h%(max-min);}
 
-function isAudio(u){return /\.(mp3|m4a|wav|aac|ogg)(\?|$)/i.test(u||"");}
+function mediaHTML(media){
+  if(!media||!media.length) return "";
+  const items=media.slice(0,4).map(m=>{
+    if(m.type==="video"){const p=m.poster?` poster="${m.poster}"`:"";return `<video src="${m.file}"${p} controls preload="metadata"></video>`;}
+    const src=m.file||m.image||m.src||"";return `<img src="${src}" loading="lazy" alt="" onerror="this.remove()">`;
+  }).join("");
+  return `<div class="media n${Math.min(media.length,4)}">${items}</div>`;
+}
 
-function trackCard(it,fresh){
-  const isLiked=liked.has(it.id), likes=seed(it.id,"l",8,180)+(isLiked?1:0);
-  const inPl=playlist.has(it.id);
-  const watchUrl=it.link||(it.video_id?("https://www.youtube.com/watch?v="+it.video_id):"");
-  const linkAttr=watchUrl?`href="${esc(watchUrl)}" target="_blank" rel="noopener"`:"";
-  const srcPill=`<span class="src">${esc(it.source||"")}</span>`;
-  let media="";
-  if(it.image){
-    // עדכון-כרטיס: כריכה מקומית (נטענת גם בנטפרי) שמקושרת למקור. ללא הטמעת נגן —
-    // נגני יוטיוב חסומים בנטפרי, אז מציגים עדכון + קישור "לצפייה במקור".
-    media=`<a class="cover" ${linkAttr}><img src="${esc(it.image)}" loading="lazy" alt="" onerror="this.parentNode.remove()">${srcPill}${it.video_id?`<span class="play"></span>`:""}</a>`;
-  }
-  const audio=(!it.video_id && isAudio(it.download))?`<audio class="aud" controls preload="none" src="${esc(it.download)}"></audio>`:"";
-  const dl=it.download?`<a class="btn dl" href="${esc(it.download)}" target="_blank" rel="noopener">⬇ הורדה</a>`:"";
-  const srcBtn=watchUrl?`<a class="btn primary" href="${esc(watchUrl)}" target="_blank" rel="noopener">${it.video_id?"▶ לצפייה במקור":"▶ האזנה במקור"}</a>`:"";
-  return `<article class="track${fresh?" fresh":""}${it.image?"":" nocov"}">
-    ${media}
-    <div class="body">
-      ${it.image?"":`<span class="srcflag">${esc(it.source||"מוזיק")}</span>`}
-      <h3 class="tt">${esc(it.title||"")}</h3>
-      ${it.text?`<p class="desc">${esc(it.text)}</p>`:""}
-      ${audio}
-      <div class="meta"><span class="src-txt">מקור: ${esc(it.source||"")}</span>·<span>${relTime(it.ts)}</span></div>
-      <div class="actions">
-        ${srcBtn}
-        ${dl}
-        <button class="mini pl${inPl?" on":""}" data-pl="${it.id}">${inPl?"✓ בפלייליסט":"＋ פלייליסט"}</button>
-        <button class="mini share" data-share="${it.id}">↗ שיתוף</button>
-        <span class="like${isLiked?" on":""}" data-id="${it.id}"><span class="em">❤️</span><span class="lc">${likes}</span></span>
+function reactionsHTML(it){
+  const isLiked=liked.has(it.id);
+  const likes=seed(it.id,"l",6,140)+(isLiked?1:0);
+  const boom=seed(it.id,"b",3,45);
+  const views=seed(it.id,"v",380,5200).toLocaleString("he-IL");
+  return `<div class="reactions">
+    <span class="rx like${isLiked?" on":""}" data-id="${it.id}"><span class="em">❤️</span><span class="lc">${likes}</span></span>
+    <span class="rx"><span class="em">💥</span>${boom}</span>
+    <span class="rx"><span class="em">👁️</span>${views}</span>
+  </div>`;
+}
+
+function newsMsg(it,fresh){
+  const big=(it.text||"").length<130;
+  return `<div class="msg${fresh?" fresh":""}">
+    <div class="av">💥</div>
+    <div class="col">
+      <div class="who"><span class="nm">${esc(brandName)} 💥</span><span class="tm">${hhmm(it.ts)} · ${relTime(it.ts)}</span></div>
+      <div class="bubble">
+        ${it.text?`<div class="bt${big?" big":""}">${esc(it.text)}</div>`:""}
+        ${mediaHTML(it.media)}
+      </div>
+      ${reactionsHTML(it)}
+    </div>
+  </div>`;
+}
+
+function promoMsg(p){
+  let cta="";
+  if(p.cta_phone) cta=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")} ${esc(p.cta_phone)}</a>`;
+  else if(p.cta_url) cta=`<a class="cta" href="${p.cta_url}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
+  return `<div class="msg promo">
+    <div class="av">★</div>
+    <div class="col">
+      <div class="who"><span class="nm">${esc(p.advertiser||"תוכן שיווקי")}</span><span class="tag">ממומן</span></div>
+      <div class="bubble">
+        ${p.text?`<div class="bt">${esc(p.text)}</div>`:""}
+        ${p.image?mediaHTML([{type:"image",image:p.image}]):""}
+        ${cta}
       </div>
     </div>
-  </article>`;
+  </div>`;
 }
 
-function promoCard(p){
-  let cta="";
-  if(p.cta_phone) cta=`<a class="btn primary" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")} ${esc(p.cta_phone)}</a>`;
-  else if(p.cta_url) cta=`<a class="btn primary" href="${esc(p.cta_url)}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
-  const cover=p.image?`<div class="cover"><img src="${esc(p.image)}" alt=""></div>`:"";
-  return `<article class="track promo">${cover}<div class="body">
-    <span class="tag">תוכן ממומן</span>
-    <h3 class="tt">${esc(p.advertiser||"")}</h3>
-    ${p.text?`<p class="desc">${esc(p.text)}</p>`:""}
-    <div class="actions">${cta}</div></div></article>`;
-}
-
-function sideHTML(){
-  const pinned=(promos.items||[]).filter(p=>p.enabled!==false&&p.pin);
+function sideHTML(pinned){
   let h="";
   pinned.forEach(p=>{
     let cta="";
-    if(p.cta_phone) cta=`<a class="btn primary" style="margin-top:10px" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")}</a>`;
-    else if(p.cta_url) cta=`<a class="btn primary" style="margin-top:10px" href="${esc(p.cta_url)}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
-    h+=`<div class="ad">${p.image?`<img src="${esc(p.image)}" alt="">`:""}<div class="b"><div class="adv">${esc(p.advertiser||"")}</div>${p.text?`<div class="tx">${esc(p.text)}</div>`:""}${cta}</div></div>`;
+    if(p.cta_phone) cta=`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")}</a>`;
+    else if(p.cta_url) cta=`<a class="cta" href="${p.cta_url}" target="_blank" rel="noopener">${esc(p.cta_label||"לפרטים")}</a>`;
+    h+=`<div class="ad">${p.image?`<img src="${p.image}" alt="">`:""}<div class="body">
+      <div class="adv">${esc(p.advertiser||"")}</div>${p.text?`<div class="txt">${esc(p.text)}</div>`:""}${cta}</div></div>`;
   });
-  h+=`<div class="placard"><div class="h">🎙️ מעוניינים לפרסם?</div><div class="p">חשיפה לקהל אוהבי המוזיקה.<span class="n">${AD_CONTACT}</span></div></div>`;
+  h+=`<div class="placard"><div class="h">📣 מעוניינים לפרסם?</div><div class="p">חשיפה לאלפי גולשים ביום.<span class="n">${AD_CONTACT}</span></div></div>`;
   return h;
 }
 
-function render(isRefresh){
+function buildTicker(items){
+  const top=items.slice(0,10).filter(i=>i.text);
+  if(!top.length){tickEl.innerHTML="";return;}
+  const one=top.map(i=>`<span class="t-item"><span class="t-time">${hhmm(i.ts)}</span>${esc(i.text.split("\n")[0].slice(0,70))}</span>`).join("");
+  tickEl.innerHTML=one+one;  // duplicate for seamless loop
+}
+
+function render(isRefresh,promos){
   let items=allItems;
-  if(typeFilter!=="all") items=items.filter(i=>(i.type||"news")===typeFilter);
-  if(srcFilter!=="all") items=items.filter(i=>i.source===srcFilter);
-  if(query){const q=query.trim();items=items.filter(i=>((i.title||"")+" "+(i.text||"")).includes(q));}
-  if(sortBy==="pop") items=[...items].sort((a,b)=>(seed(b.id,"l",8,180))-(seed(a.id,"l",8,180)));
-  const inline=(promos.items||[]).filter(p=>p.enabled!==false&&!p.pin);
-  if(!items.length){feedEl.innerHTML='<div class="empty">'+(query?"לא נמצאו תוצאות.":"אין עדכונים כרגע. חוזרים בקרוב…")+'</div>';}
+  if(query){const q=query.trim();items=items.filter(i=>(i.text||"").includes(q));}
+  const proms=(promos&&promos.items?promos.items:[]).filter(p=>p.enabled!==false);
+  const inline=proms.filter(p=>!p.pin);
+  const pinned=proms.filter(p=>p.pin);
+
+  if(!items.length){feedEl.innerHTML='<div class="empty">'+(query?"לא נמצאו תוצאות.":"אין מבזקים כרגע. חוזרים בקרוב…")+'</div>';}
   else{
     let html="";
     items.forEach((it,i)=>{
-      html+=trackCard(it, isRefresh && !currentIds.has(it.id));
-      if(inline.length && (i+1)%5===0) html+=promoCard(inline[((i+1)/5-1)%inline.length]);
+      html+=newsMsg(it, isRefresh && !currentIds.has(it.id));
+      if(inline.length && (i+1)%7===0) html+=promoMsg(inline[((i+1)/7-1)%inline.length]);
     });
     feedEl.innerHTML=html;
   }
-  sideEl.innerHTML=sideHTML();
+  sideEl.innerHTML=sideHTML(pinned);
   currentIds=new Set(allItems.map(i=>i.id));
 }
 
 async function jget(u){const r=await fetch(u+"?t="+Date.now(),{cache:"no-store"});if(!r.ok)throw new Error(r.status);return r.json();}
+
 async function load(isRefresh){
   try{
-    const [news,pr]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]}))]);
-    promos=pr||{items:[]};
+    const [news,promos]=await Promise.all([jget(NEWS_URL),jget(PROMO_URL).catch(()=>({items:[]}))]);
     if(news.brand){
-      brandName=news.brand.name||"מוזיק";
+      brandName=news.brand.name||"מבזקים";
       document.getElementById("brandName").textContent=brandName;
       const subs=news.brand.subscribers||DEFAULT_SUBS;
-      document.getElementById("brandSub").innerHTML=(news.brand.tagline||"")+" · <b>"+subs+"</b> עוקבים";
+      document.getElementById("brandSub").innerHTML=(news.brand.tagline||"מהדורת החדשות המובילה")+" · <b>"+subs+"</b> עוקבים";
     }
     allItems=news.items||[];
-    buildSources(news);
-    render(isRefresh);
+    buildTicker(allItems);
+    render(isRefresh,promos);
     if(news.updated) updEl.textContent="עודכן "+relTime(news.updated);
-  }catch(e){ if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון כרגע. נסו לרענן.</div>'; }
+    window._promos=promos;
+  }catch(e){ if(!isRefresh) feedEl.innerHTML='<div class="empty">לא ניתן לטעון מבזקים כרגע.<br>נסו לרענן בעוד רגע.</div>'; }
 }
 
-function itemById(id){return allItems.find(i=>i.id===id);}
-
-function buildSources(news){
-  const srcs=(news.sources&&news.sources.length)?news.sources
-    :[...new Set(allItems.map(i=>i.source).filter(Boolean))].map(n=>({name:n,site:""}));
-  const chips=document.getElementById("srcChips");
-  chips.innerHTML='<button class="tab'+(srcFilter==="all"?" on":"")+'" data-src="all">כל המקורות</button>'+
-    srcs.map(s=>`<button class="tab${srcFilter===s.name?" on":""}" data-src="${esc(s.name)}">${esc(s.name)}</button>`).join("");
-  const list=document.getElementById("srcList");
-  list.innerHTML=srcs.map(s=>s.site?`<a href="${esc(s.site)}" target="_blank" rel="noopener">${esc(s.name)} ↗</a>`
-    :`<a>${esc(s.name)}</a>`).join("");
-}
-function setActive(sel,btn){document.querySelectorAll(sel+" .tab").forEach(t=>t.classList.toggle("on",t===btn));}
-
-function renderPlaylist(){
-  const ids=[...playlist];
-  const list=document.getElementById("plList");
-  const saved=ids.map(itemById).filter(Boolean);
-  if(!saved.length){list.innerHTML='<div class="pl-empty">הפלייליסט ריק.<br>הוסיפו שירים בכפתור "＋ פלייליסט".</div>';return;}
-  list.innerHTML=saved.map(it=>{
-    const link=it.link?`href="${esc(it.link)}" target="_blank" rel="noopener"`:"";
-    const dl=it.download?`<a href="${esc(it.download)}" target="_blank" rel="noopener">⬇ הורדה</a>`:"";
-    return `<div class="pl-item">
-      ${it.image?`<img src="${esc(it.image)}" alt="">`:`<img alt="" style="background:linear-gradient(135deg,#6d28d9,#c026a6)">`}
-      <div class="info"><div class="t">${esc(it.title||"")}</div>
-        <div class="row">${it.link?`<a ${link}>▶ האזנה</a>`:""}${dl}<button class="rm" data-rm="${it.id}">הסר</button></div>
-      </div></div>`;
-  }).join("");
-}
-function openSheet(){renderPlaylist();document.getElementById("sheet").classList.add("open");}
-function closeSheet(){document.getElementById("sheet").classList.remove("open");}
-
-async function shareItem(it){
-  const url=it.link||location.href, text=it.title||"מוזיק";
-  if(navigator.share){try{await navigator.share({title:"מוזיק",text,url});return;}catch(e){}}
-  try{await navigator.clipboard.writeText(text+" — "+url);alert("הקישור הועתק ✓");}catch(e){prompt("העתיקו את הקישור:",url);}
-}
-
+// interactions
 document.addEventListener("click",e=>{
-  const like=e.target.closest(".like");
+  const like=e.target.closest(".rx.like");
   if(like){
     const id=like.dataset.id, lc=like.querySelector(".lc");
     if(liked.has(id)){liked.delete(id);like.classList.remove("on");lc.textContent=+lc.textContent-1;}
     else{liked.add(id);like.classList.add("on");lc.textContent=+lc.textContent+1;}
-    localStorage.setItem("mz_likes",JSON.stringify([...liked]));return;
+    localStorage.setItem("mvz_likes",JSON.stringify([...liked]));return;
   }
-  const pl=e.target.closest(".mini.pl");
-  if(pl){
-    const id=pl.dataset.pl;
-    if(playlist.has(id)){playlist.delete(id);pl.classList.remove("on");pl.textContent="＋ פלייליסט";}
-    else{playlist.add(id);pl.classList.add("on");pl.textContent="✓ בפלייליסט";}
-    savePlaylist();return;
-  }
-  const sh=e.target.closest(".mini.share");
-  if(sh){const it=itemById(sh.dataset.share);if(it)shareItem(it);return;}
-  const rm=e.target.closest("[data-rm]");
-  if(rm){playlist.delete(rm.dataset.rm);savePlaylist();renderPlaylist();render(true);return;}
-  const tab=e.target.closest(".tab");
-  if(tab){
-    if(tab.dataset.sort){sortBy=tab.dataset.sort;setActive("#tabs",tab);}
-    else if(tab.dataset.type){typeFilter=tab.dataset.type;setActive("#typeTabs",tab);}
-    else if(tab.dataset.src!==undefined){srcFilter=tab.dataset.src;setActive("#srcChips",tab);}
-    render(false);return;
-  }
+  const img=e.target.closest(".media img");
+  if(img){const l=document.getElementById("lightbox");document.getElementById("lbImg").src=img.src;l.classList.add("open");}
 });
-document.getElementById("plBtn").addEventListener("click",openSheet);
-document.getElementById("sheetClose").addEventListener("click",closeSheet);
-document.getElementById("sheet").addEventListener("click",e=>{if(e.target.id==="sheet")closeSheet();});
-document.getElementById("q").addEventListener("input",e=>{query=e.target.value;render(false);});
 document.getElementById("lightbox").addEventListener("click",()=>document.getElementById("lightbox").classList.remove("open"));
+document.getElementById("q").addEventListener("input",e=>{query=e.target.value;render(false,window._promos);});
 
-updatePlCount();
 load(false);
 setInterval(()=>load(true),REFRESH_MS);
 </script>

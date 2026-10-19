@@ -1,45 +1,150 @@
 {
   "brand": {
-    "name": "מוזיק",
-    "tagline": "כל אתרי המוזיקה החרדית — במקום אחד",
-    "subscribers": "9,400",
+    "name": "מבזקים",
+    "tagline": "מהדורת החדשות המובילה",
+    "kicker": "מבזק",
     "site_url": ""
   },
   "sources": [
-    { "name": "חדשות המוזיקה", "feed": "https://newsmusic.blogspot.com/feeds/posts/default?alt=rss", "site": "https://newsmusic.blogspot.com", "enabled": true },
-    { "name": "המנגן",         "feed": "https://hamenagen.net/feed/",                                   "site": "https://hamenagen.net",         "enabled": true },
-    { "name": "תורה אור",       "feed": "https://music.tora1.com/feed",                                  "site": "https://music.tora1.com",       "enabled": true },
-    { "name": "חסידיטיוב",      "feed": "https://chasiditube.com/category/%D7%A7%D7%9C%D7%99%D7%A4%D7%99%D7%9D/feed/", "site": "https://chasiditube.com", "enabled": true },
-
-    { "name": "מוטי שטיינמץ",   "netube": "UCjh-noHUsafx_CSiieHNXFg", "site": "https://netube.co.il/channel?id=UCjh-noHUsafx_CSiieHNXFg", "download": false, "enabled": true },
-    { "name": "ישי ריבו",       "netube": "UCHwxQ7twj_VWIPMcJ3Zdyqg", "site": "https://netube.co.il/channel?id=UCHwxQ7twj_VWIPMcJ3Zdyqg", "download": false, "enabled": true },
-    { "name": "אברהם פריד",     "netube": "UCYCWdJniUxe41JbVwO0_SLA", "site": "https://netube.co.il/channel?id=UCYCWdJniUxe41JbVwO0_SLA", "download": false, "enabled": true },
-    { "name": "מרדכי בן דוד",   "netube": "UC_vOeqbvaSt_P5haPc03oNQ", "site": "https://netube.co.il/channel?id=UC_vOeqbvaSt_P5haPc03oNQ", "download": false, "enabled": true },
-    { "name": "יעקב שוואקי",    "netube": "UC-iTQfrv8pVLjlErZquyJ6Q", "site": "https://netube.co.il/channel?id=UC-iTQfrv8pVLjlErZquyJ6Q", "download": false, "enabled": true },
-    { "name": "בני פרידמן",     "netube": "UCefarW8iWzuNO7NedV-om-w", "site": "https://netube.co.il/channel?id=UCefarW8iWzuNO7NedV-om-w", "download": false, "enabled": true },
-    { "name": "שמחה פרידמן",    "netube": "UC2tXgvgIGFZosvnvpKfi3hw", "site": "https://netube.co.il/channel?id=UC2tXgvgIGFZosvnvpKfi3hw", "download": false, "enabled": true },
-    { "name": "חב״ד מיוזיק",    "netube": "UCvfrlazHkFyA0b9q2hhV80Q", "site": "https://netube.co.il/channel?id=UCvfrlazHkFyA0b9q2hhV80Q", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" },
-    { "name": "מוזיקה חסידית",  "netube": "UCibmOBviB6-KvKkCvAjADgg", "site": "https://netube.co.il/channel?id=UCibmOBviB6-KvKkCvAjADgg", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" },
-    { "name": "סרטוני המוזיקה החסידית", "netube": "UCBIl0Zbhekk45PGZHEVsEhA", "site": "https://netube.co.il/channel?id=UCBIl0Zbhekk45PGZHEVsEhA", "download": false, "enabled": false, "note": "לא מאונדקס ב-NeTube" }
+    {
+      "username": "merkaz",
+      "enabled": true
+    },
+    {
+      "username": "hamoked_il",
+      "enabled": true
+    },
+    {
+      "username": "ramreports",
+      "enabled": true
+    },
+    {
+      "username": "abualiexpress",
+      "enabled": true
+    },
+    {
+      "username": "amitsegal",
+      "enabled": true
+    },
+    {
+      "username": "news0404il",
+      "enabled": true
+    },
+    {
+      "username": "israelhayomofficial",
+      "enabled": true
+    },
+    {
+      "username": "N12chat",
+      "enabled": true
+    },
+    {
+      "username": "ynetalerts",
+      "enabled": true
+    },
+    {
+      "username": "Moshepargod",
+      "enabled": true
+    },
+    {
+      "username": "behadrey",
+      "enabled": true
+    },
+    {
+      "username": "hamechadesh",
+      "enabled": true
+    },
+    {
+      "username": "haskupim",
+      "enabled": true
+    },
+    {
+      "username": "RealKikarHashabat",
+      "enabled": true
+    }
   ],
   "limits": {
     "max_items": 150,
-    "max_per_source": 20,
+    "max_messages_per_channel": 25,
     "max_media_bytes": 12000000
   },
-  "text": {
+  "text_filter": {
+    "drop_if_contains": [
+      "הצטרפו לערוץ",
+      "להצטרפות לערוץ",
+      "לפרסום בערוץ",
+      "לפרסום אצלנו",
+      "מעוניינים לפרסם",
+      "שתפו את הערוץ",
+      "לינק לערוץ",
+      "בטלגרם",
+      "בטלגראם",
+      "לערוץ הטלגרם",
+      "@",
+      "לפרסום לחצו",
+      "לפרטים והרשמה",
+      "לפרטים חייגו",
+      "לפרטים נוספים חייגו",
+      "חייגו עכשיו",
+      "התקשרו עכשיו",
+      "הטבה בלעדית",
+      "הנחה בלעדית",
+      "קופון",
+      "במבצע השבוע",
+      "מוקד המכירות",
+      "להזמנת כרטיסים",
+      "דרושים",
+      "דרוש/ה",
+      "עיתון המבשר",
+      "מצ\"ב עיתון"
+    ],
+    "drop_regex": [
+      "\\*\\d{3,4}\\b",
+      "\\b1-?[78]00\\b",
+      "[A-Za-z0-9][A-Za-z0-9-]*\\.(?:co\\.il|com|net|org|io)\\b",
+      ">>>",
+      "<<<"
+    ],
     "strip_urls": true,
-    "summary_chars": 320,
-    "min_title": 4
+    "strip_handles": true,
+    "strip_trailing_parens": true,
+    "strip_phrases": [
+      "מבזקי רעם - מבזקי חדשות בזמן אמת",
+      "מבזקי רעם",
+      "חדשות המוקד",
+      "המוקד:",
+      "המוקד :",
+      "הקו החרדי",
+      "כיכר השבת",
+      "חדשות כיכר השבת",
+      "בחדרי חרדים",
+      "חדשות ישראל",
+      "המודיע:",
+      "המודיע",
+      "המבשר",
+      "פרבר ב'בחדרי'",
+      "דורון קדוש:",
+      "דורון קדוש",
+      "שילה פריד:",
+      "שילה פריד",
+      "דין פישר",
+      "עמית סגל",
+      "אבו עלי",
+      "רעם |",
+      "| רעם"
+    ],
+    "min_length": 8
+  },
+  "text_editor": {
+    "use_gemini": true,
+    "gemini_model": "gemini-2.0-flash"
   },
   "media_filter": {
     "use_gemini": true,
     "gemini_model": "gemini-2.0-flash",
     "on_reject": "drop_media",
-    "fallback_without_key": "keep_image"
-  },
-  "downloads": {
-    "enabled": true,
-    "note": "כפתור הורדה מוצג רק כשהמקור עצמו מציע קובץ שמע/וידאו חופשי (enclosure או קישור ישיר). אין הורדה/אחסון של תוכן מוגן בזכויות יוצרים. ערוצי יוטיוב מוצגים בהטמעה רשמית בלבד (embed) — ללא הורדה."
+    "allow_images": true,
+    "allow_videos": true,
+    "fallback_without_key": "text_only"
   }
 }
