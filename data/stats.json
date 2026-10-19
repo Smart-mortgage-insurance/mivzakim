@@ -1,11 +1,11 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-19T22:39:53Z",
+ "updated": "2026-10-19T22:48:15Z",
  "days": {
   "20261020": {
    "u": 2,
-   "pv": 16,
-   "iv": 64
+   "pv": 17,
+   "iv": 67
   }
  },
  "ads": {
@@ -27,6 +27,9 @@
   "haskupim/198061": 1,
   "haskupim/198060": 1,
   "hamoked_il/213284": 1,
+  "Moshepargod/73148": 1,
+  "hamechadesh/140602": 1,
+  "hamoked_il/213283": 1,
   "N12chat/230778": 1,
   "ynetalerts/75788": 1,
   "Moshepargod/73146": 1,
