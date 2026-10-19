@@ -535,6 +535,7 @@ function promoHTML(p){
 }
 
 function renderChips(){
+  $("chips").innerHTML=""; return;                                   // מקורות לא מוצגים באתר, גם לא מוסתרים בקוד
   const counts={};secItems().forEach(i=>{const u=i.post.split("/")[0];counts[u]=(counts[u]||0)+1;});
   const us=Object.keys(data.channels).filter(u=>counts[u]&&(!filterKind||data.channels[u].kind===filterKind)).sort((a,b)=>(counts[b]||0)-(counts[a]||0));
   $("chips").innerHTML=`<button class="chip all${filterCh||filterKind||filterMine?"":" on"}" data-ch="">כל הערוצים</button>`+
