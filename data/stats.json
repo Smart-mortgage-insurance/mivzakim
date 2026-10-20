@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-20T06:26:00Z",
+ "updated": "2026-10-20T06:32:45Z",
  "days": {
   "20261020": {
    "u": 2,
@@ -13,7 +13,6 @@
   "konim": 0
  },
  "items": {
-  "ynetalerts/75789": 2,
   "Moshepargod/73154": 2,
   "Moshepargod/73153": 2,
   "hamoked_il/213287": 1,
@@ -22,8 +21,6 @@
   "Moshepargod/73149": 1,
   "Moshepargod/73148": 1,
   "hamechadesh/140602": 1,
-  "ynetalerts/75788": 1,
-  "Moshepargod/73146": 1,
   "hamechadesh/140601": 1,
   "RealKikarHashabat/9412": 1,
   "ramreports/216373": 1,
