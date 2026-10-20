@@ -1,11 +1,11 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-20T11:23:38Z",
+ "updated": "2026-10-20T11:30:52Z",
  "days": {
   "20261020": {
    "u": 3,
-   "pv": 19,
-   "iv": 74
+   "pv": 23,
+   "iv": 87
   }
  },
  "ads": {
@@ -15,10 +15,13 @@
  "items": {
   "N12chat/230843": 2,
   "RealKikarHashabat/9460": 2,
+  "hamoked_il/213365": 1,
   "abualiexpress/132244": 1,
   "hamoked_il/213364": 1,
   "RealKikarHashabat/9459": 1,
   "HiTech_Jobs_In_Israel/137621": 1,
+  "HiTech_Jobs_In_Israel/137620": 1,
+  "HiTech_Jobs_In_Israel/137619": 1,
   "N12chat/230841": 1,
   "iBuyIL/27524": 1,
   "news0404il/92141": 1,
