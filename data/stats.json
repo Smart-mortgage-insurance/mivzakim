@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-20T07:08:13Z",
+ "updated": "2026-10-20T07:15:06Z",
  "days": {
   "20261020": {
    "u": 2,
@@ -13,10 +13,8 @@
   "konim": 0
  },
  "items": {
-  "Moshepargod/73154": 2,
   "hamechadesh/140602": 1,
   "hamechadesh/140601": 1,
-  "RealKikarHashabat/9412": 1,
   "ramreports/216373": 1,
   "hamechadesh/140600": 1,
   "SALAMTAK_DEALS/58590": 1,
