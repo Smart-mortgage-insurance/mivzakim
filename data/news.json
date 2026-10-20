@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:40:03.715910+00:00",
+ "updated": "2026-10-20T13:42:07.127667+00:00",
  "channels": {
   "OVDIM_BCHIK": {
    "title": "דרושים - עובדים בצ׳יק 💰",
@@ -146,11 +146,38 @@
  "count": 400,
  "items": [
   {
+   "id": "pbf07266c040e",
+   "post": "israelhayomofficial/76129",
+   "ts": "2026-10-20T13:39:40+00:00",
+   "text": "דיווח קטארי: ארה\"ב ואיראן הסכימו למתווה פשרה חדש\nקטאר ופקיסטן הציגו מתווה פשרה לחידוש המשא ומתן שזכה להסכמה ראשונית משני הצדדים וכולל מענה חלקי לדרישת איראן להשבת כספים מוקפאים, בהיקף של 6 מיליארד דולר",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "pe0a44b667f14",
+   "post": "N12chat/230862",
+   "ts": "2026-10-20T13:38:54+00:00",
+   "text": "איתי גל-און\nמהחקירה עולה החשד כי במסגרת הטיפול בעסקאות העבירו לקוחותיה של החשודה סכומי כסף משמעותיים לחשבון נאמנות, שנועד להבטיח את ביצוע העסקאות ואת התשלומים הנדרשים לרשויות. אולם, על פי החשד, כאשר הגיע המועד להעברת הכספים ליעדם, נותק הקשר עם הלקוחות והכספים לא הושבו להם",
+   "views": 99,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p83d9ee44cc8a",
+   "post": "N12chat/230861",
+   "ts": "2026-10-20T13:38:48+00:00",
+   "text": "איתי גל-און\nחשד להונאה בהיקף של כ-1.5 מיליון שקלים: בתום חקירה סמויה נעצרה עורכת דין בתחום הנדל\"ן בחשד לביצוע עבירות מרמה והלבנת הון. החקירה נפתחה בעקבות כמה תלונות שהתקבלו מאנשים ששכרו את שירותיה של עורכת הדין לצורך טיפול בעסקאות מכירה ורכישה של נכסי מקרקעין",
+   "views": 100,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
    "id": "p98aad089c887",
    "post": "haskupim/198185",
    "ts": "2026-10-20T13:38:25+00:00",
    "text": "יעקב הרשקוביץ: תיעוד מההדרכה שהעבירו עסקנים חרדים למשתמטים מחסידות חב״ד, לפני יציאתם לארץ.",
-   "views": 1,
+   "views": 16,
    "forwarded_from": null,
    "media": [
     {
@@ -164,7 +191,7 @@
    "post": "hamechadesh/140632",
    "ts": "2026-10-20T13:37:05+00:00",
    "text": "הילד ניצל, והבית נחרב >< \"תיפרדו ממנו, אין יותר מה לעשות\": התינוק חזר לחיים בנס גלוי, אבל המשפחה שלו מתרסקת",
-   "views": 3,
+   "views": 4,
    "forwarded_from": null,
    "media": [
     {
@@ -178,7 +205,7 @@
    "post": "haskupim/198184",
    "ts": "2026-10-20T13:36:27+00:00",
    "text": "חדשות הסקופים\n\"רוצה להיות שופטת בדיקטטורה?\": ח\"כ עמית הלוי מתפוצץ בריאיון לבועז גולן בעקבות החשיפה של עו\"ד עמית חדד והדרמה בעדות מנדלבליט\n`ערוץ 14`",
-   "views": 12,
+   "views": 25,
    "forwarded_from": null,
    "media": [
     {
@@ -192,7 +219,7 @@
    "post": "N12chat/230860",
    "ts": "2026-10-20T13:36:23+00:00",
    "text": "נועם כהן\nהתסמינים הקשים שמהם היא סובלת לא נעלמו, ובחלק מהמובנים מצבה אף החמיר. כעת היא אינה יודעת מה הגורם האמיתי לבעיות הבריאותיות שלה",
-   "views": 100,
+   "views": 260,
    "forwarded_from": null,
    "media": []
   },
@@ -201,7 +228,7 @@
    "post": "hamechadesh/140631",
    "ts": "2026-10-20T13:35:59+00:00",
    "text": "\"זה לא הזמן לפוליטיקה\" >< \"דפקתי על השולחן\": אוריך חשף את הפיצוץ מול בכירי חדשות 12",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [
     {
@@ -215,7 +242,7 @@
    "post": "behadrey/107326",
    "ts": "2026-10-20T13:34:37+00:00",
    "text": "צה\"ל תגבר כוחות > הרמטכ\"ל באוגדת עזה: \"המטרה לאפשר את קיומן של הבחירות ללא השפעה חיצונית\"",
-   "views": 13,
+   "views": 16,
    "forwarded_from": null,
    "media": [
     {
@@ -229,7 +256,7 @@
    "post": "RealKikarHashabat/9475",
    "ts": "2026-10-20T13:34:06+00:00",
    "text": "חלק מבחורי הישיבה שנעצרו בנתב״ג משתחררים – אחרים צפויים להישלח לכלא\n\nחלק מבחורי הישיבה שנעצרו בנתב״ג הביעו נכונות להתגייס ומשוחררים בשעה זו. אחרים יישפטו וצפויים להישלח לכלא.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": []
   },
@@ -238,7 +265,7 @@
    "post": "merkaz/298602",
    "ts": "2026-10-20T13:33:22+00:00",
    "text": "ראש הממשלה נתניהו הגיע ליישוב עלי. הוא צפוי להיפגש עם הרב אלי סדן, מייסד וראש המכינה הקדם-צבאית בני דוד שביישוב - כדי לשכנע אותו ללחוץ על תלמידו עופר וינטר לפרוש (עמית סגל).",
-   "views": 35,
+   "views": 65,
    "forwarded_from": null,
    "media": []
   },
@@ -247,7 +274,7 @@
    "post": "behadrey/107325",
    "ts": "2026-10-20T13:32:44+00:00",
    "text": "המשטרה תתערב? > הקרב על הקול הרוסי: כך בליכוד מנסים לקחת קולות מליברמן",
-   "views": 15,
+   "views": 20,
    "forwarded_from": null,
    "media": [
     {
@@ -261,7 +288,7 @@
    "post": "N12chat/230858",
    "ts": "2026-10-20T13:30:13+00:00",
    "text": "עמית סגל\nראש הממשלה נתניהו הגיע ליישוב עלי. הוא צפוי להיפגש עם הרב אלי סדן, מייסד וראש המכינה הקדם-צבאית בני דוד שביישוב - כדי לשכנע אותו ללחוץ על תלמידו עופר וינטר לפרוש",
-   "views": 351,
+   "views": 446,
    "forwarded_from": null,
    "media": []
   },
@@ -285,7 +312,7 @@
    "post": "hamoked_il/213387",
    "ts": "2026-10-20T13:29:45+00:00",
    "text": "המוקד: ברגעים אלה חלק גדול מהעריקים שנעצרו הבוקר בנתב\"ג משתחררים",
-   "views": 82,
+   "views": 92,
    "forwarded_from": null,
    "media": []
   },
@@ -294,7 +321,7 @@
    "post": "RealKikarHashabat/9474",
    "ts": "2026-10-20T13:29:01+00:00",
    "text": "הרמטכ״ל במסר חד לקראת הבחירות: ״נסכל כל איום מבעוד מועד״\n\nהרמטכ״ל באימון מפקדות של אוגדת עזה: ״לקחי 7 באוקטובר מחייבים אותנו להבטיח שמחדל כזה לא יתרחש שוב לעולם. חיזקנו את ההגנה, תגברנו כוחות בכל הזירות ואנחנו בדריכות ובמוכנות גבוהה״.\n\nהרמטכ״ל הדגיש: ״מטרתנו לאפשר את קיומן של הבחירות הדמוקרטיות ללא השפעה חיצונית״.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [
     {
@@ -308,7 +335,7 @@
    "post": "ynetalerts/75837",
    "ts": "2026-10-20T13:28:38+00:00",
    "text": "🔴 ‏עו\"ד נעצרה בחשד לעבירות מרמה והלבנת הון בהיקף של כ-1.5 מיליון שקל",
-   "views": 478,
+   "views": 576,
    "forwarded_from": null,
    "media": []
   },
@@ -317,7 +344,7 @@
    "post": "haskupim/198183",
    "ts": "2026-10-20T13:27:39+00:00",
    "text": "חדשות הסקופים\nאחרי לחצים ומאבק תקשורתי בחורי חב\"ד שוחררו מהמעצר הצבאי\n\nאריה ארליך",
-   "views": 32,
+   "views": 40,
    "forwarded_from": null,
    "media": []
   },
@@ -326,7 +353,7 @@
    "post": "N12chat/230856",
    "ts": "2026-10-20T13:27:17+00:00",
    "text": "אלי הירשמן\nברגעים אלה חלק גדול מהעריקים שנעצרו הבוקר בנתב\"ג משתחררים",
-   "views": 419,
+   "views": 514,
    "forwarded_from": null,
    "media": []
   },
@@ -335,7 +362,7 @@
    "post": "hamoked_il/213386",
    "ts": "2026-10-20T13:26:23+00:00",
    "text": "המוקד: יעקב ברדוגו אינו שולל היום בריאיון באולפן 'וואלה' ממשלה עם גדי איזנקוט לאחר הבחירות. \"פוליטיקה היא אומנות האפשר. פוליטיקה היא אומנות שבה אתה צריך לייצר חיבורים\"",
-   "views": 120,
+   "views": 121,
    "forwarded_from": null,
    "media": []
   },
@@ -344,7 +371,7 @@
    "post": "hamechadesh/140630",
    "ts": "2026-10-20T13:26:19+00:00",
    "text": "חורך את הרחובות >< בהפקה מרגשת: יהדות התורה משיקה את המנון המערכה",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -358,7 +385,7 @@
    "post": "haskupim/198182",
    "ts": "2026-10-20T13:25:12+00:00",
    "text": "חדשות הסקופים\nנתניהו ביישוב עלי. הרשו לי לנחש שהמכינה על הכוונת ובמיוחד הרב אלי סדן, כדי לשכנע אותו ללחוץ על תלמידו עופר וינטר לפרוש\nעמית סגל",
-   "views": 35,
+   "views": 44,
    "forwarded_from": null,
    "media": []
   },
@@ -367,7 +394,7 @@
    "post": "hamoked_il/213384",
    "ts": "2026-10-20T13:23:28+00:00",
    "text": "המוקד: עמית סגל: נתניהו ביישוב עלי. הרשו לי לנחש שהמכינה על הכוונת ובמיוחד הרב אלי סדן, כדי לשכנע אותו ללחוץ על תלמידו עופר וינטר לפרוש",
-   "views": 111,
+   "views": 114,
    "forwarded_from": null,
    "media": []
   },
@@ -376,7 +403,7 @@
    "post": "amitsegal/65977",
    "ts": "2026-10-20T13:22:21+00:00",
    "text": "נתניהו ביישוב עלי\n\nהרשו לי לנחש שהמכינה על הכוונת ובמיוחד הרב אלי סדן, כדי לשכנע אותו ללחוץ על תלמידו עופר וינטר לפרוש",
-   "views": 14400,
+   "views": 15600,
    "forwarded_from": null,
    "media": []
   },
@@ -385,7 +412,7 @@
    "post": "iBuyIL/27527",
    "ts": "2026-10-20T13:22:04+00:00",
    "text": "היייידה השגתי לנו מחיר בלעדי מטורף של 59₪ עם הקופון של הקבוצה לבושם לאישה Lattafa ANA ABIYEDH CORAL שריקי רובינשטיין זכתה בו בפעילות של סוכות וסקרה לנו אותו בצורה נפלאה בפוסט הבא:\nhttps://www.facebook.com/share/p/19ppCN3KkR/\n\n💰 מחיר קופון: רק 59₪\n✂️ הקופון של הקבוצה: iBuyILKSP\n🛍 קישור להזמנה:\nhttps://newtools.co.il/ksp-il-lattafa-ana-abiyedh-coral\n\n👇🏼 לסיקור המלא:\nhttps://www.facebook.com/share/p/19ppCN3KkR/",
-   "views": 191,
+   "views": 201,
    "forwarded_from": null,
    "media": [
     {
@@ -400,7 +427,7 @@
    "post": "Moshepargod/73221",
    "ts": "2026-10-20T13:19:29+00:00",
    "text": "הפרגוד: עשרות בחורים חבדי\"ם משתחררים כעת מהבקו'ם.",
-   "views": 486,
+   "views": 518,
    "forwarded_from": null,
    "media": [
     {
@@ -414,7 +441,7 @@
    "post": "news0404il/92150",
    "ts": "2026-10-20T13:19:11+00:00",
    "text": "ארה״ב מגבירה את הלחץ על איראן: תגבור צבאי חסר תקדים במזרח התיכון",
-   "views": 173,
+   "views": 180,
    "forwarded_from": null,
    "media": [
     {
@@ -428,7 +455,7 @@
    "post": "Moshepargod/73220",
    "ts": "2026-10-20T13:17:33+00:00",
    "text": "הפרגוד: העיתונאי יוסי שטארק ואחיו של הח\"כ המיועד אליקים שטארק נרדם אתמול בג'ילי החדשה שלו בבית שמש. הוא התעורר כשכוחות משטרה והצלה מסביבו לאחר שהוזעקו על ידי עוברי אורח שחששו לחייו",
-   "views": 522,
+   "views": 554,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -438,7 +465,7 @@
    "post": "hamechadesh/140629",
    "ts": "2026-10-20T13:17:06+00:00",
    "text": "מושכים את הזמן >< נערכים למתקפה: כך איראן מתכננת להפיל את טראמפ בבחירות",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -452,7 +479,7 @@
    "post": "RealKikarHashabat/9473",
    "ts": "2026-10-20T13:17:01+00:00",
    "text": "בנט במתקפה חריפה על סמוטריץ׳: ״שפוט של דרעי, הוא עבד נרצע שלכם!״\n\nמתוך ראיון ל׳כיכר השבת׳.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -471,7 +498,7 @@
    "post": "hamechadesh/140628",
    "ts": "2026-10-20T13:15:11+00:00",
    "text": "״תורה או פשרה״ >< כבר שמעתם? מפלגת ׳צבע שחור׳ משיקה ג׳ינגל בחירות קצבי",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -485,7 +512,7 @@
    "post": "Moshepargod/73219",
    "ts": "2026-10-20T13:13:54+00:00",
    "text": "הפרגוד: העיתונאי סולימאן מסוודה שהעיד בפרשת קטאר, גר שבועיים בבית הלוביסט ג'יי פוטליק (הארץ)",
-   "views": 588,
+   "views": 619,
    "forwarded_from": null,
    "media": []
   },
@@ -494,7 +521,7 @@
    "post": "haskupim/198181",
    "ts": "2026-10-20T13:13:10+00:00",
    "text": "חדשות הסקופים\nבמקביל לסאגת העצורים החב\"דיים וההחלטה של הצבא ללכת ראש בראש מול המגזר החרדי: הערב בירושלים יתקיים סיום קורס הקצינים הראשון של 'החשמונאים'. 15 מסיימי הקורס יקבלו דרגה (סג\"מ) באופן אירוני 2 מהם חב\"דניקים.\n\nמנדי ריזל",
-   "views": 52,
+   "views": 57,
    "forwarded_from": null,
    "media": []
   },
@@ -503,7 +530,7 @@
    "post": "ynetalerts/75836",
    "ts": "2026-10-20T13:13:10+00:00",
    "text": "🔴 ‏גבר חולץ במצב אנוש משריפה שפרצה בבית פרטי בקריית עקרון",
-   "views": 1140,
+   "views": 1210,
    "forwarded_from": null,
    "media": []
   },
@@ -512,7 +539,7 @@
    "post": "hamoked_il/213383",
    "ts": "2026-10-20T13:12:57+00:00",
    "text": "המוקד: העיתונאי סולימאן מסוודה שהעיד בפרשת קטאר, גר שבועיים בבית הלוביסט ג'יי פוטליק (הארץ)",
-   "views": 157,
+   "views": 158,
    "forwarded_from": null,
    "media": []
   },
@@ -521,7 +548,7 @@
    "post": "Moshepargod/73218",
    "ts": "2026-10-20T13:11:56+00:00",
    "text": "הפרגוד: מאחורי הקלעים של הקמפיינים - פרק 1 עם האסטרטג אברימי קרויזר",
-   "views": 621,
+   "views": 652,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -531,7 +558,7 @@
    "post": "haskupim/198180",
    "ts": "2026-10-20T13:09:49+00:00",
    "text": "חדשות הסקופים\nהחייאה על גבר בן 50 ששאף עשן בעקבות שריפה בבית פרטי בקריית עקרון\n\nטוביה יגלניק",
-   "views": 60,
+   "views": 64,
    "forwarded_from": null,
    "media": []
   },
@@ -540,7 +567,7 @@
    "post": "Moshepargod/73217",
    "ts": "2026-10-20T13:09:46+00:00",
    "text": "הפרגוד: מפלגת ׳צבע שחור׳ משיקה את ג׳ינגל הבחירות",
-   "views": 653,
+   "views": 655,
    "forwarded_from": null,
    "media": [
     {
@@ -554,7 +581,7 @@
    "post": "RealKikarHashabat/9472",
    "ts": "2026-10-20T13:09:04+00:00",
    "text": "מעצר תלמידי הישיבה - ש\"ס במתקפה חריפה נגד היועצת המשפטית לממשלה: \"התערבות פוליטית בוטה וחסרת תקדים\"",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -568,7 +595,7 @@
    "post": "hamechadesh/140627",
    "ts": "2026-10-20T13:08:33+00:00",
    "text": "התמונות שפורסמו >< סערה עולמית: קים ג'ונג און מת וגופתו הועברה בחשאי?",
-   "views": 6,
+   "views": 7,
    "forwarded_from": null,
    "media": [
     {
@@ -582,7 +609,7 @@
    "post": "ramreports/216393",
    "ts": "2026-10-20T13:08:22+00:00",
    "text": "לאחר ביקורו החשאי בישראל, הגסת’: ״הטובים ביותר שלנו במשימה היסטורית – יהי ה’ עוזרם ושומרם״",
-   "views": 4220,
+   "views": 4370,
    "forwarded_from": null,
    "media": []
   },
@@ -591,7 +618,7 @@
    "post": "RealKikarHashabat/9471",
    "ts": "2026-10-20T13:07:36+00:00",
    "text": "אירוע נדיר בעזה - ניסו לגנוב מקדחים: מחבלי חמאס חצו את הקו הצהוב – וחוסלו במקום",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -605,7 +632,7 @@
    "post": "haskupim/198179",
    "ts": "2026-10-20T13:04:16+00:00",
    "text": "למעלה מ-40 חסידי חב\"ד נעצרו | מתי טוכפלד: \"גלי בהרב מיארה אחראית על התמונות הזוועתיות שראינו היום!\"\n\nערוץ 14",
-   "views": 65,
+   "views": 69,
    "forwarded_from": null,
    "media": [
     {
@@ -634,7 +661,7 @@
    "post": "abualiexpress/132250",
    "ts": "2026-10-20T13:01:14+00:00",
    "text": "⚠️ שברי יירוט ונפלים הם סכנת חיים!\n\nאז מה עושים אם נתקלים בנפל?\n\n🚫לא נוגעים!\n🏃‍♂️ מתרחקים מהמקום.\n🗣️ מרחיקים סקרנים.\n📞 מתקשרים למוקד 100 של משטרת ישראל ומוסרים את המיקום המדויק ככל האפשר.\n\nמגלים ערנות ומצילים חיים!",
-   "views": 18100,
+   "views": 18700,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -674,7 +701,7 @@
    "post": "HiTech_Jobs_In_Israel/137648",
    "ts": "2026-10-20T13:01:07+00:00",
    "text": "Q&R Lab Engineer, Annapurna Labs IC Q&R at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10521665/q-r-lab-engineer-annapurna-labs-ic-q-r?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 48,
+   "views": 49,
    "forwarded_from": null,
    "media": [
     {
@@ -689,7 +716,7 @@
    "post": "HiTech_Jobs_In_Israel/137647",
    "ts": "2026-10-20T13:01:05+00:00",
    "text": "Senior Hardware Engineer – Signal Integrity at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/d623a866-9435-4b6d-aab8-17b835a64509?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 44,
+   "views": 45,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -699,7 +726,7 @@
    "post": "HiTech_Jobs_In_Israel/137646",
    "ts": "2026-10-20T13:01:04+00:00",
    "text": "Engineering Manager – Platform Group at WEKA\nLocation: Tel Aviv, Israel\nPress here https://www.weka.io/company/careers/?gh_jid=5231947007&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 42,
+   "views": 43,
    "forwarded_from": null,
    "media": [
     {
@@ -714,7 +741,7 @@
    "post": "HiTech_Jobs_In_Israel/137644",
    "ts": "2026-10-20T13:01:01+00:00",
    "text": "Manager, International Compensation & Benefits at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5009701101?gh_jid=5009701101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 39,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -724,7 +751,7 @@
    "post": "HiTech_Jobs_In_Israel/137645",
    "ts": "2026-10-20T13:01:01+00:00",
    "text": "AI System Architect at Payoneer\nLocation: Herzliya, Tel Aviv District, Israel\nPress here https://www.payoneer.com/careers/position/8296173/?gh_jid=8296173&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 41,
+   "views": 42,
    "forwarded_from": null,
    "media": [
     {
@@ -739,7 +766,7 @@
    "post": "HiTech_Jobs_In_Israel/137642",
    "ts": "2026-10-20T13:01:00+00:00",
    "text": "Compensation & Benefits Manager, Israel, EMEA & APAC at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5011029101?gh_jid=5011029101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 39,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -749,7 +776,7 @@
    "post": "HiTech_Jobs_In_Israel/137643",
    "ts": "2026-10-20T13:01:00+00:00",
    "text": "Manager, Compensation & Benefits, Israel, EMEA & APAC at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5011028101?gh_jid=5011028101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 39,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -759,7 +786,7 @@
    "post": "HiTech_Jobs_In_Israel/137641",
    "ts": "2026-10-20T13:00:38+00:00",
    "text": "Compensation & Benefits Manager, International Region at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5011031101?gh_jid=5011031101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -769,7 +796,7 @@
    "post": "HiTech_Jobs_In_Israel/137640",
    "ts": "2026-10-20T13:00:34+00:00",
    "text": "R&D Team Leader- DevFlows at JFrog\nLocation: Tel Aviv/ Netanya, Israel\nPress here https://join.jfrog.com/job/?job=8074288&amp;gh_jid=8074288&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -779,7 +806,7 @@
    "post": "HiTech_Jobs_In_Israel/137639",
    "ts": "2026-10-20T13:00:29+00:00",
    "text": "Staff/Principal Software Engineer at General Motors\nLocation: Herzliya, Tel Aviv District, Israel\nPress here https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Herzliya-Tel-Aviv-District-Israel/Staff-Principal--Software-Engineer_JR-202621952?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 46,
+   "views": 47,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -789,7 +816,7 @@
    "post": "HiTech_Jobs_In_Israel/137638",
    "ts": "2026-10-20T13:00:24+00:00",
    "text": "Senior Hardware Program Manager at NVIDIA\nLocation: Israel, Yokneam\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Hardware-Program-Manager_JR2027903?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 45,
+   "views": 46,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -799,7 +826,7 @@
    "post": "HiTech_Jobs_In_Israel/137637",
    "ts": "2026-10-20T13:00:19+00:00",
    "text": "System Integration Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Integration-Engineer_R2625538?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -809,7 +836,7 @@
    "post": "HiTech_Jobs_In_Israel/137636",
    "ts": "2026-10-20T13:00:18+00:00",
    "text": "Execution Program Manager at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/8d09a950-7497-409c-a7d2-4a72458435de?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -819,7 +846,7 @@
    "post": "HiTech_Jobs_In_Israel/137634",
    "ts": "2026-10-20T13:00:14+00:00",
    "text": "Embedded Integrator - Temporary at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/f197016b-7b7a-46a2-991d-c48852099048?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -829,7 +856,7 @@
    "post": "HiTech_Jobs_In_Israel/137635",
    "ts": "2026-10-20T13:00:14+00:00",
    "text": "Execution Program Manager at Mobileye\nLocation: Tel-Aviv, Israel\nPress here https://jobs.eu.lever.co/mobileye/461ba53a-1ea9-4dac-a213-0a34c3b77d6e?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 39,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -839,7 +866,7 @@
    "post": "HiTech_Jobs_In_Israel/137633",
    "ts": "2026-10-20T13:00:13+00:00",
    "text": "Embedded Integrator - Temporary at Mobileye\nLocation: Haifa, Israel\nPress here https://jobs.eu.lever.co/mobileye/0fa71098-1f99-4528-8f23-5369eec1b7d5?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -863,7 +890,7 @@
    "post": "Moshepargod/73214",
    "ts": "2026-10-20T12:56:32+00:00",
    "text": "הפרגוד: עו\"ד נתן רוזנבלט במסר לחסידי חב\"ד מכלא 10: עוד לפני המעצרים הבוקר - יש עצורי חב\"ד.\nשאתם מאחורי הפרגוד ביום שלישי - תזכרו את העצורים - ושימו ג או שס. כדי שנסגור את תומכי תמימים כפר יונה כמה יותר מהר.",
-   "views": 796,
+   "views": 798,
    "forwarded_from": null,
    "media": [
     {
@@ -877,7 +904,7 @@
    "post": "news0404il/92149",
    "ts": "2026-10-20T12:55:48+00:00",
    "text": "עו\"ד חדד: המשטרה האזינה לשיחות לפני אישור החקירה - מנדלבליט: אם כך, זה אסור",
-   "views": 284,
+   "views": 295,
    "forwarded_from": null,
    "media": [
     {
@@ -891,7 +918,7 @@
    "post": "RealKikarHashabat/9470",
    "ts": "2026-10-20T12:54:22+00:00",
    "text": "״משימה היסטורית במזרח התיכון״: הציוץ החריג של שר ההגנה האמריקני אחרי הביקור החשאי בישראל\n\nשר ההגנה האמריקני, פיט הגסת’, פרסם ציוץ מסקרן לאחר ביקורו החשאי בישראל:\n\n״הטובים ביותר של מדינתנו נמצאים במשימה היסטורית במזרח התיכון. יהי ה׳ עוזרם ושומרם״.",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": []
   },
@@ -900,7 +927,7 @@
    "post": "hamechadesh/140626",
    "ts": "2026-10-20T12:53:53+00:00",
    "text": "זעזוע בבני ברק >< בית ההוראה נהרס, ראש המוסדות הותקף",
-   "views": 6,
+   "views": 7,
    "forwarded_from": null,
    "media": [
     {
@@ -914,7 +941,7 @@
    "post": "news0404il/92148",
    "ts": "2026-10-20T12:53:45+00:00",
    "text": "לאחר ביקורו החשאי בישראל, הגסת’: ״הטובים ביותר שלנו במשימה היסטורית – יהי ה’ עוזרם ושומרם״",
-   "views": 271,
+   "views": 276,
    "forwarded_from": null,
    "media": [
     {
@@ -928,7 +955,7 @@
    "post": "N12chat/230855",
    "ts": "2026-10-20T12:53:30+00:00",
    "text": "דסק החוץ\nדיווח בצרפת: הסיעות באספה הלאומית הגיעו להסכמות על הקמת ועדת חקירה לבדיקת אירועי האלימות והביזה שהתרחשו בשולי ההפגנות בסוף השבוע, ובעיקר ביום שבת, וכן לבחינת אסטרטגיית אכיפת החוק שננקטה",
-   "views": 1050,
+   "views": 1080,
    "forwarded_from": null,
    "media": []
   },
@@ -937,7 +964,7 @@
    "post": "ynetalerts/75835",
    "ts": "2026-10-20T12:52:49+00:00",
    "text": "🔴 ‏נקבע מותו של הגבר שנפצע באורח אנוש ברכב שעלה באש ברמת הגולן",
-   "views": 1780,
+   "views": 1850,
    "forwarded_from": null,
    "media": []
   },
@@ -946,7 +973,7 @@
    "post": "N12chat/230854",
    "ts": "2026-10-20T12:50:01+00:00",
    "text": "נועם כהן\nהסרט המדובר של נייתן פילדר ולאנס אופנהיים, “You Can See Everything”, יגיע לבתי הקולנוע בישראל ב-26 בנובמבר 2026, בהפצת פורום פילם. הסרט, שעוסק באליזבת הולמס, מייסדת חברת בדיקות הדם תרנוס שהורשעה בהונאה, זכה לביקורות יוצאות דופן מאז הבכורה שלו, ואף טיפס למקום הראשון בדירוג הסרטים של Letterboxd",
-   "views": 1110,
+   "views": 1140,
    "forwarded_from": null,
    "media": []
   },
@@ -955,7 +982,7 @@
    "post": "haskupim/198178",
    "ts": "2026-10-20T12:49:17+00:00",
    "text": "מנדלבליט על חקירת ארי הרו: אם הם ביצעו האזנות והקשיבו לשיחות לפני האישור ממני, זה אסור.",
-   "views": 75,
+   "views": 79,
    "forwarded_from": null,
    "media": []
   },
@@ -964,7 +991,7 @@
    "post": "haskupim/198177",
    "ts": "2026-10-20T12:46:13+00:00",
    "text": "\"אף סקר לא יודע לסקור ציבור חרדי\" מרדכי בלוי, בכיר בדגל התורה, התייחס לסקרים האחרונים: \"בחור ישיבה ובת סמינר, אין להם מחשב ואינטרנט, וגם אם יש להם לא למטרה הזו\n\nערוץ הכנסת",
-   "views": 80,
+   "views": 84,
    "forwarded_from": null,
    "media": [
     {
@@ -978,7 +1005,7 @@
    "post": "ILcoupons/5868",
    "ts": "2026-10-20T12:46:11+00:00",
    "text": "מגבת מיקרופייבר לרכב SEAMETAL מגוון מידות החל מ-12 ש\"ח ליחידה\n\n✅ סופגת מים כמו ספוג – יכולה להכיל משקל מים פי כמה ממשקל המגבת\n✅ דו-צידית, עשויה קשמיר קורל עבה במיוחד, לא משאירה סיבים וללא דהיית צבע\n✅ בגדלים: 100x40 ס\"מ / 60x40 ס\"מ / 75x35 ס\"מ – מתאימה לכל סוגי הרכבים \\ אופנועים 🚗🧽\n\n💳 מחיר מבצע 3.82$ \\ 12₪ 🔥\nמשלוח חינם גם לפריט בודד - תמשיכו ישר לקופה על ידי לחיצה על BUY NOW ללא הוספה לעגלה\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c34oBHDP\n\n👈 למוצר זה 14673 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ https://chat.whatsapp.com/K23DoY60nRx5xkTbobSqnm או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 199,
+   "views": 201,
    "forwarded_from": null,
    "media": [
     {
@@ -993,7 +1020,7 @@
    "post": "iBuyIL/27526",
    "ts": "2026-10-20T12:44:06+00:00",
    "text": "אומיגאדדדד הכי זול אברררר לצבע השחור!! טוסו להזמין! 😅🥤✨💥 דיל מ-ט-ו-ר-ף-!-!\n\nהחתיך הזה בירידת מחיר שווה מידי שאי אפשר לפספס! 😱🥤🌟\n\nבקבוק מים טרמי מנירוסטה עם קשית ופקק Contigo DualSip 710 מ\"ל\n\n💳 מחיר סופי: 18.18$ / 57₪ (במקום $32.99)\n\n👈 משלוח חינם בתנאי הגעה ל-49$ או בקניית 3 יחידות\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/contigo-dualsip-24-oz-stainles\n\n📏 נפח: 710 מ\"ל (24 oz) מושלם לשתייה יומית וספורט\n🥤 שתי דרכי שתייה: קשית נשלפת או פיה להטיה בחירה נוחה בכל רגע\n💧 100% אטימות: מכסה ננעל שמונע טפטופים ונזילות\n🧊 שמירה על קור: בידוד ואקום שומר על המשקה קר לאורך שעות\n🪶 חומר: נירוסטה איכותית ללא BPA וללא עופרת שקט נפשי ובריאות\n🧼 מתאים למדיח כלים ניקוי מהיר וקל\n🚗 עיצוב קומפקטי: נכנס בקלות לכל מחזיק כוסות ברכב או בחדר כושר\n\nסוף סוף בקבוק שמשלב עיצוב שיקי, נוחות וחדשנות! 😎💦\n\nלדיון בפוסט https://www.facebook.com/share/p/1HpV4Uwgr4/",
-   "views": 463,
+   "views": 465,
    "forwarded_from": null,
    "media": [
     {
@@ -1018,7 +1045,7 @@
    "post": "abualiexpress/132248",
    "ts": "2026-10-20T12:43:42+00:00",
    "text": "הרש\"פ יוזמת אירוע חיכוך סביב \"מסיק זיתים\" מחר ב 08:30 (בבוקר) בכפר דיר ג'ריר(נפת ראמאללה) בהשתתפות \"מתנדבים בינ\"ל\"\n\nשלא תגידו שלא ידעתם מראש...\n\"הרשות למאבק בגדר ההפרדה ובהתנחלויות\" (משרד ממשלתי רשמי של הרש\"פ) קוראת לפלסטינים לקחת חלק ב\"יום הזית\" מחר בנקודת חיכוך מוכרת וותיקה - המסיק בדיר ג'ריר.\n\nבאירוע ינכחו אישי ציבור ובכירים ממשרדי הממשלה הפלס'.\nיהיה סיקור עיתונאי נרחב - אירוע שכל מטרתו היא פרובוקציה.\n\nנקווה שצה\"ל יקדים תרופה למכה ויכריז על שטח צבאי סגור.",
-   "views": 25200,
+   "views": 25800,
    "forwarded_from": null,
    "media": [
     {
@@ -1032,7 +1059,7 @@
    "post": "N12chat/230853",
    "ts": "2026-10-20T12:42:32+00:00",
    "text": "גיא ורון\nגבר כבן 50 נהרג לאחר שרכבו ככל הנראה עלה באש במהלך נסיעה, סמוך לרמות שברמת הגולן",
-   "views": 1140,
+   "views": 1170,
    "forwarded_from": null,
    "media": [
     {
@@ -1055,7 +1082,7 @@
    "post": "hamoked_il/213382",
    "ts": "2026-10-20T12:40:47+00:00",
    "text": "המוקד: מנדלבליט על חקירת ארי הרו: אם הם ביצעו האזנות והקשיבו לשיחות לפני האישור ממני, זה אסור",
-   "views": 227,
+   "views": 229,
    "forwarded_from": null,
    "media": []
   },
@@ -1064,7 +1091,7 @@
    "post": "hamechadesh/140625",
    "ts": "2026-10-20T12:40:14+00:00",
    "text": "אפס סובלנות לאנטישמיות >< ההצהרה החד-משמעית שנשמעה בארמון בודפשט",
-   "views": 6,
+   "views": 7,
    "forwarded_from": null,
    "media": [
     {
@@ -1078,7 +1105,7 @@
    "post": "haskupim/198176",
    "ts": "2026-10-20T12:39:55+00:00",
    "text": "🗳️ לאן נעלמים המנדטים של החרדים?\n\nהאוכלוסייה החרדית גדלה בקצב מסחרר, אז איך ייתכן שמספר המנדטים של יהדות התורה כמעט לא משתנה?\n\nהתשובה המפתיעה הערב בחדשות הסקופים, בפרק ספיישל מיוחד של ״מספרים ובוחרים״ עם\nעו״ד אברימי יוסטמן\n\n🗳️ אל תקראו פרסומות שמתחפשות לחדשות🛡️ ההתחייבות שלנו: הלינק שלנו לעולם לא מצורף לפרסום או לתוכן מקודם. | בוחרים הסקופים\n\n📲",
-   "views": 76,
+   "views": 80,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1088,7 +1115,7 @@
    "post": "amitsegal/65976",
    "ts": "2026-10-20T12:39:18+00:00",
    "text": "מנדלבליט על חקירת ארי הרו: אם הם ביצעו האזנות והקשיבו לשיחות לפני האישור ממני, זה אסור.",
-   "views": 31600,
+   "views": 32200,
    "forwarded_from": null,
    "media": []
   },
@@ -1107,7 +1134,7 @@
    "post": "haskupim/198175",
    "ts": "2026-10-20T12:35:22+00:00",
    "text": "איזנקוט: \"חמאס הרג את הבן שלי, אין אדם במדינה שרוצה להשמיד אותם יותר ממני\"",
-   "views": 77,
+   "views": 81,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1131,7 +1158,7 @@
    "post": "merkaz/298598",
    "ts": "2026-10-20T12:30:11+00:00",
    "text": "ניר 'חוני' ינובסקי, שרטט מעגל מול בית הנשיא ונשבע לא לזוז ממנו עד שהממשלה תתחלף. הוא כבר ביום השני. את הלילה העביר במעגל על מזרן שטח, ואפילו הוסיף \"חוני\" לתעודת הזהות",
-   "views": 217,
+   "views": 247,
    "forwarded_from": null,
    "media": [
     {
@@ -1145,7 +1172,7 @@
    "post": "haskupim/198174",
    "ts": "2026-10-20T12:29:43+00:00",
    "text": "\"אם השמלאנים היו כאן גם הם היו מתעוררים עכשיו\" מקורבם של גדולי ישראל הרב יהודה חזן מי שמנחה את כלל כנסי ש\"ס בקרב קהילות בני התורה ברחבי הארץ, מפרגן לרב יונתן שושן אחרי הדברים שנשא בכינוס בני התורה בירושלים",
-   "views": 81,
+   "views": 83,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1173,7 +1200,7 @@
    "post": "ramreports/216392",
    "ts": "2026-10-20T12:24:44+00:00",
    "text": "הרמטכ״ל באוגדת עזה: ״תגברנו כוחות בכל הזירות – לא נאפשר לאויב להשפיע על הבחירות״",
-   "views": 6790,
+   "views": 6910,
    "forwarded_from": null,
    "media": []
   },
@@ -1196,7 +1223,7 @@
    "post": "N12chat/230852",
    "ts": "2026-10-20T12:23:50+00:00",
    "text": "גיא ורון\nאדם נפצע קשה בשרפת רכב בכביש 92 סמוך לרמות. צוותי מד\"א מעניקים לו טיפול רפואי.",
-   "views": 1200,
+   "views": 1230,
    "forwarded_from": null,
    "media": [
     {
@@ -1210,7 +1237,7 @@
    "post": "haskupim/198173",
    "ts": "2026-10-20T12:22:11+00:00",
    "text": "הרב הראשי רצה לטוס לחו\"ל ולהיעדר ביום הבחירות. יריב לוין סירב לאשר\n\nקרדיט: דה מארקר",
-   "views": 102,
+   "views": 104,
    "forwarded_from": null,
    "media": [
     {
@@ -1224,7 +1251,7 @@
    "post": "RealKikarHashabat/9469",
    "ts": "2026-10-20T12:22:01+00:00",
    "text": "גם בהונגריה: שיירת הנשיא הרצוג נאלצה לנסוע ללא דגלי ישראל משיקולי ביטחון",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1234,7 +1261,7 @@
    "post": "haskupim/198172",
    "ts": "2026-10-20T12:21:23+00:00",
    "text": "‏ביבי בדרך לרב אלי סדן? אופרציה ביטחונית שלמה סביב הבית שלו. האם כך ישכנע את וינטר לפרוש?\nדביר עמר",
-   "views": 102,
+   "views": 103,
    "forwarded_from": null,
    "media": []
   },
@@ -1243,7 +1270,7 @@
    "post": "N12chat/230851",
    "ts": "2026-10-20T12:20:08+00:00",
    "text": "שושי חתוקה\nנשיא המדינה הרצוג נחת בבודפשט בירת הונגריה, והחל את ביקורו במדינה. עם הגעתו, התקבל נשיא המדינה בארמון הנשיאות על ידי נשיא הונגריה, אנדראש באקה.",
-   "views": 1230,
+   "views": 1260,
    "forwarded_from": null,
    "media": [
     {
@@ -1271,7 +1298,7 @@
    "post": "SALAMTAK_DEALS/58593",
    "ts": "2026-10-20T12:19:39+00:00",
    "text": "🪥✨ מארז 3 מברשות שיניים חשמליות + 12 ראשי החלפה – מחיר מצחיק עם משלוח חינם! 🤩 צחצוח יסודי לכל בני הבית, במחיר של מברשת חשמלית אחת בארץ: 🔄 6 מצבי צחצוח – רגיש, רך, ניקוי, הלבנה, פוליש ופולס. ⏱️ טיימר של 2 דקות – רוטט כל 30 שניות כדי לעבור לאזור הבא בפה. 🔋…",
-   "views": 503,
+   "views": 505,
    "forwarded_from": null,
    "media": [
     {
@@ -1286,7 +1313,7 @@
    "post": "hamoked_il/213381",
    "ts": "2026-10-20T12:19:08+00:00",
    "text": "המוקד: הרב שמואל אליהו משיב להרב יצחק יוסף על הביקורת של העליה להר הבית ומסביר למה אפשר לעלות ואין איסור כרת",
-   "views": 280,
+   "views": 283,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1296,7 +1323,7 @@
    "post": "hamechadesh/140623",
    "ts": "2026-10-20T12:18:35+00:00",
    "text": "\"יש מרחבי עיוורון\" >< האזהרה המטלטלת של הרמטכ\"ל בלב אוגדת עזה",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -1306,7 +1333,7 @@
    "post": "ynetalerts/75834",
    "ts": "2026-10-20T12:18:33+00:00",
    "text": "🔴 ‏גבר נפצע אנוש מרכב שעלה באש תוך כדי נסיעה ברמת הגולן",
-   "views": 2520,
+   "views": 2550,
    "forwarded_from": null,
    "media": []
   },
@@ -1315,7 +1342,7 @@
    "post": "hamoked_il/213380",
    "ts": "2026-10-20T12:17:32+00:00",
    "text": "המוקד: הרמטכ\"ל אומר בבירור: מטרתנו לסכל כל איום מבעוד מועד - ולאפשר את קיומן של הבחירות הדמוקרטיות ללא השפעה חיצונית",
-   "views": 266,
+   "views": 267,
    "forwarded_from": null,
    "media": []
   },
@@ -1324,7 +1351,7 @@
    "post": "hamoked_il/213379",
    "ts": "2026-10-20T12:16:14+00:00",
    "text": "המוקד: רכבת ישראל: אופנוע שפרץ ונכנס שלא כחוק לשטח מפגש הכביש מסילה הסמוך לבאר יעקב, לאחר הפעלת כל אמצעי האזהרה וירידת המחסום, נפגע מרכבת חולפת. מדיווח ראשוני עולה שרוכב האופנוע, נטש את האופנוע וברח מהמקום",
-   "views": 248,
+   "views": 250,
    "forwarded_from": null,
    "media": []
   },
@@ -1333,7 +1360,7 @@
    "post": "news0404il/92147",
    "ts": "2026-10-20T12:14:37+00:00",
    "text": "הרמטכ״ל באוגדת עזה: ״תגברנו כוחות בכל הזירות – לא נאפשר לאויב להשפיע על הבחירות״",
-   "views": 314,
+   "views": 317,
    "forwarded_from": null,
    "media": [
     {
@@ -1347,7 +1374,7 @@
    "post": "haskupim/198171",
    "ts": "2026-10-20T12:14:34+00:00",
    "text": "הרב עידו ובר, אביו של אחד העצורים בחדשות 14: \"מדובר בבחורים שהולכים לשנת לימודים וחוזרים, הצבא הכיר במסלול הזה. למה צריך את התהליך המשפיל הזה?\"",
-   "views": 113,
+   "views": 114,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1357,7 +1384,7 @@
    "post": "hamoked_il/213377",
    "ts": "2026-10-20T12:13:05+00:00",
    "text": "המוקד: וינטר סגר את האנגר 11 לליל הבחירות ומזמין את הכתבים לשידור המדגמים",
-   "views": 227,
+   "views": 229,
    "forwarded_from": null,
    "media": []
   },
@@ -1366,7 +1393,7 @@
    "post": "haskupim/198170",
    "ts": "2026-10-20T12:13:04+00:00",
    "text": "ישי כהן: פרישה של ׳הציבור החרדי׳ שבוע לפני הבחירות תחשוף בעיקר את החשש מחשיפת כוחם האמיתי בקלפי.",
-   "views": 109,
+   "views": 110,
    "forwarded_from": null,
    "media": []
   },
@@ -1375,7 +1402,7 @@
    "post": "RealKikarHashabat/9468",
    "ts": "2026-10-20T12:13:01+00:00",
    "text": "״שורפים קולות לימין?״ – הרב מילר משיב ליוסי סרגובסקי\n\nיו״ר מפלגת ״צבע שחור״, הרב מילר, משיב ליוסי סרגובסקי על הטענות נגד החלטתו שלא לפרוש מהמרוץ לכנסת.",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1385,7 +1412,7 @@
    "post": "haskupim/198169",
    "ts": "2026-10-20T12:12:47+00:00",
    "text": "מוטי לייטנר ממפלגת 'הציבור החרדי' על הירידה בסקרים: \"אנשים מפחדים לומר שהם תומכים בנו. יהדות התורה מדברים בימים האחרונים על איזנקוט כאופציה - הם מפרקים את גוש הימין, אנחנו נשמור עליו\"\n\nערוץ 14",
-   "views": 111,
+   "views": 112,
    "forwarded_from": null,
    "media": [
     {
@@ -1399,7 +1426,7 @@
    "post": "RealKikarHashabat/9467",
    "ts": "2026-10-20T12:10:42+00:00",
    "text": "מרכיבים קואליציה - שמאל-ימין-שמאל-מרכז: מצעד התרחישים האפשריים בתום מערכת הבחירות הנוכחית | סקירה מרתקת",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [
     {
@@ -1413,7 +1440,7 @@
    "post": "abualiexpress/132247",
    "ts": "2026-10-20T12:10:32+00:00",
    "text": "שגריר ארה\"ב בטורקיה, תום באראכ לא שוכח לקלקל קצת את היחסים גם עם סעודיה :\n\n\"אני חושב שסעודיה נמצאת במצב קשה מאוד. תראו, ההיסטוריה של תימן... ואני לא מתכוון ללמד את אנשי האזור, שמכירים אותה היטב, על ההיסטוריה שלהם.\n\nהתגובות הצבאיות האלה מעולם לא הועילו. זה לא עובד, וסביר להניח שגם הפעם זה לא יעבוד.\"\n\n##\nצריך לקנות לו מחסום לפה או להרחיק אותו ממיקרופונים.",
-   "views": 33700,
+   "views": 34400,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1423,7 +1450,7 @@
    "post": "news0404il/92146",
    "ts": "2026-10-20T12:10:26+00:00",
    "text": "רכבת פגעה באופנוע סמוך לבאר יעקב - הרוכב ככל הנראה נטש אותו ונמלט",
-   "views": 293,
+   "views": 295,
    "forwarded_from": null,
    "media": [
     {
@@ -1437,7 +1464,7 @@
    "post": "N12chat/230850",
    "ts": "2026-10-20T12:08:45+00:00",
    "text": "דין פישר\nרכבת ישראל: אופנוע שפרץ ונכנס שלא כחוק לשטח מפגש הכביש מסילה הסמוך לבאר יעקב, לאחר הפעלת כל אמצעי האזהרה וירידת המחסום, נפגע מרכבת חולפת. מדיווח ראשוני עולה שרוכב האופנוע, נטש את האופנוע וברח מהמקום",
-   "views": 1300,
+   "views": 1330,
    "forwarded_from": null,
    "media": []
   },
@@ -1446,7 +1473,7 @@
    "post": "hamoked_il/213376",
    "ts": "2026-10-20T12:07:58+00:00",
    "text": "המוקד: תחקיר פוקס ניוז: רשת של 101 ארגונים ב-9 מדינות, המכונה \"כאוס אינק\", המתאמת את מחאות הענק בצרפת בהשתתפות חצי מיליון איש. הרשת, הכוללת קבוצות קומוניסטיות, אנטיפה ואסלאמיסטיות לצד גורמי שמאל אמריקאיים מתכננת הפגנות נוספות באירופה במהלך נובמבר.",
-   "views": 230,
+   "views": 231,
    "forwarded_from": null,
    "media": []
   },
@@ -1455,7 +1482,7 @@
    "post": "iBuyIL/27525",
    "ts": "2026-10-20T12:07:23+00:00",
    "text": "🤍 שוב בושם מאסק לשיפור הזוגיות?! מה יהיה עם כל הטוב הזה?!\nאז לאחר שהסקירה שלי על ליידיז טוקס שברה את הרשת, קבלו עוד ממתק דומה לחובבות וחובבי הז'אנר המאסקי! ⚪️\n\nזהו בושם נגיש וקל ללבישה, ולא ניחוח מאתגר או שנוי במחלוקת. מי שאוהב את Hayati ומחפש גרסה נגישה, מאוזנת ונעימה יותר לכיס, כנראה ימצא כאן הרבה מה ליהנות ממנו.\n\nוהשוס? המחיר שלו פשוט מצוין!!!\nבושם Fragrance Deluxe Phenomenal או דה פרפיום E.D.P עולה שישית מבושם השמן של חייאתי!\n💳 מחיר לחברי הקבוצה: 56₪\n✂️ הקופון של הקבוצה: iBuyILKSP\n🛍 קישור להזמנה:\nhttps://dlz.co.il/ksp-il-fragrance-deluxe-phenomenal-e-d-p\n🚚 איסוף חינם מעשרות סניפי KSP או משלוח במחיר מסובסד\n🎁 וגם, הטבת הגנת קנייה עיוורת ל14 ימים בלעדית לחברי הקבוצה במימוש הקופון שלנו iBuyILKSP\n\nhttps://www.facebook.com/share/p/1CqguSDcGi/",
-   "views": 617,
+   "views": 620,
    "forwarded_from": null,
    "media": [
     {
@@ -1470,7 +1497,7 @@
    "post": "behadrey/107324",
    "ts": "2026-10-20T12:07:02+00:00",
    "text": "סערה בשיכון ה' > בית ההוראה נהרס, ראש הכוללים הותקף: רבה של בני ברק הגיע למקום וזעק",
-   "views": 74,
+   "views": 77,
    "forwarded_from": null,
    "media": [
     {
@@ -1484,7 +1511,7 @@
    "post": "haskupim/198168",
    "ts": "2026-10-20T12:07:01+00:00",
    "text": "מוטי לייטנר ממפלגת 'הציבור החרדי' בערוץ 14: \"יש לנו מתווה גיוס. נציגים שלנו עד היום לא עשו את זה כי הם פחדו מאותם בריוני פלג ירושלמי\"",
-   "views": 112,
+   "views": 113,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1494,7 +1521,7 @@
    "post": "ynetalerts/75833",
    "ts": "2026-10-20T12:06:42+00:00",
    "text": "🔴 ‏אישום: תושב המרכז תקף את אשתו וילדיו, בהם בן 4, במשך תקופה של שש שנים",
-   "views": 2770,
+   "views": 2830,
    "forwarded_from": null,
    "media": []
   },
@@ -1503,7 +1530,7 @@
    "post": "haskupim/198167",
    "ts": "2026-10-20T12:05:40+00:00",
    "text": "וינטר לא פורש: מפלגתו פרסמה את מיקום ״אירוע יום הבחירות״ ביום שלישי בערב\n\nקרדיט: יקי אדמקר",
-   "views": 107,
+   "views": 109,
    "forwarded_from": null,
    "media": []
   },
@@ -1512,7 +1539,7 @@
    "post": "ramreports/216389",
    "ts": "2026-10-20T12:01:13+00:00",
    "text": "חיל האוויר תקף לפני זמן קצר בכפר תיבנית, בדרום לבנון.",
-   "views": 7860,
+   "views": 7950,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1536,7 +1563,7 @@
    "post": "N12chat/230849",
    "ts": "2026-10-20T12:00:15+00:00",
    "text": "ספיר ליפקין\nהוא טען כי \"כלל לא ברור מי בהנהגה האמריקנית אחראי לקבלת החלטות משמעותיות וסופיות - ואנס, וויטקוף, רוביו או קושנר. אי הוודאות הזו, יחד עם התחרויות הפוליטיות והמחלוקות הפנימיות בארה\"ב לקראת הבחירות, הובילו למורכבות רבה בתהליך הביניים ובחילופי המסרים, ותורמים למצב הנוכחי\"",
-   "views": 1370,
+   "views": 1400,
    "forwarded_from": null,
    "media": []
   },
@@ -1573,7 +1600,7 @@
    "post": "abualiexpress/132246",
    "ts": "2026-10-20T11:58:35+00:00",
    "text": "משרד החוץ הצרפתי מגיב לסרטון שפרסם אתמול השר בן גביר ובו ג'יני בדמותו מגשים לעזתים משאלות ומעביר אותם לפריז: \"תארו לעצמכם שיש לכם מנורת קסמים, ואתם מבזבזים את המשאלה שלכם על... בן גביר. אפילו קסמים לא יכולים להסיר את איסור הכניסה שלו לצרפת.\" ## אני לא…",
-   "views": 36400,
+   "views": 37000,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1583,7 +1610,7 @@
    "post": "ynetalerts/75832",
    "ts": "2026-10-20T11:58:33+00:00",
    "text": "🔴 ‏הרצוג נפגש עם פטר מדיאר בהונגריה",
-   "views": 2940,
+   "views": 3000,
    "forwarded_from": null,
    "media": []
   },
@@ -1592,7 +1619,7 @@
    "post": "behadrey/107323",
    "ts": "2026-10-20T11:58:01+00:00",
    "text": "בכירים בטהראן מודים > איראן מעכבת בכוונה את השיחות כדי לפגוע בטראמפ בבחירות",
-   "views": 76,
+   "views": 78,
    "forwarded_from": null,
    "media": [
     {
@@ -1606,7 +1633,7 @@
    "post": "N12chat/230848",
    "ts": "2026-10-20T11:56:18+00:00",
    "text": "ספיר ליפקין\nמקור ביטחוני איראני אמר לסוכנות הידיעות האיראנית תסנים בהתייחסו למגעים הדיפלומטיים: \"אחד המכשולים העיקריים העומדים בפני המשא ומתן הוא היעדר אמון בנציגים של הצד האמריקני בעל הסמכות והיכולת המתאימות לקבלת החלטות סופיות\"",
-   "views": 1400,
+   "views": 1430,
    "forwarded_from": null,
    "media": []
   },
@@ -1657,7 +1684,7 @@
    "post": "ynetalerts/75831",
    "ts": "2026-10-20T11:50:38+00:00",
    "text": "🔴 ‏מצרים: 13 הרוגים ו-34 פצועים בתאונה בין אוטובוס תיירים למשאית",
-   "views": 3120,
+   "views": 3150,
    "forwarded_from": null,
    "media": []
   },
@@ -1666,7 +1693,7 @@
    "post": "behadrey/107322",
    "ts": "2026-10-20T11:49:40+00:00",
    "text": "‏הפגישה שהתפוצצה > \"דפקתי על השולחן\": אוריך חושף עימות עם בכירי חדשות 12",
-   "views": 79,
+   "views": 81,
    "forwarded_from": null,
    "media": [
     {
@@ -1689,7 +1716,7 @@
    "post": "ynetalerts/75830",
    "ts": "2026-10-20T11:47:54+00:00",
    "text": "🔴 ‏משרד הבריאות: אותרה כלבה נגועה בכלבת ששוטטה בכמה יישובים באזור מודיעין",
-   "views": 3180,
+   "views": 3220,
    "forwarded_from": null,
    "media": []
   },
@@ -1698,7 +1725,7 @@
    "post": "news0404il/92145",
    "ts": "2026-10-20T11:47:13+00:00",
    "text": "מאות מתנדבים מהשומרון יגיעו ללוד לעודד הצבעה: \"ההתגייסות תבטיח את ניצחון הימין\"",
-   "views": 312,
+   "views": 314,
    "forwarded_from": null,
    "media": [
     {
@@ -1726,7 +1753,7 @@
    "post": "hamoked_il/213374",
    "ts": "2026-10-20T11:46:48+00:00",
    "text": "המוקד: יותר מ-4,000 יהודים עלו מצרפת לישראל השנה עד כה, הצפי כי עד לסוף השנה יעלו 5,000. זו השנה הראשונה מאז נפילת ברית המועצות שמדינה אחרת ולא רוסיה מהווה מקור של רוב העולים.",
-   "views": 257,
+   "views": 258,
    "forwarded_from": null,
    "media": []
   },
@@ -1749,7 +1776,7 @@
    "post": "ILcoupons/5867",
    "ts": "2026-10-20T11:46:11+00:00",
    "text": "משולש 18 ס\"מ מאלומיניום כלי מדידה לנגרות\n\n✅ עשוי סגסוגת אלומיניום עמידה במיוחד\n✅ מדידה גם בס\"מ וגם באינצ'ים\n✅ מתאים למדידת זויות וחיתוכים בול בעץ\n\n💳 מחיר מבצע 5.55$ \\ 17₪ 🔥\nמשלוח חינם גם לפריט בודד - תמשיכו ישר לקופה על ידי לחיצה על BUY NOW ללא הוספה לעגלה\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c4WLbJVr\n\n👈 למוצר זה 2016 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ https://chat.whatsapp.com/K23DoY60nRx5xkTbobSqnm או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 304,
+   "views": 305,
    "forwarded_from": null,
    "media": [
     {
@@ -1773,7 +1800,7 @@
    "post": "N12chat/230847",
    "ts": "2026-10-20T11:45:22+00:00",
    "text": "אור רביד\nפרטים חדשים על מתקפת הסייבר נגד חברת שקמונה, החברה הממשלתית-עירונית המנהלת את הדיור הציבורי בחיפה והקריות: בעקבות הפריצה למחשבי החברה הועלתה דרישת כופר של אלפי דולרים, וקיים חשש כי מידע אישי של אלפי דיירים נחשף",
-   "views": 1500,
+   "views": 1530,
    "forwarded_from": null,
    "media": []
   },
@@ -1782,7 +1809,7 @@
    "post": "news0404il/92144",
    "ts": "2026-10-20T11:45:17+00:00",
    "text": "משרד החוץ הצרפתי לעג לבן גביר – השר השיב: ״קיבלתם את מה שרציתם ברחובות צרפת: מדינה פלסטינית!״",
-   "views": 316,
+   "views": 318,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -1792,7 +1819,7 @@
    "post": "hamoked_il/213372",
    "ts": "2026-10-20T11:44:09+00:00",
    "text": "המוקד: לא נעים. סודרי מגיב לאוריך: היחיד שנזרק מהחדר היה אתה",
-   "views": 239,
+   "views": 241,
    "forwarded_from": null,
    "media": [
     {
@@ -1806,7 +1833,7 @@
    "post": "hamoked_il/213371",
    "ts": "2026-10-20T11:42:55+00:00",
    "text": "המוקד: רויטרס מפי בכירים איראנים: איראן מושכת בכוונה את המשא ומתן כדי למנוע מטראמפ ניצחון פוליטי לפני בחירות האמצע ב-3 בנובמבר.",
-   "views": 233,
+   "views": 234,
    "forwarded_from": null,
    "media": []
   },
@@ -1839,7 +1866,7 @@
    "post": "hamoked_il/213370",
    "ts": "2026-10-20T11:41:36+00:00",
    "text": "המוקד: שבוע לפני הבחירות: תערוכה פוליטית ומיצג שטנה מבזה נגד רה\"מ נתניהו ובוחרי הליכוד שהוצב במוזיאון תל אביב",
-   "views": 229,
+   "views": 231,
    "forwarded_from": null,
    "media": [
     {
@@ -1853,7 +1880,7 @@
    "post": "ynetalerts/75829",
    "ts": "2026-10-20T11:40:32+00:00",
    "text": "🔴 ‏בכירים איראנים: טהרן מושכת את השיחות עם ארה\"ב כדי להחליש את טראמפ פוליטית",
-   "views": 3350,
+   "views": 3380,
    "forwarded_from": null,
    "media": []
   },
@@ -1862,7 +1889,7 @@
    "post": "hamoked_il/213369",
    "ts": "2026-10-20T11:40:12+00:00",
    "text": "המוקד: הרצוג ומדיאר בפרלמנט ההונגרי כעת. באופן חריג, וכנראה משיקולי ביטחון, על רכבי השרד של הנשיא והשיירה שלו, לא נתלו דגלי ישראל. גם ברחובות בודפשט אין דגלי ישראל (כהנא)",
-   "views": 197,
+   "views": 198,
    "forwarded_from": null,
    "media": [
     {
@@ -1886,7 +1913,7 @@
    "post": "hamoked_il/213368",
    "ts": "2026-10-20T11:38:56+00:00",
    "text": "המוקד: משרד החוץ הצרפתי לועג בציוץ לבן גביר על איסור כניסתו לצרפת. בן גביר הגיב: ״קיבלתם את מה שרציתם ברחובות צרפת: מדינה פלסטינית !״",
-   "views": 191,
+   "views": 193,
    "forwarded_from": null,
    "media": []
   },
@@ -1914,7 +1941,7 @@
    "post": "ynetalerts/75828",
    "ts": "2026-10-20T11:36:03+00:00",
    "text": "🔴 ‏התקבל דיווח על \"תקרית במעורבות מכלית וכוחות צבאיים\" באזור עומאן",
-   "views": 3380,
+   "views": 3440,
    "forwarded_from": null,
    "media": []
   },
@@ -1923,7 +1950,7 @@
    "post": "behadrey/107321",
    "ts": "2026-10-20T11:35:57+00:00",
    "text": "האסון בדרום לבנון > האמר התהפך - המשפחה דורשת לדעת: מי אישר לו לנסוע לבד?",
-   "views": 84,
+   "views": 86,
    "forwarded_from": null,
    "media": [
     {
@@ -1937,7 +1964,7 @@
    "post": "amitsegal/65975",
    "ts": "2026-10-20T11:35:46+00:00",
    "text": "גם בהונגריה: שיירת נשיא המדינה הרצוג נאלצת לנסוע ללא דגלי ישראל משיקולי ביטחון",
-   "views": 46500,
+   "views": 47100,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1961,7 +1988,7 @@
    "post": "N12chat/230846",
    "ts": "2026-10-20T11:33:17+00:00",
    "text": "לי נעים\nארגון אחים ואחיות לנשק הגישו קובלנה פלילית נגד עו\"ד אילן בומבך בגין פרסום לשון הרע בעקבות התבטאויות שבהן ייחס לכאורה לארגון כוונה לשבש את הבחירות, להפעיל כוח ולהלך אימים על מצביעים",
-   "views": 1560,
+   "views": 1590,
    "forwarded_from": null,
    "media": []
   },
@@ -1970,7 +1997,7 @@
    "post": "news0404il/92143",
    "ts": "2026-10-20T11:31:09+00:00",
    "text": "משרד הבריאות: כלבה נגועה בכלבת אותרה באזור מודיעין",
-   "views": 342,
+   "views": 344,
    "forwarded_from": null,
    "media": [
     {
@@ -2008,7 +2035,7 @@
    "post": "news0404il/92142",
    "ts": "2026-10-20T11:24:46+00:00",
    "text": "אקדח ומחסנית עם שבעה כדורים הושלכו מגג במזרח ירושלים - חשוד נעצר",
-   "views": 375,
+   "views": 378,
    "forwarded_from": null,
    "media": [
     {
@@ -2050,7 +2077,7 @@
    "post": "ynetalerts/75827",
    "ts": "2026-10-20T11:16:15+00:00",
    "text": "🔴 ‏בריטניה מאשרת: נשלח מטוסי קרב לעזור בהגנה על סעודיה, לא נתקוף את החות'ים",
-   "views": 3750,
+   "views": 3780,
    "forwarded_from": null,
    "media": []
   },
@@ -2059,7 +2086,7 @@
    "post": "behadrey/107320",
    "ts": "2026-10-20T11:16:02+00:00",
    "text": "טור דעה נוקב > העיקר שהפשפשים ימותו: כך שורפים את הבית בגלל העסקנים",
-   "views": 77,
+   "views": 79,
    "forwarded_from": null,
    "media": [
     {
@@ -2087,7 +2114,7 @@
    "post": "N12chat/230843",
    "ts": "2026-10-20T11:12:15+00:00",
    "text": "מבזקן 12\nרשמת העמותות במשרד המשפטים הגישה בקשה לבית המשפט המחוזי בירושלים לפירוק החברה לתועלת הציבור \"ארבע פעימות\", הפועלת לשילוב בעלי צרכים מיוחדים ונוער בסיכון. הבקשה הוגשה בעקבות ליקויים בהתנהלותה, אי-הגשת דיווחים כדין וחוסר שיתוף פעולה המונע פיקוח ומעלה חשד לפעילות בניגוד לחוק",
-   "views": 1520,
+   "views": 1550,
    "forwarded_from": null,
    "media": []
   },
@@ -2114,7 +2141,7 @@
    "post": "behadrey/107319",
    "ts": "2026-10-20T11:07:39+00:00",
    "text": "בעוד יומיים > מעמד נדיר: זקני תלמידי החכמים יחתמו לכם על \"שטר ישועה גדולה\"",
-   "views": 79,
+   "views": 80,
    "forwarded_from": null,
    "media": [
     {
@@ -2128,7 +2155,7 @@
    "post": "abualiexpress/132244",
    "ts": "2026-10-20T11:07:36+00:00",
    "text": "העיתונאי העזתי חמזה אלמצרי:\nכוח מיוחד חטף הלילה מאזור כיכר אבו חמיד בח'אן יונס את נבהאן אבו שער בן 35, לאחר שלדברי אשתו דקר אותו בסכין.\nלא ברור אם מדובר בכוח ישראלי או כוח מיליציה פלסטיני.\n\nענה לו אחד העוקבים שלו:\nبس اليهود بطعنوش .... الطعن من جماعتنا\n\nתרגום : אבל היהודים לא דוקרים... הדקירה זה \"החבר'ה שלנו\"..",
-   "views": 43400,
+   "views": 43700,
    "forwarded_from": null,
    "media": [
     {
@@ -2198,7 +2225,7 @@
    "post": "ramreports/216388",
    "ts": "2026-10-20T11:00:49+00:00",
    "text": "ראש מטה הכוחות המזוינים של איראן ומפקד מטה ח'אתם אל-אנביה, האלוף עלי עבדאללה: אם תפרוץ נגדנו מלחמה חדשה, היא תטרוף את כולם.\n\n🥱",
-   "views": 9670,
+   "views": 9730,
    "forwarded_from": null,
    "media": []
   },
@@ -2241,7 +2268,7 @@
    "post": "Moshepargod/73204",
    "ts": "2026-10-20T10:57:52+00:00",
    "text": "הפרגוד: בכתב אישום שהוגש לאחרונה נגד פדופיל מבית שמש, שפגע בילדים במקוואות, מתואר גם האירוע הקשה הזה, שהתרחש עם נער בן 15 בליבו של בית כנסת הומה אדם, שנמנע מלחמוק מהפוגע \"בגלל שהיה באמצע שמונה-עשרה\". כמה חשוב שהורים יזהירו את ילדיהם ויבהירו שזה לא שיקול - לעומת חומרת הדבר.",
-   "views": 1600,
+   "views": 1630,
    "forwarded_from": null,
    "media": [
     {
@@ -2255,7 +2282,7 @@
    "post": "ramreports/216387",
    "ts": "2026-10-20T10:57:13+00:00",
    "text": "דיווח בעזה: כוח מיוחד של צהל חטף את המחבל \"נבהאן אבו שער\" ותקף אותו ופצע אותו בביתו הסמוך לכיכר אבו חמיד בעיר חאן יונס, לפנות בוקר .",
-   "views": 9550,
+   "views": 9580,
    "forwarded_from": null,
    "media": [
     {
@@ -2301,7 +2328,7 @@
    "post": "ramreports/216386",
    "ts": "2026-10-20T10:51:36+00:00",
    "text": "פריז: מותגי יוקרה במחירי חיסול..... יד ראשונה מבוזז..",
-   "views": 9550,
+   "views": 9580,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -2311,7 +2338,7 @@
    "post": "iBuyIL/27524",
    "ts": "2026-10-20T10:50:14+00:00",
    "text": "סוף סוף חזרו למלאי אחרי היעדרות ממושכת!!! כמה חיכינו! 👐\n\nדאגנו לכם לדיל מלחיץץץץ על שני תיקי גג לרכב של חברת AZTEC המתמחה בציוד קמפינג!! בדיל מקומי 🇮🇱 עם משלוח מהיר עד הבית 🚛 במחיר היסטרי 💥 2 גדלים לבחירה 🎒\n\n🚗 תיק גג לרכב 672 ליטר Aztec Rooftop 700 III\n\n💳 מחיר בלעדי עם הקופון: 439₪\n✂️ קוד קופון בלעדי: ADIDLZ\n\n🛍 קישור להזמנה + קופון:\nhttps://dlz.co.il/last-672-aztec-rooftop-700-iii\n\n‐‐-------------‐--------------\n\n🚕 תיק גג לרכב Aztec Rooftop 500 III בנפח 537 ליטר\n\n💳 מחיר בלעדי עם הקופון: 349₪\n✂️ קוד קופון בלעדי: ADIDLZ\n\n🛍 קישור להזמנה + קופון:\nhttps://dlz.co.il/last-aztec-rooftop-500-iii-537\n\nחולמים על טיול משפחתי אבל לא מבינים איך כל הציוד ייכנס לרכב? 🚗🥾 רגע לפני שמוותרים על אוהל או כרית, הכירו את התיק גג שישדרג לכם כל נסיעה!\n\n✔️ הרכבה סופר מהירה- מתחבר בקלות לכל גג רכב, גם בלי גגון במיוחד 🛠️\n✔️ מתאים לכל ציוד: קמפינג, מזוודות, תיקים ועוד 🎒🏕️\n✔️ עיצוב אלגנטי בגימור שחור קלאסי\n\nלדיון בפוסט https://www.facebook.com/share/p/18bcjTELny/",
-   "views": 843,
+   "views": 846,
    "forwarded_from": null,
    "media": [
     {
@@ -2326,7 +2353,7 @@
    "post": "ramreports/216385",
    "ts": "2026-10-20T10:47:14+00:00",
    "text": "ברצועה סופרים 5 מחוסלים משעות הלילה\n\nעשרות מחוסלים ופצועים בשבוע האחרון.",
-   "views": 9090,
+   "views": 9130,
    "forwarded_from": null,
    "media": []
   },
@@ -2350,7 +2377,7 @@
    "post": "news0404il/92141",
    "ts": "2026-10-20T10:41:58+00:00",
    "text": "חשש ודאגה בשכונה השקטה: כיתובי גרפיטי בערבית וגל פריצות מציפים את הרחובות\n\nתושבים בשכונה מדווחים על תחושת חוסר ביטחון גוברת בעקבות הופעת כיתובים בערבית על פחים וברחובות, לצד עלייה במקרי הפריצות לבתים: \"לא הכי ברור מה כתוב, המשטרה מודעת ואותנו זה מטריד מאוד\".",
-   "views": 443,
+   "views": 444,
    "forwarded_from": null,
    "media": [
     {
@@ -2378,7 +2405,7 @@
    "post": "ynetalerts/75826",
    "ts": "2026-10-20T10:37:54+00:00",
    "text": "🔴 ‏אישום: תושב בית שמש ביצע עבירות מין ב-4 נערים בבתי כנסת ובמקווה",
-   "views": 4150,
+   "views": 4180,
    "forwarded_from": null,
    "media": []
   },
@@ -2421,7 +2448,7 @@
    "post": "news0404il/92140",
    "ts": "2026-10-20T10:33:59+00:00",
    "text": "עו\"ד חדד: הנושאים בתיק 1000 כבר נבדקו ונסגרו - מנדלבליט: ״לא אמרו לי״",
-   "views": 453,
+   "views": 455,
    "forwarded_from": null,
    "media": [
     {
@@ -2449,7 +2476,7 @@
    "post": "ynetalerts/75825",
    "ts": "2026-10-20T10:29:52+00:00",
    "text": "🔴 ‏דיווח: בריטניה תשלח מטוסי קרב למשימות הגנה על סעודיה מפני תקיפות החות'ים",
-   "views": 4230,
+   "views": 4260,
    "forwarded_from": null,
    "media": []
   },
@@ -2468,20 +2495,11 @@
    ]
   },
   {
-   "id": "pefcc2e779905",
-   "post": "N12chat/230840",
-   "ts": "2026-10-20T10:28:00+00:00",
-   "text": "ענבר טויזר\nכתב אישום הוגש נגד יחיאל יהושוע ברנד, בגין ביצוע עבירות מין בארבעה קטינים במקווה ובבתי כנסת",
-   "views": 1780,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p7e0b378e95d4",
    "post": "abualiexpress/132239",
    "ts": "2026-10-20T10:26:07+00:00",
    "text": "צפון קוריאה מנסה להפריך את השמועות על כך שמנהיגה שקע בתרדמת\n\nעל רקע שמועות שלפיהן קים ג'ונג און שקע בתרדמת, פרסמה סוכנות הידיעות הצפון קוריאנית KCNA תמונות שבהן הוא נראה \"מסייר בתערוכת ביגוד והנעלה\" לצד רעייתו רי סול ג'ו ובתו קים ג'ו אה.\n\nהתמונות הוצגו כ\"אות חיים\" שנועדו להפריך את השמועות.\n\nהתמונות פורסמו יום לאחר שהצהובון הבריטי The Sun דיווח, בהסתמך על שמועות שלא אומתו, כי קים לקה בדימום מוחי, שקע בתרדמת והועבר לסין לקבלת טיפול רפואי.\n\nאין אישור בלתי תלוי למועד שבו צולמו התמונות. קים נראה לאחרונה בפומבי ב-11 באוקטובר, בעת שסייר במוזיאון צבאי בפיונגיאנג. הרשויות בצפון קוריאה לא התייחסו לשמועות על מצבו הבריאותי.",
-   "views": 49400,
+   "views": 49700,
    "forwarded_from": null,
    "media": [
     {
@@ -2501,15 +2519,6 @@
      "file": "data/media/6bd0243e6a8e2ef2.jpg"
     }
    ]
-  },
-  {
-   "id": "pbe887161edd0",
-   "post": "N12chat/230839",
-   "ts": "2026-10-20T10:21:24+00:00",
-   "text": "דסק החוץ\nגורמים בריטים לבלומברג: חיל האוויר הבריטי יבצע משימות הגנה אוויריות כדי להגן על סעודיה מפני מתקפות החות'ים",
-   "views": 1860,
-   "forwarded_from": null,
-   "media": []
   },
   {
    "id": "p10c5dc9ad473",
@@ -2576,7 +2585,7 @@
    "post": "iBuyIL/27523",
    "ts": "2026-10-20T10:12:08+00:00",
    "text": "🆕 חזר למשלוח חינםםםם 🛍🛍 מוצר חדש של Fanttik האהובים במחיר משתלם במיוחד עם משלוח עד הבית!!\n\nמברגה חשמלית מדויקת Fanttik E2 Ultra Mini 🪛\n\n💳 מחיר סופי: 59.99$ / 186₪ (במקום $89.99)\n\n✈️ המחיר כולל משלוח חינם עד הבית בלי להוסיף כלום!\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/fanttik-e2-ultra-mini-electric\n\nה-E2 Ultra Mini מביאה גאדג'ט מקצועי שמציל לך את היד ואת הסבלנות- מברגה סופר קומפקטית, נטענת, מדויקת ומעוצבת באסתטיקה מודרנית\n\n🔋 בטריה עוצמתית (800mAh) מחזיקה פי 2.3 מהדגם הקודם\n⚡ מנוע NeoPulse עם מהירות סיבוב 270RPM וטווח מומנט עד 0.6N.m\n🔄 5 רמות מומנט לבחירה (0.05, 0.1, 0.2, 0.4, 0.6N.m) מתאימה לכל תחום, מהשעון עד המחשב\n🧲 50 ביטים מגנטיים איכותיים S2 + איחסון מגנטי חכם (קוטר 5/32 אינץ' = 0.4 ס\"מ) סדר מושלם וגישה מהירה לראש הנכון\n🪛 סט תוספות נלוות: מוט HEX 2.0 ארוך (4.5 ס\"מ), מפרקון פינצטה ומנוף פתיחה לכיסוי כל צורך בתיקון עדין\n🌈 תאורת מצב LED אינטואיטיבית לתצוגה ברורה של עוצמת מומנט וכיוון העבודה\n🔌 טעינה נוחה מממשק USB-C\n\nלדיון בפוסט https://www.facebook.com/share/p/1Dqnd4CMAL/",
-   "views": 884,
+   "views": 888,
    "forwarded_from": null,
    "media": [
     {
@@ -2628,7 +2637,7 @@
    "post": "amitsegal/65974",
    "ts": "2026-10-20T10:03:23+00:00",
    "text": "פרקליט נתניהו עו״ד עמית חדד מפתיע את מנדלבליט בעדותו: האם אמרת לעו״ד תירוש במהלך הדיונים - ״את מעדיפה להיות תובעת בתיק שיציל את הדמוקרטיה או לחיות בדיקטטוריה כמו הונגריה ופולין?״",
-   "views": 58500,
+   "views": 58800,
    "forwarded_from": null,
    "media": []
   },
@@ -2637,7 +2646,7 @@
    "post": "news0404il/92138",
    "ts": "2026-10-20T09:59:35+00:00",
    "text": "בהכוונת שב\"כ: מסתערבי מג״ב עצרו מחבל סמוך לג׳נין",
-   "views": 468,
+   "views": 472,
    "forwarded_from": null,
    "media": [
     {
@@ -2651,7 +2660,7 @@
    "post": "abualiexpress/132238",
    "ts": "2026-10-20T09:56:03+00:00",
    "text": "שגריר ארה\"ב בטורקיה, טום באראכ \"מפציץ\" שוב : \"הייתה מעט מאוד אנטישמיות, אפילו באזור הזה. היהודים חיו לצד שכניהם מאז ומתמיד. הציונות ב-1948 הפכה לסוגיה אחרת.\" ## בכל פעם שהוא פותח את הפה הוא מייצר כותרות בעייתיות נגד ישראל. שתק חודשיים ועכשיו שוב... תגובה…",
-   "views": 51100,
+   "views": 51500,
    "forwarded_from": null,
    "media": []
   },
@@ -2660,7 +2669,7 @@
    "post": "abualiexpress/132237",
    "ts": "2026-10-20T09:51:47+00:00",
    "text": "שגריר ארה\"ב בטורקיה, טום באראכ \"מפציץ\" שוב :\n\n\"הייתה מעט מאוד אנטישמיות, אפילו באזור הזה. היהודים חיו לצד שכניהם מאז ומתמיד.\n\nהציונות ב-1948 הפכה לסוגיה אחרת.\"\n\n##\nבכל פעם שהוא פותח את הפה הוא מייצר כותרות בעייתיות נגד ישראל. שתק חודשיים ועכשיו שוב...",
-   "views": 49000,
+   "views": 49300,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -2670,7 +2679,7 @@
    "post": "israelhayomofficial/76128",
    "ts": "2026-10-20T09:47:14+00:00",
    "text": "ירון זליכה בהצהרה:\n\n״החרדים הם אחים שלנו. אבל מפלגות שמובילות קו של בדלנות והשתמטות הן לא ציוניות, ולא נשב איתן. לא נשלים לנתניהו והמפלגות החרדיות ממשלה\"",
-   "views": 1420,
+   "views": 1430,
    "forwarded_from": null,
    "media": []
   },
@@ -2698,7 +2707,7 @@
    "post": "ILcoupons/5865",
    "ts": "2026-10-20T09:44:11+00:00",
    "text": "מעולה במיוחד לקראת החורף 👌 מסיר סיבים (מוך) נייד ונטען עם תצוגת LED במחיר פגזזז\n\n✅ מתאים לכל סוגי הבדים\n✅ נטען בקלות – סוללה חזקה\n✅ תצוגת LED לנוחות מירבית\n\n💳 מחיר מבצע 6.05$ \\ 19₪ 🔥\nמשלוח חינם גם לפריט בודד - תמשיכו ישר לקופה על ידי לחיצה על BUY NOW ללא הוספה לעגלה\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c4BhhFLF\n\n👈 למוצר זה 2430 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ https://chat.whatsapp.com/K23DoY60nRx5xkTbobSqnm או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 434,
+   "views": 435,
    "forwarded_from": null,
    "media": [
     {
@@ -2713,7 +2722,7 @@
    "post": "merkaz/298586",
    "ts": "2026-10-20T09:42:43+00:00",
    "text": "רבנו הגדול מרן ראש הישיבה הגרמ\"ה הירש: גם למי שיש מרמור וטענות - אם הוא לא יצביע המצב יהיה הרבה גרוע מעכשיו",
-   "views": 319,
+   "views": 320,
    "forwarded_from": null,
    "media": [
     {
@@ -2750,7 +2759,7 @@
    "post": "amitsegal/65973",
    "ts": "2026-10-20T09:37:34+00:00",
    "text": "הלילה: חסידי גור שנציגם מספר 2 ביהדות התורה - תולשים פוסטרים של המפלגה באשדוד\n\nבחסידות אומרים שהעניין ״נבדק״",
-   "views": 60500,
+   "views": 60800,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -2760,7 +2769,7 @@
    "post": "hamechadesh/140617",
    "ts": "2026-10-20T09:36:51+00:00",
    "text": "מבזקי המחדש:\nכוחות אוגדה 91 של צה\"ל השמידו יותר מ-540 תשתיות טרור במרחב הביטחוני בדרום לבנון. חטיבות 300, 769, 4 וביסל\"ח פעלו בכפרים אל-חיאם, טיר חרפא, מיס אל-ג'בל ומגדל זון, ואיתרו יותר מ-150 אמצעי לחימה, כולל רימונים, רקטות, טילי RPG, טילי נ\"ט ארוכי טווח ונשק קל. דובר צה\"ל הודיע כי הצבא לא יאפשר לחיזבאללה לפגוע באזרחים ובכוחותיו.",
-   "views": 8,
+   "views": 9,
    "forwarded_from": null,
    "media": []
   },
@@ -2769,7 +2778,7 @@
    "post": "iBuyIL/27522",
    "ts": "2026-10-20T09:35:00+00:00",
    "text": "מגבת ספורט אולטרה-קלה ונוחה Naturehike Quick Drying Bath Towel\n\n✅ קלת משקל – רק 30-100 גר׳, מתקפלת לגודל קומפקטי 💼\n✅ סופגת במיוחד ומתייבשת סופר-מהר 🌞\n✅ בד נעים במיוחד על העור, חזק ועמיד ללא התפוררות ✨\n\n💳 מחיר מבצע 5.69$ \\ 18₪ 🔥\nמשלוח חינם בקניה מעל 12 דולר ממוצרי Choice\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c4F8Bc3R\n\n👈 למוצר זה 3856 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 982,
+   "views": 984,
    "forwarded_from": null,
    "media": [
     {
@@ -2832,7 +2841,7 @@
    "post": "ramreports/216383",
    "ts": "2026-10-20T09:21:44+00:00",
    "text": "טראמפ: \"הזהרתי את מקרון והוא לא הקשיב. פריז תהפוך בקרוב לעיר מוסלמית\"",
-   "views": 11400,
+   "views": 11500,
    "forwarded_from": null,
    "media": []
   },
@@ -2880,7 +2889,7 @@
    "post": "news0404il/92136",
    "ts": "2026-10-20T09:18:17+00:00",
    "text": "נתניהו על הפגישה עם הגסת׳: ״לאיראן לא יהיה נשק גרעיני – אל תעזו לתקוף אותנו״",
-   "views": 448,
+   "views": 449,
    "forwarded_from": null,
    "media": []
   },
@@ -2889,7 +2898,7 @@
    "post": "behadrey/107315",
    "ts": "2026-10-20T09:17:17+00:00",
    "text": "דיון סוער > \"הגישו כתב אישום כדי להחליף שלטון\": העימות החריף בעדות מנדלבליט",
-   "views": 97,
+   "views": 98,
    "forwarded_from": null,
    "media": [
     {
@@ -2912,7 +2921,7 @@
    "post": "news0404il/92135",
    "ts": "2026-10-20T09:08:46+00:00",
    "text": "נתניהו: ״אני יוצא כעת לגבול הצפון – אל תעזו לתקוף אותנו, התגובה תהיה עצומה ועצימה״",
-   "views": 439,
+   "views": 440,
    "forwarded_from": null,
    "media": []
   },
@@ -2968,7 +2977,7 @@
    "post": "amitsegal/65970",
    "ts": "2026-10-20T08:56:32+00:00",
    "text": "הליכוד:\n\nעוד סערת פייק ניוז.\n\nראש הממשלה נתניהו אומר לאורך כל הדרך, ואמר זאת ישירות לציבור החרדי בראיון: החרדים צריכים להתגייס. מי שלא לומד תורה ילך לצבא, ומי שאומר נמות ולא נתגייס ילך לכלא.\n\nבעוד שאנחנו נגייס 23,000 חרדים בשלוש שנים, גוש השמאל הביא חוק שיגייס 5,000 בלבד. בחדרי חדרים הם מציעים לחרדים פטור מלא בתנאי שיפילו את נתניהו.",
-   "views": 62300,
+   "views": 62600,
    "forwarded_from": null,
    "media": [
     {
@@ -3080,7 +3089,7 @@
    "post": "abualiexpress/132232",
    "ts": "2026-10-20T08:37:00+00:00",
    "text": "משרד החוץ הצרפתי מגיב לסרטון שפרסם אתמול השר בן גביר ובו ג'יני בדמותו מגשים לעזתים משאלות ומעביר אותם לפריז:\n\n\"תארו לעצמכם שיש לכם מנורת קסמים, ואתם מבזבזים את המשאלה שלכם על... בן גביר.\n\nאפילו קסמים לא יכולים להסיר את איסור הכניסה שלו לצרפת.\"\n\n##\nאני לא בטוח שהתגובה של משרד החוץ הצרפתי מזיקה לקמפיין של בן גביר... אולי דווקא להפך...",
-   "views": 52800,
+   "views": 53100,
    "forwarded_from": null,
    "media": [
     {
@@ -3176,7 +3185,7 @@
    "post": "amitsegal/65969",
    "ts": "2026-10-20T08:22:17+00:00",
    "text": "הח״כ המיועד אליקים שטארק חוזר בו: טעיתי כשאמרתי שמצבנו קרוב לשואה",
-   "views": 63100,
+   "views": 63500,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -3200,7 +3209,7 @@
    "post": "iBuyIL/27520",
    "ts": "2026-10-20T08:18:08+00:00",
    "text": "לא תאמינו מה חזר למשלוח חינם מאמאזון ארה\"ב אחרי תקופה סופר דופר ארוכה!!! 🇺🇸 והמחיר כמובן משתלם במיוחד, במיוחד שהשליח דופק בדלת להגיש לכם את המשלוח עד פתח הדלת 🚪\n\nקנקן מסנן מים 1.4 ליטר Brita Small עם פילטר BritaPlus 🚰\n\n💳 מחיר סופי: 30.75$ \\ 96₪\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/brita-small-6-cup-water-filter-2\n\n🚚 רוצים לקבל שליח עד הבית? קחו 2 יחידות או שתוסיפו מארז של 4 פילטרים במשלוח חינם ותקבלו את הקנקן + 5 פילטרים + שליח עד הבית במחיר שווה במיוחד של 60$ 😱 להזמנה בקישור כאן 👇\n\nרביעיית מסנני מים להחלפה Brita Plus לקנקני ומיכלי בריטה\n\n💳 מחיר סופי: 29.31$ \\ 91₪\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/brita-plus-replacement-water-f\n\n✔️ מסנן BritaPlus לוכד פי שניים מזהמים כמו כלור, כספית, קדמיום, נחושת ואבץ\n✔️ שומר על מינרלים ואלקטרוליטים במים לטעם טוב יותר\n✔️ מתאים לכל מערכות Brita (למעט Stream)\n✔️ פילטר אחד מספיק לכ-2 חודשים (או 150 ליטר)\n✔️ מחליף עד 1,800 בקבוקי פלסטיק בשנה\n✔️ עיצוב קומפקטי למקרר - 1.4 ליטר ב-6 כוסות\n\nלדיון בפוסט https://www.facebook.com/share/p/1Dp7VNvfYx/",
-   "views": 1130,
+   "views": 1140,
    "forwarded_from": null,
    "media": [
     {
@@ -3215,7 +3224,7 @@
    "post": "amitsegal/65968",
    "ts": "2026-10-20T08:09:20+00:00",
    "text": "פרקליט נתניהו עו״ד עמית חדד מפתיע את מנדלבליט בעדותו:\n\nהאם אמרת לעו״ד תירוש במהלך הדיונים - ״את מעדיפה להיות תובעת בתיק שיציל את הדמוקרטיה או לחיות בדיקטטוריה כמו הונגריה ופולין?״",
-   "views": 63400,
+   "views": 63700,
    "forwarded_from": null,
    "media": []
   },
@@ -3238,7 +3247,7 @@
    "post": "SALAMTAK_DEALS/58592",
    "ts": "2026-10-20T08:00:11+00:00",
    "text": "מגיע לכם ולגוף שלכם מים בריאים ומסוננים, בלי לסחוב שישיות 💧\nדיל מעולה עם משלוח חינם (סוף סוף אחרי הרבה זמן שלא היה) 🎉:\nקנקן Brita של 1.42 ליטר עם פילטר BritaPlus 🫗,\nאנחנו מוסיפים לסל רביעייה של פילטרים 🛒, עוברים את ה-$49\nומקבלים משלוח חינם 🚚\n\nשורה תחתונה 👇 קיבלתם קנקן + 5 פילטרים, ב-186 ש\"ח בלבד, עד הבית\nושהשליח יסחוב את זה במדרגות 😜\n\nדיל מאמזון ארה\"ב 🇺🇸, כולל משלוח עד הבית 🚚\nלינק- https://salamtak.deals/archives/50301",
-   "views": 844,
+   "views": 846,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3267,7 +3276,7 @@
    "post": "hamechadesh/140613",
    "ts": "2026-10-20T07:52:08+00:00",
    "text": "בפעילות ברצועת עזה >< צה\"ל ושב\"כ השמידו שלושה מחסני אמצעי לחימה",
-   "views": 8,
+   "views": 9,
    "forwarded_from": null,
    "media": [
     {
@@ -3310,7 +3319,7 @@
    "post": "abualiexpress/132231",
    "ts": "2026-10-20T07:35:50+00:00",
    "text": "ארמון האליזה: הנשיא מקרון קיבל התחייבויות מאיחוד האמירויות ומבחריין לאספקת 200 אלף טונות של סולר מדי חודש לצרפת.\n\n##\nבטח עכשיו כל \"התיכוניסטים\" ישובו מזעפם ויחזירו את כל שעוני הרולקס שבזזו...",
-   "views": 59300,
+   "views": 59600,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -3320,7 +3329,7 @@
    "post": "SALAMTAK_DEALS/58591",
    "ts": "2026-10-20T07:34:07+00:00",
    "text": "אם אתם אוהבים לצאת לקמפינג ⛺ או סתם אוהבים לארח אצלכם בבית 🏠,\nאין סיבה שתוותרו על שינה איכותית ובריאה 😴\nיש לכם כאן מזרן איכותי עם זיכרון המתאים את עצמו בדיוק לגוף שלכם\n☁️ עם ספוג עבה (7.6 ס\"מ)\n🛡️ תחתית עם שכבה מונעת החלקה\n🎒 ויכולת קיפול מושלמת שיש בה אפילו רצועות.\n\nגם אם במקרה צריכים לנקות או לכבס זו לא בעיה 🧺 כי יש לו כיסוי שיורד בקלות עם רוכסן.\n\nמזרן ספוג זיכרון של CYMULA בעובי 7.6 ס\"מ, 183 על 61 ס\"מ, מתגלגל לגליל עם רצועות ונכנס לבגאז' 🚗\nמאמזון ארה\"ב 🇺🇸: כ-₪156 ($50.44) כולל משלוח עד הבית 🚚\nלינק- https://salamtak.deals/archives/50293",
-   "views": 885,
+   "views": 887,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3417,7 +3426,7 @@
    "post": "iBuyIL/27518",
    "ts": "2026-10-20T07:05:37+00:00",
    "text": "טירוף 10/10 😱😱😱 בקבוק מים מבודד 710 מ\"ל POWCAN עם פיית לחיצה וקשית קחו 4 בקבוקים שלמו 23.38$ עד הבית לארבעתם ‼️\n\nקשית לשתייה נינוחה, או פייה ללגימה מהירה.\n\n💳 מחיר יחידה: 6.49$ \\ 20₪ (במקום 12.99$)\n👈 תוסיפו 4 בקבוקים ושלמו 23.38$ עד הבית 🏃‍♂️🏃‍♂️\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/powcan-24-oz-insulated-water-b\n\n✔️ מבודד בטכנולוגיית וואקום כפולה שומר קור עד 24 שעות וחום עד 12 שעות\n✔️ 100% אטימות אף טיפה לא בורחת, גם בתיק או באוטו\n✔️ קומפקטי ומתאים לרוב מתקני הכוסות ברכב ובתיקי גב\n✔️ עשוי נירוסטה 304 איכותית עמיד, לא סופג ריחות ולא מחליד\n✔️ בטוח לשימוש BPA FREE\n✔️ אידאלי לספורט, בית ספר, נסיעות ומתנה שימושית\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4206982102932573/",
-   "views": 1220,
+   "views": 1230,
    "forwarded_from": null,
    "media": [
     {
@@ -3432,7 +3441,7 @@
    "post": "amitsegal/65967",
    "ts": "2026-10-20T06:58:55+00:00",
    "text": "אוטובוס עמוס בעשרות עריקים חרדים שנעצרו בנתב״ג יגיע בקרוב לתל השומר - אלה מהם שלא יביעו נכונות להתגייס צפויים להישלח לכלא",
-   "views": 67500,
+   "views": 67800,
    "forwarded_from": null,
    "media": []
   },
@@ -3451,7 +3460,7 @@
    "post": "amitsegal/65966",
    "ts": "2026-10-20T06:31:06+00:00",
    "text": "שוחחתי היום עם גדעון אוקו ועמיחי אתאלי על הבחירות המתקרבות, על הסקרים, משמעות המפלגות הקטנות ועוד..\n\nמוזמנים להאזין:",
-   "views": 69300,
+   "views": 69400,
    "forwarded_from": null,
    "media": []
   },
@@ -3541,7 +3550,7 @@
    "post": "AceIsraelofficial/4593",
    "ts": "2026-10-20T06:08:11+00:00",
    "text": "ארון חדש? יש לכם אקסטרה סיבה! 😍\nרק לחברי הערוץ, עוד 10% הנחה נוספת על מגוון ארונות באתר! 🔥\nאל תתנו להטבה לברוח!\n\nלהנפקת קופון אישי » https://lp6.me/FZmfL\n\nלרכישה באתר » https://tinyurl.com/yzmnb49n\n\nתקף באתר בלבד עד 24.10.26 / עד גמר המלאי, כפוף לתקנון https://www.ace.co.il/telegraextra10_wardrobe",
-   "views": 3180,
+   "views": 3190,
    "forwarded_from": null,
    "media": [
     {
@@ -3556,7 +3565,7 @@
    "post": "israelhayomofficial/76127",
    "ts": "2026-10-20T06:05:10+00:00",
    "text": "21 קבלנים ומשרתי קבע נעצרו בפרשת שוחד\n\nעל פי החשד קבלנים אזרחיים ואנשי קבע חברו יחד כדי להוציא במרמה מיליוני שקלים סביב הפעלת כלי הנדסה כבדים ברצועת עזה מתחילת המלחמה",
-   "views": 2180,
+   "views": 2190,
    "forwarded_from": null,
    "media": []
   },
@@ -3565,7 +3574,7 @@
    "post": "amitsegal/65964",
    "ts": "2026-10-20T06:03:46+00:00",
    "text": "ראש המל״ל והשר לשעבר מהליכוד צחי הנגבי לווינט - שנה אחרי הדחתו:\n\nאצביע לליברמן. אינני ימין משיחי, גזעני, ששותק מול הפשיעה הלאומנית ואינני מזדהה עם התאווה לניתוץ מערכות אכיפת החוק ותמיכה במתן פטור המוני מגיוס",
-   "views": 70900,
+   "views": 71200,
    "forwarded_from": null,
    "media": []
   },
@@ -3650,7 +3659,7 @@
    "post": "israelhayomofficial/76126",
    "ts": "2026-10-20T05:40:37+00:00",
    "text": "פרסום ראשון: צה\"ל מקים חטיבת חלל חדשה\n\nשר הביטחון ישראל כ\"ץ: אני מברך על החלטת צה\"ל להקים חטיבת חלל במסגרת המדיניות אותה אני מקדם: להפוך את ישראל למעצמת חלל ביטחונית - \"מלחמת הכוכבים כחול-לבן\"\n\n(לילך שובל)",
-   "views": 2130,
+   "views": 2140,
    "forwarded_from": null,
    "media": []
   },
@@ -3824,7 +3833,7 @@
    "post": "israelhayomofficial/76125",
    "ts": "2026-10-19T19:54:48+00:00",
    "text": "טראמפ: \"הזהרתי את מקרון והוא לא הקשיב. פריז תהפוך בקרוב לעיר מוסלמית\"",
-   "views": 3360,
+   "views": 3370,
    "forwarded_from": null,
    "media": [],
    "title": "אזהרת דונלד טראמפ לגבי העיר פריז",
@@ -3835,7 +3844,7 @@
    "post": "israelhayomofficial/76124",
    "ts": "2026-10-19T19:47:11+00:00",
    "text": "שני חשודים נעצרו על ידי כוחות שב\"כ וימ\"מ בכביש 1 סמוך לצומת לטרון. החשד - תכננו לבצע פיגוע בטווח הזמן המיידי",
-   "views": 3330,
+   "views": 3340,
    "forwarded_from": null,
    "media": [],
    "title": "מעצר חשודים בתכנון פיגוע מיידי",
@@ -3899,7 +3908,7 @@
    "post": "israelhayomofficial/76122",
    "ts": "2026-10-19T18:26:47+00:00",
    "text": "משטרת ישראל מבהירה\nאין אירוע בטחוני באזור איצטדיון טדי. אנו מבקשים מהציבור לא להפיץ מידע כוזב",
-   "views": 3200,
+   "views": 3210,
    "forwarded_from": null,
    "media": [],
    "title": "המשטרה אין אירוע בטחוני בטדי",
@@ -3948,7 +3957,7 @@
    "post": "iBuyIL/27515",
    "ts": "2026-10-19T17:48:04+00:00",
    "text": "הקלאסיקה הזו אף פעם לא יוצאת מהאופנה 💙\nחולצות טי של Tommy Hilfiger לגברים נכנסו למשלוח חינם במחיר מפתיע ובמגוון צבעים ומידות!\n\nחולצת טי שרוול קצר לגברים Tommy Hilfiger Regular Fit\n\n💳 מחיר סופי החל מ: 25.47$ \\ 79₪ (במקום $39.50)\n\nגם כאן, כמו ברוב הביגוד מאמזון לא כל הצבעים והמידות נשלחים בחינם- כדאי לבחור את המידה שלכם ואז לעבור בין הצבעים לראות מה נשלח בחינם\n\n👈 משלוח חינם בתנאי הגעה ל-49$ או בקניית 2 חולצות 🤑\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/tommy-hilfiger-mens-short-sle\n\n✔️ עשויה 100% כותנה רכה ונושמת\n✔️ גזרה רגילה שלא צמודה מדי\n✔️ מגע נעים במיוחד\n✔️ מתאימה גם לאירועים וקז'ואל\n✔️ מבית Tommy Hilfiger מותג מנצח בסטייל\n\nלדיון בפוסט https://www.facebook.com/share/p/19ePtYQru1",
-   "views": 1950,
+   "views": 1960,
    "forwarded_from": null,
    "media": [
     {
@@ -4017,7 +4026,7 @@
    "post": "israelhayomofficial/76120",
    "ts": "2026-10-19T17:21:05+00:00",
    "text": "גנץ בהצהרה על פרישתו\n\"החלטתי התקבלה מתוך אחריות. אני עדיין משוכנע שהדרך שלנו היא הנכונה - הצורך בממשלת אחדות ציונית\"",
-   "views": 3120,
+   "views": 3130,
    "forwarded_from": null,
    "media": [],
    "title": "בני גנץ הודיע על פרישתו",
@@ -4051,7 +4060,7 @@
    "post": "israelhayomofficial/76117",
    "ts": "2026-10-19T16:47:24+00:00",
    "text": "\"יש לנו עבודה לסיים\": נתניהו שוחח עם הנשיא טראמפ - כשמאחוריו מטוס F16",
-   "views": 2910,
+   "views": 2920,
    "forwarded_from": null,
    "media": [],
    "missing": "video",
@@ -4241,7 +4250,7 @@
    "post": "ILcoupons/5856",
    "ts": "2026-10-19T13:13:03+00:00",
    "text": "צובעים? זה גאוני! מגש צבע קומפקטי לפינישים ומקומות צפופים, קל לאחיזה וניתן לתליה על סולם\n\n✅ עשויה מחומר PP עמיד במיוחד\n✅ קיבולת 1 ליטר נוח לשימוש\n✅ מתאימה למברשות ורולרים קטנים\n\n💳 מחיר מבצע 6.65$ \\ 21₪ 🔥\nמשלוח חינם בקניה מעל 12 דולר ממוצרי Choice\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c4c99NSv\n\n👈 למוצר זה 2719 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ https://chat.whatsapp.com/K23DoY60nRx5xkTbobSqnm או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 902,
+   "views": 903,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4254,7 +4263,7 @@
    "post": "israelhayomofficial/76114",
    "ts": "2026-10-19T12:58:59+00:00",
    "text": "בני גנץ הודיע: ״לא אתמודד בבחירות הקרובות\"",
-   "views": 3060,
+   "views": 3070,
    "forwarded_from": null,
    "media": [],
    "title": "בני גנץ הודיע על פרישה",
@@ -4290,7 +4299,7 @@
    "post": "israelhayomofficial/76113",
    "ts": "2026-10-19T12:43:05+00:00",
    "text": "בני גנץ הודיע: ״לא אתמודד בבחירות הקרובות\"",
-   "views": 3060,
+   "views": 3070,
    "forwarded_from": null,
    "media": [],
    "title": "פרישת בני גנץ מהבחירות",
@@ -4301,7 +4310,7 @@
    "post": "israelhayomofficial/76112",
    "ts": "2026-10-19T12:42:06+00:00",
    "text": "צה\"ל עצר בשומרון שני מחבלים שתכננו לבצע פיגוע בטווח הזמן המיידי",
-   "views": 3070,
+   "views": 3080,
    "forwarded_from": null,
    "media": [],
    "title": "מעצר מחבלים בשומרון",
@@ -4422,17 +4431,6 @@
    "checked": true
   },
   {
-   "id": "p35ff1cda7267",
-   "post": "israelhayomofficial/76109",
-   "ts": "2026-10-19T10:10:57+00:00",
-   "text": "הרמטכ\"ל הודיע: עוצר יציאות בצה\"ל החל מיום חמישי",
-   "views": 3120,
-   "forwarded_from": null,
-   "media": [],
-   "title": "הרמטכור הורה על עוצר יציאות",
-   "checked": true
-  },
-  {
    "id": "pfb1a33bcadd5",
    "post": "DealIsraeli/61235",
    "ts": "2026-10-19T09:30:06+00:00",
@@ -4450,7 +4448,7 @@
    "post": "AceIsraelofficial/4592",
    "ts": "2026-10-19T08:59:58+00:00",
    "text": "מי אמר שביום שני משעמם?😎\nמבצעי MONDAY FUNDAY בACE רק לחברי מועדון ורק ל-48 שעות!⏰\n💥ארון פתיחה ירין 2 דלתות ב499 ₪\n💥מערכת ישיבה דגם STAR ב333 ₪\n\nבסניפים ובאתר >>\nhttps://tinyurl.com/4wwexh4v\n\nעד 20.10 ,רק לחברי מועדון, ללא כפל מבצעים\nההצטרפות למועדון בחינם בסניפים ובאתר",
-   "views": 5830,
+   "views": 5840,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4551,7 +4549,7 @@
    "post": "ILcoupons/5851",
    "ts": "2026-10-19T07:10:46+00:00",
    "text": "המלצה רותחת! חובה להגנה על הפרטיות! חותמת גלילה למחיקת פרטים אישיים Theft Protection Roller Stamp\n\n✅ עמידה במים ואור עם כיסוי מלא\n✅ קלה לשימוש בזכות עיצוב ראש רולר\n✅ אידיאלית לבית, משרד או דירה 🏠📦🔒\n\n💳 מחיר מבצע 3.29$ \\ 10₪ 🔥\nמשלוח חינם בקניה מעל 12 דולר ממוצרי Choice\n\n🛍 קישור להזמנה:\nhttps://s.click.aliexpress.com/e/_c3GUmujJ\n\n👈 למוצר זה 5344 מכירות באליאקספרסס עם פידבקים מעולים\n\n🏃 כדי לא לפספס מבצעים מטורפים בזמן אמת אנחנו ממליצים בחום להצטרף לקבוצת הוואטסאפ https://chat.whatsapp.com/K23DoY60nRx5xkTbobSqnm או לערוץ הטלגרם של קופונים שווים מבית דילז",
-   "views": 967,
+   "views": 968,
    "forwarded_from": null,
    "media": [
     {
