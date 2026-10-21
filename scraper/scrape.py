@@ -177,6 +177,9 @@ FOOTER_RE = [re.compile(p) for p in CFG["text_filter"].get("strip_line_regex", [
 TRAIL_RE = [re.compile(p) for p in CFG["text_filter"].get("strip_regex", [])]
 # camera / "see above" emojis pointing at media we don't show: swapped for a space
 SPACE_RE = [re.compile(p) for p in CFG["text_filter"].get("replace_with_space", [])]
+BOARD_STRIP_RE = [re.compile(p) for p in CFG["text_filter"].get("board_strip_line_regex", [])]
+# posts that advertise a channel or group (on any board) are dropped
+PROMO_RE = [re.compile(p) for p in CFG["text_filter"].get("promo_drop_regex", [])]
 
 
 def clean_text(text):
@@ -207,11 +210,14 @@ def clean_board(text):
     # job/deal boards: links are the whole point, so only Telegram-internal ones go
     text = re.sub(r"(https?://)?(t|telegram)\.me/\S+", "", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
-    text = "\n".join(ln.strip() for ln in text.split("\n"))
+    text = "\n".join(ln.strip() for ln in text.split("\n")
+                     if not any(rx.search(ln.strip()) for rx in BOARD_STRIP_RE))
     return re.sub(r"\n{3,}", "\n\n", text).strip()
 
 
 def allowed(kind, text):
+    if any(rx.search(text) for rx in PROMO_RE):
+        return False
     if kind:  # boards: the ad is the content, only empty fragments are dropped
         if kind == "deals" and CFG["text_filter"].get("deals_drop_regex") and \
                 re.search(CFG["text_filter"]["deals_drop_regex"], text, re.I):
@@ -599,8 +605,7 @@ def main():
         if it.get("post") in blocked:
             continue
         # re-apply the current filters, so filter changes also clean older posts
-        if not it.get("kind"):
-            it["text"] = clean_text(it.get("text", ""))
+        it["text"] = clean_board(it.get("text", "")) if it.get("kind") else clean_text(it.get("text", ""))
         if not MEDIA_ON:
             it["media"] = []  # also strips photos/videos already published
         elif any(not x.get("checked") for x in it.get("media", [])):
