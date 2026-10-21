@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-21T13:53:37Z",
+ "updated": "2026-10-21T14:01:24Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -8,9 +8,9 @@
    "iv": 87
   },
   "20261021": {
-   "u": 1,
-   "pv": 1,
-   "iv": 8
+   "u": 2,
+   "pv": 3,
+   "iv": 10
   }
  },
  "ads": {
@@ -18,6 +18,8 @@
   "konim": 0
  },
  "items": {
+  "RealKikarHashabat/9577": 1,
+  "amitsegal/66034": 1,
   "RealKikarHashabat/9574": 1,
   "hamoked_il/213602": 1,
   "DealIsraeli/61263": 1,
