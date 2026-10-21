@@ -130,7 +130,8 @@
   .meta .sp{flex:1}
   .meta a,.meta button{background:none;border:0;padding:0;color:var(--muted);font-size:12px;font-weight:600;cursor:pointer}
   .meta a:hover,.meta button:hover{color:var(--tg-deep)}
-  .meta .rep:hover{color:#c0392b}
+  .meta .rep{color:#b03a2e;font-weight:700}
+.meta .rep:hover{color:#7d1f16;text-decoration:underline}
 
   /* promo */
   .post.promo .ava{background:linear-gradient(135deg,#c39a3a,#7d5f16)}
@@ -254,7 +255,7 @@
 <footer>
   © <span id="yr"></span> מבזקים · <span id="updatedLine"></span><br>
   התכנים באתר נאספים ממקורות פומביים. האחריות לתוכן כל פריט חלה על מי שפרסם אותו במקור.<br>
-  <button data-open="about">הבהרה משפטית ותנאי שימוש</button> · <button data-open="report-general">בקשת הסרה / פנייה</button>
+  <button data-open="about">הבהרה משפטית ותנאי שימוש</button> · <button data-open="report-general">דיווח על תוכן / פנייה</button>
 </footer>
 
 <div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
@@ -273,17 +274,19 @@
 </div></div>
 
 <div class="modal" id="report"><div class="card">
-  <h2 id="repTitle">בקשת הסרה</h2>
+  <h2 id="repTitle">דיווח על תוכן</h2>
   <div class="quote" id="repQuote"></div>
   <div class="wanum" id="repId" style="display:none">מזהה הפוסט: <a id="repIdLink" target="_blank" rel="noopener nofollow"></a><button type="button" id="repIdCopy">העתקה</button></div>
   <form id="repForm">
     <label for="repReason">סיבת הפנייה</label>
     <select id="repReason" name="reason">
+      <option>תוכן לא צנוע (טקסט, תמונה או סרטון)</option>
       <option>פגיעה בשם טוב / לשון הרע</option>
+      <option>זלזול בגדולי ישראל או ליבוי מחלוקת</option>
+      <option>תוכן שנוגד את דעת גדולי ישראל</option>
       <option>מידע שגוי או מטעה</option>
       <option>פגיעה בפרטיות</option>
       <option>הפרת זכויות יוצרים</option>
-      <option>תוכן לא צנוע / לא ראוי</option>
       <option>בקשת בעל התוכן להסרה מהאתר</option>
       <option>אחר</option>
     </select>
@@ -460,6 +463,7 @@ function mediaHTML(media){
 const openPosts=new Set();                                           // פוסטים שהגולש פתח ב"קרא עוד" (נשמרים גם ברענון)
 function markClamps(root){ (root||document).querySelectorAll("[data-more]").forEach(b=>{ const t=b.previousElementSibling; b.hidden=!openPosts.has(b.dataset.more)&&t.scrollHeight<=t.clientHeight+2; }); }
 function postHTML(it,fresh){
+  if(hiddenPosts.has(it.post)) return "";
   return `<article class="post${fresh?" fresh":""}" data-vk="${vkPost(it.post)}">
     <span class="ava gen">${it.direct?"✎":"מ"}</span>
     <div class="col"><div class="bubble">
@@ -471,7 +475,7 @@ function postHTML(it,fresh){
       <div class="meta">
         <span>${relTime(it.ts)}</span>${siteViews[it.post]?`<span title="צפיות באתר">👁 ${fmtViews(siteViews[it.post])}</span>`:""}
         <span class="sp"></span>
-        <button class="rep" data-rep="${esc(it.post)}">⚑ בקשת הסרה</button>
+        <button class="rep" data-rep="${esc(it.post)}">⚑ דיווח על תוכן</button>
       </div>
     </div></div>
   </article>`;
@@ -682,10 +686,11 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeVpop(); });
 /* modals */
 const openM=id=>$(id).classList.add("open"), closeM=el=>el.closest(".modal").classList.remove("open");
 let repPost="";
+const hiddenPosts=new Set(lsGet("mz_hidden",[]));
 function openReport(post){
   repPost=post||"";
   const it=data.items.find(i=>i.post===post);
-  $("repTitle").textContent=post?"בקשת הסרה לפוסט":"בקשת הסרה / פנייה";
+  $("repTitle").textContent=post?"דיווח על תוכן":"דיווח על תוכן / פנייה";
   $("repQuote").style.display=it?"":"none";
   $("repQuote").textContent=it?(it.text||"[תמונה]").slice(0,220):"";
   const tg=false;                                                    // מזהה המקור נשלח רק במייל, לא מוצג
@@ -698,7 +703,7 @@ $("repForm").addEventListener("submit",async e=>{
   e.preventDefault();
   const fd=new FormData();
   fd.append("access_key",REPORT_KEY);
-  fd.append("subject","מבזקים – בקשת הסרה"+(repPost?" ("+repPost+")":""));
+  fd.append("subject","מבזקים – דיווח על תוכן"+(repPost?" ("+repPost+")":""));
   fd.append("from_name","מבזקים");
   fd.append("post",repPost||"כללי");
   if(repPost) fd.append("link","https://t.me/"+repPost);
@@ -709,7 +714,9 @@ $("repForm").addEventListener("submit",async e=>{
   try{
     const r=await fetch("https://api.web3forms.com/submit",{method:"POST",body:fd}); const j=await r.json();
     if(!j.success) throw 0;
-    $("repStatus").style.color="var(--free)"; $("repStatus").textContent="✓ הבקשה התקבלה ותטופל בהקדם. תודה!";
+    $("repStatus").style.color="var(--free)"; $("repStatus").textContent="✓ הדיווח התקבל ויטופל בהקדם. תודה!";
+    if(repPost){ hiddenPosts.add(repPost); lsSet("mz_hidden",[...hiddenPosts].slice(-300));
+      document.querySelectorAll(".post").forEach(a=>{ if(a.querySelector('[data-rep="'+CSS.escape(repPost)+'"]')) a.remove(); }); }
     setTimeout(()=>$("report").classList.remove("open"),2200);
   }catch(_){ $("repSend").disabled=false; $("repStatus").style.color="#c0392b"; $("repStatus").textContent="השליחה נכשלה. נסו שוב בעוד רגע."; }
 });
