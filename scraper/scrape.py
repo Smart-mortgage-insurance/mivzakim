@@ -262,6 +262,9 @@ MEDIA_PROMPT = (
     "in the background, in a crowd, on a poster, screen, billboard or product, in a reflection, "
     "or as a drawing, cartoon, illustration or doll; any immodest clothing or exposed body; "
     "romantic or suggestive content; graphic violence, blood, injured people or dead bodies; "
+    "models presenting clothing or products; anything mocking or insulting a person or a community; "
+    "scenes from movies, TV series or entertainment shows; a video longer than 5 minutes that tells a "
+    "fictional story or drama; any image the Haredi public would not accept in public, even of men or boys; "
     "anything else unsuitable for a Haredi audience. "
     "If you are not completely sure, return ok=false. "
     "Return ok=true only for content such as men, boys, rabbis, landscapes, buildings, vehicles, "
@@ -404,22 +407,49 @@ def process_avatar(info):
 # --------------------------------------------------------------------------- #
 # Person filter: posts that speak badly about specific people never go up
 # --------------------------------------------------------------------------- #
+# Content rules follow the NetFree policy for Haredi/content sites (netfree.link/wiki, 2026-10-22).
+# Bump PF_VERSION whenever the rules change, so every published post is judged again.
+PF_VERSION = 2
 PERSON_PROMPT = (
-    "You review Hebrew Telegram news posts for a Haredi news site that avoids lashon hara and "
-    "defamation of individuals - but it is a NEWS site, so ordinary news must be published.\n"
-    "For each numbered post set block=true ONLY if the post itself attributes a crime, a scandal, "
-    "a moral failing, an embarrassing personal matter, or an insult or mockery to a SPECIFIC, "
-    "IDENTIFIABLE person (named, or recognizable from the details), or spreads gossip or rumors "
-    "about a person.\n"
+    "You review Hebrew news posts for a Haredi news site that must follow the content policy of "
+    "NetFree (a kosher internet filter) for Haredi content sites. It is a NEWS site, so ordinary "
+    "news must still be published.\n"
+    "For each numbered post set block=true if the post (text, ad or job listing) contains ANY of:\n"
+    "1. Lashon hara or defamation: attributing a crime, scandal, moral failing or embarrassing personal "
+    "matter to a SPECIFIC, IDENTIFIABLE person, gossip or rumors about a person, or condemning or "
+    "shaming a person or a community (unless it only reports that leading rabbis or a recognized "
+    "Beit Din publicly instructed to warn about them).\n"
+    "2. Insult, mockery or disparaging language toward any person, group or sector.\n"
+    "3. Stirring up disputes and hatred: fueling a machloket between rabbis, courts, Chassidic courts, "
+    "factions, communities or sectors, or debating whether the outlook of a group or a great person "
+    "is right or wrong.\n"
+    "4. Disrespect toward Gedolei Yisrael (past or present): criticizing, judging or ridiculing their "
+    "rulings, statements, decisions or conduct.\n"
+    "5. Legitimizing what the Gedolei Yisrael oppose - for example praising, encouraging or presenting "
+    "positively military enlistment of Haredim, national or civil service, or academic studies; "
+    "and any ad, course or job listing that promotes such things.\n"
+    "6. Immodesty: describing women's appearance, promoting a woman performing or appearing before a "
+    "public that includes men, flirtatious or casual talk between men and women, romantic content, "
+    "or ads for courses or products on topics not discussed in public.\n"
+    "7. Foreign culture: promoting secular or foreign values, movies, series, TV shows, celebrities, "
+    "internet influencers or non-Haredi singers, or exaggerated admiration of them.\n"
+    "8. Ways to bypass, remove or get around internet filtering, or recommending unfiltered "
+    "devices, apps or sites.\n"
+    "9. Matters meant only for halachic authorities (practical rulings for poskim) or only for "
+    "married people, and any intimate topic.\n"
+    "10. Contempt for Torah, mitzvot or rabbis, or any outlook that permits what the Haredi public "
+    "treats as forbidden.\n"
+    "11. Graphic descriptions of violence, injuries or dead bodies.\n"
     "Set block=false for everything else, including:\n"
     "- security, military, terror and war reports, including about terrorists, enemy leaders and enemy states;\n"
-    "- accidents, fires, weather, health, traffic, economy and consumer news;\n"
+    "- accidents, fires, weather, health, traffic, economy and consumer news (described without graphic detail);\n"
     "- arrests, investigations and court cases where the suspect is not named or identifiable;\n"
     "- statements, decisions, votes and quotes of politicians, ministers, rabbis, officials and public "
-    "bodies, and plain reports of political disagreements between them;\n"
-    "- criticism of policies, laws, organizations, parties or governments (not of a private person);\n"
-    "- deaths, funerals, condolences, praise, events, Torah and community news.\n"
-    "When unsure, block=false.\n"
+    "bodies, reported respectfully and factually without taking sides in a dispute;\n"
+    "- deaths, funerals, condolences, praise, events, Torah and community news, kosher ads and job listings.\n"
+    "When a post clearly fits one of the numbered rules, block=true even if it is otherwise newsworthy. "
+    "When unsure whether it fits, block=false.\n"
+    "The headline you write must itself be respectful and neutral and obey the same rules.\n"
 )
 
 # Hagizra-style headline: 2-6 bold words shown before the post text, followed by " |"
@@ -470,7 +500,7 @@ def person_filter(existing, blocked, state):
     (not published) and tried again on a later cycle; blocked ones are remembered."""
     pf = CFG.get("person_filter", {})
     pending = [it for it in existing.values()
-               if it.get("text") and (not it.get("checked") or "title" not in it)]
+               if it.get("text") and (it.get("checked") != PF_VERSION or "title" not in it)]
     if not pf.get("enabled") or not pending:
         return
     if not GEMINI_KEY:
@@ -503,7 +533,7 @@ def person_filter(existing, blocked, state):
                 blocked.add(it["post"])
                 n_blocked += 1
             else:
-                it["checked"] = True
+                it["checked"] = PF_VERSION
         time.sleep(4)
     log("person filter: {} of {} checked, {} blocked, {} titled".format(
         n_checked, len(pending), n_blocked, sum(1 for it in pending if it.get("title"))))
