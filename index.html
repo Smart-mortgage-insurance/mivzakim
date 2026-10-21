@@ -465,7 +465,7 @@ function postHTML(it,fresh){
     <div class="col"><div class="bubble">
       <div class="src"><span class="nm">${it.direct?"מהגולשים":({jobs:"דרושים",deals:"מבצעים"})[kindOf(it)]||"מבזק"}</span><span class="via${it.direct?" direct":""}">${hhmm(it.ts)}</span></div>
       ${it.text?`<div class="bt${openPosts.has(it.post)?"":" clamp"}">${it.title?`<strong class="hl">${esc(it.title)} |</strong> `:""}${linkify(it.text)}</div><button class="more-t" data-more="${esc(it.post)}" hidden>${openPosts.has(it.post)?"הצג פחות ▴":"קרא עוד ▾"}</button>`:""}
-      ${mediaHTML(it.media)}
+      ${mediaHTML((it.media||[]).filter(m=>m.checked))}
       
       ${waNumHTML(it.text)}
       <div class="meta">

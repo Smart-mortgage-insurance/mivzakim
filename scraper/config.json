@@ -323,7 +323,7 @@
   "media_filter": {
     "gemini_model": "gemini-3.5-flash",
     "allow_videos": true,
-    "allow_without_gemini": true,
+    "allow_without_gemini": false,
     "enabled": true
   },
   "person_filter": {

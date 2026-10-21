@@ -254,34 +254,59 @@ def download(url, max_bytes):
         return None, None
 
 
-def gemini_image_ok(img_bytes, mime):
+MEDIA_PROMPT = (
+    "You screen media for a website whose audience is strictly religious (Haredi) "
+    "and browses through a kosher content filter. Reply with JSON only: {\"ok\": true} or {\"ok\": false}. "
+    "Return ok=false if ANY of the following appears anywhere{where}: "
+    "a woman, or a girl who looks about 6 years old or older - even partially, small, blurred, "
+    "in the background, in a crowd, on a poster, screen, billboard or product, in a reflection, "
+    "or as a drawing, cartoon, illustration or doll; any immodest clothing or exposed body; "
+    "romantic or suggestive content; graphic violence, blood, injured people or dead bodies; "
+    "anything else unsuitable for a Haredi audience. "
+    "If you are not completely sure, return ok=false. "
+    "Return ok=true only for content such as men, boys, rabbis, landscapes, buildings, vehicles, "
+    "documents, maps, text graphics and objects, with none of the above anywhere."
+)
+
+
+def gemini_media_ok(data, mime, video=False):
+    """Strict modesty check. Videos are judged in full (every frame), not by a thumbnail.
+    Any error, timeout or unclear answer counts as a rejection."""
+    if not GEMINI_KEY:
+        return False
     model = CFG["media_filter"].get("gemini_model", "gemini-3.5-flash")
     endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
                 "{}:generateContent?key={}".format(model, GEMINI_KEY))
-    prompt = (
-        "אתה מסנן תמונות לאתר המיועד לציבור חרדי עם אינטרנט מסונן (נטפרי). "
-        "החזר JSON בלבד: {\"ok\": true/false}. "
-        "ok=false אם מופיעות נשים או נערות, לבוש לא צנוע, תוכן אלים/מזעזע/דוחה, "
-        "או כל דבר לא ראוי לציבור חרדי. ok=true לגברים, רבנים, נופים, מבנים, מסמכים, "
-        "מפות, גרפיקת טקסט, חפצים ורכבים. בספק – false."
-    )
+    where = " in ANY frame of the video, from start to end" if video else " in the image"
     body = {"contents": [{"parts": [
-                {"text": prompt},
-                {"inline_data": {"mime_type": mime or "image/jpeg",
-                                 "data": base64.b64encode(img_bytes).decode()}}]}],
+                {"text": MEDIA_PROMPT.replace("{where}", where)},
+                {"inline_data": {"mime_type": mime or ("video/mp4" if video else "image/jpeg"),
+                                 "data": base64.b64encode(data).decode()}}]}],
             "generationConfig": {"temperature": 0, "maxOutputTokens": 40,
                                  "responseMimeType": "application/json"}}
-    try:
-        r = requests.post(endpoint, json=body, timeout=45)
-        if r.status_code != 200:
-            log("    ! gemini HTTP {}: {}".format(r.status_code, r.text[:160]))
-            return False
-        txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        m = re.search(r'"ok"\s*:\s*(true|false)', txt, re.I)
-        return bool(m) and m.group(1).lower() == "true"
-    except Exception as exc:
-        log("    ! gemini error: {}".format(exc))
-        return False  # fail safe
+    for attempt in range(3):
+        try:
+            r = requests.post(endpoint, json=body, timeout=180 if video else 45)
+            if r.status_code in (429, 500, 503):
+                time.sleep(4 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                log("    ! gemini HTTP {}".format(r.status_code))
+                return False
+            txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            m = re.search(r'"ok"\s*:\s*(true|false)', txt, re.I)
+            return bool(m) and m.group(1).lower() == "true"
+        except Exception as exc:
+            log("    ! gemini error: {}".format(type(exc).__name__))
+            time.sleep(3)
+    return False  # fail safe
+
+
+def gemini_image_ok(img_bytes, mime):
+    return gemini_media_ok(img_bytes, mime, video=False)
+
+
+VIDEO_MAX_BYTES = 18_000_000   # Gemini inline limit; a bigger video cannot be checked -> not shown
 
 
 def save_media(key, data, ctype, default_ext):
@@ -296,8 +321,8 @@ def save_media(key, data, ctype, default_ext):
 
 def process_media(post, media):
     """Download + filter; returns local media entries (images/videos that passed)."""
-    if not MEDIA_ON or (not GEMINI_KEY and not UNFILTERED_OK):
-        return []  # media switched off, or no filter available -> text only
+    if not MEDIA_ON or not GEMINI_KEY:
+        return []  # media off, or no filter available -> text only (never publish unchecked media)
     max_bytes = CFG["limits"]["max_media_bytes"]
     kept = []
     for m in media:
@@ -306,24 +331,56 @@ def process_media(post, media):
         data, ctype = download(m["src"], max_bytes)
         if not data:
             continue
-        judge, jmime, pdata, pctype = data, ctype, None, None
+        pdata, pctype = None, None
         if m["type"] == "video":
-            if not m.get("poster"):
-                continue  # can't judge a video with no frame
-            pdata, pctype = download(m["poster"], max_bytes)
-            if not pdata:
+            if len(data) > VIDEO_MAX_BYTES:
+                log("    - video too large to check, skipped")
                 continue
-            judge, jmime = pdata, pctype
-        if GEMINI_KEY and not gemini_image_ok(judge, jmime):
+            if m.get("poster"):
+                pdata, pctype = download(m["poster"], max_bytes)
+                if pdata and not gemini_media_ok(pdata, pctype):
+                    log("    - video poster rejected by filter")
+                    continue
+            if not gemini_media_ok(data, ctype or "video/mp4", video=True):
+                log("    - video rejected by filter")
+                continue
+        elif not gemini_media_ok(data, ctype):
             log("    - media rejected by filter")
             continue
-        entry = {"type": m["type"],
+        entry = {"type": m["type"], "checked": 1,
                  "file": save_media(post + m["src"], data, ctype,
                                     ".mp4" if m["type"] == "video" else ".jpg")}
         if pdata:
             entry["poster"] = save_media(post + m["poster"], pdata, pctype, ".jpg")
         kept.append(entry)
     return kept
+
+
+RECHECK_LEFT = [60]   # per run, so a backlog doesn't eat the whole run
+
+
+def recheck_media(media):
+    """Media published before the strict filter: judge the saved file again, or drop it."""
+    out = []
+    for x in media:
+        if x.get("checked"):
+            out.append(x)
+            continue
+        if not GEMINI_KEY or RECHECK_LEFT[0] <= 0:
+            continue
+        RECHECK_LEFT[0] -= 1
+        path = os.path.join(ROOT, x.get("file", ""))
+        try:
+            data = open(path, "rb").read()
+        except OSError:
+            continue
+        video = x.get("type") == "video"
+        if video and len(data) > VIDEO_MAX_BYTES:
+            continue
+        mime = mimetypes.guess_type(path)[0]
+        if gemini_media_ok(data, mime, video=video):
+            out.append(dict(x, checked=1))
+    return out
 
 
 def missing_media(orig, shown):
@@ -336,7 +393,7 @@ def missing_media(orig, shown):
 def process_avatar(info):
     """Channel logos are shown for attribution; still pass the modesty filter."""
     src = info.pop("avatar_src", None)
-    if not src or not (GEMINI_KEY or UNFILTERED_OK):
+    if True:  # sources are hidden on the site: no channel avatars
         return None
     data, ctype = download(src, 2000000)
     if not data or (GEMINI_KEY and not gemini_image_ok(data, ctype)):
@@ -516,6 +573,8 @@ def main():
             it["text"] = clean_text(it.get("text", ""))
         if not MEDIA_ON:
             it["media"] = []  # also strips photos/videos already published
+        elif any(not x.get("checked") for x in it.get("media", [])):
+            it["media"] = recheck_media(it["media"])
         if not channel_ok(it["post"], it["text"]):
             continue
         if it["text"] and not allowed(it.get("kind"), it["text"]):
