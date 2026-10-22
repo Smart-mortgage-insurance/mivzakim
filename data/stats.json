@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-22T05:38:08Z",
+ "updated": "2026-10-22T05:44:07Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -13,9 +13,9 @@
    "iv": 10
   },
   "20261022": {
-   "u": 2,
-   "pv": 8,
-   "iv": 32
+   "u": 3,
+   "pv": 9,
+   "iv": 35
   }
  },
  "ads": {
@@ -23,6 +23,9 @@
   "konim": 0
  },
  "items": {
+  "abualiexpress/132332": 1,
+  "haskupim/198475": 1,
+  "RealKikarHashabat/9626": 1,
   "Moshepargod/73475": 1,
   "Moshepargod/73474": 1,
   "haskupim/198464": 1,
