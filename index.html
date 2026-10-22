@@ -11,7 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Rubik:wght@800&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#eef1f4; --card:#fff; --ink:#15171c; --muted:#8a9099; --line:#e4e7ec;
+    --paper:#eef1f4; --card:#fff; --ink:#15171c; --muted:#5f6670; --line:#e4e7ec;
     --tg:#9c1b2e; --tg-deep:#7a1424; --tg-soft:#f5e2e4;
     --free:#1e7d4f; --free-soft:#e0f1e8;
     --gold:#9a7b26; --gold-soft:#f7efd9;
@@ -98,6 +98,12 @@
   .t-item .t-time{background:var(--tg);font-weight:800;font-size:11.5px;padding:2px 7px;border-radius:4px}
   .t-item .t-src{color:#e8bcc3;font-weight:700;font-size:12px}
   @media (prefers-reduced-motion:reduce){.ticker .track{animation:none}}
+  .ticker:focus-within .track,.ticker.paused .track{animation-play-state:paused}
+  .tkpause{background:none;border:0;color:inherit;font-size:13px;cursor:pointer;padding:0 8px;flex:none}
+  :focus-visible{outline:3px solid #1a5fb4;outline-offset:2px}
+  .skip{position:absolute;right:8px;top:-60px;z-index:300;background:#1a5fb4;color:#fff;padding:8px 14px;border-radius:8px;font-weight:700}
+  .skip:focus{top:8px}
+  .a11y-list li{margin-bottom:4px}
 
   /* post */
   .post{display:flex;gap:10px;margin-bottom:18px;align-items:flex-start;animation:rise .3s ease both}
@@ -228,26 +234,27 @@
 </style>
 </head>
 <body>
+<a class="skip" href="#feed">דילוג לתוכן הראשי</a>
 
 <header class="top">
   <div class="top-in">
     <a class="brand" href="./" aria-label="מבזקים"><span class="logo"><svg viewBox="0 0 58 50" aria-hidden="true"><circle cx="25" cy="25" r="23" fill="#121418"/><text x="25" y="34" text-anchor="middle" font-family="Rubik,Arial" font-weight="800" font-size="26" fill="#fff">מ</text><path d="M38 12a17 17 0 0 1 0 26" fill="none" stroke="#9c1b2e" stroke-width="3.5" stroke-linecap="round"/><path d="M43 7a24 24 0 0 1 0 36" fill="none" stroke="#9c1b2e" stroke-width="3" stroke-linecap="round" opacity=".5"/></svg><span class="w">מבזק<b>ים</b></span></span><span class="tagline" id="tagline">מבזקי חדשות</span></a>
     <div class="search">
-      <input id="q" type="search" placeholder="חיפוש משרה, תחום או עיר…" autocomplete="off">
+      <input id="q" type="search" aria-label="חיפוש באתר" placeholder="חיפוש משרה, תחום או עיר…" autocomplete="off">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
     </div>
     <button class="postjob" data-job><span id="postPlus">＋ </span><span id="postLbl">פרסום משרה</span> <small id="postFree">חינם</small></button>
   </div>
   <div class="secbar"><div class="sectabs"><button class="sectab on" data-sec="news">📰 מבזקים</button><button class="sectab" data-sec="jobs">💼 דרושים</button><button class="sectab" data-sec="deals">🏷️ מבצעים</button></div></div>
   <div class="chips-bar"><div class="chips" id="chips"></div></div>
-  <div class="ticker"><div class="label"><span class="dot"></span>עכשיו</div><div class="tw"><div class="track" id="tickTrack"></div></div></div>
+  <div class="ticker"><div class="label"><span class="dot"></span>עכשיו</div><div class="tw"><div class="track" id="tickTrack"></div></div><button type="button" class="tkpause" id="tkPause" aria-pressed="false" aria-label="עצירת הכותרות הרצות">⏸</button></div>
 </header>
 
 <div class="wrap">
   <aside class="side" id="side"></aside>
   <main class="feed">
     <div class="notice" id="notice">ℹ️<div>הידיעות והמודעות באתר נאספות ממקורות פומביים ומוצגות אחרי סינון. האחריות לתוכן כל פריט חלה על מי שפרסם אותו במקור. <button id="aboutLink" style="background:none;border:0;padding:0;color:var(--tg-deep);font-weight:700;cursor:pointer;font-size:13px">פרטים</button></div><button class="x" id="noticeX" aria-label="סגירה">✕</button></div>
-    <div id="feed"><div class="empty">טוען עדכונים…</div></div>
+    <div id="feed" tabindex="-1"><div class="empty">טוען עדכונים…</div></div>
   </main>
   <aside class="adside" id="adside"></aside>
 </div>
@@ -255,7 +262,7 @@
 <footer>
   © <span id="yr"></span> מבזקים · <span id="updatedLine"></span><br>
   התכנים באתר נאספים ממקורות פומביים. האחריות לתוכן כל פריט חלה על מי שפרסם אותו במקור.<br>
-  <button data-open="about">הבהרה משפטית ותנאי שימוש</button> · <button data-open="report-general">דיווח על תוכן / פנייה</button>
+  <button data-open="about">הבהרה משפטית ותנאי שימוש</button> · <button data-open="report-general">דיווח על תוכן / פנייה</button> · <button data-open="a11y">הצהרת נגישות</button>
 </footer>
 
 <div class="lb" id="lightbox"><img id="lbImg" alt=""></div>
@@ -264,12 +271,31 @@
   <h2>אודות מבזקים והבהרה משפטית</h2>
   <p>מבזקים מרכז במקום אחד מבזקי חדשות, משרות ומבצעים שפורסמו במקורות פומביים.</p>
   <ul>
-    <li>הפריטים מוצגים כפי שפורסמו במקור, אחרי סינון פרסומות ותוכן לא ראוי. איננו מאמתים את התוכן, והסינון אינו בודק את נכונות הדברים.</li>
+    <li>המבזקים מנוסחים בידי המערכת על בסיס ידיעות שפורסמו במקורות פומביים, אחרי סינון פרסומות ותוכן לא ראוי. איננו מאמתים כל ידיעה, והסינון אינו בודק את נכונות הדברים.</li>
     <li>האחריות לתוכן כל פריט, לרבות דיוקו, חלה על מי שפרסם אותו במקור. אין לראות בהצגת פריט אימוץ, אישור או הסכמה עם תוכנו.</li>
     <li>קישורים במשרות ובמבצעים מובילים לאתרי המפרסמים כפי שהם, ואיננו אחראים לתוכנם.</li>
-    <li><b>בקשות הסרה:</b> מי שנפגע מפריט, או בעל זכויות בתוכן, יכול ללחוץ על "בקשת הסרה" ליד הפריט. אנו מטפלים בבקשות בהקדם, ופריט שיש בו פגיעה יוסר.</li>
+    <li><b>דיווח והסרה:</b> מי שנפגע מפריט, או בעל זכויות בתוכן, יכול ללחוץ על "דיווח על תוכן" ליד הפריט. אנו מטפלים בפניות בהקדם, ופריט שיש בו פגיעה או הפרת זכויות יוסר.</li>
     <li>בעל תוכן שאינו מעוניין שהתכנים שלו יוצגו באתר מוזמן לפנות אלינו, והם יוסרו.</li>
   </ul>
+  <div class="row"><button class="btn sec" data-close>סגירה</button></div>
+</div></div>
+
+<div class="modal" id="a11y"><div class="card">
+  <h2>הצהרת נגישות</h2>
+  <p>אנו רואים חשיבות בהנגשת האתר לאנשים עם מוגבלות, ופועלים כדי שכל גולש יוכל להשתמש בו בנוחות, בהתאם לחוק שוויון זכויות לאנשים עם מוגבלות ולתקנות הנגישות לשירות.</p>
+  <p><b>רמת הנגישות:</b> האתר הותאם ככל הניתן לתקן הישראלי 5568, המבוסס על הנחיות WCAG 2.0 ברמה AA.</p>
+  <p><b>ההתאמות שבוצעו:</b></p>
+  <ul class="a11y-list">
+    <li>האתר מוגדר בעברית ובכיוון ימין לשמאל, ומבנה הדף מסומן (כותרת, תוכן ראשי, כותרת תחתונה).</li>
+    <li>ניתן לנווט בכל האתר במקלדת, עם סימון ברור של הרכיב שבפוקוס, וקישור "דילוג לתוכן הראשי" בראש הדף.</li>
+    <li>ניגודיות צבעים מוגברת בטקסטים.</li>
+    <li>לכפתורים ולשדות יש תוויות טקסט, וחלונות קופצים מסומנים לקוראי מסך ונסגרים במקש Esc.</li>
+    <li>הכותרות הרצות נעצרות במעבר עכבר, בפוקוס או בלחיצה על כפתור העצירה, ואינן זזות כלל אצל מי שביקש להפחית תנועה במערכת ההפעלה.</li>
+    <li>ניתן להגדיל את הטקסט בדפדפן (Ctrl ו־+) בלי לפגוע בתצוגה.</li>
+  </ul>
+  <p><b>מגבלות ידועות:</b> חלק מהתמונות, הסרטונים והמודעות מגיעים ממקורות חיצוניים, וייתכן שאין להם תיאור טקסטואלי מלא או כתוביות. אנו ממשיכים לשפר את הנגישות.</p>
+  <p><b>פנייה בנושא נגישות:</b> נתקלתם בקושי? נשמח לשמוע ולתקן. ניתן לפנות אלינו דרך <button type="button" data-msg style="background:none;border:0;padding:0;color:var(--tg);font-weight:700;cursor:pointer;text-decoration:underline">טופס הפנייה למערכת</button> או במייל <a id="a11yMail" style="color:var(--tg);font-weight:700;text-decoration:underline"></a>. אנו מתחייבים לטפל בפנייה בהקדם.</p>
+  <p style="color:var(--muted);font-size:13px">ההצהרה עודכנה בתאריך 22.10.2026.</p>
   <div class="row"><button class="btn sec" data-close>סגירה</button></div>
 </div></div>
 
@@ -457,7 +483,7 @@ function mediaHTML(media){
   if(!media||!media.length) return "";
   return `<div class="media n${Math.min(media.length,4)}">`+media.slice(0,4).map(m=>
     m.type==="video"?`<video src="${m.file}"${m.poster?` poster="${m.poster}"`:""} controls preload="none"></video>`
-                    :`<img src="${m.file||m.image}" loading="lazy" alt="" onerror="this.remove()">`).join("")+`</div>`;
+                    :`<img src="${m.file||m.image}" loading="lazy" alt="תמונה מצורפת לפריט" onerror="this.remove()">`).join("")+`</div>`;
 }
 
 const openPosts=new Set();                                           // פוסטים שהגולש פתח ב"קרא עוד" (נשמרים גם ברענון)
@@ -684,7 +710,16 @@ document.addEventListener("contextmenu",e=>{
 document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeVpop(); });
 
 /* modals */
-const openM=id=>$(id).classList.add("open"), closeM=el=>el.closest(".modal").classList.remove("open");
+let lastFocus=null;
+const openM=id=>{ lastFocus=document.activeElement; $(id).classList.add("open");
+  setTimeout(()=>{ const f=$(id).querySelector("input:not([type=checkbox]),select,textarea")||$(id).querySelector("h2"); if(f){ if(f.tagName==="H2") f.tabIndex=-1; f.focus(); } },60); };
+const backFocus=()=>{ if(lastFocus&&lastFocus.isConnected) lastFocus.focus(); lastFocus=null; };
+const closeM=el=>{ el.closest(".modal").classList.remove("open"); backFocus(); };
+document.querySelectorAll(".modal").forEach(m=>{ const c=m.querySelector(".card"), h=c&&c.querySelector("h2"); if(!c) return;
+  c.setAttribute("role","dialog"); c.setAttribute("aria-modal","true"); if(h){ h.id=h.id||m.id+"-t"; c.setAttribute("aria-labelledby",h.id); } });
+$("a11yMail").textContent=AD_MAIL.join("@"); $("a11yMail").href="mailto:"+AD_MAIL.join("@")+"?subject="+encodeURIComponent("פנייה בנושא נגישות");
+$("tkPause").addEventListener("click",()=>{ const t=document.querySelector(".ticker"), p=t.classList.toggle("paused");
+  $("tkPause").textContent=p?"▶":"⏸"; $("tkPause").setAttribute("aria-pressed",p); $("tkPause").setAttribute("aria-label",p?"הפעלת הכותרות הרצות":"עצירת הכותרות הרצות"); });
 let repPost="";
 const hiddenPosts=new Set(lsGet("mz_hidden",[]));
 function openReport(post){
@@ -786,14 +821,14 @@ document.addEventListener("click",e=>{
   const am=t.closest("[data-admail]"); if(am){am.href=adMailURL();return;}   // הקישור נבנה רק בלחיצה
   const cn=t.closest("[data-copynum]"); if(cn){navigator.clipboard&&navigator.clipboard.writeText(cn.dataset.copynum).then(()=>{cn.textContent="הועתק ✓";setTimeout(()=>cn.textContent="העתקה",1500);});return;}
   const rep=t.closest("[data-rep]"); if(rep){openReport(rep.dataset.rep);return;}
-  const op=t.closest("[data-open]"); if(op){op.dataset.open==="about"?openM("about"):openReport("");return;}
+  const op=t.closest("[data-open]"); if(op){const o=op.dataset.open; o==="about"||o==="a11y"?openM(o):openReport("");return;}
   if(t.closest("[data-close]")||t.classList.contains("modal")){closeM(t);return;}
   if(t.id==="more"){shown+=PAGE;render(false);return;}
   const mo=t.closest("[data-more]"); if(mo){ const id=mo.dataset.more, txt=mo.previousElementSibling; if(openPosts.has(id)){openPosts.delete(id);txt.classList.add("clamp");mo.textContent="קרא עוד ▾";mo.closest(".post").scrollIntoView({block:"nearest"});} else {openPosts.add(id);txt.classList.remove("clamp");mo.textContent="הצג פחות ▴";} return; }
   const img=t.closest(".media img"); if(img){$("lbImg").src=img.src;$("lightbox").classList.add("open");}
 });
 $("lightbox").addEventListener("click",()=>$("lightbox").classList.remove("open"));
-document.addEventListener("keydown",e=>{if(e.key==="Escape")document.querySelectorAll(".modal.open,.lb.open").forEach(m=>m.classList.remove("open"));});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){const o=document.querySelectorAll(".modal.open,.lb.open"); o.forEach(m=>m.classList.remove("open")); if(o.length) backFocus();}});
 $("aboutLink").addEventListener("click",()=>openM("about"));
 $("q").addEventListener("input",e=>{query=e.target.value.trim();shown=PAGE;render(false);});
 try{ if(localStorage.getItem("tf_notice")) $("notice").remove(); }catch(_){}

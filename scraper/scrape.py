@@ -415,7 +415,7 @@ def process_avatar(info):
 # --------------------------------------------------------------------------- #
 # Content rules follow the NetFree policy for Haredi/content sites (netfree.link/wiki, 2026-10-22).
 # Bump PF_VERSION whenever the rules change, so every published post is judged again.
-PF_VERSION = 2
+PF_VERSION = 3
 PERSON_PROMPT = (
     "You review Hebrew news posts for a Haredi news site that must follow the content policy of "
     "NetFree (a kosher internet filter) for Haredi content sites. It is a NEWS site, so ordinary "
@@ -456,6 +456,14 @@ PERSON_PROMPT = (
     "When a post clearly fits one of the numbered rules, block=true even if it is otherwise newsworthy. "
     "When unsure whether it fits, block=false.\n"
     "The headline you write must itself be respectful and neutral and obey the same rules.\n"
+    "\nFor every post with block=false also return r: the same report written anew in your own words, "
+    "in Hebrew, as a short news item of this site. Keep every fact exactly - names, numbers, places, "
+    "times and who said what. Do not copy sentences or distinctive phrasing from the original; "
+    "rephrase everything. A short direct quote of a spokesperson or official may stay, in quotation "
+    "marks and attributed. Add nothing that is not in the post: no opinion, no background, no guess. "
+    "Same length as the original or shorter, plain text, no emojis, no hashtags, no links, no mention "
+    "of channels, sources or Telegram. Do not repeat the headline in r. "
+    "For a job listing or a deal, and for every post with block=true, return r as an empty string.\n"
 )
 
 # Hagizra-style headline: 2-6 bold words shown before the post text, followed by " |"
@@ -466,12 +474,13 @@ HEADLINE_PROMPT = (
     "במבצע - המוצר והמחיר אם מופיע. אם אין להודעה תוכן ברור - t ריק.\n\n"
 )
 RESULT_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
-    "i": {"type": "INTEGER"}, "block": {"type": "BOOLEAN"}, "t": {"type": "STRING"}},
-    "required": ["i", "block", "t"]}}
+    "i": {"type": "INTEGER"}, "block": {"type": "BOOLEAN"}, "t": {"type": "STRING"},
+    "r": {"type": "STRING"}},
+    "required": ["i", "block", "t", "r"]}}
 
 
 def gemini_person_check(texts):
-    """Returns a list of booleans (True = block) for the given posts, or None on any failure."""
+    """Returns (block, headline, rewrite) for each of the given posts, or None on any failure."""
     pf = CFG.get("person_filter", {})
     endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
                 "{}:generateContent?key={}".format(pf.get("gemini_model", "gemini-3.5-flash-lite"), GEMINI_KEY))
@@ -480,12 +489,13 @@ def gemini_person_check(texts):
             "generationConfig": {"temperature": 0, "responseMimeType": "application/json",
                                  "responseSchema": RESULT_SCHEMA}}
     try:
-        r = requests.post(endpoint, json=body, timeout=90)
+        r = requests.post(endpoint, json=body, timeout=180)
         if r.status_code != 200:
             log("   ! person filter HTTP {}: {}".format(r.status_code, r.text[:200].replace(GEMINI_KEY, "***")))
             return None
         rows = json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
-        verdict = {int(row["i"]): (bool(row["block"]), clean_title(row.get("t", ""))) for row in rows}
+        verdict = {int(row["i"]): (bool(row["block"]), clean_title(row.get("t", "")),
+                                   str(row.get("r") or "").strip()) for row in rows}
         if set(verdict) != set(range(1, len(texts) + 1)):
             log("   ! person filter: answer does not cover every post")
             return None
@@ -531,8 +541,12 @@ def person_filter(existing, blocked, state):
         if verdicts is None:
             hold_new(pending[start:])
             break
-        for it, (block, title) in zip(batch, verdicts):
+        for it, (block, title, rewrite) in zip(batch, verdicts):
             it["title"] = title
+            # news is published in the site's own words, never the source's wording
+            if not block and not it.get("kind") and len(re.sub(r"\W", "", rewrite)) >= 15:
+                it["text"] = clean_text(rewrite)
+                it["rw"] = 1
             n_checked += 1
             if block:
                 existing.pop(it["post"], None)

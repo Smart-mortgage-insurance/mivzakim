@@ -29,7 +29,7 @@ def main():
         if verdicts is None:
             failed += len(texts[start:start + 20])
             continue
-        for p, t, (block, _) in zip(posts[start:start + 20], texts[start:start + 20], verdicts):
+        for p, t, (block, _, _) in zip(posts[start:start + 20], texts[start:start + 20], verdicts):
             if block:
                 still += 1
             else:
