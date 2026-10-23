@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:55:49.859856+00:00",
+ "updated": "2026-10-23T06:57:27.974178+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,31 @@
  "count": 400,
  "items": [
   {
+   "id": "ped4fa3ffbc52",
+   "post": "RealKikarHashabat/9709",
+   "ts": "2026-10-23T06:56:10+00:00",
+   "text": "ואפילו בהסתרה - הרמטכ\"ל בהערכת מצב: \"מצאנו תחמושת רבה ברכב - מנענו פיגוע חמור\" | הנס בזמן הפיגוע הקשה",
+   "views": 2,
+   "forwarded_from": null,
+   "media": [],
+   "missing": "image"
+  },
+  {
+   "id": "pabfb4825a03e",
+   "post": "abualiexpress/132382",
+   "ts": "2026-10-23T06:55:12+00:00",
+   "text": "מחיר חבית נפט מסוג ברנט מטפס ל 114 דולר - שבוע וחצי לפני בחירות האמצע בארה\"ב.",
+   "views": 8,
+   "forwarded_from": null,
+   "media": [],
+   "missing": "image"
+  },
+  {
    "id": "pa09adf19e15d",
    "post": "behadrey/107425",
    "ts": "2026-10-23T06:53:16+00:00",
    "text": "הטרור ממשיך להתגבר > תכננו פיגוע חמור: הרמטכ\"ל בהערכת מצב - \"ברכב נמצאה תחמושת רבה, ערנות החיילים מנעה אסון\"",
-   "views": 5,
+   "views": 8,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -148,7 +168,7 @@
    "post": "behadrey/107424",
    "ts": "2026-10-23T06:50:47+00:00",
    "text": "אזהרה חריגה בארה\"ב > \"אל תצביעו\": חמישה חרדים בעלי גרין קארד נעצרו בשדה התעופה",
-   "views": 11,
+   "views": 14,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -158,7 +178,7 @@
    "post": "RealKikarHashabat/9708",
    "ts": "2026-10-23T06:49:22+00:00",
    "text": "טרור ובחירות - בזמן הפיגוע: לפיד ובנט צייצו פוליטיקה | נתניהו הורה לעצור את הקמפיין",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -168,7 +188,7 @@
    "post": "haskupim/198680",
    "ts": "2026-10-23T06:47:32+00:00",
    "text": "חדשות הסקופים\nגולדקנוף כפי שלא ראיתם | זמן טוב לתזכורת: ההבטחות של ח\"כ יצחק גולדקנוף לפני הבחירות הקודמות 2022, מול המציאות הידועה מה קרה מיד לאחר הבחירות.\nמוניטור ניוז-il",
-   "views": 16,
+   "views": 17,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -178,7 +198,7 @@
    "post": "abualiexpress/132381",
    "ts": "2026-10-23T06:45:57+00:00",
    "text": "הנשיא טראמפ הלילה:\n\nנגמור את איראן בקרוב מאוד.\nזה כמעט חסר משמעות מבחינתי באיזו דרך זה יקרה.\nזה יקרה בקרוב מאוד ואז מחירי הדלק יירדו במהירות.",
-   "views": 7190,
+   "views": 9270,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -197,7 +217,7 @@
    "post": "Tech_Galilee_Golan_Channel/802",
    "ts": "2026-10-23T06:45:01+00:00",
    "text": "🚀 משרת Senior Inference Systems Engineer בחברת Lightbits בקיבוץ להבות הבשן!\n\nחברת Lightbits מגייסת מהנדס/ת בכיר/ה לפיתוח תשתיות AI מתקדמות, בדגש על אופטימיזציה של KV Cache ושיפור ביצועי LLM Inference.\n\nנדרש ניסיון של 5–10 שנים, ומומחיות בתכנות מערכות וביצועי GPU.\n\n📍 להבות הבשן | משרה מלאה | היברידי\n\n🔗 לפרטים והגשת מועמדות דרך נורטק:\nhttps://nortech-platform.com/listing/senior-inference-systems-engineer-kv-cache-optimization/\n\nנורטק | מחברים את ההייטק של הצפון.",
-   "views": 12,
+   "views": 14,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -208,7 +228,7 @@
    "post": "Tech_Galilee_Golan_Channel/801",
    "ts": "2026-10-23T06:43:40+00:00",
    "text": "🚀 חברת AgwaFarm מגייסת AI & Algorithms Tech Lead בצפון!\n\nקצת על החברה: AgwaFarm מפתחת מערכות הידרופוניות אוטונומיות לגידול ירקות טריים, המשלבות AI, מצלמות וחיישנים. המערכות מנוהלות באמצעות אגרונום וירטואלי שמנטר את מצב הצמחים ומקבל החלטות גידול באופן אוטומטי.\n\nעל המשרה:\n- הובלה טכנולוגית של אלגוריתמי AI ו-Computer Vision.\n- פיתוח מודלי Deep Learning לניתוח תמונות וזיהוי מצב הצמחים.\n- שילוב נתוני חיישנים, Edge AI ומערכות ענן.\n- נדרש ניסיון של 6+ שנים בפיתוח אלגוריתמים ו-Computer Vision.\n\n📍 פארק הייטק צפון, בין עכו לכרמיאל | משרה מלאה | 4 ימים במשרד ויום מהבית.\n\n🔗 לפרטים ולהגשת מועמדות דרך נורטק:\nhttps://nortech-platform.com/listing/ai-algorithms-tech-lead/",
-   "views": 14,
+   "views": 15,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -228,7 +248,7 @@
    "post": "amitsegal/66102",
    "ts": "2026-10-23T06:43:13+00:00",
    "text": "הרמטכ״ל: ברכב המחבלים נמצאה תחמושת רבה, הם תכננו פיגוע גדול יותר",
-   "views": 10200,
+   "views": 11100,
    "forwarded_from": null,
    "media": []
   },
@@ -237,7 +257,7 @@
    "post": "behadrey/107423",
    "ts": "2026-10-23T06:35:08+00:00",
    "text": "אשת חבר > ביום הולדתה: הלכה לעולמה אלמנת המשגיח מ'בית שמעיה'",
-   "views": 23,
+   "views": 26,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -247,7 +267,7 @@
    "post": "abualiexpress/132377",
    "ts": "2026-10-23T06:33:27+00:00",
    "text": "הקו הצהוב ברצועת עזה ממשיך לנוע מערבה\n\nמקורות עזתיים מדווחים הבוקר כי כוחות צה\"ל הזיזו הלילה את הבטונדות הצהובות אל מערב בית הקברות של הכפר מצדר במרכז הרצועה, תחת חיפוי ארטילרי.\n\nהבוקר תועדו הבטונדות במקומן החדש.",
-   "views": 14200,
+   "views": 16200,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -277,7 +297,7 @@
    "post": "iBuyIL/27578",
    "ts": "2026-10-23T06:24:06+00:00",
    "text": "זו סקירת הבושם Arrogate Pink Diva מבית Assaf שזכתה בה נטליה בפעילות הגולשים שלנו בחג סוכות🌷\n\n\"נתחיל מזה שאני אוהבת בשמים שיש בהם ורדים. אבל לא כל ורד מצליח לכבוש אותי. אני פחות מתחברת לוורד כבד, מיושן או כזה שמשתלט על כל הקומפוזיציה. אני אוהבת ורד חי, רענן, נשי, כזה שמזכיר פריחה אמיתית\".....\n\nלסקירה המלאה והמהממת כנסו לכאן:\n\nhttps://www.facebook.com/share/p/1CGT1ycQXe/\n\n👇🏼 לרכישת בושם לאישה 200 מ\"ל Assaf Arrogate Pink Diva E.D.P\nבקבוק ענק!!!\n💳 מחיר לחברי הקבוצה: 189₪\n✂️ הקופון של הקבוצה: iBuyILKSP\n🛍 קישור להזמנה:\nhttps://dlz.co.il/ksp-il-200-assaf-arrogate-pink-diva-e-d-p\n\nבנוסף 2 דוגמיות מתנה בקופה מבית French Avenue בנפח 3ml",
-   "views": 274,
+   "views": 279,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -288,7 +308,7 @@
    "post": "behadrey/107422",
    "ts": "2026-10-23T06:20:02+00:00",
    "text": "מקיים הערכת מצב > בעקבות הפיגוע: נתניהו ביטל את ביקורו בשוק מחנה יהודה",
-   "views": 34,
+   "views": 37,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -298,7 +318,7 @@
    "post": "haskupim/198679",
    "ts": "2026-10-23T06:16:03+00:00",
    "text": "חדשות הסקופים\nנס היום | בפיגוע הבוקר, לוחם חטף כדור בקסדה ובנס הכדור לא חדר.",
-   "views": 64,
+   "views": 66,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -308,7 +328,7 @@
    "post": "behadrey/107421",
    "ts": "2026-10-23T06:15:02+00:00",
    "text": "\"נסיכים וגנבים\" > קושנר והחשבון הסודי: \"מיליארד דולר בבנק ישראל בגיבוי נתניהו\"",
-   "views": 38,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -318,7 +338,7 @@
    "post": "abualiexpress/132374",
    "ts": "2026-10-23T06:11:41+00:00",
    "text": "פיגוע ירי בכניסה הצפונית של חברון\n\nשני מחבלים חוסלו הבוקר לאחר קרב יריות שארך דקות ארוכות בכניסה הצפונית לעיר חברון.\n\nע\"פ דיווח של מד\"א מלפני 25 דק' ישנם 5 פצועים בפיגוע הירי מתוכם 2 במצב אנוש.\n\nהמחבלים הגיעו ככל הנראה ברכב עם לוחית זיהוי ישראלית ועשו שימוש בנשק מסוג M-16.",
-   "views": 25100,
+   "views": 26100,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -328,7 +348,7 @@
    "post": "AceIsraelofficial/4603",
    "ts": "2026-10-23T06:08:14+00:00",
    "text": "מי שזריז, מרוויח יותר! ⏰🔥\nאקסטרה 10% הנחה נוספת על מגוון ארונות באתר, בלעדי לחברי הערוץ! 🤩\nהקופון שלכם כבר מחכה, רק נשאר לבחור ארון!\n\nלהנפקת קופון אישי » https://lp6.me/FZmfL\n\nלרכישה באתר » https://tinyurl.com/yzmnb49n\n\nתקף באתר בלבד עד 24.10.26 / עד גמר המלאי, כפוף לתקנון https://www.ace.co.il/telegraextra10_wardrobe",
-   "views": 878,
+   "views": 904,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -339,7 +359,7 @@
    "post": "haskupim/198678",
    "ts": "2026-10-23T06:02:44+00:00",
    "text": "חדשות הסקופים\nסקר מעריב אחרון לפני הבחירות: איזנקוט ממשיך להוביל על נתניהו בפער משמעותי בשאלת ההתאמה לראשות הממשלה, אך במנדטים הקרב צמוד על המפלגה הגדולה",
-   "views": 84,
+   "views": 85,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -349,7 +369,7 @@
    "post": "haskupim/198677",
    "ts": "2026-10-23T06:00:30+00:00",
    "text": "חדשות הסקופים\nפיגוע הירי | 5 פצועים: 2 אנוש, 1 בינוני ו-2 קל. המחבלים חוסלו. מנכ”ל מד”א אלי בין מעדכן\nערוץ 14",
-   "views": 87,
+   "views": 88,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -386,7 +406,7 @@
    "post": "RealKikarHashabat/9707",
    "ts": "2026-10-23T05:54:11+00:00",
    "text": "לקראת הבחירות - חילול השם? דרמה באגודה: ה'קול קורא' נדחה בשל מחלוקת על הניסוח",
-   "views": 7,
+   "views": 8,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -405,7 +425,7 @@
    "post": "amitsegal/66101",
    "ts": "2026-10-23T05:53:19+00:00",
    "text": "משפט אחד של נתניהו צריך היה לזקוף השבוע את כל האוזניים: ״נשארו לנו שנתיים של נשיאות ידידי הגדול דונלד טראמפ, שנתיים להשלים את המלאכה״. האם, במשפט הזה, ולראשונה ב-12 מירוצים לראשות הממשלה, נתניהו מסמן תאריך סיום?\n\nעוד משנת 2015 משתעשעים בקמפיין הליכוד בהצהרה כזו, בוחנים אותה בסקרים ותמיד יורדים מכך ברגע האחרון. קוראים לזה ״הברזלים״ – החיבור בין המילים ״ראש הממשלה״ ו״בנימין נתניהו״. הטענה המקורית היא שלרבים מהמתנדנדים יהיה קל יותר לתמוך בו לסידורים אחרונים בווגאס – הפלת המשטר באירן, שלום עם סעודיה ולבנון – אם הם יודעים שאחר-כך זה נגמר. אבל לרוב בסקרים התוצאה היא שזה מרתיע יותר בוחרים. אם יתברר בטעות שנתניהו הוא בן תמותה, בשר ודם ולא מי שמשרד רה\"מ רשום על שמו בטאבו, אז למה לא להצביע למישהו אחר.\nהפעם זה אולי שונה. ראשית, כי נתניהו, שחגג השבוע 77, כבר לא ילד. שנית, כי הנשיא האמריקני הבא יהיה בכל מקרה קשוח בהרבה מזה הנוכחי. יש מי שמוכנים להישבע ששמעו מראש הממשלה בשנה האחרונה שבכוונתו לסיים את תפקידו בערך ב-2028 או 2029, סביב סיום כהונתו של הנשיא ה-47. כידוע, הבחירות לנשיאות המדינה ייערכו אצלנו בעוד שנה וחצי, לכאורה ניקוי שולחן מושלם: גם סגירת הקצוות הפתוחים במזרח התיכון, גם תפקיד ממלכתי לשבע שנים, גם סיום ההליכים הפליליים. הכל מושלם, חוץ מהעובדה שבפעם הקודמת הוא לא היה מעוניין. תשובתו להצעה דומה בסיבוב הקודם, ב-2021, הייתה חותכת: ״אם כבר כלא, עדיף את המקור״.\n\nהבחירות הנוכחיות מציעות את הגלריה המבוגרת ביותר שהתייצבה למבחן הבוחר זה שנים רבות. נתניהו בעשור השמיני לחייו, ליברמן ודרעי נושקים לשבעים, איזנקוט באמצע העשור השביעי וכך גם יאיר גולן. מה הפלא שבנט, בן חמישים וחמש עוד מעט, מתגאה בקשר שלו עם בוחרים לראשונה. כמו בבדיחה הישנה: צעיר ברוחו מחפש צעירה בגילה. עבור ליברמן זו עשויה להיות הכנסת האחרונה אם יגשים את חלומו לעמוד בראשות הממשלה. מי יודע כמה זמן עוד יהיה כוח לדרעי וכמה נסיונות יינתנו לאיזנקוט וגולן.\n\nאני אישית סבור שזו הקדנציה האחרונה של נתניהו. ותסמכו עליי, כי כך בדיוק חשבתי בשלוש הקדנציות האחרונות.\n\nלטור המלא",
-   "views": 33300,
+   "views": 33900,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -415,7 +435,7 @@
    "post": "iBuyIL/27577",
    "ts": "2026-10-23T05:46:04+00:00",
    "text": "לא מסתבכים עם פנצ'ר או לחץ נמוך בצמיגים פשוט שולפים מהתיק ומנפחים 🏕️🚗 גודל קומפקטי שנכנס בכיס או בתא ברכב, נותן שקט באמצע הדרך ואפילו בשטח.. והמחיר? שווה ביותר!\n\nמשאבת אוויר ניידת לאופניים ולרכב AstroAI L10 Mini\n\n💳 מחיר סופי: 15.99$ \\ 50₪ (במקום 25.99$) שימו 🤎 יש לבחור באופציה *ללא* פריים - פתוח לכולם! קנו 2 יחידות ותקבלו אותם עם שליח עד הבית בלי להוסיף כלום!\n\n👈 משלוח חינם בתנאי הגעה ל-49$\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/astroai-bike-pump-12s-fast-in\n\n✔️ ניפוח מהיר במיוחד צמיג רכב סטנדרטי מ-30 ל-36 PSI ב-70 שניות\n✔️ צינור מסתובב 360° לניפוח נוח גם בזוויות בעייתיות\n✔️ שוקלת רק 447 גרם ומידות 10 × 6.5 × 4.5 ס\"מ מתאימה לכל תיק\n✔️ 5 תוכניות מוגדרות מראש: רכב, אופנוע, אופניים, כדור, מצב ידני\n✔️ כיבוי אוטומטי כשמגיעים ללחץ הרצוי\n✔️ תאורת לד מובנית עם 3 מצבים: שטף, מהבהב ו-SOS\n\nלדיון בפוסט https://www.facebook.com/share/p/1MV6znUPtz/",
-   "views": 517,
+   "views": 523,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -426,7 +446,7 @@
    "post": "RealKikarHashabat/9706",
    "ts": "2026-10-23T05:45:27+00:00",
    "text": "בעקבות הפיגוע בצומת יהודה: נתניהו מקיים הערכת מצב\n\nראש הממשלה בנימין נתניהו מקיים בשעה זו הערכת מצב בעקבות פיגוע הירי הקשה בצומת יהודה",
-   "views": 8,
+   "views": 9,
    "forwarded_from": null,
    "media": []
   },
@@ -445,7 +465,7 @@
    "post": "hamoked_il/213948",
    "ts": "2026-10-23T05:43:40+00:00",
    "text": "המוקד: בפיגוע הירי בין צומת יהודה לחברון : צוותי מגן דוד אדום יחד עם כוחות הרפואה של צה\"ל, מעניקים טיפול רפואי ל- 5 נפגעים, בהם: 2 במצב אנוש, 1 במצב בינוני, 2 במצב קל. הפצועים בינוני וקל מפונים לבית החולים שערי צדק, 2 הפצועים אנוש עדיין בשטח. (קשה לצפיה)…",
-   "views": 306,
+   "views": 311,
    "forwarded_from": null,
    "media": []
   },
@@ -454,7 +474,7 @@
    "post": "RealKikarHashabat/9705",
    "ts": "2026-10-23T05:38:49+00:00",
    "text": "הטרור הפלסטיני - \"יורים מעלינו כל הזמן\": תיעוד מרגעי פיגוע הירי ביהודה",
-   "views": 7,
+   "views": 8,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -464,7 +484,7 @@
    "post": "behadrey/107420",
    "ts": "2026-10-23T05:38:38+00:00",
    "text": "שניים פצועים אנוש > בעקבות הפיגוע הקשה: רה\"מ נתניהו מקיים בשעה זו הערכת מצב",
-   "views": 61,
+   "views": 62,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -552,7 +572,7 @@
    "post": "RealKikarHashabat/9704",
    "ts": "2026-10-23T05:29:34+00:00",
    "text": "המחסום שמנע פיגוע קשה בהר חברון: פרטים חדשים\n\nלוחמי גדוד ארי במילואים של פיקוד העורף, שנמצאים בתעסוקה המבצעית הראשונה שלהם, איישו את המחסום סמוך לצומת יהודה.\n\nלפי הערכת מערכת הביטחון, המחבלים שהגיעו ברכב בעל לוחית זיהוי ישראלית תכננו לבצע פיגוע קשה נגד אזרחים, אך המחסום הארעי של הלוחמים סיכל את תוכניתם.",
-   "views": 6,
+   "views": 7,
    "forwarded_from": null,
    "media": []
   },
@@ -579,7 +599,7 @@
    "post": "behadrey/107419",
    "ts": "2026-10-23T05:19:12+00:00",
    "text": "פיגוע קשה > \"תיכנסו לאמבולנס, הוא ממוגן ירי!\": תיעוד מחילופי האש; מספר הפצועים עלה ל-6",
-   "views": 73,
+   "views": 74,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -589,7 +609,7 @@
    "post": "RealKikarHashabat/9703",
    "ts": "2026-10-23T05:15:28+00:00",
    "text": "הסערה וההכחשה - חשבון חשאי, מיליארד דולר דרך ישראל: התחקיר שמסעיר את וושינגטון",
-   "views": 6,
+   "views": 7,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -599,7 +619,7 @@
    "post": "ramreports/216511",
    "ts": "2026-10-23T05:11:38+00:00",
    "text": "האזהרות הביטחוניות התממשו",
-   "views": 11100,
+   "views": 11200,
    "forwarded_from": null,
    "media": []
   },
@@ -627,7 +647,7 @@
    "post": "ramreports/216509",
    "ts": "2026-10-23T05:07:31+00:00",
    "text": "מוקד זק\"א | 1220 🚨\nעדכון לפיגוע ירי בצומת יהודה, צוות מד״א מטפל ב- 5 נפגעים,  2 במצב אנוש, 1 במצב בינוני ו2 במצב קל.",
-   "views": 11200,
+   "views": 11300,
    "forwarded_from": null,
    "media": []
   },
@@ -636,7 +656,7 @@
    "post": "ramreports/216508",
    "ts": "2026-10-23T05:05:03+00:00",
    "text": "בוקר קשה 💔\n\nרפואה שלמה לגיבורים שלנו",
-   "views": 11100,
+   "views": 11300,
    "forwarded_from": null,
    "media": []
   },
@@ -655,7 +675,7 @@
    "post": "HiTech_Jobs_In_Israel/137864",
    "ts": "2026-10-23T05:00:28+00:00",
    "text": "Senior Product Manager at D-ID\nLocation: Israel Tel Aviv-Yafo\nPress here https://apply.workable.com/d-id/j/A256513A9D/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 73,
+   "views": 74,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -665,7 +685,7 @@
    "post": "HiTech_Jobs_In_Israel/137862",
    "ts": "2026-10-23T05:00:25+00:00",
    "text": "Firmware Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Firmware-Engineer_JR2028404?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 72,
+   "views": 73,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -675,7 +695,7 @@
    "post": "HiTech_Jobs_In_Israel/137863",
    "ts": "2026-10-23T05:00:25+00:00",
    "text": "Software Automation Specialist at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Automation-Specialist_JR2028307?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 127,
+   "views": 128,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -685,7 +705,7 @@
    "post": "HiTech_Jobs_In_Israel/137861",
    "ts": "2026-10-23T05:00:20+00:00",
    "text": "Talent Sourcer - 1 Year Temp at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Talent-Sourcer---1-Year-Temp_R2631974?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 63,
+   "views": 64,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -695,7 +715,7 @@
    "post": "HiTech_Jobs_In_Israel/137860",
    "ts": "2026-10-23T05:00:17+00:00",
    "text": "Senior System Hardware Architect at Mobileye\nLocation: Haifa, Israel\nPress here https://jobs.eu.lever.co/mobileye/78d97259-3100-40d6-a6f1-91d1b490682a?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 61,
+   "views": 62,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -705,7 +725,7 @@
    "post": "HiTech_Jobs_In_Israel/137859",
    "ts": "2026-10-23T05:00:16+00:00",
    "text": "Senior System Hardware Architect at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/3f7ed722-46cf-4851-8c41-6e477f0b2aec?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 66,
+   "views": 67,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -715,7 +735,7 @@
    "post": "HiTech_Jobs_In_Israel/137858",
    "ts": "2026-10-23T04:59:59+00:00",
    "text": "Customer Success Manager - AppHarbr at GeoEdge\nLocation: Tel Aviv, Israel\nPress here https://www.geoedge.com/careers/co/other/F5.47D/customer-success-manager-appharbr/all/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 67,
+   "views": 68,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -726,7 +746,7 @@
    "post": "RealKikarHashabat/9702",
    "ts": "2026-10-23T04:59:58+00:00",
    "text": "הטרור משתולל - הפלסטינים תיעדו: חילופי אש בזירת הפיגוע",
-   "views": 9,
+   "views": 10,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -756,7 +776,7 @@
    "post": "haskupim/198668",
    "ts": "2026-10-23T04:56:42+00:00",
    "text": "חדשות הסקופים\nעדכון: יש 5 נפגעים בפיגוע - מהם 2 באורח אנוש מחוסרי הכרה\n`מוריה אסרף & דורון קדוש`",
-   "views": 79,
+   "views": 80,
    "forwarded_from": null,
    "media": []
   },
@@ -775,7 +795,7 @@
    "post": "behadrey/107418",
    "ts": "2026-10-23T04:56:00+00:00",
    "text": "אירוע קשה > הפיגוע בדרום הר חברון: כוחות ההצלה מעניקים טיפול ל-5 נפגעים, 2 באורח אנוש",
-   "views": 80,
+   "views": 81,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -804,7 +824,7 @@
    "post": "ramreports/216503",
    "ts": "2026-10-23T04:51:45+00:00",
    "text": "סיכום פיגוע הירי: 2 מחבלים הגיעו לצ׳ק פוסט ליד צומת יהודה וביצעו ירי.\n4 נפגעו, שניים במצב אנוש ושניים קל.\nהמחבלים חוסלו.\nהמחבלים השתמשו בנשקים מסוג m-4 ואקדח\n\nהלל ביטון רוזן",
-   "views": 9660,
+   "views": 9760,
    "forwarded_from": null,
    "media": []
   },
@@ -822,7 +842,7 @@
    "post": "amitsegal/66099",
    "ts": "2026-10-23T04:48:08+00:00",
    "text": "שני פצועים אנוש\nועוד אחד קל",
-   "views": 51600,
+   "views": 51900,
    "forwarded_from": null,
    "media": []
   },
@@ -859,7 +879,7 @@
    "post": "ramreports/216500",
    "ts": "2026-10-23T04:46:15+00:00",
    "text": "בהמשך לדיווח על פיגוע ירי במרחב צומת יהודה שבחטיבת יהודה, שני מחבלים חוסלו, כוחות צה\"ל ממשיכים בסריקות.\n\nהוטל כתר על מספר כפרים במרחב. פרטים נוספים בהמשך.",
-   "views": 9400,
+   "views": 9430,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -879,7 +899,7 @@
    "post": "behadrey/107417",
    "ts": "2026-10-23T04:43:21+00:00",
    "text": "הטרור ממשיך להתגבר > הפיגוע בצומת יהודה ליד חברון: 2 פצועים במקום, אחד קשה, 2 המחבלים חוסלו | תיעוד",
-   "views": 89,
+   "views": 90,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -898,7 +918,7 @@
    "post": "amitsegal/66098",
    "ts": "2026-10-23T04:41:29+00:00",
    "text": "שני נפגעים, מצבו של אחד אנוש",
-   "views": 53000,
+   "views": 53300,
    "forwarded_from": null,
    "media": []
   },
@@ -907,7 +927,7 @@
    "post": "ramreports/216499",
    "ts": "2026-10-23T04:40:00+00:00",
    "text": "הלל ביטון רוזן מדווח על 2 נפגעים ו 2 מחבלים מחוסלים",
-   "views": 9570,
+   "views": 9600,
    "forwarded_from": null,
    "media": []
   },
@@ -916,7 +936,7 @@
    "post": "amitsegal/66097",
    "ts": "2026-10-23T04:39:36+00:00",
    "text": "שני המחבלים חוסלו",
-   "views": 53400,
+   "views": 53700,
    "forwarded_from": null,
    "media": []
   },
@@ -934,7 +954,7 @@
    "post": "amitsegal/66096",
    "ts": "2026-10-23T04:37:18+00:00",
    "text": "פצוע בפיגוע ירי ביהודה, המחבל נמלט",
-   "views": 53800,
+   "views": 54100,
    "forwarded_from": null,
    "media": []
   },
@@ -961,7 +981,7 @@
    "post": "ramreports/216497",
    "ts": "2026-10-23T04:32:28+00:00",
    "text": "דיווח על פיגוע ירי סמוך לצומת יהודה שבמרחב חטיבת יהודה, הפרטים בבדיקה. כוחות צה\"ל קפצו לנקודה",
-   "views": 10400,
+   "views": 10500,
    "forwarded_from": null,
    "media": []
   },
@@ -1015,7 +1035,7 @@
    "post": "behadrey/107416",
    "ts": "2026-10-23T04:22:52+00:00",
    "text": "פרסום ראשון > דרמה לילית ב'אגודה': פרסום הקול הקורא נדחה; קרב מתנהל על הנוסח",
-   "views": 94,
+   "views": 95,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -1062,7 +1082,7 @@
    "post": "ramreports/216494",
    "ts": "2026-10-23T02:30:50+00:00",
    "text": "ראש הממשלה בנימין נתניהו הגיע לשוק מחנה יהודה בירושלים.",
-   "views": 13600,
+   "views": 13700,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1159,7 +1179,7 @@
    "post": "behadrey/107412",
    "ts": "2026-10-22T19:40:02+00:00",
    "text": "לאחר שנתיים בשבי > קידוש מול המחבלים: שורד השבי בראיון מעורר השראה",
-   "views": 144,
+   "views": 145,
    "forwarded_from": null,
    "media": [],
    "missing": "image"
@@ -1242,16 +1262,6 @@
    "forwarded_from": null,
    "media": [],
    "missing": "image"
-  },
-  {
-   "id": "p0e2b02839f1c",
-   "post": "RealKikarHashabat/9686",
-   "ts": "2026-10-22T18:37:21+00:00",
-   "text": "התרגיל של המשטרה הצבאית למעצר בחור הישיבה\n\nהמשטרה הצבאית ביצעה תרגיל שנועד להטעות את הציבור ולמנוע הגעת המוני מפגינים למקום מעצרו של בחור הישיבה המוגדר כעריק, כדי למנוע את שיבוש המעצר.\n\nקרדיט: חדשות 12",
-   "views": 13,
-   "forwarded_from": null,
-   "media": [],
-   "missing": "video"
   },
   {
    "id": "p79f3eeb76481",
@@ -1349,7 +1359,7 @@
    "post": "iBuyIL/27574",
    "ts": "2026-10-22T17:48:04+00:00",
    "text": "נשבע לך השקעים בבית פתאום התפצלו לחמש 😳🙅‍♂️️ מפצל שקעים מ-1 ל-5 שקעים Football SW-FB05 מבית Semicom\n\nיש פה דיל עם הרבה עבודה מאחורי הקלעים אבל אתם תהנו מהתוצאה = מחיר טילללללל 😲\n\nמחיר היסטרי של 25₪ לחברי הקבוצה 😱😱😱\nמחיר היסטרי של 25₪ לחברי הקבוצה 😱😱😱\nאיסוף עצמי חינם בסניפי KSP בפריסה ארצית\n\n🛍 קישור להזמנה:\nhttps://dlz.co.il/ksp-il-1-5-football-sw-fb05-semicom\n\nהמפצל הזה עושה סדר בחיים בלי להסתבך עם כבלים ובלי בלאגן ברצפה. מפצל אחד קטן שמפנה מקום לכל המכשירים החשובים, ישר מהקיר.\n\n✔️ הופך שקע בודד ל-5 שקעים בתקן ישראלי\n✔️ כל שקע פונה לכיוון אחר פחות חסימות בין מטענים\n✔️ כולל הארקה לשימוש בטוח\n✔️ מתחבר ישירות לשקע, בלי כבלים תלויים\n✔️ עיצוב כדורי מיוחד שתופס פחות מקום וחוסך בלאגן\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4209665269330923/",
-   "views": 1470,
+   "views": 1480,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -1511,7 +1521,7 @@
    "post": "HiTech_Jobs_In_Israel/137853",
    "ts": "2026-10-22T16:59:59+00:00",
    "text": "Junior Full Stack Developer at Artlist\nLocation: TLV\nPress here https://www.artlistjobs.io/job-page/33.47A?hl=en-GB&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 161,
+   "views": 162,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -1575,7 +1585,7 @@
    "post": "AceIsraelofficial/4602",
    "ts": "2026-10-22T16:14:14+00:00",
    "text": "עוד 10% הנחה? קיבלתם! 💥\nרק לחברי הערוץ, אקסטרה 10% הנחה נוספת על מגוון כלי עבודה באתר! 🔥\nמנפיקים קופון וחוסכים יותר 🤩\n\nלהנפקת קופון אישי » https://lp6.me/79Wzs\n\nלרכישה באתר » https://tinyurl.com/4hskrwms\n\nתקף באתר בלבד עד 24.10.26 / עד גמר המלאי, כפוף לתקנון https://www.ace.co.il/telegraextra10lad",
-   "views": 3510,
+   "views": 3520,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -1695,7 +1705,7 @@
    "post": "HiTech_Jobs_In_Israel/137848",
    "ts": "2026-10-22T15:00:29+00:00",
    "text": "AI Transformation Product Manager at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/AI-Transformation-Product-Manager_R2630808?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 117,
+   "views": 118,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1745,7 +1755,7 @@
    "post": "SALAMTAK_DEALS/58604",
    "ts": "2026-10-22T14:44:34+00:00",
    "text": "דיל של תנינים אמיתיים! 🐊\nחזרו למלאי המגבות של Lacoste שכולם חיכו להן\nהמותג האהוב, ולא סתם מגבות: כותנת Supima, מהכותנות האיכותיות בעולם, רכה ונעימה במיוחד, סופגת מצוין ונהיית רכה יותר בכל כביסה ☁️\nהסט הזה לא היה במלאי הרבה זמן, ועכשיו הוא חזר, עם משלוח חינם עד הבית בישראל 🇮🇱🚚\nבסט 6 מגבות: 2 מגבות רחצה גדולות, 2 מגבות ידיים ו-2 מגבות פנים, עם הלוגו של התנין. כמה צבעים לבחירה 🎨\nמתאים לבית, וגם כמתנה שתמיד שמחים לקבל 🎁\n\nמאמזון ארה\"ב 🇺🇸: החל מ-כ-₪187 ($60.34), משלוח חינם עד הבית\nלינק- https://salamtak.deals/archives/50444\n\nכדאי למהר לפני שייגמרו שוב ⏳",
-   "views": 951,
+   "views": 952,
    "forwarded_from": "",
    "media": [],
    "missing": "image",
@@ -1787,7 +1797,7 @@
    "post": "AceIsraelofficial/4601",
    "ts": "2026-10-22T14:29:14+00:00",
    "text": "🚨 בגלל התקלה, הרווחתם עוד יומיים של מבצעים!\nלא הספקתם לנצל את המחירים? דאגנו לכם להארכה מיוחדת עד שבת בלבד! 🔥\n☕️ מכונת אספרסו 1 ב 5 HOMEX\n💥 רק 399 ₪ במקום 899 ₪\n💰 חוסכים 500 ₪!\n🚚 כולל משלוח חינם!\n🧹 שואב שוטף אלחוטי חכם NEOVIX XV-13 MAX\n💥 רק 599 ₪ במקום 729 ₪\n💰 חוסכים 130 ₪!\n⏰ רק עד שבת! הזדמנות נוספת לתפוס את המחירים לפני שהם נגמרים 🛒\nhttps://tinyurl.com/34uh9had\nבאתר בלבד עד 24.10 / גמר המלאי",
-   "views": 4110,
+   "views": 4120,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -2012,21 +2022,11 @@
    "post": "AceIsraelofficial/4599",
    "ts": "2026-10-22T11:13:04+00:00",
    "text": "🔥 WEEKEND SALE באתר🔥\nהסופ\"ש הזה הולך להיות משתלם במיוחד! 🤩\n50% הנחה על רבי מכר שאסור לפספס 🛒\n👟 ארון נעליים 4 דלתות דגם נריה\nרק 349 ₪ במקום 699 ₪!\n🎮 כיסא גיימינג NINJA EXTREME דגם PRO4\nרק 249 ₪ במקום 699 ₪!\n✨ קונסולת כניסה דגם Sarit\nבגוון אלון מעושן ומתכת שחורה\nרק 249 ₪ במקום 749 ₪!\n🏄 סאפ יחיד VAPOR מבית AQUA MARINA\nרק 999 ₪ במקום 1,999 ₪!\n⏰ הוויקנד הזה קונים חכם וחוסכים בגדול!\n🛒 לרכישה באתר בלבד\nhttps://tinyurl.com/555s6pu3\nתוקף כל מבצע מצוין בעמוד המוצר. בכפוף לתנאי המבצע.",
-   "views": 4280,
+   "views": 4290,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
    "kind": "deals"
-  },
-  {
-   "id": "p7e59652c87c7",
-   "post": "abualiexpress/132350",
-   "ts": "2026-10-22T11:02:07+00:00",
-   "text": "העלאת רמת השיח הפוליטי בישראל - מפלגות ומנהלי קמפיינים, שימו לב! תורכם הגיע חסר לנו שיח פוליטי ענייני בישראל. כמה מכם למשל יודעים שהממשלה הבאה (בהנחה שתמלא את ימיה) תוכל למנות 10 מתוך 15 תקני שופטי בית המשפט העליון?(שופטי עליון נשארים בתפקידם עד גיל 70).…",
-   "views": 64599,
-   "forwarded_from": null,
-   "media": [],
-   "missing": "image"
   },
   {
    "id": "pf069784075d3",
@@ -2142,7 +2142,7 @@
    "post": "Tech_Galilee_Golan_Channel/800",
    "ts": "2026-10-22T08:47:13+00:00",
    "text": "🚀 לפעמים ההזדמנויות הכי מעניינות מתחילות דווקא בלי תוכנית.\nעשיתי ניסוי קטן: הצעתי שעת ייעוץ חינם ליזמי Pre-Seed בצפון, וגיליתי אנשים ומיזמים שכנראה לא הייתי פוגש אחרת.\n\nאני מזמין גם אתכם להציע או לבקש משהו מקהילת ההייטק הצפונית דרך Nortech. מי יודע איזה חיבור חדש ייווצר?\n\n🔗 הסיפור המלא והזמנה להשתתף:\nhttps://www.linkedin.com/feed/update/urn:li:activity:7518943253002596352/",
-   "views": 79,
+   "views": 80,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -3254,7 +3254,7 @@
    "post": "SALAMTAK_DEALS/58598",
    "ts": "2026-10-21T10:25:01+00:00",
    "text": "וויש וויש! 😉\nמכונת גילוח לגוף (לכל הגוף… 😏)\nגם לגברים וגם לנשים 👫\nבלי חתכים, ב-66 שקלים 🪒\n\nמכונת MANSPOT מגיעה עם להב קרמי רחב ✨\nשמגלח מהר ולא שורט,\n4 מסרקים לאורכים שונים 📏,\nעמידה במים 💦 ונטענת ב-USB 🔋.\n\nמאמזון ארה\"ב 🇺🇸: כ-₪66 ($21.44) עם קופון 5% בדף, 6% בקופה וקוד CTGLRYIN\n\n🚚 משלוח חינם בסל מעל $49, אחרת המשלוח $17.92\nלינק- https://salamtak.deals/archives/50373\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים - https://salamtak.deals/28455-2",
-   "views": 1560,
+   "views": 1570,
    "forwarded_from": "סלאמתק.",
    "media": [],
    "kind": "deals",
@@ -3852,7 +3852,7 @@
    "post": "AceIsraelofficial/4590",
    "ts": "2026-10-18T10:02:07+00:00",
    "text": "יותר סדר, פחות לשלם! 🤩\nאקסטרה 10% הנחה נוספת על מגוון שידות וכונניות באתר ✨\nבחרתם? אל תשכחו להנפיק קופון!\n\nלהנפקת קופון אישי » https://lp6.me/elA1I\n\nלרכישה באתר » https://tinyurl.com/2mr74xar\n\nתקף באתר בלבד עד 20.10.26 / עד גמר המלאי, כפוף לתקנון https://www.ace.co.il/telegraextra10_dresser",
-   "views": 9570,
+   "views": 9580,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
