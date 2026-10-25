@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-25T21:32:46Z",
+ "updated": "2026-10-25T22:01:22Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -29,8 +29,8 @@
   },
   "20261025": {
    "u": 4,
-   "pv": 8,
-   "iv": 89
+   "pv": 10,
+   "iv": 114
   },
   "20261026": {
    "u": 0,
@@ -43,6 +43,12 @@
   "konim": 0
  },
  "items": {
+  "merkaz/299062": 1,
+  "haskupim/198913": 1,
+  "RealKikarHashabat/9805": 1,
+  "RealKikarHashabat/9804": 1,
+  "haskupim/198910": 1,
+  "merkaz/299061": 1,
   "RealKikarHashabat/9803": 1,
   "merkaz/299059": 1,
   "abualiexpress/132534": 1,
@@ -50,10 +56,19 @@
   "merkaz/299058": 1,
   "SALAMTAK_DEALS/58610": 1,
   "RealKikarHashabat/9801": 1,
-  "merkaz/299056": 1,
+  "RealKikarHashabat/9800": 1,
+  "ramreports/216640": 1,
   "iBuyIL/27605": 1,
+  "ramreports/216639": 1,
+  "RealKikarHashabat/9799": 1,
+  "haskupim/198907": 1,
   "DealIsraeli/61317": 1,
+  "haskupim/198906": 1,
   "iBuyIL/27604": 1,
+  "amitsegal/66139": 1,
+  "RealKikarHashabat/9797": 1,
+  "amitsegal/66138": 1,
+  "haskupim/198905": 1,
   "Jobs_in_Jerusalem/36457": 1,
   "haskupim/198897": 1,
   "RealKikarHashabat/9794": 1,
@@ -66,10 +81,8 @@
   "haskupim/198889": 1,
   "behadrey/107485": 1,
   "haskupim/198888": 1,
-  "merkaz/299041": 1,
   "haskupim/198885": 1,
   "RealKikarHashabat/9790": 1,
-  "merkaz/299040": 1,
   "RealKikarHashabat/9787": 1,
   "amitsegal/66135": 1,
   "amitsegal/66133": 1,
@@ -79,12 +92,13 @@
   "ramreports/216632": 1,
   "Jobs_in_Jerusalem/36456": 2,
   "jobnikim/307": 2,
-  "PMO_jobs/83": 1,
-  "PMO_jobs/82": 1,
-  "PMO_jobs/81": 1,
-  "Tech_Galilee_Golan_Channel/800": 1,
+  "PMO_jobs/83": 2,
+  "PMO_jobs/82": 2,
+  "PMO_jobs/81": 2,
+  "Tech_Galilee_Golan_Channel/800": 2,
   "hamoked_il/213715": 1,
   "SALAMTAK_DEALS/58590": 1,
-  "Jobs_in_Jerusalem/36446": 1
+  "Jobs_in_Jerusalem/36446": 2,
+  "Jobs_in_Jerusalem/36445": 1
  }
 }
