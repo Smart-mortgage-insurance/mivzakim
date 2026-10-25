@@ -279,6 +279,7 @@ MEDIA_PROMPT = (
 
 
 MEDIA_FALLBACK_MODEL = "gemini-3.5-flash-lite"
+MEDIA_MODEL = [None]
 
 
 def gemini_media_ok(data, mime, video=False):
@@ -286,7 +287,7 @@ def gemini_media_ok(data, mime, video=False):
     Any error, timeout or unclear answer counts as a rejection."""
     if not GEMINI_KEY:
         return False
-    model = CFG["media_filter"].get("gemini_model", "gemini-3.5-flash")
+    model = MEDIA_MODEL[0] or CFG["media_filter"].get("gemini_model", "gemini-3.5-flash")
     endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
                 "{}:generateContent?key={}".format(model, GEMINI_KEY))
     where = " in ANY frame of the video, from start to end" if video else " in the image"
@@ -303,6 +304,7 @@ def gemini_media_ok(data, mime, video=False):
                 log("    ! gemini HTTP {} ({})".format(r.status_code, model))
                 if r.status_code == 429 and model != MEDIA_FALLBACK_MODEL:
                     model = MEDIA_FALLBACK_MODEL   # free-tier quota of the main model is used up
+                    MEDIA_MODEL[0] = model         # stay on it for the rest of this scrape
                     endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
                                 "{}:generateContent?key={}".format(model, GEMINI_KEY))
                     continue
