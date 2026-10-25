@@ -280,12 +280,13 @@ MEDIA_PROMPT = (
 
 MEDIA_FALLBACK_MODEL = "gemini-3.5-flash-lite"
 MEDIA_MODEL = [None]
+QUOTA_OUT = [False]
 
 
 def gemini_media_ok(data, mime, video=False):
     """Strict modesty check. Videos are judged in full (every frame), not by a thumbnail.
     Any error, timeout or unclear answer counts as a rejection."""
-    if not GEMINI_KEY:
+    if not GEMINI_KEY or QUOTA_OUT[0]:
         return False
     model = MEDIA_MODEL[0] or CFG["media_filter"].get("gemini_model", "gemini-3.5-flash")
     endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
@@ -302,6 +303,9 @@ def gemini_media_ok(data, mime, video=False):
             r = requests.post(endpoint, json=body, timeout=180 if video else 45)
             if r.status_code in (429, 500, 503):
                 log("    ! gemini HTTP {} ({})".format(r.status_code, model))
+                if r.status_code == 429 and "quota" in r.text.lower() and model == MEDIA_FALLBACK_MODEL:
+                    QUOTA_OUT[0] = True   # daily free quota used up - stop until the next scrape
+                    return False
                 if r.status_code == 429 and model != MEDIA_FALLBACK_MODEL:
                     model = MEDIA_FALLBACK_MODEL   # free-tier quota of the main model is used up
                     MEDIA_MODEL[0] = model         # stay on it for the rest of this scrape
@@ -492,6 +496,9 @@ HEADLINE_PROMPT = (
     "בלי אימוג'י, בלי מירכאות ובלי שם הערוץ. במודעת דרושים - התפקיד (ואם כתוב, המקום). "
     "במבצע - המוצר והמחיר אם מופיע. אם אין להודעה תוכן ברור - t ריק.\n\n"
 )
+HEADLINE_PROMPT += ("\n\nSPELLING: copy every Hebrew abbreviation and name exactly as it is written in the "
+                    "post, with its quote mark (use the Hebrew gershayim \u05f4 for abbreviations). "
+                    "Never guess or rebuild a word you are unsure of - reuse the post's own word instead.\n\n")
 RESULT_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
     "i": {"type": "INTEGER"}, "block": {"type": "BOOLEAN"}, "t": {"type": "STRING"},
     "r": {"type": "STRING"}},
