@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-25T08:46:49Z",
+ "updated": "2026-10-25T08:54:14Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -28,9 +28,9 @@
    "iv": 0
   },
   "20261025": {
-   "u": 0,
-   "pv": 0,
-   "iv": 0
+   "u": 1,
+   "pv": 1,
+   "iv": 14
   }
  },
  "ads": {
@@ -38,6 +38,20 @@
   "konim": 0
  },
  "items": {
+  "abualiexpress/132524": 1,
+  "merkaz/299032": 1,
+  "haskupim/198877": 1,
+  "behadrey/107481": 1,
+  "RealKikarHashabat/9778": 1,
+  "RealKikarHashabat/9777": 1,
+  "haskupim/198875": 1,
+  "RealKikarHashabat/9776": 1,
+  "ramreports/216632": 1,
+  "merkaz/299030": 1,
+  "RealKikarHashabat/9775": 1,
+  "RealKikarHashabat/9774": 1,
+  "haskupim/198873": 1,
+  "merkaz/299028": 1,
   "Moshepargod/73475": 1,
   "Moshepargod/73474": 1,
   "Moshepargod/73472": 1,
