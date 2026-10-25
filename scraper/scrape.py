@@ -47,6 +47,8 @@ UNFILTERED_OK = CFG["media_filter"].get("allow_without_gemini", False)
 # Photos/videos in the channels mostly belong to press photographers and agencies.
 # Re-hosting them needs a licence, so post media is off unless explicitly enabled.
 MEDIA_ON = CFG["media_filter"].get("enabled", True)
+# gemini_check false: media is published without a Gemini check (NetFree reviews site media itself)
+MEDIA_GEMINI = CFG["media_filter"].get("gemini_check", True)
 
 SESSION = requests.Session()
 SESSION.headers.update({
@@ -286,6 +288,8 @@ QUOTA_OUT = [False]
 def gemini_media_ok(data, mime, video=False):
     """Strict modesty check. Videos are judged in full (every frame), not by a thumbnail.
     Any error, timeout or unclear answer counts as a rejection."""
+    if not MEDIA_GEMINI:
+        return True
     if not GEMINI_KEY or QUOTA_OUT[0]:
         return False
     model = MEDIA_MODEL[0] or CFG["media_filter"].get("gemini_model", "gemini-3.5-flash")
@@ -349,7 +353,7 @@ def save_media(key, data, ctype, default_ext):
 
 def process_media(post, media):
     """Download + filter; returns local media entries (images/videos that passed)."""
-    if not MEDIA_ON or not GEMINI_KEY:
+    if not MEDIA_ON or (MEDIA_GEMINI and not GEMINI_KEY):
         return []  # media off, or no filter available -> text only (never publish unchecked media)
     max_bytes = CFG["limits"]["max_media_bytes"]
     kept = []
@@ -398,7 +402,7 @@ def recheck_media(media):
         if x.get("checked"):
             out.append(x)
             continue
-        if not GEMINI_KEY or RECHECK_LEFT[0] <= 0:
+        if MEDIA_GEMINI and (not GEMINI_KEY or RECHECK_LEFT[0] <= 0):
             continue
         RECHECK_LEFT[0] -= 1
         path = os.path.join(ROOT, x.get("file", ""))
@@ -707,7 +711,7 @@ def main():
             if text and not allowed(kind, text):
                 log("   - dropped (ad/spam)")
                 continue
-            if msg["media"] and MEDIA_ON and GEMINI_KEY and time.time() > MEDIA_DEADLINE:
+            if msg["media"] and MEDIA_ON and MEDIA_GEMINI and GEMINI_KEY and time.time() > MEDIA_DEADLINE:
                 continue  # out of time this cycle - picked up next cycle
             media = process_media(post, msg["media"])   # site media is reviewed by NetFree (images held until reviewed, videos blocked - checked 2026-10-19)
             if not text and not media:

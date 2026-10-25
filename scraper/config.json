@@ -333,7 +333,8 @@
     "gemini_model": "gemini-3.5-flash",
     "allow_videos": true,
     "allow_without_gemini": false,
-    "enabled": true
+    "enabled": true,
+    "gemini_check": false
   },
   "person_filter": {
     "enabled": true,
