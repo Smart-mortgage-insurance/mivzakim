@@ -305,6 +305,9 @@ def gemini_media_ok(data, mime, video=False):
             parts = r.json()["candidates"][0].get("content", {}).get("parts") or [{}]
             txt = "".join(x.get("text", "") for x in parts)
             m = re.search(r'"ok"\s*:\s*(true|false)', txt, re.I)
+            log("    . verdict {} finish={} len={}".format(
+                m.group(1).lower() if m else "none",
+                r.json()["candidates"][0].get("finishReason"), len(txt)))
             return bool(m) and m.group(1).lower() == "true"
         except Exception as exc:
             log("    ! gemini error: {}".format(type(exc).__name__))
