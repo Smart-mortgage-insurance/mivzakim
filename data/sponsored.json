@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "enabled": false,
+      "enabled": true,
       "advertiser": "קונים חכם",
       "html": "ads/konim.html",
       "w": 1080,

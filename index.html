@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>מבזקים · חדשות, דרושים ומבצעים</title>
+<title>מבזקים · חדשות, דרושים, דילים וקופונים</title>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50'%3E%3Ccircle cx='25' cy='25' r='24' fill='%23121418'/%3E%3Ctext x='22' y='34' text-anchor='middle' font-family='Arial' font-weight='700' font-size='26' fill='%23fff'%3E%D7%9E%3C/text%3E%3Cpath d='M37 14a15 15 0 0 1 0 22' fill='none' stroke='%23e0324a' stroke-width='3.5' stroke-linecap='round'/%3E%3C/svg%3E">
-<meta name="description" content="מבזקים — חדשות, לוח דרושים ומבצעים, במקום אחד ומתעדכן לאורך היום.">
+<meta name="description" content="מבזקים — חדשות, לוח דרושים, דילים וקופונים, במקום אחד ומתעדכן לאורך היום.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Suez+One&family=Rubik:wght@800&family=Heebo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -245,7 +245,7 @@
     </div>
     <button class="postjob" data-job><span id="postPlus">＋ </span><span id="postLbl">פרסום משרה</span> <small id="postFree">חינם</small></button>
   </div>
-  <div class="secbar"><div class="sectabs"><button class="sectab on" data-sec="news">📰 מבזקים</button><button class="sectab" data-sec="jobs">💼 דרושים</button><button class="sectab" data-sec="deals">🏷️ מבצעים</button></div></div>
+  <div class="secbar"><div class="sectabs"><button class="sectab on" data-sec="news">📰 מבזקים</button><button class="sectab" data-sec="jobs">💼 דרושים</button><button class="sectab" data-sec="deals">🏷️ דילים וקופונים</button></div></div>
   <div class="chips-bar"><div class="chips" id="chips"></div></div>
   <div class="ticker"><div class="label"><span class="dot"></span>עכשיו</div><div class="tw"><div class="track" id="tickTrack"></div></div><button type="button" class="tkpause" id="tkPause" aria-pressed="false" aria-label="עצירת הכותרות הרצות">⏸</button></div>
 </header>
@@ -269,11 +269,11 @@
 
 <div class="modal" id="about"><div class="card">
   <h2>אודות מבזקים והבהרה משפטית</h2>
-  <p>מבזקים מרכז במקום אחד מבזקי חדשות, משרות ומבצעים שפורסמו במקורות פומביים.</p>
+  <p>מבזקים מרכז במקום אחד מבזקי חדשות, משרות, דילים וקופונים שפורסמו במקורות פומביים.</p>
   <ul>
     <li>המבזקים מנוסחים בידי המערכת על בסיס ידיעות שפורסמו במקורות פומביים, אחרי סינון פרסומות ותוכן לא ראוי. איננו מאמתים כל ידיעה, והסינון אינו בודק את נכונות הדברים.</li>
     <li>האחריות לתוכן כל פריט, לרבות דיוקו, חלה על מי שפרסם אותו במקור. אין לראות בהצגת פריט אימוץ, אישור או הסכמה עם תוכנו.</li>
-    <li>קישורים במשרות ובמבצעים מובילים לאתרי המפרסמים כפי שהם, ואיננו אחראים לתוכנם.</li>
+    <li>קישורים במשרות ובדילים מובילים לאתרי המפרסמים כפי שהם, ואיננו אחראים לתוכנם.</li>
     <li><b>דיווח והסרה:</b> מי שנפגע מפריט, או בעל זכויות בתוכן, יכול ללחוץ על "דיווח על תוכן" ליד הפריט. אנו מטפלים בפניות בהקדם, ופריט שיש בו פגיעה או הפרת זכויות יוסר.</li>
     <li>בעל תוכן שאינו מעוניין שהתכנים שלו יוצגו באתר מוזמן לפנות אלינו, והם יוסרו.</li>
   </ul>
@@ -393,11 +393,11 @@ try{ mine=new Set(JSON.parse(localStorage.getItem("ng_mine")||"[]")); }catch(_){
 const saveMine=()=>{ try{ localStorage.setItem("ng_mine",JSON.stringify([...mine])); }catch(_){} };
 const AD_HOLD_MS=10*60000, FEED_MAX_AGE=14*864e5;               // 10 דקות בראש הפיד; כמו גיל המשרות המקסימלי
 let feedAds=[], holdTimer=0, holdTimer2=0;
-/* שני לוחות באותו אתר: דרושים ומבצעים */
+/* שני לוחות באותו אתר: דרושים, דילים וקופונים */
 const SEC={
   news:{tag:"מבזקי חדשות",q:"חיפוש בחדשות…",post:"💬 הודעה למערכת",empty:"אין מבזקים כרגע. חוזרים בקרוב…",hash:""},
   jobs:{tag:"לוח דרושים",q:"חיפוש משרה, תחום או עיר…",post:"פרסום משרה",empty:"אין משרות כרגע. חוזרים בקרוב…",hash:"#jobs"},
-  deals:{tag:"מבצעים ודילים",q:"חיפוש מוצר, מותג או חנות…",post:"💬 הודעה למערכת",empty:"אין מבצעים כרגע. חוזרים בקרוב…",hash:"#deals"}
+  deals:{tag:"דילים וקופונים",q:"חיפוש מוצר, מותג או חנות…",post:"💬 הודעה למערכת",empty:"אין דילים וקופונים כרגע. חוזרים בקרוב…",hash:"#deals"}
 };
 let section=location.hash==="#deals"?"deals":location.hash==="#jobs"?"jobs":"news";
 const kindOf=i=>i.kind||"news";                                       // פוסט בלי סוג = ערוץ חדשות
@@ -430,7 +430,7 @@ function relTime(iso){
 }
 const hhmm=iso=>iso?new Date(iso).toLocaleTimeString("he-IL",{hour:"2-digit",minute:"2-digit"}):"";
 const fmtViews=v=>v==null?"":v>=1e6?(v/1e6).toFixed(1)+"M":v>=1e3?(v/1e3).toFixed(1).replace(/\.0$/,"")+"K":String(v);
-const KIND={jobs:"דרושים",deals:"מבצעים"};
+const KIND={jobs:"דרושים",deals:"דילים וקופונים"};
 const linkify=t=>esc(t).replace(/https?:\/\/[^\s<]+/g,m=>{
   let u=m,tail=""; const e=u.match(/[.,;:!?)\]]+$/); if(e){tail=e[0];u=u.slice(0,-tail.length);}
   let host; try{host=new URL(u.replace(/&amp;/g,"&")).hostname.replace(/^www\./,"");}catch(_){return m;}
@@ -493,7 +493,7 @@ function postHTML(it,fresh){
   return `<article class="post${fresh?" fresh":""}" data-vk="${vkPost(it.post)}">
     <span class="ava gen">${it.direct?"✎":"מ"}</span>
     <div class="col"><div class="bubble">
-      <div class="src"><span class="nm">${it.direct?"מהגולשים":({jobs:"דרושים",deals:"מבצעים"})[kindOf(it)]||"מבזק"}</span><span class="via${it.direct?" direct":""}">${hhmm(it.ts)}</span></div>
+      <div class="src"><span class="nm">${it.direct?"מהגולשים":({jobs:"דרושים",deals:"דילים וקופונים"})[kindOf(it)]||"מבזק"}</span><span class="via${it.direct?" direct":""}">${hhmm(it.ts)}</span></div>
       ${it.text?`<div class="bt${openPosts.has(it.post)?"":" clamp"}">${it.title?`<strong class="hl">${esc(it.title)} |</strong> `:""}${linkify(it.text)}</div><button class="more-t" data-more="${esc(it.post)}" hidden>${openPosts.has(it.post)?"הצג פחות ▴":"קרא עוד ▾"}</button>`:""}
       ${mediaHTML((it.media||[]).filter(m=>m.checked))}
       
@@ -585,7 +585,7 @@ function renderSide(){
   if(ah!==adHTML){$("adside").innerHTML=adHTML=ah;}
   let h=pinned.filter(p=>!p.html).map(p=>`<div class="box" data-vk="${vkAd(p.id)}">${p.image?`<img class="ad-img" src="${esc(p.image)}" alt="">`:""}<h3>${esc(p.advertiser||"")}</h3><p style="white-space:pre-wrap">${promoText(p.text)}</p>
     ${p.cta_phone?`<a class="cta" href="tel:${p.cta_phone.replace(/[^0-9+]/g,"")}">${esc(p.cta_label||"לפרטים")}</a>`:""}</div>`).join("");
-  h+=`<div class="box"><h3>מה זה מבזקים?</h3><p>מבזקי חדשות, משרות ומבצעים במקום אחד, מתעדכן לאורך היום.</p><button class="sidelink" data-msg>💬 הודעה למערכת</button></div>`;
+  h+=`<div class="box"><h3>מה זה מבזקים?</h3><p>מבזקי חדשות, משרות, דילים וקופונים במקום אחד, מתעדכן לאורך היום.</p><button class="sidelink" data-msg>💬 הודעה למערכת</button></div>`;
   h+=PLACARD;
   if(h!==sideHTML){$("side").innerHTML=sideHTML=h;}
   fitAds(); restoreCars(); observeViews($("side")); observeViews($("adside"));
