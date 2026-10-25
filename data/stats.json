@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-25T22:16:09Z",
+ "updated": "2026-10-25T22:37:07Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -33,21 +33,22 @@
    "iv": 114
   },
   "20261026": {
-   "u": 1,
-   "pv": 1,
-   "iv": 29
+   "u": 2,
+   "pv": 2,
+   "iv": 46
   }
  },
  "ads": {
   "ad261011032320": 0,
-  "konim": 1
+  "konim": 2
  },
  "items": {
-  "hamoked_il/214376": 2,
-  "haskupim/199007": 2,
+  "merkaz/299129": 2,
+  "hamoked_il/214376": 3,
+  "haskupim/199007": 3,
   "hamoked_il/214374": 2,
   "hamoked_il/214375": 2,
-  "hamoked_il/214373": 1,
+  "hamoked_il/214373": 2,
   "behadrey/107512": 1,
   "hamoked_il/214371": 1,
   "hamoked_il/214370": 1,
@@ -67,15 +68,24 @@
   "hamoked_il/214363": 1,
   "abualiexpress/132559": 1,
   "merkaz/299123": 1,
+  "DealIsraeli/61325": 1,
+  "iBuyIL/27614": 1,
+  "DealIsraeli/61324": 1,
+  "iBuyIL/27612": 1,
+  "DealIsraeli/61323": 1,
+  "iBuyIL/27611": 1,
+  "iBuyIL/27610": 1,
+  "iBuyIL/27609": 1,
+  "DealIsraeli/61320": 1,
   "merkaz/299062": 1,
   "haskupim/198913": 1,
+  "DealIsraeli/61318": 1,
   "merkaz/299061": 1,
   "merkaz/299059": 1,
   "abualiexpress/132534": 1,
-  "merkaz/299058": 1,
   "SALAMTAK_DEALS/58610": 1,
   "ramreports/216640": 1,
-  "iBuyIL/27605": 1,
+  "iBuyIL/27605": 2,
   "ramreports/216639": 1,
   "DealIsraeli/61317": 1,
   "iBuyIL/27604": 1,
