@@ -278,6 +278,9 @@ MEDIA_PROMPT = (
 )
 
 
+MEDIA_FALLBACK_MODEL = "gemini-3.5-flash-lite"
+
+
 def gemini_media_ok(data, mime, video=False):
     """Strict modesty check. Videos are judged in full (every frame), not by a thumbnail.
     Any error, timeout or unclear answer counts as a rejection."""
@@ -297,6 +300,12 @@ def gemini_media_ok(data, mime, video=False):
         try:
             r = requests.post(endpoint, json=body, timeout=180 if video else 45)
             if r.status_code in (429, 500, 503):
+                log("    ! gemini HTTP {} ({})".format(r.status_code, model))
+                if r.status_code == 429 and model != MEDIA_FALLBACK_MODEL:
+                    model = MEDIA_FALLBACK_MODEL   # free-tier quota of the main model is used up
+                    endpoint = ("https://generativelanguage.googleapis.com/v1beta/models/"
+                                "{}:generateContent?key={}".format(model, GEMINI_KEY))
+                    continue
                 time.sleep(4 * (attempt + 1))
                 continue
             if r.status_code != 200:
