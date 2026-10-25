@@ -366,6 +366,10 @@ def process_media(post, media):
     return kept
 
 
+# time budget for new-media checks in one scrape: posts with media left over wait for the
+# next cycle (a minute later) instead of the whole first run timing out with nothing saved
+MEDIA_DEADLINE = time.time() + 300
+
 RECHECK_LEFT = [60]   # per run, so a backlog doesn't eat the whole run
 
 
@@ -682,6 +686,8 @@ def main():
             if text and not allowed(kind, text):
                 log("   - dropped (ad/spam)")
                 continue
+            if msg["media"] and MEDIA_ON and GEMINI_KEY and time.time() > MEDIA_DEADLINE:
+                continue  # out of time this cycle - picked up next cycle
             media = process_media(post, msg["media"])   # site media is reviewed by NetFree (images held until reviewed, videos blocked - checked 2026-10-19)
             if not text and not media:
                 continue
