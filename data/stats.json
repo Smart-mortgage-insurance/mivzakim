@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-25T12:18:01Z",
+ "updated": "2026-10-25T12:40:44Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -29,8 +29,8 @@
   },
   "20261025": {
    "u": 4,
-   "pv": 7,
-   "iv": 75
+   "pv": 8,
+   "iv": 89
   }
  },
  "ads": {
@@ -38,6 +38,18 @@
   "konim": 0
  },
  "items": {
+  "RealKikarHashabat/9803": 1,
+  "merkaz/299059": 1,
+  "abualiexpress/132534": 1,
+  "haskupim/198909": 1,
+  "merkaz/299058": 1,
+  "SALAMTAK_DEALS/58610": 1,
+  "RealKikarHashabat/9801": 1,
+  "merkaz/299056": 1,
+  "iBuyIL/27605": 1,
+  "DealIsraeli/61317": 1,
+  "iBuyIL/27604": 1,
+  "Jobs_in_Jerusalem/36457": 1,
   "haskupim/198897": 1,
   "RealKikarHashabat/9794": 1,
   "RealKikarHashabat/9793": 1,
@@ -54,18 +66,15 @@
   "RealKikarHashabat/9790": 1,
   "merkaz/299040": 1,
   "merkaz/299039": 1,
-  "merkaz/299038": 1,
-  "haskupim/198882": 1,
   "RealKikarHashabat/9787": 1,
   "amitsegal/66135": 1,
   "amitsegal/66133": 1,
   "behadrey/107482": 1,
-  "RealKikarHashabat/9781": 1,
   "abualiexpress/132524": 1,
   "behadrey/107481": 1,
   "ramreports/216632": 1,
-  "Jobs_in_Jerusalem/36456": 1,
-  "jobnikim/307": 1,
+  "Jobs_in_Jerusalem/36456": 2,
+  "jobnikim/307": 2,
   "PMO_jobs/83": 1,
   "PMO_jobs/82": 1,
   "PMO_jobs/81": 1,
