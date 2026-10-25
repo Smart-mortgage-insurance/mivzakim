@@ -46,7 +46,7 @@ jobs:
               git commit -m "עדכון פיד [skip ci]"
               # on a clash with another push: abandon this cycle's commit and start
               # from the latest main (the next cycle rebuilds the feed from it)
-              git push || { git rebase --abort 2>/dev/null; git fetch -q origin main && git reset -q --hard origin/main; }
+              git push || { git rebase --abort 2>/dev/null || true; git fetch -q origin main && git reset -q --hard origin/main; }
             fi
             sleep 60
           done

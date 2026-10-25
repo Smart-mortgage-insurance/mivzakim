@@ -291,7 +291,7 @@ def gemini_media_ok(data, mime, video=False):
                 {"text": MEDIA_PROMPT.replace("{where}", where)},
                 {"inline_data": {"mime_type": mime or ("video/mp4" if video else "image/jpeg"),
                                  "data": base64.b64encode(data).decode()}}]}],
-            "generationConfig": {"temperature": 0, "maxOutputTokens": 40,
+            "generationConfig": {"temperature": 0, "maxOutputTokens": 2048,
                                  "responseMimeType": "application/json"}}
     for attempt in range(3):
         try:
@@ -302,7 +302,8 @@ def gemini_media_ok(data, mime, video=False):
             if r.status_code != 200:
                 log("    ! gemini HTTP {}".format(r.status_code))
                 return False
-            txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            parts = r.json()["candidates"][0].get("content", {}).get("parts") or [{}]
+            txt = "".join(x.get("text", "") for x in parts)
             m = re.search(r'"ok"\s*:\s*(true|false)', txt, re.I)
             return bool(m) and m.group(1).lower() == "true"
         except Exception as exc:
