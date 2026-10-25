@@ -282,6 +282,9 @@ MEDIA_PROMPT = (
 
 MEDIA_FALLBACK_MODEL = "gemini-3.5-flash-lite"
 MEDIA_MODEL = [None]
+HELD = {}
+HELD_PATH = os.path.join(ROOT, "data", "held.json")
+APPROVED_PATH = os.path.join(ROOT, "data", "approved.json")
 QUOTA_OUT = [False]
 
 
@@ -547,6 +550,12 @@ def person_filter(existing, blocked, state):
     pf = CFG.get("person_filter", {})
     pending = [it for it in existing.values()
                if it.get("text") and (it.get("checked") != PF_VERSION or "title" not in it)]
+    approved = set(load_json(APPROVED_PATH, {"posts": []}).get("posts", []))
+    for it in pending:
+        if it["post"] in approved:   # approved by hand while the Gemini quota was used up
+            it["checked"] = PF_VERSION
+            it.setdefault("title", "")
+    pending = [it for it in pending if it["post"] not in approved]
     if not pf.get("enabled") or not pending:
         return
     if not GEMINI_KEY:
@@ -557,6 +566,8 @@ def person_filter(existing, blocked, state):
         for it in items:
             if it.get("_new"):
                 existing.pop(it["post"], None)
+                HELD[it["post"]] = {"ts": it.get("ts"), "kind": it.get("kind") or "news",
+                                    "text": it["text"]}
 
     now = time.time()
     if now - state.get("pf_last", 0) < pf.get("min_interval_sec", 180):
@@ -737,6 +748,8 @@ def main():
         time.sleep(1)
 
     person_filter(existing, blocked, pf_state)
+    with open(HELD_PATH, "w", encoding="utf-8") as fh:
+        json.dump({"posts": HELD}, fh, ensure_ascii=False, indent=1)
     for it in existing.values():
         it.pop("_new", None)
     # remember blocked posts only while the channel page can still serve them
