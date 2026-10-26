@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-26T13:41:41Z",
+ "updated": "2026-10-26T14:04:02Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -33,9 +33,9 @@
    "iv": 114
   },
   "20261026": {
-   "u": 3,
-   "pv": 3,
-   "iv": 91
+   "u": 4,
+   "pv": 4,
+   "iv": 101
   }
  },
  "ads": {
@@ -43,6 +43,14 @@
   "konim": 2
  },
  "items": {
+  "RealKikarHashabat/9904": 1,
+  "ramreports/216702": 1,
+  "DealIsraeli/61333": 1,
+  "abualiexpress/132585": 1,
+  "behadrey/107537": 1,
+  "ramreports/216699": 1,
+  "merkaz/299188": 1,
+  "iBuyIL/27626": 1,
   "amitsegal/66175": 1,
   "AceIsraelofficial/4613": 1,
   "behadrey/107523": 1,
@@ -55,7 +63,7 @@
   "amitsegal/66169": 1,
   "SALAMTAK_DEALS/58613": 1,
   "DealIsraeli/61326": 1,
-  "jobsHOTjobss/17667": 1,
+  "jobsHOTjobss/17667": 2,
   "behadrey/107512": 1,
   "abualiexpress/132559": 1,
   "Israel_media_industry/3868": 1,
@@ -67,6 +75,7 @@
   "iBuyIL/27612": 1,
   "DealIsraeli/61323": 1,
   "iBuyIL/27611": 1,
+  "HiTech_Jobs_In_Israel/137926": 1,
   "iBuyIL/27610": 1,
   "iBuyIL/27609": 1,
   "DealIsraeli/61320": 1,
