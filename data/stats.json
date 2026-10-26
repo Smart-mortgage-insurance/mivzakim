@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-26T08:19:04Z",
+ "updated": "2026-10-26T08:40:09Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -33,9 +33,9 @@
    "iv": 114
   },
   "20261026": {
-   "u": 2,
-   "pv": 2,
-   "iv": 46
+   "u": 3,
+   "pv": 3,
+   "iv": 69
   }
  },
  "ads": {
@@ -43,6 +43,28 @@
   "konim": 2
  },
  "items": {
+  "RealKikarHashabat/9871": 1,
+  "haskupim/199058": 1,
+  "behadrey/107523": 1,
+  "haskupim/199057": 1,
+  "merkaz/299160": 1,
+  "amitsegal/66173": 1,
+  "merkaz/299159": 1,
+  "ramreports/216686": 1,
+  "haskupim/199055": 1,
+  "merkaz/299158": 1,
+  "merkaz/299157": 1,
+  "RealKikarHashabat/9870": 1,
+  "merkaz/299156": 1,
+  "haskupim/199052": 1,
+  "behadrey/107521": 1,
+  "RealKikarHashabat/9868": 1,
+  "abualiexpress/132568": 1,
+  "amitsegal/66170": 1,
+  "haskupim/199050": 1,
+  "merkaz/299155": 1,
+  "RealKikarHashabat/9867": 1,
+  "haskupim/199049": 1,
   "hamoked_il/214376": 3,
   "hamoked_il/214374": 2,
   "hamoked_il/214375": 2,
@@ -54,7 +76,9 @@
   "abualiexpress/132559": 1,
   "DealIsraeli/61325": 1,
   "iBuyIL/27614": 1,
+  "Jobs_in_Jerusalem/36460": 1,
   "DealIsraeli/61324": 1,
+  "HiTech_Jobs_In_Israel/137933": 1,
   "iBuyIL/27612": 1,
   "DealIsraeli/61323": 1,
   "iBuyIL/27611": 1,
@@ -62,14 +86,21 @@
   "iBuyIL/27609": 1,
   "DealIsraeli/61320": 1,
   "DealIsraeli/61318": 1,
-  "abualiexpress/132534": 1,
   "SALAMTAK_DEALS/58610": 1,
   "iBuyIL/27605": 2,
   "DealIsraeli/61317": 1,
   "iBuyIL/27604": 1,
   "Jobs_in_Jerusalem/36457": 1,
+  "iBuyIL/27601": 1,
   "Jobs_in_Jerusalem/36456": 2,
+  "iBuyIL/27585": 1,
+  "iBuyIL/27584": 1,
+  "DealIsraeli/61290": 1,
+  "AceIsraelofficial/4603": 1,
+  "SALAMTAK_DEALS/58604": 1,
+  "jobsHOTjobss/17666": 1,
   "jobnikim/307": 2,
+  "jobnikim/306": 1,
   "PMO_jobs/83": 2,
   "PMO_jobs/82": 2,
   "PMO_jobs/81": 2,
