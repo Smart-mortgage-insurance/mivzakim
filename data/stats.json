@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-26T19:02:57Z",
+ "updated": "2026-10-26T19:24:46Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -43,7 +43,6 @@
   "konim": 2
  },
  "items": {
-  "RealKikarHashabat/9904": 1,
   "ramreports/216702": 1,
   "DealIsraeli/61333": 1,
   "abualiexpress/132585": 1,
