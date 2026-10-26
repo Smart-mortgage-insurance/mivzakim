@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:54:52.882572+00:00",
+ "updated": "2026-10-26T07:56:42.458879+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -131,14 +131,32 @@
    "kind": "deals"
   }
  },
- "count": 353,
+ "count": 365,
  "items": [
+  {
+   "id": "p6507cbb4fc2c",
+   "post": "behadrey/107521",
+   "ts": "2026-10-26T07:55:02+00:00",
+   "text": "בארה״ב דווח כי הכוחות האמריקניים נמצאים במוכנות לתקיפה נרחבת באיראן בתוך 96 שעות.",
+   "views": 5,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/92ad90da2aab2679.jpg"
+    }
+   ],
+   "title": "כוננות כוחות ארהב באזור",
+   "rw": 1,
+   "checked": 3
+  },
   {
    "id": "pb13d6427557d",
    "post": "RealKikarHashabat/9868",
    "ts": "2026-10-26T07:51:41+00:00",
    "text": "גורם בכיר בקבינט שלל את הדיווח של רשת CNN בדבר כוונה ישראלית לתקוף באיראן בסוף השבוע האחרון והגדיר את הפרסום כשקרי.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [],
    "title": "הכחשת הדיווח ב-CNN",
@@ -173,7 +191,7 @@
    "post": "amitsegal/66170",
    "ts": "2026-10-26T07:50:10+00:00",
    "text": "ברשת CNN פורסם כי בישראל התקיימו הכנות לתקיפה באיראן בימים האחרונים אך צד ארצות הברית ביקש להמתין תוך איתות על פעילות משותפת בעתיד. עוד צוין כי הסיבות כוללות שיחה שקיים זמיר עם ראש המטות המשולבים בה הובהר כי הדבר יפגע בבחירות, וכי הצבא האמריקני מצוי בכוננות לתקיפה בתוך פרק זמן של 96 שעות מרגע קבלת הפקודה מטראמפ.",
-   "views": 5570,
+   "views": 7720,
    "forwarded_from": null,
    "media": [],
    "title": "פרטי היערכות לתקיפה",
@@ -185,7 +203,7 @@
    "post": "haskupim/199050",
    "ts": "2026-10-26T07:49:45+00:00",
    "text": "באירוע חריג בתל אביב נורו למוות שני גברים בשנות ה-60 לחייהם.",
-   "views": 19,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "title": "ירי לעבר גברים בתל אביב",
@@ -212,7 +230,7 @@
    "post": "RealKikarHashabat/9867",
    "ts": "2026-10-26T07:45:26+00:00",
    "text": "שתי אחיות בגילאי 3 ו-5 נפגעו فرכב בעת חציית כביש בבני ברק. כתוצאה מהפגיעה, אחת הילדות נפצעה באורח בינוני והשנייה באורח קל, וששתיהן סובלות מחבלות בראש ובגפיים והועברו להמשך טיפול בבית החולים שניידר.",
-   "views": 3,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "title": "פגיעת רכב בשתי ילדות בבני ברק",
@@ -224,10 +242,22 @@
    "post": "haskupim/199049",
    "ts": "2026-10-26T07:42:38+00:00",
    "text": "פעילת הימין שפי פז ז״ל הלכה לעולמה בגיל 74.",
-   "views": 28,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "title": "פטירתה של שפי פז זל",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p034ad476efd8",
+   "post": "hamoked_il/214398",
+   "ts": "2026-10-26T07:41:44+00:00",
+   "text": "גורם ביטחוני ישראלי מסר ל-CNN כי נתניהו ביקש לשכנע את טראמפ לערוך תקיפה משותפת באיראן טרם הבחירות, אך נענה בשלילה. לפי הדיווח, אחת הסיבות לכך הייתה דבריו של הרמטכ״ל אייל זמיר לרמטכ״ל האמריקני דן קיין, כי מהלך כזה יפגע בבחירות בישראל ויביא לדחייתן.",
+   "views": 77,
+   "forwarded_from": null,
+   "media": [],
+   "title": "דיווח על מגעים לתקיפה באיראן",
    "rw": 1,
    "checked": 3
   },
@@ -236,7 +266,7 @@
    "post": "amitsegal/66169",
    "ts": "2026-10-26T07:39:57+00:00",
    "text": "ברשת CNN טוענים כי ישראל נערכה לבצע תקיפה באיראן בימים האחרונים אך ארצות הברית ביקשה לעכב זאת ורמזה על אפשרות לפעולה משותפת בהמשך הדרך. אחת הסיבות לכך נעוצה בשיחה שקים זמיר עם ראש המטות המשולבים שבה טען כי מהלך כזה יפגע בבחירות. עוד נמסר כי צבא ארה״ב נמצא בכוננות לבצע תקיפה בתוך 96 שעות מרגע מתן הפקודה מצד טראמפ.",
-   "views": 15400,
+   "views": 17000,
    "forwarded_from": null,
    "media": [],
    "title": "פרטי היערכות אמריקאית וישראלית לאיראן",
@@ -260,7 +290,7 @@
    "post": "RealKikarHashabat/9866",
    "ts": "2026-10-26T07:36:11+00:00",
    "text": "במהלך מבצע של סיירת צנחנים בקבאטיה נעצרו חמישה מחבלים המשתייכים לחמאס ולג׳יהאד האסלאמי. בפעילות נוספת לסיכול טרור בגזרת בנימין, פשטו לוחמי הצנחנים על למעלה מחמישה עשר יעדים.",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -278,7 +308,7 @@
    "post": "haskupim/199048",
    "ts": "2026-10-26T07:35:52+00:00",
    "text": "במסגרת חדשות הסקופים מאת מיכאל שמש, נמסר כי מפלגת איזנקוט טרם הגישה תלונה למשטרה או עתירה ליושב ראש ועדת הבחירות בנוגע למפלגה.",
-   "views": 43,
+   "views": 44,
    "forwarded_from": null,
    "media": [
     {
@@ -308,7 +338,7 @@
    "post": "haskupim/199047",
    "ts": "2026-10-26T07:32:09+00:00",
    "text": "יו״ר ש״ס אריה דרעי אמר בראיון לקול חי כי השמאל משקיע ממון רב בניסיון לפלג ולדוכא את ההצבעה במגזר החרדי, וציין כדוגמה הפצת חומרים וקריאות הימנעות מהצבעה ביום שישי מרכב משותף של מפלגת ׳הציבור החרדי׳, תוך אזהרה שלא להיענות למהדורה זו.",
-   "views": 50,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "title": "אזהרת דרעי מפני פילוג החרדים",
@@ -320,7 +350,7 @@
    "post": "haskupim/199046",
    "ts": "2026-10-26T07:29:57+00:00",
    "text": "יו״ר ש״ס אריה דרעי אמר ב'קול חי' כי מערכת הבחירות תקבע את פני המדינה לשלושה עשורים קרובים וציין כי בפרק הזמן הקרוב יתבצעו מינויים מרכזיים במערכת המשפט ובהם שמונה שופטים, היועץ המשפטי לממשלה, פרקליט המדינה ומבקר המדינה, תוך הדגשה כי יש לנצח כדי לשמר את התהליכים שהחלו.",
-   "views": 50,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "title": "דברי יו״ר ש״ס על מערכת המשפט",
@@ -362,7 +392,7 @@
    "post": "iBuyIL/27618",
    "ts": "2026-10-26T07:24:05+00:00",
    "text": "מי שפספס אתמול- עדיין זמין! עשרות רכישות שלכם!!!\n\nהטרלול היומי מבית היוצר של אמזון 🤯🤯🤯 דיל היסטרי ברמות על מברשת שיניים חשמלית סונית עם זמן שימוש לטעינה ארוך במיוחד- נטענת USB-C עם מגוון מצבי ניקוי, עמידות למים לצחצוח שיניים גם במקלחת ואפילו שמונה ראשים להחלפה במחיר לא הגיוני של פחות מ- 10$ במשלוח חינם 🤑🤑🤑\n\nוכמו שאתם מכירים לפי הנוהל- קחו 3 מארזים ותקבלו אותם עם שליח עד הבית בלי להוסיף כלום 🙃\n\nמברשת שיניים חשמלית סונית 7MAGIC עם 8 ראשים\n\n💳 מחיר סופי: 9.99$ \\ 31₪ (במקום 19.99$)\n\n👈 משלוח חינם בתנאי הגעה ל-49$ או בקניית 3 יחידות\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/7magic-sonic-electric-toothbru\n\n✔️ סוללת 2000mAh שמספיקה עד 180 יום ל-2 צחצוחים ביום\n✔️ 8 ראשי הברשה- 7 סטנדרטיים ועוד אחד לניקוי עמוק\n✔️ 42,000 סיהובים בדקה לניקוי עוצמתי\n✔️ 5 מצבי עבודה ו-3 רמות עוצמה\n✔️ טיימר אוטומטי 2 דקות עם רמז כל 30 שניות להחלפת אזור\n✔️ עמידות למים בתקן IPX7\n✔️ מגיע עם תושבת מסודרת במקלחת או על השיש\n\nלדיון בפוסט https://www.facebook.com/share/p/18AZ2JRwCH/",
-   "views": 244,
+   "views": 249,
    "forwarded_from": null,
    "media": [
     {
@@ -380,7 +410,7 @@
    "post": "ramreports/216685",
    "ts": "2026-10-26T07:23:17+00:00",
    "text": "כוחות צה\"ל איתרו הלילה רחפן שניסה לעבור משטח מדינת ישראל לעבר רצועת עזה, הפילו אותו בתחומי הארץ, והמטען שנשא נבדק.",
-   "views": 2960,
+   "views": 3050,
    "forwarded_from": null,
    "media": [],
    "title": "יירוט רחפן שניסה לחצות לעזה",
@@ -392,7 +422,7 @@
    "post": "SALAMTAK_DEALS/58613",
    "ts": "2026-10-26T07:19:37+00:00",
    "text": "",
-   "views": 265,
+   "views": 269,
    "forwarded_from": null,
    "media": [
     {
@@ -408,7 +438,7 @@
    "post": "haskupim/199044",
    "ts": "2026-10-26T07:18:19+00:00",
    "text": "יושב ראש ש״ס דרעי פנה בשידור קול חי וקרא שלא לעשות חשבונות פוליטיים, כשהוא מדגיש כי המצב יכול להשתנות לטובה וכי יש לבטוח בבורא עולם בלבד מול המתנגדים.",
-   "views": 57,
+   "views": 58,
    "forwarded_from": null,
    "media": [],
    "title": "קריאת יו״ר ש״ס דרעי",
@@ -618,7 +648,7 @@
    "post": "amitsegal/66167",
    "ts": "2026-10-26T06:52:46+00:00",
    "text": "שר הביטחון ישראל כ״ץ הגיב לפרסומים בנוגע למחלוקות בין הדרג המדיני לצבא על איראן וכינה אותם שקריים לחלטיין. הוא הדגיש כי לא הייתה כל תוכנית ישראלית לתקוף באיראן טרם ההצבעה, וכי הובהר כי תהיה תגובה חזקה אם ישראל תותקף. בנוסף ביקר את חברי האופוזיציה על ניצול הנושא.",
-   "views": 33300,
+   "views": 34200,
    "forwarded_from": null,
    "media": [],
    "title": "הכחשת פערים מול צהל",
@@ -630,7 +660,7 @@
    "post": "abualiexpress/132565",
    "ts": "2026-10-26T06:52:01+00:00",
    "text": "הנשיא טראמפ שיתף ברשת Truth מסר ולפىו המהומות בצרפת לא פגעו אפילו במסגד אחד והגדיר זאת כנס.",
-   "views": 26900,
+   "views": 27200,
    "forwarded_from": null,
    "media": [
     {
@@ -648,7 +678,7 @@
    "post": "behadrey/107518",
    "ts": "2026-10-26T06:51:40+00:00",
    "text": "ילד בן 10 נפצע באורח בין בינוני לקשה לאחר שפגע בו רכב בעת שהיה בדרכו למוסד הלימודים בבית שמש.",
-   "views": 43,
+   "views": 44,
    "forwarded_from": null,
    "media": [
     {
@@ -658,6 +688,36 @@
     }
    ],
    "title": "פגיעת רכב בבית שמש",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p7ed9d701b391",
+   "post": "hamoked_il/214395",
+   "ts": "2026-10-26T06:49:07+00:00",
+   "text": "בכיר במשטרה מסר ל-i24NEWS כי היום שאחרי הבחירות מציב סיכונים ומערכות הביטחון נערכות לאפשרות של הפרות סדר בעקבות פרסום תוצאות הבחירות.",
+   "views": 209,
+   "forwarded_from": null,
+   "media": [],
+   "title": "היערכות משטרת ישראל",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pebacd328b99e",
+   "post": "hamoked_il/214394",
+   "ts": "2026-10-26T06:47:53+00:00",
+   "text": "המשפחות הראשונות הגיעו ליישוב החדש שלם שבשומרון, המהווה את היישוב התשיעי במסגרת תוכנית ההתחברות של מועצת השומרון, כאשר טקס העלייה לקרקע מתוכנן לשעות הצהריים. אחת התושבות, אחינעם מזרחי, ציינה את ההתרגשות ואיחלה לצמיחת המקום, וראש המועצה יוסי דגן בירך את החלוצים.",
+   "views": 213,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/854bffe2a77a2020.jpg"
+    }
+   ],
+   "title": "עלייה ליישוב שלם בשומרון",
    "rw": 1,
    "checked": 3
   },
@@ -732,7 +792,7 @@
    "post": "abualiexpress/132564",
    "ts": "2026-10-26T06:43:01+00:00",
    "text": "נציגי סעודיה, טורקיה ופקיסטן המכונים ברית מכה קיימו מפגש ראשון מסוגו בטהרן עם איראן. מטוס צבאי סעודי הנחית בשדה התעופה מהרבאד את שר ההגנה הסעודי הנסיך ח'אלד בן סלמאן, לצד רמטכ",
-   "views": 30000,
+   "views": 30300,
    "forwarded_from": null,
    "media": [
     {
@@ -780,7 +840,7 @@
    "post": "amitsegal/66166",
    "ts": "2026-10-26T06:37:04+00:00",
    "text": "לקראת ההצבעה, משפחות ראשונות מתיישבות באתר החדש שלם סמוך לאלון מורה, כיישוב התשיעי במסגרת תוכנית ההתחברות של מועצת השומרון. ראש המועצה יוסי דגן בברכתו למתיישבים ציין כי אלפים ילכו בעקבותיהם.",
-   "views": 38200,
+   "views": 38800,
    "forwarded_from": null,
    "media": [
     {
@@ -816,7 +876,7 @@
    "post": "behadrey/107517",
    "ts": "2026-10-26T06:34:02+00:00",
    "text": "אדם בן 60 הותקף והכה בגרמניה לאחר שנשאל לגבי מוצאו היהודי.",
-   "views": 51,
+   "views": 52,
    "forwarded_from": null,
    "media": [
     {
@@ -834,7 +894,7 @@
    "post": "abualiexpress/132563",
    "ts": "2026-10-26T06:34:01+00:00",
    "text": "על פי פרסום בוול סטריט ג'ורנל, ממשל טראמפ מאיץ בראש ממשלת הונגריה לשעבר ויקטור אורבן לרוץ לתפקיד מזכ",
-   "views": 33100,
+   "views": 33400,
    "forwarded_from": null,
    "media": [
     {
@@ -894,7 +954,7 @@
    "post": "abualiexpress/132562",
    "ts": "2026-10-26T06:25:15+00:00",
    "text": "במהפך בבחירות לנשיאות ברזיל, לולה דה סילבה הוכרז כמנצח בסיבוב השני לאחר שבסיבוב הקודם הפסיד. לקראת תום ההצבעה הורה שופט בית המשפט העליון על הארכת שעות ההצבעה בשעתיים, צעד חסר תקדים במדינה. פלאביו בולסונארו, המועמד שהפסיד, הגיב בחריפות וטען כי מדובר בשינוי כללים בלתי מתקבל על הדעת בידי מקורביו של לולה וכי לא יוותר על המערכה.",
-   "views": 36200,
+   "views": 36500,
    "forwarded_from": null,
    "media": [
     {
@@ -953,7 +1013,7 @@
    "post": "abualiexpress/132561",
    "ts": "2026-10-26T06:15:07+00:00",
    "text": "בתרגום הצהרת התמיכה לבוחר הישראלי, פנה טראמפ לאזרחי ישראל ותיאר את ביבי נתניהו כראש ממשלה לוחם ודגול השותף למאבק מול איראן הקוראת במשך 51 שנים להשמדת ישראל.",
-   "views": 39000,
+   "views": 39300,
    "forwarded_from": null,
    "media": [
     {
@@ -981,6 +1041,30 @@
     }
    ],
    "title": "טיסות ישראלים לקלפי",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pdd6063eebb61",
+   "post": "hamoked_il/214393",
+   "ts": "2026-10-26T06:14:33+00:00",
+   "text": "נבו כהן אמר בגלי ישראל כי השלב הנוכחי נועד לשינוע ולהמרצת מצביעי נתניהו להגיע לקלפיות, לאחר ששלב השכנוע כבר הסתיים, ומצהרת טראמפ לא צפויה לשנות את דפוס ההצבעה.",
+   "views": 254,
+   "forwarded_from": null,
+   "media": [],
+   "title": "הערכה על מצביעי נתניהו",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p18e91c2e5b23",
+   "post": "hamoked_il/214391",
+   "ts": "2026-10-26T06:08:49+00:00",
+   "text": "צה״ל הפיל רחפן בעל יכולת נשיאה של כ-100 ק״ג בשטחים החקלאיים ליד נחל עוז.",
+   "views": 253,
+   "forwarded_from": null,
+   "media": [],
+   "title": "הפלת רחפן בשדות נחל עוז",
    "rw": 1,
    "checked": 3
   },
@@ -1128,7 +1212,7 @@
    "post": "behadrey/107514",
    "ts": "2026-10-26T05:24:01+00:00",
    "text": "נשיא ארה״ב לשעבר דונלד טראמפ שב והביע תמיכה בבנימין נתניהו, אותו כינה לוחם יוצא מן הכלל, וקרא לבוחרים בישראל לתת לו את קולם.",
-   "views": 88,
+   "views": 89,
    "forwarded_from": null,
    "media": [
     {
@@ -1212,7 +1296,7 @@
    "post": "amitsegal/66165",
    "ts": "2026-10-26T05:02:24+00:00",
    "text": "בתגובה להצהרת התמיכה של נשיא ארה״ב בנתניהו, ציין איזנקוט כי טראמפ הינו ידיד אמת של ישראל, הביע הערכה לפועלו הביטחוני, והעריך כי יעבוד יחד עם כל מנהיג שתבחר האוכלוסייה.",
-   "views": 60200,
+   "views": 60800,
    "forwarded_from": null,
    "media": [],
    "title": "התייחסות איזנקוט לדברי טראמפ",
@@ -1224,7 +1308,7 @@
    "post": "RealKikarHashabat/9852",
    "ts": "2026-10-26T05:00:49+00:00",
    "text": "האם תנאי האקלים ישפיעו על שיעור ההצבעה? בשלישי בצהריים צפויים ברד, סופות ברקים ושיטפונות.",
-   "views": 7,
+   "views": 8,
    "forwarded_from": null,
    "media": [
     {
@@ -1238,11 +1322,95 @@
    "checked": 3
   },
   {
+   "id": "p7189b2caaa61",
+   "post": "hamoked_il/214389",
+   "ts": "2026-10-26T04:41:38+00:00",
+   "text": "שלטונות ירדן עצרו שלושה חשודים במעורבות בפיגוע שהתרחש בכנסייה באל-כרכ.",
+   "views": 413,
+   "forwarded_from": null,
+   "media": [],
+   "title": "מעצרים בירדן",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pd4df38dffd40",
+   "post": "hamoked_il/214387",
+   "ts": "2026-10-26T04:34:08+00:00",
+   "text": "מדיווחי רצועת עזה עולה כי שלושה בני אדם נהרגו ויותר מעשרה נפצעו כתוצאה מאש צה״ל ותקיפות של חיל האוויר בח׳אן יונס.",
+   "views": 368,
+   "forwarded_from": null,
+   "media": [],
+   "title": "נפגעים ברצועת עזה",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p5d31d72c49e5",
+   "post": "hamoked_il/214386",
+   "ts": "2026-10-26T04:28:31+00:00",
+   "text": "ברשת NEWSMAX דווח כי רב השרים נתניהו שוחח פעמיים בשלושה ימים עם הנשיא טראמפ בבקשה להגביר את התמיכה בו. כמו כן, נתניהו הציע כי טראמפ יתראיין לכלי התקשורת בישראל כדי לתמוך בקמפיין הבחירות שלו.",
+   "views": 363,
+   "forwarded_from": null,
+   "media": [],
+   "title": "שיחות נתניהו וטראמפ",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pc51a823c5f93",
+   "post": "hamoked_il/214385",
+   "ts": "2026-10-26T04:26:59+00:00",
+   "text": "בברזיל, הנשיא לולה גבר על יריבו ממועמד הימין בולסונארו ונבחר לכהונה נוספת.",
+   "views": 348,
+   "forwarded_from": null,
+   "media": [],
+   "title": "תוצאות הבחירות בברזיל",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pf91f9957d025",
+   "post": "hamoked_il/214384",
+   "ts": "2026-10-26T04:25:34+00:00",
+   "text": "הקואליציה בראשות סעודיה עדכנה על השמדת שני משגרי טילים בצנעא שבים, כאשר אחד מהם שימש לשיגור לעבר ריאד.",
+   "views": 344,
+   "forwarded_from": null,
+   "media": [],
+   "title": "השמדת משגרי טילים בתימן",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pde342e63f290",
+   "post": "hamoked_il/214383",
+   "ts": "2026-10-26T04:24:02+00:00",
+   "text": "לטענת החות׳ים, הם תקפו את נמל התעופה הבין-לאומי בריאד וכן את תחנות השאיבה של קו הנפט מזרח-מערב בסעודיה. בסעודיה טרם התקבל אישור רשמי לדברים.",
+   "views": 358,
+   "forwarded_from": null,
+   "media": [],
+   "title": "טענות החות׳ים על תקיפה",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p3fc34d7a8fde",
+   "post": "hamoked_il/214382",
+   "ts": "2026-10-26T04:22:22+00:00",
+   "text": "היום תורגש עלייה קלה בטמפרטורות שיהיו רגילות לעונה ומעלה. השמים יהיו מעוננים חלקית עד מעוננים ובחצי השני של היום ייתכן גשם מקומי שיתפשט בהדרגה לאזורים נוספים לקראת שעות הלילה.",
+   "views": 368,
+   "forwarded_from": null,
+   "media": [],
+   "title": "תחזית מזג האוויר",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "p3f404440fa6d",
    "post": "RealKikarHashabat/9851",
    "ts": "2026-10-26T04:20:27+00:00",
    "text": "לולה ניצח בסיבוב השני בברזיל, ומנגד בולסונארו אינו מוכר בתוצאות.",
-   "views": 8,
+   "views": 9,
    "forwarded_from": null,
    "media": [
     {
@@ -1284,7 +1452,7 @@
    "post": "amitsegal/66164",
    "ts": "2026-10-26T03:54:23+00:00",
    "text": "במערכת הבחירות בברזיל רשם הנשיא המכהן סילבה ניצחון על יריבו בולסונרו בפער של שלושה אחוזים וימשיך לכהונה נוספת.",
-   "views": 70100,
+   "views": 70400,
    "forwarded_from": null,
    "media": [],
    "title": "תוצאות סופיות לבחירות בברזיל",
@@ -1350,7 +1518,7 @@
    "post": "news0404il/92442",
    "ts": "2026-10-26T00:37:39+00:00",
    "text": "",
-   "views": 632,
+   "views": 633,
    "forwarded_from": null,
    "media": [
     {
@@ -1489,7 +1657,7 @@
    "post": "amitsegal/66163",
    "ts": "2026-10-25T23:00:57+00:00",
    "text": "לקראת פתיחת הקלפיות ביממה הוקרובה, טראמפ קרא לבחור בביבי וציין כי יש להשלים את המשימה שהחלה.",
-   "views": 81000,
+   "views": 81300,
    "forwarded_from": null,
    "media": [],
    "title": "הודעת חיזוק נוספת מנשיא ארצות הברית",
@@ -1501,7 +1669,7 @@
    "post": "behadrey/107513",
    "ts": "2026-10-25T21:59:21+00:00",
    "text": "ראש הממשלה בנימין נתניהו וחבר הכנסת איתמר בן גביר קיימו שיחה עם המפכ״ל בנושא טוהר הבחירות, וזאת יומיים קודם פתיחת קלפיות ההצבעה ולמרות הגבלת השופט סולברג.",
-   "views": 155,
+   "views": 156,
    "forwarded_from": null,
    "media": [
     {
@@ -1704,7 +1872,7 @@
    "post": "abualiexpress/132559",
    "ts": "2026-10-25T20:40:42+00:00",
    "text": "",
-   "views": 80800,
+   "views": 81100,
    "forwarded_from": null,
    "media": [
     {
@@ -1791,7 +1959,7 @@
    "post": "Israel_media_industry/3868",
    "ts": "2026-10-25T20:08:50+00:00",
    "text": "",
-   "views": 248,
+   "views": 249,
    "forwarded_from": null,
    "media": [
     {
@@ -1836,7 +2004,7 @@
    "post": "amitsegal/66162",
    "ts": "2026-10-25T19:57:59+00:00",
    "text": "נתניהו בפטריוטים: מכחיש עימות עם הרמטכ״ל וטוען שיש ״ניסיון למנוע מאיראן לשבש את הבחירות בישראל״",
-   "views": 90500,
+   "views": 90800,
    "forwarded_from": "",
    "media": [],
    "checked": 3,
@@ -1898,7 +2066,7 @@
    "post": "ramreports/216674",
    "ts": "2026-10-25T19:39:00+00:00",
    "text": "דובר משמרות המהפכה,\nבתגובה לאשליות של קופר:\n\n\"זו המציאות בשטח...\"",
-   "views": 18100,
+   "views": 18200,
    "forwarded_from": null,
    "media": [
     {
@@ -1967,7 +2135,7 @@
    "post": "amitsegal/66160",
    "ts": "2026-10-25T19:22:45+00:00",
    "text": "חשיפה של ירון אברהם\n\nעימות חסר תקדים בין הרמטכל לבין ראש הממשלה ביממה האחרונה\n\nהנושא ברקע: הסוגיה האיראנית\nחשש של זמיר שנתניהו והדרג המדיני מובילים לתרחיש של מיסקלקולציה מול איראן רגע לפני הבחירות שעלול להוביל להסלמה דרמטית ומיידית\n\nהידיעה מתפרסמת באישור הצנזורה",
-   "views": 84900,
+   "views": 85200,
    "forwarded_from": "",
    "media": [
     {
@@ -2087,7 +2255,7 @@
    "post": "amitsegal/66157",
    "ts": "2026-10-25T19:00:32+00:00",
    "text": "קמפיין המפלגה הגדולה של איזנקוט מתמקד עכשיו בגליל העליון . מספר 15 שבו הם נאבקים הוא נציג קו העימות ניסן זאבי",
-   "views": 89400,
+   "views": 89700,
    "forwarded_from": null,
    "media": [
     {
@@ -2277,7 +2445,7 @@
    "post": "HiTech_Jobs_In_Israel/137933",
    "ts": "2026-10-25T18:00:04+00:00",
    "text": "Director, AI and HPC Cluster at NVIDIA\nLocation: Israel, Yokneam\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--AI-and-HPC-Cluster_JR2027384?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 226,
+   "views": 227,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2289,7 +2457,7 @@
    "post": "HiTech_Jobs_In_Israel/137932",
    "ts": "2026-10-25T18:00:03+00:00",
    "text": "Commercial Legal Counsel at Mobileye\nLocation: Tel-Aviv, Israel\nPress here https://jobs.eu.lever.co/mobileye/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 225,
+   "views": 226,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2301,7 +2469,7 @@
    "post": "HiTech_Jobs_In_Israel/137931",
    "ts": "2026-10-25T18:00:02+00:00",
    "text": "Product Manager, Banco (Consumer App) at Papaya Global\nLocation: Herzliya\nPress here https://www.papayaglobal.com/positions/product-manager-banco-consumer-app/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 212,
+   "views": 213,
    "forwarded_from": null,
    "media": [
     {
@@ -2319,7 +2487,7 @@
    "post": "HiTech_Jobs_In_Israel/137930",
    "ts": "2026-10-25T18:00:00+00:00",
    "text": "Platform & DevOps Engineer at Pango\nLocation: Petah Tikva, Israel\nPress here https://www.comeet.com/jobs/pango/59.002/platform--devops-engineer/96.47D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 189,
+   "views": 190,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2491,23 +2659,6 @@
      "type": "image",
      "checked": 1,
      "file": "data/media/89ebe37765a5c1f3.jpg"
-    }
-   ],
-   "checked": 3,
-   "title": ""
-  },
-  {
-   "id": "p84f6a6ce64de",
-   "post": "behadrey/107499",
-   "ts": "2026-10-25T17:26:36+00:00",
-   "text": "גבורת הלוחמים > מפתיעים מאחור, חותרים למגע - ומחסלים: תיעוד דרמטי מהפיגוע",
-   "views": 154,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/4973ce65dd1e503d.jpg"
     }
    ],
    "checked": 3,
@@ -2702,7 +2853,7 @@
    "post": "HiTech_Jobs_In_Israel/137928",
    "ts": "2026-10-25T16:00:24+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 217,
+   "views": 218,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2714,7 +2865,7 @@
    "post": "HiTech_Jobs_In_Israel/137927",
    "ts": "2026-10-25T16:00:22+00:00",
    "text": "Physical Design Engineer at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10588281/physical-design-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 208,
+   "views": 209,
    "forwarded_from": null,
    "media": [
     {
@@ -2732,7 +2883,7 @@
    "post": "HiTech_Jobs_In_Israel/137926",
    "ts": "2026-10-25T16:00:20+00:00",
    "text": "Computing HW Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-HW-Engineer_R2629324?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 162,
+   "views": 163,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2744,7 +2895,7 @@
    "post": "HiTech_Jobs_In_Israel/137924",
    "ts": "2026-10-25T16:00:17+00:00",
    "text": "Computing Infrastructure Developer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-Infrastructure-Developer_R2630754?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 147,
+   "views": 148,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2756,7 +2907,7 @@
    "post": "HiTech_Jobs_In_Israel/137925",
    "ts": "2026-10-25T16:00:17+00:00",
    "text": "System Administrator for Computing Qual (testing) at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Administrator-for-Computing-Qual--testing-_R2631233?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 150,
+   "views": 151,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2768,7 +2919,7 @@
    "post": "HiTech_Jobs_In_Israel/137922",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Deep Learning Algorithm Developer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/c359a528-8058-4393-818b-52e162418a58?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 144,
+   "views": 145,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2780,7 +2931,7 @@
    "post": "HiTech_Jobs_In_Israel/137923",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Visual GenAI Research Expert at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/5f2f6179-1784-48cc-bd30-4571ea29aba9?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 147,
+   "views": 148,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2792,7 +2943,7 @@
    "post": "HiTech_Jobs_In_Israel/137921",
    "ts": "2026-10-25T16:00:15+00:00",
    "text": "DevOps Engineer at BigID\nLocation: Tel Aviv\nPress here https://bigid.com/company/careers/job-details/8915290002?gh_jid=8915290002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 145,
+   "views": 146,
    "forwarded_from": null,
    "media": [
     {
@@ -2810,7 +2961,7 @@
    "post": "HiTech_Jobs_In_Israel/137920",
    "ts": "2026-10-25T16:00:11+00:00",
    "text": "Senior Thermal Analysis Engineer at SolarEdge\nLocation: Hamada 1, Herzliya\nPress here https://corporate.solaredge.com/careers/open-positions?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 135,
+   "views": 136,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2834,7 +2985,7 @@
    "post": "HiTech_Jobs_In_Israel/137918",
    "ts": "2026-10-25T16:00:09+00:00",
    "text": "Business Operations Manager at Fiverr\nLocation: Tel Aviv\nPress here https://www.fiverr.com/jobs/QzUuRjY0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 136,
+   "views": 137,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2846,7 +2997,7 @@
    "post": "HiTech_Jobs_In_Israel/137917",
    "ts": "2026-10-25T16:00:08+00:00",
    "text": "Talent Acquisition Specialist – Temporary Position (for 8 months) at DRIVENETS\nLocation: Raanana, Israel\nPress here https://drivenets.com/job/?id=E2.D67&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 141,
+   "views": 142,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2858,7 +3009,7 @@
    "post": "HiTech_Jobs_In_Israel/137916",
    "ts": "2026-10-25T16:00:07+00:00",
    "text": "Senior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Beit Shean\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 145,
+   "views": 146,
    "forwarded_from": null,
    "media": [
     {
@@ -2876,7 +3027,7 @@
    "post": "HiTech_Jobs_In_Israel/137915",
    "ts": "2026-10-25T16:00:03+00:00",
    "text": "Senior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 145,
+   "views": 146,
    "forwarded_from": null,
    "media": [
     {
@@ -2894,7 +3045,7 @@
    "post": "HiTech_Jobs_In_Israel/137914",
    "ts": "2026-10-25T16:00:02+00:00",
    "text": "Junior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Beit Shean\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 161,
+   "views": 162,
    "forwarded_from": null,
    "media": [
     {
@@ -3033,7 +3184,7 @@
    "post": "Israel_media_industry/3866",
    "ts": "2026-10-25T14:27:13+00:00",
    "text": "",
-   "views": 334,
+   "views": 335,
    "forwarded_from": null,
    "media": [
     {
@@ -3666,7 +3817,7 @@
    "post": "AceIsraelofficial/4600",
    "ts": "2026-10-22T12:25:14+00:00",
    "text": "🔥 ירידת מחירים באתר ACE! 🔥\nמגוון פריטים נבחרים במחירים שכדאי לתפוס! 🛒\n🛋 ספה 3 מושבים דומיניק\nרק 1,399 ₪!\n💻 פינת עבודה דגם סייפן\nרק 555 ₪!\n✨ כורסה מעוצבת קליפורניה\nרק 499 ₪!\n🎮 שולחן גיימינג ארגונומי ברוחב 120 ס\"מ\nרק 329 ₪!\n🌿 גלגלת השקיה אוטומטית 15 מטר\nרק 169 ₪!\n💡 צמוד תקרה JADY בקוטר 35 ס\"מ\nרק 79 ₪!\n🪑 סט 4 כיסאות בר מעוצבים דגם Elenora בז'\nרק 979 ₪!\n🛒 לרכישה באתר ACE בלבד\nhttps://tinyurl.com/2u2k6u7h\nתוקף כל מבצע מצוין בעמוד המוצר. בכפוף לתנאי המבצע.",
-   "views": 7020,
+   "views": 7040,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -3692,7 +3843,7 @@
    "post": "Israel_media_industry/3865",
    "ts": "2026-10-22T10:19:27+00:00",
    "text": "",
-   "views": 650,
+   "views": 651,
    "forwarded_from": null,
    "media": [
     {
@@ -4486,7 +4637,7 @@
    "post": "Israel_media_industry/3864",
    "ts": "2026-10-21T05:17:38+00:00",
    "text": "",
-   "views": 691,
+   "views": 692,
    "forwarded_from": null,
    "media": [
     {
