@@ -505,7 +505,7 @@ HEADLINE_PROMPT = (
 )
 HEADLINE_PROMPT += ("\n\nSPELLING: copy every Hebrew abbreviation and name exactly as it is written in the "
                     "post, with its quote mark (use the Hebrew gershayim \u05f4 for abbreviations). "
-                    "Never guess or rebuild a word you are unsure of - reuse the post's own word instead.\n\n")
+                    "Never guess or rebuild a word you are unsure of - reuse the post's own word instead. Write in Hebrew letters only - never Arabic letters.\n\n")
 RESULT_SCHEMA = {"type": "ARRAY", "items": {"type": "OBJECT", "properties": {
     "i": {"type": "INTEGER"}, "block": {"type": "BOOLEAN"}, "t": {"type": "STRING"},
     "r": {"type": "STRING"}},
@@ -536,6 +536,31 @@ def gemini_person_check(texts):
     except Exception as exc:
         log("   ! person filter error: {}".format(str(exc).replace(GEMINI_KEY, "***")[:200]))
         return None
+
+
+# Gemini sometimes slips Arabic letters into Hebrew words, and drops the quote mark of
+# abbreviations (ז"ל -> זל). Both are fixed after the fact against the post's own text.
+ARABIC_RE = re.compile("[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]")
+ABBR_RE = re.compile("[א-ת]+[\"'׳״“”’][א-ת]+")
+
+
+def strip_arabic(t):
+    """Drop every word that contains Arabic letters."""
+    if not t or not ARABIC_RE.search(t):
+        return t
+    return re.sub(r"[ \t]{2,}", " ", " ".join(w for w in t.split(" ") if not ARABIC_RE.search(w))).strip()
+
+
+def restore_abbr(gen, src):
+    """Put back abbreviation quote marks the model dropped, using the source's own spelling."""
+    if not gen or not src:
+        return gen
+    known = {}
+    for w in ABBR_RE.findall(src):
+        known.setdefault(re.sub("[\"'׳״“”’]", "", w), w)
+    if not known:
+        return gen
+    return re.sub("[א-ת]+", lambda m: known.get(m.group(0), m.group(0)), gen)
 
 
 def clean_title(t):
@@ -583,9 +608,12 @@ def person_filter(existing, blocked, state):
             hold_new(pending[start:])
             break
         for it, (block, title, rewrite) in zip(batch, verdicts):
-            it["title"] = title
+            it["title"] = strip_arabic(restore_abbr(title, it["text"]))
+            rewrite = restore_abbr(rewrite, it["text"])
             # news is published in the site's own words, never the source's wording
-            if not block and not it.get("kind") and len(re.sub(r"\W", "", rewrite)) >= 15:
+            # (a rewrite with Arabic letters slipped in is garbled - keep the post as it is)
+            if (not block and not it.get("kind") and not ARABIC_RE.search(rewrite)
+                    and len(re.sub(r"\W", "", rewrite)) >= 15):
                 it["text"] = clean_text(rewrite)
                 it["rw"] = 1
             n_checked += 1
@@ -748,6 +776,11 @@ def main():
         time.sleep(1)
 
     person_filter(existing, blocked, pf_state)
+    for it in existing.values():
+        if it.get("rw"):
+            it["text"] = strip_arabic(it.get("text"))
+        if it.get("title"):
+            it["title"] = strip_arabic(restore_abbr(it["title"], it.get("text")))
     with open(HELD_PATH, "w", encoding="utf-8") as fh:
         json.dump({"posts": HELD}, fh, ensure_ascii=False, indent=1)
     for it in existing.values():
