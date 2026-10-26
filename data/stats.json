@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-26T20:51:33Z",
+ "updated": "2026-10-26T21:11:50Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -36,6 +36,11 @@
    "u": 4,
    "pv": 5,
    "iv": 114
+  },
+  "20261027": {
+   "u": 0,
+   "pv": 0,
+   "iv": 0
   }
  },
  "ads": {
@@ -50,6 +55,7 @@
   "merkaz/299240": 1,
   "haskupim/199207": 1,
   "merkaz/299238": 1,
+  "hamoked_il/214568": 1,
   "RealKikarHashabat/9947": 1,
   "RealKikarHashabat/9944": 1,
   "ramreports/216702": 1,
@@ -61,7 +67,6 @@
   "AceIsraelofficial/4613": 1,
   "behadrey/107523": 1,
   "iBuyIL/27619": 1,
-  "behadrey/107521": 1,
   "SALAMTAK_DEALS/58613": 1,
   "DealIsraeli/61326": 1,
   "jobsHOTjobss/17667": 2,
