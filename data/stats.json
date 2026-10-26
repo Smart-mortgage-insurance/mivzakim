@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-26T20:29:46Z",
+ "updated": "2026-10-26T20:44:21Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -34,8 +34,8 @@
   },
   "20261026": {
    "u": 4,
-   "pv": 4,
-   "iv": 101
+   "pv": 5,
+   "iv": 114
   }
  },
  "ads": {
@@ -43,6 +43,15 @@
   "konim": 2
  },
  "items": {
+  "RealKikarHashabat/9950": 1,
+  "amitsegal/66210": 1,
+  "merkaz/299241": 1,
+  "behadrey/107548": 1,
+  "merkaz/299240": 1,
+  "haskupim/199207": 1,
+  "merkaz/299238": 1,
+  "RealKikarHashabat/9947": 1,
+  "RealKikarHashabat/9944": 1,
   "ramreports/216702": 1,
   "DealIsraeli/61333": 1,
   "abualiexpress/132585": 1,
