@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T17:18:25.044063+00:00",
+ "updated": "2026-10-27T17:20:27.890674+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,6 +134,18 @@
  "count": 345,
  "items": [
   {
+   "id": "p32e8adb33e94",
+   "post": "haskupim/199511",
+   "ts": "2026-10-27T17:18:49+00:00",
+   "text": "פורסמו נתוני ההצבעה ביישובים החרדיים בשעה 16:00, לפיהם באלעד עמדו הנתונים על 59.0 אחוזים, במודיעין עילית על 58.8 אחוזים, בבני ברק על 53.3 אחוזים ובביתר עילית על 52.0 אחוזים. כמו כן צוינו נתוני ההצבעה המעודכנים הכוללים, בהם אלעד עם 71.2 אחוזים, מודיעין עילית עם 69.8 אחוזים, בני ברק עם 64.3 אחוזים וביתר עילית עם 63.6 אחוזים. בערים המעורבות עמדו הנתונים לכלל העיר על 47.7 אחוזים בירושלים ו-47.1 אחוזים בבית שמש.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [],
+   "title": "נתוני אחוזי ההצבעה בערים החרדיות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "p77c7bcd0ea7b",
    "post": "RealKikarHashabat/10128",
    "ts": "2026-10-27T17:15:50+00:00",
@@ -156,7 +168,7 @@
    "post": "abualiexpress/132677",
    "ts": "2026-10-27T17:13:35+00:00",
    "text": "לדברי העיתונאי מחמד מג'אדלה נרשמה השתתפות חסרת תקדים בקלפיות ברהט.",
-   "views": 9330,
+   "views": 13500,
    "forwarded_from": null,
    "media": [
     {
@@ -174,7 +186,7 @@
    "post": "behadrey/107589",
    "ts": "2026-10-27T17:10:40+00:00",
    "text": "במחנה הימין מביעים דאגה מפני הזינוק בשיעור ההצבעה במגזר הערבי והשלכותיו האפשריות על חלוקת המנדטים.",
-   "views": 22,
+   "views": 24,
    "forwarded_from": null,
    "media": [
     {
@@ -192,7 +204,7 @@
    "post": "merkaz/299421",
    "ts": "2026-10-27T17:09:59+00:00",
    "text": "פורסמו נתוני ההצבעה לפי קלפיות, המציגים השוואה לאחוז הקולות שקיבל המחנה בבחירות הקודמות.",
-   "views": 223,
+   "views": 254,
    "forwarded_from": null,
    "media": [
     {
@@ -210,7 +222,7 @@
    "post": "behadrey/107588",
    "ts": "2026-10-27T17:05:56+00:00",
    "text": "מועצת הבחירות המרכזית עדכנה כי מספר המצביעים עבר את סך כל האנשים שהצביעו בפועל במערכת הבחירות הקודמת, כאשר מספרם מתקרב לחמישה מיליון.",
-   "views": 41,
+   "views": 42,
    "forwarded_from": null,
    "media": [
     {
@@ -228,7 +240,7 @@
    "post": "abualiexpress/132676",
    "ts": "2026-10-27T17:04:24+00:00",
    "text": "עד השעה 18:00 הצביעו 66.7 אחוזים, מדובר בגידול של 9 אחוזים בהשוואה לשעה המקבילה בבחירות הקודמות.",
-   "views": 14500,
+   "views": 16600,
    "forwarded_from": "",
    "media": [],
    "title": "נתוני הצבעה נכון לשעה שמונה עשרה",
@@ -240,7 +252,7 @@
    "post": "amitsegal/66308",
    "ts": "2026-10-27T17:03:57+00:00",
    "text": "עד השעה 18:00 כבר השתתפו בהצבעה מספר אזרחים רב יותר מאשר בכל מערכת הבחירות של שנת 2022.",
-   "views": 36400,
+   "views": 39500,
    "forwarded_from": null,
    "media": [],
    "title": "שיא אחוזי הצבעה בהשוואה לבחירות קודמות",
@@ -252,7 +264,7 @@
    "post": "amitsegal/66307",
    "ts": "2026-10-27T17:03:55+00:00",
    "text": "בקרוב יתחיל דיון בשאלה האם להאריך את זמן ההצבעה.",
-   "views": 34300,
+   "views": 36400,
    "forwarded_from": null,
    "media": [],
    "title": "דיון על הארכת שעות ההצבעה",
@@ -264,7 +276,7 @@
    "post": "merkaz/299419",
    "ts": "2026-10-27T17:01:56+00:00",
    "text": "בשעה שמונה עשרה עמד שיעור ההצבעה על שישים ושבעה אחוזים ותשע עשיריות האחוז. מדובר בשיא חדש לעומת מערכות בחירות קודמות.",
-   "views": 191,
+   "views": 221,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני הצבעה בשעה שמונה עשרה",
@@ -276,7 +288,7 @@
    "post": "behadrey/107587",
    "ts": "2026-10-27T17:01:40+00:00",
    "text": "נמשכת העלייה באחוזי ההצבעה, כאשר בשעה שמונה עשרה נרשמו שישים ושבעה אחוזים ותשע עשיריות האחוז.",
-   "views": 52,
+   "views": 53,
    "forwarded_from": null,
    "media": [
     {
@@ -312,7 +324,7 @@
    "post": "ramreports/216810",
    "ts": "2026-10-27T17:00:13+00:00",
    "text": "התרחש פיצוץ ברכב בפתח תקווה.",
-   "views": 5070,
+   "views": 5380,
    "forwarded_from": null,
    "media": [
     {
@@ -335,7 +347,7 @@
    "post": "amitsegal/66306",
    "ts": "2026-10-27T16:59:49+00:00",
    "text": "נתוני ההצבעה הנוכחיים הם הגבוהים ביותר מזה זמן רב.",
-   "views": 43600,
+   "views": 45700,
    "forwarded_from": null,
    "media": [],
    "title": "אחוזי הצבעה גבוהים בבחירות",
@@ -347,7 +359,7 @@
    "post": "amitsegal/66305",
    "ts": "2026-10-27T16:59:35+00:00",
    "text": "נתוני ההצבעה לשעה שמונה עשרה מראים על שישים ושבעה אחוזים ותשע עשיריות האחוז. נרשמה עלייה של תשעה אחוזים בהשוואה לשעה זו במערכת הבחירות הקודמת.",
-   "views": 56100,
+   "views": 59200,
    "forwarded_from": null,
    "media": [],
    "title": "עדכון אחוזי הצבעה לשעה שמונה עשרה",
@@ -359,7 +371,7 @@
    "post": "abualiexpress/132675",
    "ts": "2026-10-27T16:56:56+00:00",
    "text": "לפי נתוני הרשימה המשותפת, המשטרה תפסה קלפיות ביישוב ערערה שבנגב והפסיקה את תהליך ההצבעה במקום.",
-   "views": 36200,
+   "views": 39400,
    "forwarded_from": null,
    "media": [],
    "title": "תפיסת קלפיות בערערה בנגב",
@@ -371,7 +383,7 @@
    "post": "merkaz/299418",
    "ts": "2026-10-27T16:56:53+00:00",
    "text": "למרות מצבו הבריאותי המוחלש, האדמו\"ר מויזניץ שליט\"א הגיע להצביע במושב אורה וקרא לפעול לחיזוק מעמד היהדות החרדית ולקידוש שם שמים.",
-   "views": 284,
+   "views": 314,
    "forwarded_from": null,
    "media": [
     {
@@ -394,7 +406,7 @@
    "post": "haskupim/199510",
    "ts": "2026-10-27T16:55:21+00:00",
    "text": "גדי איזנקוט מסר כי נותרו שלוש שעות וחצי לסיום ההצבעה והמירוץ מול נתניהו צמוד ביותר. הוא קרא לציבור לצאת להצביע לפתק דרך כדי להוביל לשינוי ולגבור על הליכוד.",
-   "views": 117,
+   "views": 131,
    "forwarded_from": null,
    "media": [
     {
@@ -412,7 +424,7 @@
    "post": "merkaz/299417",
    "ts": "2026-10-27T16:55:03+00:00",
    "text": "לקראת נעילת הקלפיות ציין חבר הכנסת יצחק פינדרוס כי נרשמים שיעורי הצבעה שלא נראו כמותם בעבר.",
-   "views": 252,
+   "views": 282,
    "forwarded_from": null,
    "media": [
     {
@@ -435,7 +447,7 @@
    "post": "SALAMTAK_DEALS/58623",
    "ts": "2026-10-27T16:50:10+00:00",
    "text": "המברגה הקטנה של Bosch, שכל בית צריך! 🔧\nמברגה חשמלית של Bosch Go 3 🔋\n\n💡 תאורת לד מובנית לעבודה בפינות חשוכות\n⚙️ דרגות מומנט, מברגים עדין או חזק\n👆 מתחילה לעבוד בלחיצה או בדחיפה על הבורג\n🔌 נטענת בכבל USB-C\n🧰 בקופסה ערכת ביטים, מחזיק ותיק\n\nמאמזון ארה\"ב 🇺🇸: $72.99 (כ-₪226), משלוח חינם עד הבית 🚚\nבארץ עולה כ-₪300\nלינק 👇\nhttps://salamtak.deals/archives/50656\n\nבקיצור, להרכבת רהיטים ולכל תיקון קטן בבית 👌",
-   "views": 382,
+   "views": 395,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -453,7 +465,7 @@
    "post": "haskupim/199506",
    "ts": "2026-10-27T16:50:00+00:00",
    "text": "פורסמו נתוני אחוזי ההצבעה עבור עשרים הערים הגדולות.",
-   "views": 137,
+   "views": 139,
    "forwarded_from": null,
    "media": [
     {
@@ -484,7 +496,7 @@
    "post": "haskupim/199505",
    "ts": "2026-10-27T16:49:14+00:00",
    "text": "עופר וינטר הצטרף לראש הממשלה בדרישה להאריך את שעות ההצבעה.",
-   "views": 133,
+   "views": 136,
    "forwarded_from": null,
    "media": [],
    "title": "וינטר מצטרף לבקשת נתניהו",
@@ -508,7 +520,7 @@
    "post": "abualiexpress/132674",
    "ts": "2026-10-27T16:45:01+00:00",
    "text": "פורסמו נתוני ההצבעה המעודכנים בקרב משרתי צהל בהשוואה לנתונים מבחירות קודמות.",
-   "views": 48500,
+   "views": 49500,
    "forwarded_from": null,
    "media": [
     {
@@ -597,7 +609,7 @@
    "post": "merkaz/299411",
    "ts": "2026-10-27T16:38:45+00:00",
    "text": "המועמד לכנסת יהודה ויספייש אמר במפגש במטה בחורי הישיבות בבני ברק כי גם המנדט השביעי של יהדות התורה נמצא בסכנה",
-   "views": 351,
+   "views": 381,
    "forwarded_from": null,
    "media": [],
    "missing": "video",
@@ -610,7 +622,7 @@
    "post": "merkaz/299410",
    "ts": "2026-10-27T16:36:47+00:00",
    "text": "עלייה בהצבעה בצה\"ל: 68% מהמשרתים הצביעו עד השעה 17:00, לעומת 65% באותה שעה בבחירות לכנסת ה-25.",
-   "views": 396,
+   "views": 426,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני הצבעה בצה\"ל",
@@ -632,7 +644,7 @@
    "post": "merkaz/299409",
    "ts": "2026-10-27T16:34:54+00:00",
    "text": "נשיאות ועדת הבחירות המרכזית תתכנס בשעה 19:15 לדיון בבקשות מטעם סיעות הקואליציה בנוגע להארכת הבחירות, כאשר סיעות האופוזיציה מתנגדות לכך",
-   "views": 371,
+   "views": 401,
    "forwarded_from": null,
    "media": [],
    "title": "דיון בבקשת הארכת הבחירות",
@@ -656,7 +668,7 @@
    "post": "haskupim/199503",
    "ts": "2026-10-27T16:30:32+00:00",
    "text": "אריאל כהנא מעדכן כי השנה ישנם כשיש מאות אלף מעטפות כפולות המהוות כ-15 מנדטים. הספירה תיחתם ביום חמישי ותשפיע רוחבית על מפת המנדטים ועל סף הכניסה.",
-   "views": 179,
+   "views": 180,
    "forwarded_from": null,
    "media": [],
    "title": "הערכת מנדטים מהמעטפות הכפולות",
@@ -668,7 +680,7 @@
    "post": "haskupim/199502",
    "ts": "2026-10-27T16:29:32+00:00",
    "text": "בנימין נתניהו הגיש פנייה חריגה לוועדת הבחירות. מיכאל שמש מדווח כי קיימים שלושה תרחישים אפשריים לבקשה זו, כאשר נתון אחד בלבד כבר ידוע כעת.",
-   "views": 184,
+   "views": 187,
    "forwarded_from": null,
    "media": [
     {
@@ -691,7 +703,7 @@
    "post": "haskupim/199501",
    "ts": "2026-10-27T16:27:37+00:00",
    "text": "הרבנית מבעלזא הגיעה לקלפי על מנת להצביע בבחירות, בתיעוד שפרסם משה ויסברג.",
-   "views": 180,
+   "views": 181,
    "forwarded_from": null,
    "media": [
     {
@@ -721,7 +733,7 @@
    "post": "haskupim/199500",
    "ts": "2026-10-27T16:24:45+00:00",
    "text": "ראש הממשלה בנימין נתניהו אמר כי אנחנו מנצחים",
-   "views": 173,
+   "views": 175,
    "forwarded_from": null,
    "media": [],
    "title": "אמירת ראש הממשלה נתניהו",
@@ -751,7 +763,7 @@
    "post": "haskupim/199499",
    "ts": "2026-10-27T16:22:07+00:00",
    "text": "ועדת הבחירות צפויה להתכנס בעוד כשעה כדי לדון בבקשה להארכת מועד ההצבעה",
-   "views": 181,
+   "views": 182,
    "forwarded_from": null,
    "media": [],
    "title": "כינוס ועדת הבחירות",
@@ -763,7 +775,7 @@
    "post": "haskupim/199498",
    "ts": "2026-10-27T16:21:26+00:00",
    "text": "ראש הממשלה בנימין נתניהו פרסם סרטון נוסף המצורף לתיעוד",
-   "views": 183,
+   "views": 184,
    "forwarded_from": null,
    "media": [
     {
@@ -786,7 +798,7 @@
    "post": "SALAMTAK_DEALS/58622",
    "ts": "2026-10-27T16:21:01+00:00",
    "text": "מטען 70W עם 3 יציאות במחיר של מטען רגיל! ⚡\nמטען GaN של Vention 🔌\n\n⚡ הספק של 70W, מספיק גם למקבוק אייר\n🔌 שלוש יציאות לטעינה של כמה מכשירים ביחד\n📱 טעינה מהירה לאייפון, לאייפד ולטאבלט\n🧳 קטן בכשליש ממטען רגיל, נוח לתיק\n\nמאליאקספרס 🇨🇳: כ-₪53 עם קוד FEXIL8 בקופה, משלוח חינם 🚚\nלינק 👇\nhttps://salamtak.deals/archives/50658\n\nבקיצור, מטען אחד לכל המכשירים בבית 👌",
-   "views": 616,
+   "views": 628,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -822,7 +834,7 @@
    "post": "haskupim/199496",
    "ts": "2026-10-27T16:18:29+00:00",
    "text": "בדיווח של יקי אדמקר צוטט ראש הממשלה בנימין נתניהו באומרו כי הפער נסגר חלקית בלבד",
-   "views": 162,
+   "views": 164,
    "forwarded_from": null,
    "media": [],
    "title": "נתניהו התייחס לצמצום הפערים",
@@ -852,7 +864,7 @@
    "post": "iBuyIL/27647",
    "ts": "2026-10-27T16:16:27+00:00",
    "text": "היום המבצעים זורמים אלינו כמו מים 🚿 והפעם בגיזרת מערומי הארגזים אנחנו נהנים משלישיית ארגזי סטאנלי, דומים מאוד אך מעט שונים מסדרת הTSTAK, עם תפסניות מתכת, קליפסים לחיבור מודולרי בין הארגזים וכל זה עם ידית טלסקופית וגלגלים גדולים לניוד קל ונוח ✌️\n\nיש לי את הארגז הקטן מבין הטריו הנ''ל והוא ללא ספק נותן פייט לטיסטאק הותיק והאהוב!\n\n💳 מחיר חיסול בלעדי עם הקופון: 589₪ במקום 643₪\n✂️ קוד קופון בלעדי: ADICOKSP\n\n🛍 קישור להזמנה:\nhttps://newtools.co.il/stanley-stst83319-1\n\n✅ ארגז כלים XL לכלי עבודה חשמליים וחומרים.\n✅ ארגז כלים בינוני לכלי עבודה ידניים עם מגש נשלף.\n✅ ארגז כלים קטן לחלקים קטנים ותוספים.\n✅ עמיד בפני פגעי מזג האוויר ושומר בקנאות על כלי העבודה שבפנים.\n\n👈 נתונים טכניים עיקריים:\n• סוגרים ממתכת עמידים במיוחד.\n• נפח כולל של 80 ליטרים ומשקל נשיאה מירבי של 45 קילוגרמים.\n• ידית טלסקופית בעובי 35 ממ.\n• גלגלים בגודל 7 גדולים ועמידים במיוחד.\n\nלדיון בפוסט https://www.facebook.com/share/p/1EyunN51BW/",
-   "views": 715,
+   "views": 726,
    "forwarded_from": null,
    "media": [
     {
@@ -870,7 +882,7 @@
    "post": "haskupim/199495",
    "ts": "2026-10-27T16:16:24+00:00",
    "text": "העיתונאי בן כספית נראה ברחובות",
-   "views": 162,
+   "views": 163,
    "forwarded_from": null,
    "media": [
     {
@@ -965,7 +977,7 @@
    "post": "ramreports/216809",
    "ts": "2026-10-27T16:08:32+00:00",
    "text": "בוחרים מתבקשים לצאת להצביע למפלגת הליכוד.",
-   "views": 12400,
+   "views": 12700,
    "forwarded_from": "",
    "media": [],
    "missing": "video",
@@ -978,7 +990,7 @@
    "post": "haskupim/199492",
    "ts": "2026-10-27T16:08:05+00:00",
    "text": "מספר ילדים ביצעו מעשה השחתה בדלת ביתו של מוטי לייטנר, יו״ר מפלגת הציבור החרדי.",
-   "views": 180,
+   "views": 181,
    "forwarded_from": null,
    "media": [
     {
@@ -996,7 +1008,7 @@
    "post": "RealKikarHashabat/10118",
    "ts": "2026-10-27T16:08:02+00:00",
    "text": "פורסמו נתונים ופילוחים ממערכת בחירות 2022 הכוללים את השכונות והערים שניבאו את תוצאות האמת.",
-   "views": 11,
+   "views": 12,
    "forwarded_from": null,
    "media": [
     {
@@ -1050,7 +1062,7 @@
    "post": "RealKikarHashabat/10117",
    "ts": "2026-10-27T16:06:24+00:00",
    "text": "האדמו״ר מויז׳ניץ מימש את זכותו והצביע בקלפי במושב אורה, כשהוא מלווה בחבר הכנסת יעקב טסלר.",
-   "views": 8,
+   "views": 9,
    "forwarded_from": null,
    "media": [
     {
@@ -1104,7 +1116,7 @@
    "post": "amitsegal/66304",
    "ts": "2026-10-27T16:04:19+00:00",
    "text": "שיעורי ההצבעה במגזר החרדי דומים לשנת 2022, למעט יישוב בית״ר עילית שבו דווחה ירידה משיעור של 81.34% ל-72.72%",
-   "views": 79900,
+   "views": 81000,
    "forwarded_from": "",
    "media": [
     {
@@ -1140,7 +1152,7 @@
    "post": "abualiexpress/132673",
    "ts": "2026-10-27T16:03:24+00:00",
    "text": "רשת שמרת הזורע מציעה מבצעי בחירות על רהיטים באתר ובסניפים בהתאם לתנאים",
-   "views": 63100,
+   "views": 64099,
    "forwarded_from": null,
    "media": [
     {
@@ -1158,7 +1170,7 @@
    "post": "RealKikarHashabat/10116",
    "ts": "2026-10-27T16:02:49+00:00",
    "text": "במרכזי הערים נרשמו שיעורי ההצבעה הבאים: תל אביב 50 אחוז, ירושלים 48 אחוז, באר שבע 47 אחוז, חיפה 46 אחוז וראשון לציון 51 אחוז. ביישובים המזוהים עם הליכוד נרשמו הנתונים הבאים: עפולה 51 אחוז, אשקלון 49 אחוז, מגדל העמק 50 אחוז, בת ים 40 אחוז, טבריה 47 אחוז וחולון 49 אחוז",
-   "views": 10,
+   "views": 11,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני הצבעה בערים שונות",
@@ -1194,22 +1206,10 @@
    "post": "RealKikarHashabat/10115",
    "ts": "2026-10-27T16:01:48+00:00",
    "text": "איזנקוט הביע התנגדות נחרצת לבקשת הליכוד להאריך את שעות ההצבעה וטע כי אין לכך הצדקה",
-   "views": 10,
+   "views": 11,
    "forwarded_from": null,
    "media": [],
    "title": "התנגדות להארכת שעות ההצבעה",
-   "rw": 1,
-   "checked": 3
-  },
-  {
-   "id": "pf216048441ce",
-   "post": "haskupim/199484",
-   "ts": "2026-10-27T16:01:22+00:00",
-   "text": "מוטי קסטל ציין כי קמפיין הבחירות פועל בעוצמה בקרב האוכלוסייה הערבית",
-   "views": 131,
-   "forwarded_from": null,
-   "media": [],
-   "title": "הערכה על קמפיין הבחירות",
    "rw": 1,
    "checked": 3
   },
@@ -1218,7 +1218,7 @@
    "post": "RealKikarHashabat/10114",
    "ts": "2026-10-27T16:01:19+00:00",
    "text": "האדמור מגור הגיע לקלפי לממש את זכות ההצבעה",
-   "views": 11,
+   "views": 12,
    "forwarded_from": null,
    "media": [
     {
@@ -1254,7 +1254,7 @@
    "post": "RealKikarHashabat/10113",
    "ts": "2026-10-27T15:56:51+00:00",
    "text": "תיעוד ממערכת הבחירות מציג את האדמו״ר מויזניץ בעת הצבעתו בקלפי במושב אורה, יחד עם חבר הכנסת יעקב טסלר.",
-   "views": 10,
+   "views": 11,
    "forwarded_from": null,
    "media": [
     {
@@ -1302,7 +1302,7 @@
    "post": "merkaz/299401",
    "ts": "2026-10-27T15:52:40+00:00",
    "text": "נתוני חברת שבא מלמדים כי בין השעות 8:00 ל-17:00 ביום הבחירות הגיע היקף ההוצאות ליותר מ-1.141 מיליארד שקלים, המהווים גידול בשיעור של 41.2% בהשוואה למערכת הבחירות בשנת 2022.",
-   "views": 491,
+   "views": 521,
    "forwarded_from": null,
    "media": [],
    "title": "זינוק חד בהוצאות אשראי ביום הבחירות",
@@ -1344,7 +1344,7 @@
    "post": "RealKikarHashabat/10112",
    "ts": "2026-10-27T15:50:30+00:00",
    "text": "ראש הממשלה בנימין נתניהו ובצלאל סמוטריץ קיימו כינוס חירום על רקע חשש מהפסד בבחירות.",
-   "views": 10,
+   "views": 11,
    "forwarded_from": null,
    "media": [
     {
@@ -1380,7 +1380,7 @@
    "post": "abualiexpress/132671",
    "ts": "2026-10-27T15:48:15+00:00",
    "text": "תיעוד חריג מראה חילופי מכות בסביבת קלפי ברהט. על פי ההערכות המסתמנות, מדובר בהתנגשויות בין אנשים שהמתינו בתור להצבעה.",
-   "views": 67700,
+   "views": 68700,
    "forwarded_from": null,
    "media": [
     {
@@ -1398,7 +1398,7 @@
    "post": "behadrey/107583",
    "ts": "2026-10-27T15:48:08+00:00",
    "text": "הנתונים העדכניים על שיעורי ההצבעה ברחבי הארץ מתפרסמים בשעות הקריטיות לקראת ההכרעה.",
-   "views": 97,
+   "views": 98,
    "forwarded_from": null,
    "media": [
     {
@@ -1416,7 +1416,7 @@
    "post": "RealKikarHashabat/10111",
    "ts": "2026-10-27T15:45:25+00:00",
    "text": "במסגרת הבחירות 2026, ומשיקולי אבטחה, מימש אמיר אוחנה את זכות ההצבעה שלו במוסד הלימודים שבו למד בימי ילדותו ולא בקרבת מקום מגוריו.",
-   "views": 10,
+   "views": 11,
    "forwarded_from": null,
    "media": [
     {
@@ -1434,7 +1434,7 @@
    "post": "iBuyIL/27646",
    "ts": "2026-10-27T15:38:04+00:00",
    "text": "אמאל'ה זוג סילוניות ב17.98$ כולל שליח?! עוד שניה מקבלים גם שובר לספא מתנה 🤣🤣🤣\n\nיש להוסיף 2 סילוניות לעגלה, לממש קוד קופון מצורף ולקבל משלוח חינם עד הבית בלי להוסיף כלום!!!\n\n😱🔥 דחוף דחוף להזמיןןןן!!! ההיסטוריה חוזרת ובענק!\n\nמכשיר סילון מים נטען לניקוי שיניים וחניכיים COSLUS C20 Water Dental Flosser בצבע שחור\n\nכולל 5 ראשים מתחלפים, 3 מצבי פעולה, עמידות במים בתקן IPX7 במחיר מטורלל לחלוטין 🖐😵\n\n8.99$ / 28₪ לסילונית !!\n17 98$ / 56₪ לצמד סילוניות!\n\n✈️ משלוח חינם בקנייה בקניית צמד בלבד ‼️‼️‼️‼️\n\n‌🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/coslus-water-dental-flosser\n\nהמפרט המלא בפוסט https://www.facebook.com/share/p/1bCzxsKrgY/",
-   "views": 915,
+   "views": 924,
    "forwarded_from": null,
    "media": [
     {
@@ -1470,7 +1470,7 @@
    "post": "RealKikarHashabat/10110",
    "ts": "2026-10-27T15:32:13+00:00",
    "text": "מטעם סיעת הליכוד הוגשה בקשה רשמית להאריך את פעילות הקלפיות ושעות ההצבעה",
-   "views": 12,
+   "views": 13,
    "forwarded_from": null,
    "media": [],
    "title": "בקשת הליכוד להארכת ההצבעה",
@@ -1482,7 +1482,7 @@
    "post": "amitsegal/66301",
    "ts": "2026-10-27T15:27:11+00:00",
    "text": "אחוזי ההצבעה בערים המזוהות עם הליכוד הם כדלקמן: בעפולה חמישים ואחד אחוז, באשקלון ארבעים ותשעה אחוז, במגדל העמק חמישים אחוז, בבת ים ארבעשים אחוז, בטבריה ארבעים ושבע אחוז, ובחולון ארבעים ותשעה אחוז.",
-   "views": 91300,
+   "views": 92400,
    "forwarded_from": "",
    "media": [],
    "title": "נתוני הצבעה בערים מזוהות",
@@ -1494,7 +1494,7 @@
    "post": "amitsegal/66300",
    "ts": "2026-10-27T15:27:02+00:00",
    "text": "אחוזי ההצבעה בערים הגדולות עומדים על: תל אביב חמישים אחוז, ירושלים ארבעים ושמונה אחוז, באר שבע ארבעים ושבע אחוז, חיפה ארבעים וששה אחוז, וראשון לציון חמישים ואחד אחוז.",
-   "views": 89200,
+   "views": 90200,
    "forwarded_from": "",
    "media": [],
    "title": "פילוחי הצבעה בערים גדולות",
@@ -1506,7 +1506,7 @@
    "post": "RealKikarHashabat/10108",
    "ts": "2026-10-27T15:24:00+00:00",
    "text": "לקראת סיום הבחירות לשנת 2026, קראו לציבור לצאת להצביע, בעוד הליכוד הגיש בקשה להאריך את שעות פעילות הקלפיות.",
-   "views": 9,
+   "views": 10,
    "forwarded_from": null,
    "media": [
     {
@@ -1524,7 +1524,7 @@
    "post": "abualiexpress/132670",
    "ts": "2026-10-27T15:23:55+00:00",
    "text": "יום לאחר ניצחון השמאל בבחירות בברזיל, הורה שופט בית המשפט העליון במדינה, פלאביו דינו, למשטרה הפדרלית לפתוח בחקירה. החקירה הוגדרה בחשד למימון זר של קמפיין הבחירות לנשיאות של מועמד הימין פלאביו בולסונארו וכן בחשד למניפולציות באלגוריתמים של הרשתות החברתיות במהלך ההתמודדות. בנוסף, הועלו ברשתות החברתיות דיווחים שאינם מאומתים אודות בריחתו של בולסנארו מברזיל מתוך חשש מפני מערכת המשפט.",
-   "views": 70800,
+   "views": 71800,
    "forwarded_from": null,
    "media": [
     {
@@ -1650,7 +1650,7 @@
    "post": "amitsegal/66294",
    "ts": "2026-10-27T15:00:10+00:00",
    "text": "שיעור ההצבעה הגיע ל-55.7 אחוזים נכון לשעה 16:00.",
-   "views": 94500,
+   "views": 95500,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני ההצבעה לשעה 1600",
@@ -1662,7 +1662,7 @@
    "post": "SALAMTAK_DEALS/58621",
    "ts": "2026-10-27T14:56:58+00:00",
    "text": "שייק טרי בכל מקום, בלי חשמל! 🥤🍓\nבלנדר נייד של Ninja Blast Max 🔋\n\n💪 מנוע חזק שמרסק קרח ופירות קפואים בשניות\n🔋 סוללה לעד 25 שימושים בטעינה אחת\n🥤 כוס של 650 מ\"ל עם מכסה שתייה וידית\n🎛️ שלושה מצבים: קרח, שייק וידני\n🎨 מבחר צבעים במשלוח חינם\n\n⚠️ שימו לב: המטען שמגיע בקופסה לא מתאים לחשמל בארץ.\nהבלנדר נטען בכבל USB רגיל, אז פשוט משתמשים במטען של הטלפון 🔌\n\nמאמזון ארה\"ב 🇺🇸: כ-₪186 ($59.99), משלוח חינם עד הבית 🚚\nלינק 👇\nhttps://salamtak.deals/archives/50631\n\nבקיצור, מושלם לחדר כושר, לעבודה ולטיולים 👌",
-   "views": 902,
+   "views": 905,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2069,7 +2069,7 @@
    "post": "abualiexpress/132663",
    "ts": "2026-10-27T12:44:04+00:00",
    "text": "תושבים מחברון שפונו מבתיהם ביום שישי עקב פיגוע הירי הקטלני מנסים לחזור למקום, אך חיילי צה",
-   "views": 80600,
+   "views": 80700,
    "forwarded_from": null,
    "media": [],
    "missing": "video",
@@ -2788,7 +2788,7 @@
    "post": "Israel_media_industry/3869",
    "ts": "2026-10-27T05:51:20+00:00",
    "text": "",
-   "views": 236,
+   "views": 237,
    "forwarded_from": null,
    "media": [
     {
@@ -3158,7 +3158,7 @@
    "post": "Israel_media_industry/3868",
    "ts": "2026-10-25T20:08:50+00:00",
    "text": "",
-   "views": 408,
+   "views": 409,
    "forwarded_from": null,
    "media": [
     {
@@ -3270,7 +3270,7 @@
    "post": "HiTech_Jobs_In_Israel/137932",
    "ts": "2026-10-25T18:00:03+00:00",
    "text": "Commercial Legal Counsel at Mobileye\nLocation: Tel-Aviv, Israel\nPress here https://jobs.eu.lever.co/mobileye/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 337,
+   "views": 338,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3282,7 +3282,7 @@
    "post": "HiTech_Jobs_In_Israel/137931",
    "ts": "2026-10-25T18:00:02+00:00",
    "text": "Product Manager, Banco (Consumer App) at Papaya Global\nLocation: Herzliya\nPress here https://www.papayaglobal.com/positions/product-manager-banco-consumer-app/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 320,
+   "views": 321,
    "forwarded_from": null,
    "media": [
     {
@@ -3402,7 +3402,7 @@
    "post": "HiTech_Jobs_In_Israel/137928",
    "ts": "2026-10-25T16:00:24+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 279,
+   "views": 280,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3414,7 +3414,7 @@
    "post": "HiTech_Jobs_In_Israel/137927",
    "ts": "2026-10-25T16:00:22+00:00",
    "text": "Physical Design Engineer at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10588281/physical-design-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 258,
+   "views": 259,
    "forwarded_from": null,
    "media": [
     {
@@ -3432,7 +3432,7 @@
    "post": "HiTech_Jobs_In_Israel/137926",
    "ts": "2026-10-25T16:00:20+00:00",
    "text": "Computing HW Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-HW-Engineer_R2629324?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 208,
+   "views": 209,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3468,7 +3468,7 @@
    "post": "HiTech_Jobs_In_Israel/137922",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Deep Learning Algorithm Developer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/c359a528-8058-4393-818b-52e162418a58?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 183,
+   "views": 184,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3480,7 +3480,7 @@
    "post": "HiTech_Jobs_In_Israel/137923",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Visual GenAI Research Expert at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/5f2f6179-1784-48cc-bd30-4571ea29aba9?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 187,
+   "views": 188,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3492,7 +3492,7 @@
    "post": "HiTech_Jobs_In_Israel/137921",
    "ts": "2026-10-25T16:00:15+00:00",
    "text": "DevOps Engineer at BigID\nLocation: Tel Aviv\nPress here https://bigid.com/company/careers/job-details/8915290002?gh_jid=8915290002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 184,
+   "views": 185,
    "forwarded_from": null,
    "media": [
     {
@@ -3510,7 +3510,7 @@
    "post": "HiTech_Jobs_In_Israel/137920",
    "ts": "2026-10-25T16:00:11+00:00",
    "text": "Senior Thermal Analysis Engineer at SolarEdge\nLocation: Hamada 1, Herzliya\nPress here https://corporate.solaredge.com/careers/open-positions?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 170,
+   "views": 171,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3522,7 +3522,7 @@
    "post": "HiTech_Jobs_In_Israel/137919",
    "ts": "2026-10-25T16:00:10+00:00",
    "text": "Business Applications Manager at Personetics\nLocation: Tel Aviv, Israel\nPress here https://personetics.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 165,
+   "views": 166,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3534,7 +3534,7 @@
    "post": "HiTech_Jobs_In_Israel/137918",
    "ts": "2026-10-25T16:00:09+00:00",
    "text": "Business Operations Manager at Fiverr\nLocation: Tel Aviv\nPress here https://www.fiverr.com/jobs/QzUuRjY0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 175,
+   "views": 176,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3558,7 +3558,7 @@
    "post": "HiTech_Jobs_In_Israel/137916",
    "ts": "2026-10-25T16:00:07+00:00",
    "text": "Senior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Beit Shean\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 180,
+   "views": 181,
    "forwarded_from": null,
    "media": [
     {
@@ -3594,7 +3594,7 @@
    "post": "HiTech_Jobs_In_Israel/137914",
    "ts": "2026-10-25T16:00:02+00:00",
    "text": "Junior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Beit Shean\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 200,
+   "views": 201,
    "forwarded_from": null,
    "media": [
     {
@@ -3942,7 +3942,7 @@
    "post": "AceIsraelofficial/4605",
    "ts": "2026-10-23T08:41:14+00:00",
    "text": "האמבטיה שלכם תאהב את זה! 🛁😍\nארון חדש, מראה מרענן ואקסטרה 10% הנחה נוספת על מגוון ארונות אמבטיה עד מחר באתר! 💥\nהטבה מיוחדת רק לחברי הערוץ שלנו!\n\nלהנפקת קופון אישי » https://lp6.me/5ofAY\n\nלרכישה באתר » https://tinyurl.com/2utb6fjh\n\nתקף באתר בלבד עד 24.10.26 / עד גמר המלאי, כפוף לתקנון https://www.ace.co.il/telegraextra10_bathroom_cabinet",
-   "views": 8100,
+   "views": 8109,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4019,7 +4019,7 @@
    "post": "AceIsraelofficial/4601",
    "ts": "2026-10-22T14:29:14+00:00",
    "text": "🚨 בגלל התקלה, הרווחתם עוד יומיים של מבצעים!\nלא הספקתם לנצל את המחירים? דאגנו לכם להארכה מיוחדת עד שבת בלבד! 🔥\n☕️ מכונת אספרסו 1 ב 5 HOMEX\n💥 רק 399 ₪ במקום 899 ₪\n💰 חוסכים 500 ₪!\n🚚 כולל משלוח חינם!\n🧹 שואב שוטף אלחוטי חכם NEOVIX XV-13 MAX\n💥 רק 599 ₪ במקום 729 ₪\n💰 חוסכים 130 ₪!\n⏰ רק עד שבת! הזדמנות נוספת לתפוס את המחירים לפני שהם נגמרים 🛒\nhttps://tinyurl.com/34uh9had\nבאתר בלבד עד 24.10 / גמר המלאי",
-   "views": 7910,
+   "views": 7920,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4086,7 +4086,7 @@
    "post": "Israel_media_industry/3865",
    "ts": "2026-10-22T10:19:27+00:00",
    "text": "",
-   "views": 743,
+   "views": 744,
    "forwarded_from": null,
    "media": [
     {
@@ -4114,7 +4114,7 @@
    "post": "PMO_jobs/83",
    "ts": "2026-10-22T09:56:09+00:00",
    "text": "למשרד ראש הממשלה דרוש/ה מרכז/ת בכיר/ה לוגיסטיקה (מכרז פומבי 145316)\n\nהתפקיד כולל: ניהול והפעלת שירותים בתחומי הלוגיסטיקה והנכסים במשרד ראש הממשלה, והובלת תהליכים להתייעלות ולשיפור השירות, פרויקטי בינוי ושיפוץ נכסים. ניהול חוזים והתקשרויות עם ספקים חיצוניים, ואחריות על מתן שירות מקיף וליווי מקצועי ליחידות המשרד.\n\nמועד אחרון להגשה: 03.11.2026\nהעבודה בירושלים\n\nלמידע נוסף והגשת מועמדות >>\nhttps://go.gov.il/145316",
-   "views": 133,
+   "views": 134,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4127,7 +4127,7 @@
    "post": "PMO_jobs/82",
    "ts": "2026-10-22T09:53:11+00:00",
    "text": "למשרד ראש הממשלה דרוש/ה מרכז/ת בכיר/ה משכורות (מכרז פומבי 145309)\n\nמחפש/ת את האתגר המקצועי הבא? הצטרפו אלינו לתפקיד אחראי ומשמעותי בשירות המדינה!\nהתפקיד כולל: אחריות על מכלול הפעולות הקשורות בניהול יחידת המשכורת ותשלום השכר לעובדי המשרד, מעקב אחר תלושי השכר ומפרעות, ביצוע חישובי זכויות פנסיוניות, גביית חובות וניהול תשלומי פרישה ועוד. תוך מתן מענה מקצועי ואישי לעובדי המשרד בנושאי השכר.\n\nמועד אחרון להגשה: 03.11.2026\nהעבודה בירושלים\n\nלמידע נוסף והגשת מועמדות >>\nhttps://go.gov.il/145309",
-   "views": 124,
+   "views": 125,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4140,7 +4140,7 @@
    "post": "PMO_jobs/81",
    "ts": "2026-10-22T09:51:37+00:00",
    "text": "למשרד ראש הממשלה דרוש/ה ממונה על הגנת הפרטיות (מכרז פומבי 145303)\nהזדמנות להוביל את תחום הפרטיות, השמירה על המידע האישי, ומאגרי המידע במשרד ראש הממשלה!\nהתפקיד כולל: תכלול הפעילויות הנדרשות לקיום הוראות חוק הגנת הפרטיות. במסגרת זו תובילו את תחום הגנת הפרטיות והגנת המידע האישי במשרד, ותשמשו כסמכות המקצועית הבכירה להנהלה ולעובדים, תוך ניהול הקשר השוטף מול הרשות להגנת הפרטיות וגורמים נוספים.\n\nמועד אחרון להגשה: 03.11.2026\nהעבודה בירושלים\n\nלמידע נוסף והגשת מועמדות >>\nhttps://go.gov.il/145303",
-   "views": 111,
+   "views": 112,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -4867,7 +4867,7 @@
    "post": "Israel_media_industry/3864",
    "ts": "2026-10-21T05:17:38+00:00",
    "text": "",
-   "views": 775,
+   "views": 776,
    "forwarded_from": null,
    "media": [
     {
@@ -5051,7 +5051,7 @@
    "post": "Jobs_in_Jerusalem/36445",
    "ts": "2026-10-18T17:57:51+00:00",
    "text": "דרושה במיידי מוכרת לחנות חבקוק בשדרות האמוראים למשמרות בוקר / אחה\"צ\nלמ\"מ עם אופציה לעבודה קבועה\n🔅תנאים טובים🔅\n🔅אווירה נעימה 🔅\n0528396538",
-   "views": 684,
+   "views": 685,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
