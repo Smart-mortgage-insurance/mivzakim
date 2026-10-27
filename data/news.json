@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:32:04.138136+00:00",
+ "updated": "2026-10-27T20:33:50.403757+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,125 @@
  "count": 343,
  "items": [
   {
+   "id": "p59e0e4a85be2",
+   "post": "haskupim/199576",
+   "ts": "2026-10-27T20:33:15+00:00",
+   "text": "שר החוץ סער התייחס לתוצאות ואמר כי חגיגות השמאל מוקדמות מדי, וציין כי הליכוד נותר המפלגה הגדולה בישראל.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [],
+   "title": "דברי שר החוץ סער על המדגמים",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pc4784a40bad9",
+   "post": "RealKikarHashabat/10190",
+   "ts": "2026-10-27T20:32:21+00:00",
+   "text": "נפתחה ספירת הקולות האמיתית בבחירות לכנסת ה־26, לצד שביעות רצון במפלגות גוש השינוי בעקבות נתוני המדגמים.",
+   "views": 2,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/82c4fee54f4e1782.jpg"
+    }
+   ],
+   "title": "תחילת ספירת הקולות לכנסת ה־26",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p8f2688f69d8f",
+   "post": "amitsegal/66352",
+   "ts": "2026-10-27T20:32:13+00:00",
+   "text": "מוצגים נתונים מרוכזים לשם השוואה.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/dd7bd9844657ce6b.jpg"
+    }
+   ],
+   "title": "נתוני השוואה לבחירות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "pf763e1d5fd93",
+   "post": "RealKikarHashabat/10189",
+   "ts": "2026-10-27T20:32:06+00:00",
+   "text": "מטעם ועדת הבחירות המרכזית נמסר על נעילת כל הקלפיות בארץ ותחילת מניין הקולות הידני. מן הועדה נמסר כי אלפי פניות טופלו לאורך יום הבחירות, וכי התוצאות הרשמיות יעודכנו באופן מדורג בפורטל הרשמי ועשויות להתעדכן במהלך הספירה.",
+   "views": 2,
+   "forwarded_from": null,
+   "media": [],
+   "title": "הסתיימה ההצבעה והחלה ספירת הקולות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p28e4c7a50948",
+   "post": "merkaz/299463",
+   "ts": "2026-10-27T20:31:05+00:00",
+   "text": "שר החוץ גדעון סער אמר כי השמאל חוגג מוקדם מדי, והדגיש כי הליכוד נותר מפלגת השלטון הגדולה ביותר במדינה.",
+   "views": 66,
+   "forwarded_from": null,
+   "media": [],
+   "title": "תגובת שר החוץ סער על תוצאות הבחירות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p2cb0813afa23",
+   "post": "amitsegal/66351",
+   "ts": "2026-10-27T20:30:43+00:00",
+   "text": "תם זמן ההצבעה בכל קלפיות הארץ, והחל הליך ספירת הקולות.",
+   "views": 12500,
+   "forwarded_from": null,
+   "media": [],
+   "title": "תום ההצבעה ותחילת ספירת הקולות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p11eb534bc584",
+   "post": "haskupim/199575",
+   "ts": "2026-10-27T20:30:04+00:00",
+   "text": "העיתונאי בן כספית קרא בשידור באולפן ערוץ 12 להקמת ממשלה על ידי גוש השמאל בשיתוף ש״ס והמפלגות החרדיות.",
+   "views": 36,
+   "forwarded_from": null,
+   "media": [],
+   "title": "קריאת בן כספית לחיבור עם החרדים",
+   "rw": 1,
+   "checked": 3
+  },
+  {
+   "id": "p6353d161c051",
+   "post": "behadrey/107615",
+   "ts": "2026-10-27T20:29:34+00:00",
+   "text": "ראש הממשלה בנימין נתניהו הצהיר על הצורך בהקמת ממשלה בראשותו, בזמן שגדי איזנקוט ויאיר גולן הכריזו על ניצחונם.",
+   "views": 32,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/ef9d2c8ee7640095.jpg"
+    }
+   ],
+   "title": "תגובות ראשי המפלגות לתוצאות",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "p389aee84fae4",
    "post": "haskupim/199574",
    "ts": "2026-10-27T20:29:04+00:00",
    "text": "לפי נתוני מדגם כאן 11, הציבור החרדי מקבל 35,000 קולות.",
-   "views": 37,
+   "views": 67,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני קולות הציבור החרדי במדגם",
@@ -150,7 +264,7 @@
    "post": "merkaz/299462",
    "ts": "2026-10-27T20:28:59+00:00",
    "text": "הפרשן עמית סגל ציין כי מתוך שבעים חברי כנסת המתנגדים לנתניהו, ישנם שישה שאיבדו קרוב משפחה בשל חמאס, וחלקם מחזיקים בעמדות לפיהן חמאס מתפקד כארגון צדקה, ולכן תוקם עבורם מורכבות ביצירת קואליציה יציבה.",
-   "views": 96,
+   "views": 161,
    "forwarded_from": null,
    "media": [],
    "title": "מורכבות הקמת ממשלה באופוזיציה",
@@ -162,7 +276,7 @@
    "post": "haskupim/199573",
    "ts": "2026-10-27T20:28:17+00:00",
    "text": "ראשי האופוזיציה התייחסו לתוצאות המדגמים והכריזו על תבוסה קשה לנתניהו.",
-   "views": 37,
+   "views": 67,
    "forwarded_from": null,
    "media": [],
    "title": "הכרזת ראשי האופוזיציה על תבוסה",
@@ -174,7 +288,7 @@
    "post": "amitsegal/66350",
    "ts": "2026-10-27T20:28:07+00:00",
    "text": "",
-   "views": 20800,
+   "views": 27100,
    "forwarded_from": null,
    "media": [
     {
@@ -207,7 +321,7 @@
    "post": "merkaz/299461",
    "ts": "2026-10-27T20:26:07+00:00",
    "text": "חברת הכנסת מירב בן ארי טענה כי חובה להדיח את יו\"ר הכנסת. מנגד, חברת הכנסת אפרת רייטן מהדמוקרטים הודיעה כי החל ממחר יפעלו במלוא העוצמה לניהול המשכן ברוב מוחלט ולכינון ממשלה חדשה שתחליף את נתניהו.",
-   "views": 190,
+   "views": 222,
    "forwarded_from": null,
    "media": [],
    "title": "קריאות באופוזיציה להדיח את יו\"ר הכנסת",
@@ -219,7 +333,7 @@
    "post": "RealKikarHashabat/10188",
    "ts": "2026-10-27T20:25:28+00:00",
    "text": "במהלך שידור בערוץ 12 קרא בן כספית כי לדעתו על השמאל להקים ממשלה משותפת יחד עם ש״ס והמפלגות החרדיות",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "title": "קריאת בן כספית בשידור",
@@ -255,7 +369,7 @@
    "post": "RealKikarHashabat/10187",
    "ts": "2026-10-27T20:22:28+00:00",
    "text": "בשיחות עם מקורביו אמר ראש הממשלה בנימין נתניהו כי מאחר שמפלגתו היא הגדולה ביותר, עליה מוטלת האחריות להרכיב את הממשלה",
-   "views": 9,
+   "views": 10,
    "forwarded_from": null,
    "media": [],
    "title": "עמדת נתניהו על הרכבת הממשלה",
@@ -267,7 +381,7 @@
    "post": "abualiexpress/132698",
    "ts": "2026-10-27T20:22:20+00:00",
    "text": "בנאומו התייחס דונלד טראמפ לאופן שבו יש לבטא את שמה של קמלה האריס",
-   "views": 20800,
+   "views": 26000,
    "forwarded_from": null,
    "media": [
     {
@@ -309,7 +423,7 @@
    "post": "amitsegal/66347",
    "ts": "2026-10-27T20:21:13+00:00",
    "text": "ח״כ מירב בן ארי דרשה כצעד ראשון להחליף את יו״ר הכנסת.",
-   "views": 42700,
+   "views": 46800,
    "forwarded_from": null,
    "media": [],
    "title": "קריאת ח״כ מירב בן ארי",
@@ -321,7 +435,7 @@
    "post": "haskupim/199567",
    "ts": "2026-10-27T20:20:57+00:00",
    "text": "ועדת הבחירות המרכזית עדכנה כי התקבלו כ-10,000 פניות סביב חשש לפגיעה בטוהר הבחירות, כאשר כלל המקרים טופלו ונסגרו וכשלושים אחוזים מהפניות ששרדו את הסינון הוגדרו כאירועי טוהר בחירות.",
-   "views": 106,
+   "views": 136,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני ועדת הבחירות המרכזית",
@@ -351,7 +465,7 @@
    "post": "merkaz/299459",
    "ts": "2026-10-27T20:18:52+00:00",
    "text": "יו״ר הדמוקרטים יאיר גולן מסר כי הציבור החליט על סיום תפקידה של ממשלת נתניהו והם ישאפו לכונן ממשלת שינוי. גדי איזנקוט הצהיר כי יפעל למימוש הכרעת הבוחר והקמת ממשלת גיוס. יאיר לפיד אמר כי גוש נתניהו נחל מפלה וכי הציבור דרש מהם לפרוש.",
-   "views": 319,
+   "views": 352,
    "forwarded_from": null,
    "media": [],
    "title": "תגובות ראשי האופוזיציה לבחירות",
@@ -381,7 +495,7 @@
    "post": "ramreports/216827",
    "ts": "2026-10-27T20:18:25+00:00",
    "text": "ראש הממשלה נתניהו ציין בשיחה עם סביבתו כי הם הסיעה הגדולה ומוטלת עליהם המשימה לכונן את הממשלה, והוסיף כי ממשלה המבוססת על שמאל וערבים תהווה ממשלת טרור.",
-   "views": 9300,
+   "views": 10300,
    "forwarded_from": null,
    "media": [],
    "title": "אמירת ראש הממשלה למקורביו",
@@ -393,7 +507,7 @@
    "post": "behadrey/107614",
    "ts": "2026-10-27T20:18:19+00:00",
    "text": "איזנקוט הדגיש כי פניו מועדות לפעולה מיידית להחלפת שלטון נתניהו ויצירת ממשלת גיוס ציונית.",
-   "views": 46,
+   "views": 54,
    "forwarded_from": null,
    "media": [
     {
@@ -423,7 +537,7 @@
    "post": "merkaz/299458",
    "ts": "2026-10-27T20:17:08+00:00",
    "text": "פורסם סיכום של נתוני המדגמים.",
-   "views": 322,
+   "views": 384,
    "forwarded_from": null,
    "media": [
     {
@@ -459,7 +573,7 @@
    "post": "behadrey/107613",
    "ts": "2026-10-27T20:16:37+00:00",
    "text": "בשעה הקרובה תתקיים שיחה משותפת של גדי איזנקוט, נפתלי בנט, אביגדור ליברמן ויאיר גולן.",
-   "views": 53,
+   "views": 55,
    "forwarded_from": null,
    "media": [
     {
@@ -489,7 +603,7 @@
    "post": "ramreports/216825",
    "ts": "2026-10-27T20:15:08+00:00",
    "text": "יאיר לפיד אמר כי נתניהו נחל תבוסה.",
-   "views": 11300,
+   "views": 11400,
    "forwarded_from": null,
    "media": [],
    "title": "תגובת לפיד על המדגמים",
@@ -542,7 +656,7 @@
    "post": "amitsegal/66344",
    "ts": "2026-10-27T20:14:33+00:00",
    "text": "התקבלו תגובותיהם של יאיר לפיד ויאיר גולן.",
-   "views": 59200,
+   "views": 59300,
    "forwarded_from": null,
    "media": [
     {
@@ -583,7 +697,7 @@
    "post": "behadrey/107612",
    "ts": "2026-10-27T20:13:58+00:00",
    "text": "על פי מדגם חדשות 14, גוש הימין מונה 60 מנדטים והליכוד זכה ב-30 מנדטים.",
-   "views": 52,
+   "views": 55,
    "forwarded_from": null,
    "media": [
     {
@@ -601,7 +715,7 @@
    "post": "abualiexpress/132697",
    "ts": "2026-10-27T20:12:28+00:00",
    "text": "מפלגת עמך ישראל בראשות עופר וינטר ומפלגת המילואימניקים כלכלית של הנדל וזליכה לא עברו את אחוז החסימה באף אחד מהסקרים.",
-   "views": 42500,
+   "views": 44500,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני הסקרים על מפלגות שלא עברו",
@@ -625,7 +739,7 @@
    "post": "amitsegal/66342",
    "ts": "2026-10-27T20:12:07+00:00",
    "text": "איזנקוט יערוך שיחה עם ראשי הגוש בדקות הקרובות.",
-   "views": 60200,
+   "views": 61400,
    "forwarded_from": null,
    "media": [],
    "title": "שיחות ראשי הגוש בדקות הקרובות",
@@ -637,7 +751,7 @@
    "post": "behadrey/107611",
    "ts": "2026-10-27T20:12:06+00:00",
    "text": "מדגמי הבחירות נחשפו ומשקפים את תמונת המצב הראשונית ואת האירועים במטות הבחירות.",
-   "views": 52,
+   "views": 55,
    "forwarded_from": null,
    "media": [
     {
@@ -655,7 +769,7 @@
    "post": "amitsegal/66341",
    "ts": "2026-10-27T20:11:46+00:00",
    "text": "נתניהו איבד את רוב המנדטים בכל הערוצים, ומנגד צוין כי לאיזנקוט אין אפשרות להקים ממשלה יציבה.",
-   "views": 60200,
+   "views": 62400,
    "forwarded_from": null,
    "media": [
     {
@@ -673,7 +787,7 @@
    "post": "behadrey/107610",
    "ts": "2026-10-27T20:11:44+00:00",
    "text": "ראש הממשלה נתניהו אמר למקורביו כי מפלגתו היא הגדולה ביותר ועליה להרכיב את הממשלה, והוסיף כי ממשלת שמאל-ערבים תהיה ממשלת טרור.",
-   "views": 45,
+   "views": 48,
    "forwarded_from": null,
    "media": [
     {
@@ -703,7 +817,7 @@
    "post": "behadrey/107609",
    "ts": "2026-10-27T20:10:16+00:00",
    "text": "מדגם כאן 11 מעלה כי הליכוד מקבל 25 מנדטים ואיזנקוט 21, כאשר בשלב זה אין הכרעה בין הגושים.",
-   "views": 50,
+   "views": 53,
    "forwarded_from": null,
    "media": [
     {
@@ -721,7 +835,7 @@
    "post": "ramreports/216824",
    "ts": "2026-10-27T20:08:43+00:00",
    "text": "",
-   "views": 12600,
+   "views": 13600,
    "forwarded_from": null,
    "media": [
     {
@@ -748,7 +862,7 @@
    "post": "ramreports/216822",
    "ts": "2026-10-27T20:08:20+00:00",
    "text": "להלן תוצאות מדגם חדשות 13 ו\"המדד: הליכוד עשרים וחמישה מנדטים, ישר עם איזנקוט עשרשים ושלושה, ביחד ארבעה עשר, הרשימה המשותפת עשרה, הדמוקרטים תשעה, ישראל ביתנו שבעה, רעם שבעה, יהדות התורה שבעה, ש״ס שישה, עוצמה יהודית שישה, והציונות הדתית שישה. עמך ישראל, המילואימניקים עם הכלכלית, והציבור החרדי לא עברו את אחוז החסימה. במפת הגושים: גוש האופוזיציה עם חמישים ושלושה מנדטים, גוש הקואליציה עם חמישים, ומפלגות ערביות עם שבעה עשר.",
-   "views": 10900,
+   "views": 11900,
    "forwarded_from": null,
    "media": [],
    "title": "תוצאות מדגם חדשות 13",
@@ -760,7 +874,7 @@
    "post": "haskupim/199559",
    "ts": "2026-10-27T20:08:12+00:00",
    "text": "לפי מדגם חדשות הסקופים שפרסם ינון מגל, גוש נתניהו מגיע לשישים מנדטים. חלוקת המנדטים היא: הליכוד שלושים, איזנקוט תשע עשרה, ביחד אחד עשר, המשותפת עשרה, שס תשעה, הדמוקרטים תשעה, רעם שבעה, הציונות הדתית שבעה, עוצמה יהודית שבעה, יהדות התורה שבעה, וליברמן ארבעה.",
-   "views": 148,
+   "views": 178,
    "forwarded_from": null,
    "media": [
     {
@@ -796,7 +910,7 @@
    "post": "behadrey/107608",
    "ts": "2026-10-27T20:08:00+00:00",
    "text": "לפי עדכונים שוטפים ומדגם חדשות 13, הליכוד מקבל עשרים וחמישה מנדטים ואיזנקוט עשרשים ושלושה, ואין הכרעה בין הגושים.",
-   "views": 50,
+   "views": 52,
    "forwarded_from": null,
    "media": [
     {
@@ -829,7 +943,7 @@
    "post": "abualiexpress/132695",
    "ts": "2026-10-27T20:07:25+00:00",
    "text": "פורסמו תוצאות מדגם ערוץ 16.",
-   "views": 50800,
+   "views": 52800,
    "forwarded_from": null,
    "media": [
     {
@@ -871,7 +985,7 @@
    "post": "abualiexpress/132694",
    "ts": "2026-10-27T20:05:30+00:00",
    "text": "הוצג מדגם של ערוץ כאן.",
-   "views": 51800,
+   "views": 52800,
    "forwarded_from": null,
    "media": [
     {
@@ -889,7 +1003,7 @@
    "post": "behadrey/107607",
    "ts": "2026-10-27T20:05:16+00:00",
    "text": "לפי עדכונים שוטפים על תוצאות המדגמים, אין הכרעה וגוש השינוי גרף את רוב המנדטים.",
-   "views": 57,
+   "views": 59,
    "forwarded_from": null,
    "media": [
     {
@@ -907,7 +1021,7 @@
    "post": "merkaz/299454",
    "ts": "2026-10-27T20:05:00+00:00",
    "text": "פורסמו נתוני מדגם כאן חדשות.",
-   "views": 383,
+   "views": 413,
    "forwarded_from": null,
    "media": [
     {
@@ -925,7 +1039,7 @@
    "post": "amitsegal/66340",
    "ts": "2026-10-27T20:04:48+00:00",
    "text": "",
-   "views": 74700,
+   "views": 75000,
    "forwarded_from": null,
    "media": [
     {
@@ -940,7 +1054,7 @@
    "post": "amitsegal/66339",
    "ts": "2026-10-27T20:04:24+00:00",
    "text": "המחלוקת תימשך עד שעות הבוקר.",
-   "views": 69700,
+   "views": 70900,
    "forwarded_from": null,
    "media": [],
    "title": "המשך המחלוקת עד הבוקר",
@@ -952,7 +1066,7 @@
    "post": "amitsegal/66338",
    "ts": "2026-10-27T20:04:15+00:00",
    "text": "",
-   "views": 69700,
+   "views": 71900,
    "forwarded_from": null,
    "media": [
     {
@@ -982,7 +1096,7 @@
    "post": "haskupim/199558",
    "ts": "2026-10-27T20:04:05+00:00",
    "text": "לפי מדגם ערוץ 11 שהציג יקי אדמקר הליכוד עם עשרים וחמישה ישר עשרים ואחת בנט ארבעה עשרה ליברמן שמונה הדמוקרטים עשרה המשותפת עשרה רע״מ שבע שס שש יהדות התורה שש סמוטריץ שש ובן גביר שבע גוש השמאל מונה חמישים ושלושה גוש ימין חמישים והמפלגות הערביות שבע עשרה ומתחת לאחוז החסימה זליכה שני אחוזים ושבע עשיריות ווינטר שני אחוזים ושני עשיריות",
-   "views": 133,
+   "views": 163,
    "forwarded_from": null,
    "media": [],
    "title": "תוצאות מדגם ערוץ 11",
@@ -994,7 +1108,7 @@
    "post": "abualiexpress/132693",
    "ts": "2026-10-27T20:03:57+00:00",
    "text": "להלן נתוני תוצאות מדגם ערוץ 14 כפי שפורסמו",
-   "views": 51700,
+   "views": 52800,
    "forwarded_from": null,
    "media": [
     {
@@ -1012,7 +1126,7 @@
    "post": "behadrey/107606",
    "ts": "2026-10-27T20:03:51+00:00",
    "text": "במדגם i24NEWS הליכוד זוכה בעשרים וחמישה מנדטים ואיזנקוט בעשרים ושניים",
-   "views": 59,
+   "views": 61,
    "forwarded_from": null,
    "media": [
     {
@@ -1030,7 +1144,7 @@
    "post": "amitsegal/66336",
    "ts": "2026-10-27T20:03:32+00:00",
    "text": "",
-   "views": 67500,
+   "views": 68600,
    "forwarded_from": null,
    "media": [
     {
@@ -1081,7 +1195,7 @@
    "post": "amitsegal/66335",
    "ts": "2026-10-27T20:02:41+00:00",
    "text": "במדגם i24 של צוריאל שרון מקבלת הליכוד עשרים ושבעה מנדטים ישר עשרים ביחד חמישה עשרה גולן תשע המשותפת תשע שס שמונה יהדות התורה שבע רעמ שבע עוצמה שבע הציונות שש וישראל ביתנו חמישה",
-   "views": 67600,
+   "views": 68600,
    "forwarded_from": null,
    "media": [],
    "title": "תוצאות מדגם i24",
@@ -1101,23 +1215,11 @@
    "checked": 3
   },
   {
-   "id": "p0a179fa3a2f4",
-   "post": "haskupim/199555",
-   "ts": "2026-10-27T20:02:36+00:00",
-   "text": "על פי חדשות הסקופים הפירוט המלא ממדגם חדשות 13 ו\"המדד\" מראה את הליכוד עם עשרים וחמישה ישר עם איזנקוט עשרים ושלושה ביחד ארבעה עשרה הרשימה המשותפת עשרה הדמוקרטים תשע ישראל ביתנו שבע רע\"ם שבע יהדות התורה שבע ש\"ס שש עוצמה יהודית שש והציונות הדתית שש כאשר עמך ישראל המילואימניקים עם הכלכלית והציבור החרדי אינם עוברים מפת הגושים מורה על חמישים ושלושה לאופוזיציה חמישים לקואליציה ושבע עשרה למפלגות הערביות",
-   "views": 162,
-   "forwarded_from": null,
-   "media": [],
-   "title": "תוצאות מדגם חדשות 13",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "p9a1e787f99a3",
    "post": "amitsegal/66334",
    "ts": "2026-10-27T20:02:26+00:00",
    "text": "על פי נתוני ערוץ 13 גוש האופוזיציה מונה חמישים ושלושה גוש הקואליציה חמישים ומפלגות ערביות שבע עשרה",
-   "views": 66600,
+   "views": 67800,
    "forwarded_from": null,
    "media": [],
    "title": "תמונת הגושים בערוץ 13",
@@ -1141,7 +1243,7 @@
    "post": "behadrey/107605",
    "ts": "2026-10-27T20:02:16+00:00",
    "text": "במדגם חדשות 12 הליכוד מקבלת עשרים וארבעה מנדטים ואין רוב לאף גוש",
-   "views": 62,
+   "views": 65,
    "forwarded_from": null,
    "media": [
     {
@@ -1219,7 +1321,7 @@
    "post": "behadrey/107604",
    "ts": "2026-10-27T20:00:15+00:00",
    "text": "עם נעילת הקלפיות צוין כי רף אחוז החסימה עומד על כ-188,000 קולות.",
-   "views": 64,
+   "views": 67,
    "forwarded_from": null,
    "media": [
     {
@@ -1230,28 +1332,6 @@
    ],
    "title": "עדכון על אחוז החסימה",
    "rw": 1,
-   "checked": 3
-  },
-  {
-   "id": "p7787532d7249",
-   "post": "haskupim/199553",
-   "ts": "2026-10-27T19:57:27+00:00",
-   "text": "חדשות הסקופים\nנתניהו נפגש עם שמוליק גרינברג | ראש הממשלה נפגש כ-40 דקות לפני סגירת הקלפיות עם רגב בית שמש שמוליק גרינברג",
-   "views": 180,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/5b1995a8d0dfd717.mp4"
-    },
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/5b1995a8d0dfd717.mp4"
-    }
-   ],
-   "title": "פגישת ראש הממשלה עם שמוליק גרינברג",
    "checked": 3
   },
   {
@@ -1285,18 +1365,6 @@
    "checked": 3
   },
   {
-   "id": "pb39576f556ed",
-   "post": "amitsegal/66325",
-   "ts": "2026-10-27T19:54:30+00:00",
-   "text": "צפויים לילה ממושך, שבוע ארוך ותהליך הרכבת ממשלה ומגעים קואליציוניים ממושכים.",
-   "views": 68500,
-   "forwarded_from": null,
-   "media": [],
-   "title": "היערכות למשא ומתן ממושך",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "pbc7467547081",
    "post": "RealKikarHashabat/10178",
    "ts": "2026-10-27T19:54:29+00:00",
@@ -1315,29 +1383,11 @@
    "checked": 3
   },
   {
-   "id": "p7fa25d9ce2bf",
-   "post": "amitsegal/66324",
-   "ts": "2026-10-27T19:54:09+00:00",
-   "text": "המצביעים במגזר הערבי טרפו את הקלפים ומנעו את השגת רוב של שישים ואחד מנדטים משני הצדדים גם יחד.",
-   "views": 71600,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/c2dcd8f31447e221.jpg"
-    }
-   ],
-   "title": "תוצאות המגזר הערבי במדגמים",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "pa2930d058e88",
    "post": "merkaz/299449",
    "ts": "2026-10-27T19:53:54+00:00",
    "text": "ינון מגל ציין בערוץ 14 כי קיימים פערים גדולים בין תוצאות המדגמים כפי שפורסמו בערוצי השידור.",
-   "views": 453,
+   "views": 483,
    "forwarded_from": null,
    "media": [],
    "title": "פערים במדגמי הערוצים השונים",
@@ -1349,7 +1399,7 @@
    "post": "merkaz/299448",
    "ts": "2026-10-27T19:52:14+00:00",
    "text": "לדברי אבי מוסקוב, מדגמי הבחירות מראים מספר נאה של מנדטים למפלגת הליכוד, אולם מצב הגוש אינו מזהיר.",
-   "views": 501,
+   "views": 532,
    "forwarded_from": null,
    "media": [],
    "title": "נתוני המדגמים לפי אבי מוסקוב",
@@ -1384,7 +1434,7 @@
    "post": "merkaz/299447",
    "ts": "2026-10-27T19:48:16+00:00",
    "text": "המועמד לכנסת דוד זלץ סייר בביתר עילית בקריאה לתושבים לצאת ולהצביע בבחירות.",
-   "views": 553,
+   "views": 583,
    "forwarded_from": null,
    "media": [
     {
@@ -1437,7 +1487,7 @@
    "post": "abualiexpress/132690",
    "ts": "2026-10-27T19:45:40+00:00",
    "text": "רבע שעה לפני נעילת הקלפיות פורסמו מדגמי כלי התקשורת.",
-   "views": 66200,
+   "views": 67200,
    "forwarded_from": null,
    "media": [],
    "title": "סגירת הקלפיות ומדגמים",
@@ -1474,7 +1524,7 @@
    "post": "behadrey/107603",
    "ts": "2026-10-27T19:39:58+00:00",
    "text": "בעיר אלעד עבר אחוז ההצבעה את שמונים האחוזים, בעוד בני ברק ממוקמת מאחוריו לפי נתוני המפה המעודכנת",
-   "views": 97,
+   "views": 99,
    "forwarded_from": null,
    "media": [
     {
@@ -1576,7 +1626,7 @@
    "post": "behadrey/107602",
    "ts": "2026-10-27T19:24:56+00:00",
    "text": "שיא של 74.3 אחוזי הצבעה נרשם לקראת ההכרעה, לאחר שבקשת הארכת השעות דחתה והמטות פועלים במאמץ אחרון",
-   "views": 110,
+   "views": 114,
    "forwarded_from": null,
    "media": [
     {
@@ -1594,7 +1644,7 @@
    "post": "behadrey/107601",
    "ts": "2026-10-27T19:23:43+00:00",
    "text": "רדיו קול ברמה משדר בחי את משדר הבחירות המרכזי בליל ההכרעה",
-   "views": 100,
+   "views": 103,
    "forwarded_from": null,
    "media": [
     {
@@ -1755,7 +1805,7 @@
    "post": "behadrey/107600",
    "ts": "2026-10-27T19:08:07+00:00",
    "text": "מנכ״ל שלמה פילבר מתריע מפני אפשרות שבה מפלגה שלא נלקחה בחשבון תישאר מתחת לאחוז החסימה.",
-   "views": 135,
+   "views": 137,
    "forwarded_from": null,
    "media": [
     {
@@ -1828,24 +1878,6 @@
    "checked": 3
   },
   {
-   "id": "p85ac20887e35",
-   "post": "RealKikarHashabat/10168",
-   "ts": "2026-10-27T19:04:01+00:00",
-   "text": "לקראת נעילת הקלפיות, יו״ר שלומי אמונים ח״כ מאיר פרוש מקים שורת שיחות חירום עם ראשי קהילות חסידיות ומבקש מהם להורות לנציגים ברחבי הארץ לפעול להגברת אחוזי ההצבעה במגזר החסידי.",
-   "views": 13,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/e4cfb1285a57d1c7.jpg"
-    }
-   ],
-   "title": "מאיר פרוש בשיחות חירום",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "p79d9ee9a34e4",
    "post": "merkaz/299437",
    "ts": "2026-10-27T19:03:00+00:00",
@@ -1864,47 +1896,11 @@
    "checked": 3
   },
   {
-   "id": "pff1db85801d5",
-   "post": "RealKikarHashabat/10167",
-   "ts": "2026-10-27T19:01:39+00:00",
-   "text": "נותרה שעה אחת בלבד עד לנעילת הקלפיות בבחירות לכנסת ה-26, כאשר אחוז ההצבעה עומד על 74.3%.",
-   "views": 13,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/0a2aeebdb5225e6e.jpg"
-    }
-   ],
-   "title": "שעה לסיום הבחירות לכנסת",
-   "rw": 1,
-   "checked": 3
-  },
-  {
-   "id": "p0be10e942469",
-   "post": "merkaz/299436",
-   "ts": "2026-10-27T19:00:44+00:00",
-   "text": "יותר מ300 פעילים בעיר בני ברק מבצעים שיחות טלפוניות רבות כדי לעודד תושבים להגיע להצביע.",
-   "views": 609,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/ef4178baab9d1e3b.jpg"
-    }
-   ],
-   "title": "פעילים בבני ברק ממריצים מצביעים",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "p1d55ce84bb97",
    "post": "behadrey/107599",
    "ts": "2026-10-27T18:56:24+00:00",
    "text": "נכון לשעה 20:00, שיעור ההצבעה הארצי הינו 74.3 אחוז.",
-   "views": 110,
+   "views": 112,
    "forwarded_from": null,
    "media": [
     {
@@ -1922,7 +1918,7 @@
    "post": "behadrey/107598",
    "ts": "2026-10-27T18:41:03+00:00",
    "text": "בעקבות ניסיונות זיוף, ועדת הבחירות פרסמה הבהרה לגבי אילו פתקי הצבעה ייפסלו ואילו יוכשרו.",
-   "views": 150,
+   "views": 152,
    "forwarded_from": null,
    "media": [
     {
@@ -1940,7 +1936,7 @@
    "post": "behadrey/107597",
    "ts": "2026-10-27T18:35:12+00:00",
    "text": "שלוש קלפיות ביישוב מג'ד אלכרום סגרו את שעריהן לאחר שהצביעו בהן מאה אחוז מבעלי זכות הבחירה.",
-   "views": 127,
+   "views": 128,
    "forwarded_from": null,
    "media": [
     {
@@ -1958,7 +1954,7 @@
    "post": "behadrey/107596",
    "ts": "2026-10-27T18:27:52+00:00",
    "text": "פלאביו בולסונרו עזב לארצות הברית בעקבות חשש ממעצר לאחר שהפסיד",
-   "views": 126,
+   "views": 127,
    "forwarded_from": null,
    "media": [
     {
@@ -1988,7 +1984,7 @@
    "post": "SALAMTAK_DEALS/58624",
    "ts": "2026-10-27T18:20:15+00:00",
    "text": "כלי אחד במקום ארגז כלים שלם! 🛠️\nמולטיטול 24 ב-1 עם פלאייר וקאטר 🔧\n\n✂️ חיתוך חוטים וכבלים\n🔌 קילוף חוטים בכמה עוביים\n🔩 כיווץ מחברים\n🪛 ביטים להברגה בתוך הערכה\n💪 ידיות נגד החלקה\n\nמאליאקספרס 🇨🇳: כ-₪23 ($7.29) כולל משלוח עד הבית 🚚\nכדי שהמשלוח יתאפס, לוחצים על \"קנה עכשיו\" ולא על \"הוסף לעגלה\"\nלינק 👇\nhttps://salamtak.deals/archives/50284\n\nבקיצור, חובה לרכב, למגירה ולכל תיקון בבית 👌",
-   "views": 866,
+   "views": 875,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2006,7 +2002,7 @@
    "post": "abualiexpress/132680",
    "ts": "2026-10-27T18:12:40+00:00",
    "text": "איש התקשורת ח'טאב נצאר מסר כי שלוש עמדות הצבעה במג'ד אלכרום סגרו את שעריהן לאחר שהגיעו למלוא אחוזי ההשתתפות.",
-   "views": 87100,
+   "views": 88100,
    "forwarded_from": null,
    "media": [
     {
@@ -2020,29 +2016,11 @@
    "checked": 3
   },
   {
-   "id": "p5aabc99bf935",
-   "post": "behadrey/107595",
-   "ts": "2026-10-27T18:12:37+00:00",
-   "text": "בראיון לאתר בחדרי חרדים, התריע ראש הממשלה בנימין נתניהו כי תתרחש רדיפה חסרת תקדים כלפי הציבור החרדי.",
-   "views": 119,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/541fdd3e75c4b618.jpg"
-    }
-   ],
-   "title": "אזהרת נתניהו בריאיון ל'בחדרי חרדים",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "pd8faefbd4d3d",
    "post": "iBuyIL/27648",
    "ts": "2026-10-27T18:10:13+00:00",
    "text": "חזרררר אני בהלםםםםם!!! יותר נמוך מזה באמת שאי אפשר כבר לרדת 😎 7.90$ למכונת תספורת וגילוח לגברררר, כמעט חינםםםםם 🤯🤯🤯 קחו 4 ותקבלו משלוח עד הבית חינם, זה מחיר לחלק לחברים ומשפחה!!!!\n\nמכונת תספורת וטרימר זקן לגבר Valano Beard Trimmer\n\n💳 מחיר סופי: 7.90$ \\ 24₪ (במקום 15.99$) בהזנת קוד הקופון שבאתר בעגלה\n\n👈 משלוח חינם בתנאי הגעה ל-49$\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/valano-beard-trimmer-hair-clip\n\nהערכה הזו היא הפתרון המושלם לשיער הפנים, הראש ואפילו האזורים הקטנים שלעולם לא ידעת איך לגשת אליהם (כן, גם אף ואוזן)\n\nמה בערכה? ✂️\n• טרימר ומכונת תספורת אלחוטית שליטה מלאה בניידות ובנוחות 🏃‍♂️\n• סוללה חזקה נטענת 🔋\n• מגוון ראשי גילוח לאזורים שונים כל מה שצריך בערכה אחת 🎁\n• ידידותית לשימוש עצמי מעולה גם למתחילים וגם למקצוענים! 🙌\n\nלדיון בפוסט https://www.facebook.com/share/p/18bkCm1YQ4/",
-   "views": 1240,
+   "views": 1250,
    "forwarded_from": null,
    "media": [
     {
@@ -2198,7 +2176,7 @@
    "post": "SALAMTAK_DEALS/58622",
    "ts": "2026-10-27T16:21:01+00:00",
    "text": "מטען 70W עם 3 יציאות במחיר של מטען רגיל! ⚡\nמטען GaN של Vention 🔌\n\n⚡ הספק של 70W, מספיק גם למקבוק אייר\n🔌 שלוש יציאות לטעינה של כמה מכשירים ביחד\n📱 טעינה מהירה לאייפון, לאייפד ולטאבלט\n🧳 קטן בכשליש ממטען רגיל, נוח לתיק\n\nמאליאקספרס 🇨🇳: כ-₪53 עם קוד FEXIL8 בקופה, משלוח חינם 🚚\nלינק 👇\nhttps://salamtak.deals/archives/50658\n\nבקיצור, מטען אחד לכל המכשירים בבית 👌",
-   "views": 1230,
+   "views": 1240,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2301,7 +2279,7 @@
    "post": "iBuyIL/27646",
    "ts": "2026-10-27T15:38:04+00:00",
    "text": "אמאל'ה זוג סילוניות ב17.98$ כולל שליח?! עוד שניה מקבלים גם שובר לספא מתנה 🤣🤣🤣\n\nיש להוסיף 2 סילוניות לעגלה, לממש קוד קופון מצורף ולקבל משלוח חינם עד הבית בלי להוסיף כלום!!!\n\n😱🔥 דחוף דחוף להזמיןןןן!!! ההיסטוריה חוזרת ובענק!\n\nמכשיר סילון מים נטען לניקוי שיניים וחניכיים COSLUS C20 Water Dental Flosser בצבע שחור\n\nכולל 5 ראשים מתחלפים, 3 מצבי פעולה, עמידות במים בתקן IPX7 במחיר מטורלל לחלוטין 🖐😵\n\n8.99$ / 28₪ לסילונית !!\n17 98$ / 56₪ לצמד סילוניות!\n\n✈️ משלוח חינם בקנייה בקניית צמד בלבד ‼️‼️‼️‼️\n\n‌🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/coslus-water-dental-flosser\n\nהמפרט המלא בפוסט https://www.facebook.com/share/p/1bCzxsKrgY/",
-   "views": 1590,
+   "views": 1600,
    "forwarded_from": null,
    "media": [
     {
@@ -2337,7 +2315,7 @@
    "post": "iBuyIL/27645",
    "ts": "2026-10-27T15:01:47+00:00",
    "text": "עצור 🛑✋️ דיל שווה אששש לפנייך!!\n\nסט 4 רצועות ראצ'ט אוטומטיות נשלפות 1\" x 320 ס\"מ CAMELCELL בכ-100₪ בלבדדדדד!!! קחו 2 מארזים? קבלו אותם על שליח עד הבית חינם מתחת לרף המס!\n\n💳 מחיר סופי: 33.59$ \\ 103₪ (במקום $47.99)\n\n👈 משלוח חינם בתנאי הגעה ל-49$ או בקניית 2 מארזים\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/4-pack-retractable-ratchet-str-2\n\nאין אחד שלא הסתבך עם רצועות שנקשרות ונתקלות בקשרים באמצע ההובלה... עם הרצועות האלו זה פשוט לא קורה! 😎🚚\nהן נשלפות ומתקפלות מעצמן תוך שניות, תמיד מסודרות, בלי עצבים 🤗\n\n✔️ נשלפות אוטומטית - בלי להסתבך עם התרה וקשרים\n✔️ אורך כל אחת 320 ס\"מ, רוחב 2.54 ס\"מ\n✔️ חוזק שבירה מרשים של 800 ק\"ג (1760 ליברה)\n✔️ ננעלות או משתחררות ביד אחת - סופר נוח כשאתם לבד\n✔️ ווים מצופים למניעת חלודה ושמירה על הצבע של הרכב\n✔️ מארז נשיאה לתיקון וסדר מסודר ברכב או במחסן\n✔️ מתאימות להובלה במשאיות, טריילרים, אופנועים, טרקטורונים ועוד\n\nלדיון בפוסט https://www.facebook.com/share/p/1DqxEhae8r/",
-   "views": 1640,
+   "views": 1650,
    "forwarded_from": null,
    "media": [
     {
@@ -2529,7 +2507,7 @@
    "post": "iBuyIL/27642",
    "ts": "2026-10-27T12:28:04+00:00",
    "text": "ואוווו ואוווווו איזה מחירררר!!! הכי נמוך אי פעםםםם 😱🔥 הבלנדר הקטן והאהוב שלי שמכין לי שייקים טעימים בכל מקום במחיר מטורףףףף עד הבית 💥😮💥\n\nבלנדר נייד Ninja Blast בנפח 530 מ\"ל נטען\n\n💳 מחיר סופי: 39.99$ \\ 123₪ (במקום $69.99) והפעם פתוח לכולם!!\n\n✈️ משלוח עד הבית בקנייה מעל 49$\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/ninja-blast-portable-blender-2\n\nסמוזי טוב לא חייב להישאר בבית 🍓🏕️\nקחו את הבלנדר לכל מקום ותוך דקות מכינים שייק קפוא או משקה מרענן - אפילו בדרכים, במשרד או בטיול!\n\nעיצוב נייד עם ידית נוחה ותא סגור לשתייה שבלנד רכב, תיק או במשרד\n\n✔️ קיבולת של 530 מ\"ל (18oz)\n✔️ להבים מנירוסטה רבי עוצמה שמרסקי קרח ופרי קפוא בלי למצמץ\n✔️ לא צריך שקע ליד: בסיס טעינה ב-USB-C - עובד אלחוטי לחלוטין\n✔️ פתיחה קלה ללגימה ישירה מהבלנדר עצמו\n✔️ קל לניקוי - מתאים למדיח או ניקוי עצמי ב-30 שניות\n✔️ חלקי פלסטיק בטוחים לשימוש, BPA Free\n✔️ כולל כבל USB-C, מכסה לנשיאה וספר מתכונים קטן\n\nלדיון בפוסט https://www.facebook.com/share/p/1F9LFwfYoL/",
-   "views": 1780,
+   "views": 1790,
    "forwarded_from": null,
    "media": [
     {
@@ -2656,7 +2634,7 @@
    "post": "iBuyIL/27637",
    "ts": "2026-10-27T08:05:24+00:00",
    "text": "חזרררר!!! אבל הפעם לצערנו אמאזון הגבילו ליחידה אחת! משמע יש להוסיף מוצר ב-13$ ומעלה לקבלת משלוח חינם!\n\nלא תאמינווווווווווו!!!! 😱🔥 דחוף דחוף להזמיןןןן!!! ההיסטוריה חוזרת ובענק!\n\nמכשיר סילון מים נטען לניקוי שיניים וחניכיים COSLUS C20 Water Dental Flosser\n\nכולל 5 ראשים מתחלפים, 3 מצבי פעולה, עמידות במים בתקן IPX7 במחיר מטורלל לחלוטין 🖐😵\n\n8.99$ / 28₪ לסילונית !!!!\n\n✈️ משלוח חינם בקנייה מעל 49$\n\n‌🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/coslus-water-dental-flosser\n\nהמפרט המלא בפוסט https://www.facebook.com/share/p/1bCzxsKrgY/",
-   "views": 1850,
+   "views": 1860,
    "forwarded_from": null,
    "media": [
     {
@@ -2849,7 +2827,7 @@
    "post": "SALAMTAK_DEALS/58616",
    "ts": "2026-10-26T10:21:02+00:00",
    "text": "יותר לא נתקעים עם מצבר מת בבוקר, או חוסר אוויר בגלגל! 🚗🛞\nבוסטר התנעה של Giroago !🔋\n\n⚡️עוצמה של 6000A ,\n🛻מתניע גם רכבים גדולים,\n⛽️כולל קומפרסור עד 150PSI שנעצר לבד בלחץ שבחרתם 💨,\n🔦כולל פנס חירום\n\nבקיצור, סופר שימושי מתאים לכל רכב,\nושווה להחזיק אחד בתא המטען 👌\n\nמאמזון ארה\"ב 🇺🇸: כ-₪186 ($59.98), משלוח חינם עד הבית 🚚\nלינק 👇\nhttps://salamtak.deals/archives/50583",
-   "views": 1760,
+   "views": 1770,
    "forwarded_from": null,
    "media": [
     {
@@ -3108,7 +3086,7 @@
    "post": "Jobs_in_Jerusalem/36460",
    "ts": "2026-10-25T18:38:56+00:00",
    "text": "*דרוש עובד להובלת והרכבת מיטות*\n\n*דרישות:*\nחוש טכני, אחריות, חריצות, רצינות, נכונות לעבודה פיזית ולשעות גמישות במידת הצורך.\n\nשכר נאה למתאימים\n\nאזור: ירושלים / בית שמש\n\nלפרטים: 058-4350770",
-   "views": 443,
+   "views": 444,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3156,7 +3134,7 @@
    "post": "HiTech_Jobs_In_Israel/137933",
    "ts": "2026-10-25T18:00:04+00:00",
    "text": "Director, AI and HPC Cluster at NVIDIA\nLocation: Israel, Yokneam\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--AI-and-HPC-Cluster_JR2027384?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 351,
+   "views": 352,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3168,7 +3146,7 @@
    "post": "HiTech_Jobs_In_Israel/137932",
    "ts": "2026-10-25T18:00:03+00:00",
    "text": "Commercial Legal Counsel at Mobileye\nLocation: Tel-Aviv, Israel\nPress here https://jobs.eu.lever.co/mobileye/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 351,
+   "views": 352,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3180,7 +3158,7 @@
    "post": "HiTech_Jobs_In_Israel/137931",
    "ts": "2026-10-25T18:00:02+00:00",
    "text": "Product Manager, Banco (Consumer App) at Papaya Global\nLocation: Herzliya\nPress here https://www.papayaglobal.com/positions/product-manager-banco-consumer-app/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 334,
+   "views": 335,
    "forwarded_from": null,
    "media": [
     {
@@ -3198,7 +3176,7 @@
    "post": "HiTech_Jobs_In_Israel/137930",
    "ts": "2026-10-25T18:00:00+00:00",
    "text": "Platform & DevOps Engineer at Pango\nLocation: Petah Tikva, Israel\nPress here https://www.comeet.com/jobs/pango/59.002/platform--devops-engineer/96.47D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 288,
+   "views": 289,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3300,7 +3278,7 @@
    "post": "HiTech_Jobs_In_Israel/137928",
    "ts": "2026-10-25T16:00:24+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 284,
+   "views": 285,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3312,7 +3290,7 @@
    "post": "HiTech_Jobs_In_Israel/137927",
    "ts": "2026-10-25T16:00:22+00:00",
    "text": "Physical Design Engineer at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10588281/physical-design-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 262,
+   "views": 263,
    "forwarded_from": null,
    "media": [
     {
@@ -3330,7 +3308,7 @@
    "post": "HiTech_Jobs_In_Israel/137926",
    "ts": "2026-10-25T16:00:20+00:00",
    "text": "Computing HW Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-HW-Engineer_R2629324?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 212,
+   "views": 213,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3342,7 +3320,7 @@
    "post": "HiTech_Jobs_In_Israel/137924",
    "ts": "2026-10-25T16:00:17+00:00",
    "text": "Computing Infrastructure Developer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-Infrastructure-Developer_R2630754?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 192,
+   "views": 193,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3354,7 +3332,7 @@
    "post": "HiTech_Jobs_In_Israel/137925",
    "ts": "2026-10-25T16:00:17+00:00",
    "text": "System Administrator for Computing Qual (testing) at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/System-Administrator-for-Computing-Qual--testing-_R2631233?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 196,
+   "views": 197,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3366,7 +3344,7 @@
    "post": "HiTech_Jobs_In_Israel/137922",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Deep Learning Algorithm Developer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/c359a528-8058-4393-818b-52e162418a58?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 187,
+   "views": 188,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3378,7 +3356,7 @@
    "post": "HiTech_Jobs_In_Israel/137923",
    "ts": "2026-10-25T16:00:16+00:00",
    "text": "Visual GenAI Research Expert at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/5f2f6179-1784-48cc-bd30-4571ea29aba9?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 191,
+   "views": 192,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3390,7 +3368,7 @@
    "post": "HiTech_Jobs_In_Israel/137921",
    "ts": "2026-10-25T16:00:15+00:00",
    "text": "DevOps Engineer at BigID\nLocation: Tel Aviv\nPress here https://bigid.com/company/careers/job-details/8915290002?gh_jid=8915290002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 188,
+   "views": 189,
    "forwarded_from": null,
    "media": [
     {
@@ -3408,7 +3386,7 @@
    "post": "HiTech_Jobs_In_Israel/137920",
    "ts": "2026-10-25T16:00:11+00:00",
    "text": "Senior Thermal Analysis Engineer at SolarEdge\nLocation: Hamada 1, Herzliya\nPress here https://corporate.solaredge.com/careers/open-positions?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 174,
+   "views": 175,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3420,7 +3398,7 @@
    "post": "HiTech_Jobs_In_Israel/137919",
    "ts": "2026-10-25T16:00:10+00:00",
    "text": "Business Applications Manager at Personetics\nLocation: Tel Aviv, Israel\nPress here https://personetics.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 168,
+   "views": 169,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3432,7 +3410,7 @@
    "post": "HiTech_Jobs_In_Israel/137918",
    "ts": "2026-10-25T16:00:09+00:00",
    "text": "Business Operations Manager at Fiverr\nLocation: Tel Aviv\nPress here https://www.fiverr.com/jobs/QzUuRjY0?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 178,
+   "views": 179,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3444,7 +3422,7 @@
    "post": "HiTech_Jobs_In_Israel/137917",
    "ts": "2026-10-25T16:00:08+00:00",
    "text": "Talent Acquisition Specialist – Temporary Position (for 8 months) at DRIVENETS\nLocation: Raanana, Israel\nPress here https://drivenets.com/job/?id=E2.D67&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 187,
+   "views": 188,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3456,7 +3434,7 @@
    "post": "HiTech_Jobs_In_Israel/137916",
    "ts": "2026-10-25T16:00:07+00:00",
    "text": "Senior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Beit Shean\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 185,
+   "views": 186,
    "forwarded_from": null,
    "media": [
     {
@@ -3474,7 +3452,7 @@
    "post": "HiTech_Jobs_In_Israel/137915",
    "ts": "2026-10-25T16:00:03+00:00",
    "text": "Senior ATE Software Engineer at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 185,
+   "views": 186,
    "forwarded_from": null,
    "media": [
     {
