@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-10-28T15:23:07Z",
+ "updated": "2026-10-28T15:43:43Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -53,7 +53,6 @@
   "konim": 3
  },
  "items": {
-  "ramreports/216833": 1,
   "DealIsraeli/61353": 1,
   "iBuyIL/27645": 1,
   "SALAMTAK_DEALS/58621": 1,
@@ -76,7 +75,6 @@
   "HiTech_Jobs_In_Israel/137927": 1,
   "HiTech_Jobs_In_Israel/137926": 1,
   "DealIsraeli/61320": 1,
-  "DealIsraeli/61318": 1,
   "SALAMTAK_DEALS/58610": 1,
   "Jobs_in_Jerusalem/36457": 1,
   "Jobs_in_Jerusalem/36456": 2,
