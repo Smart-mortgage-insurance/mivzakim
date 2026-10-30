@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:38:12.481573+00:00",
+ "updated": "2026-10-30T06:39:52.449033+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -131,8 +131,24 @@
    "kind": "jobs"
   }
  },
- "count": 339,
+ "count": 340,
  "items": [
+  {
+   "id": "pf09a577aed1a",
+   "post": "Israel_media_industry/3876",
+   "ts": "2026-10-30T06:38:38+00:00",
+   "text": "",
+   "views": 7,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/c4921399af01cc68.jpg"
+    }
+   ],
+   "kind": "jobs"
+  },
   {
    "id": "p7f1026c3dbb3",
    "post": "behadrey/107766",
@@ -156,7 +172,7 @@
    "post": "haskupim/200219",
    "ts": "2026-10-30T06:32:16+00:00",
    "text": "כוחות ההצלה פעלו בדרום הארץ לחילוץ ילדים שהיו בתוך אוטובוס",
-   "views": 20,
+   "views": 25,
    "forwarded_from": null,
    "media": [
     {
@@ -179,7 +195,7 @@
    "post": "haskupim/200218",
    "ts": "2026-10-30T06:28:59+00:00",
    "text": "זק״א עדכנו כי בתאונת הדרכים בצומת הגדי בכביש 25 נהרג נהג האוטובוס, ובנוסף מטופלים במקום שלושה פצועים באורח בינוני ועשרים פצועים באורח קל.",
-   "views": 29,
+   "views": 34,
    "forwarded_from": null,
    "media": [],
    "title": "הרוג ועשרות פצועים בכביש 25",
@@ -191,7 +207,7 @@
    "post": "merkaz/299761",
    "ts": "2026-10-30T06:28:41+00:00",
    "text": "באזור שיבולים בכביש 25 אירעה התנגשות מאחור בין אוטובוס שהסיע ילדים לבין טרקטור, ונקבע כי אדם אחד במצב אנוש.",
-   "views": 63,
+   "views": 64,
    "forwarded_from": null,
    "media": [
     {
@@ -209,7 +225,7 @@
    "post": "haskupim/200217",
    "ts": "2026-10-30T06:27:06+00:00",
    "text": "בנימין נתניהו התבטא כי אסור להקים ממשלה יחד איתם.",
-   "views": 33,
+   "views": 37,
    "forwarded_from": null,
    "media": [
     {
@@ -232,7 +248,7 @@
    "post": "merkaz/299760",
    "ts": "2026-10-30T06:26:49+00:00",
    "text": "לקראת פעולה צבאית אפשרית, סגן הנשיא ארה״ב ואנס הציע למזכיר המועצה העליונה לביטחון לאומי באיראן רזאי פגישה אישית לשם חידוש המגעים להפסקת הלחימה",
-   "views": 72,
+   "views": 73,
    "forwarded_from": null,
    "media": [],
    "title": "מסר מוושינגטון לבכיר איראני סמוך לתקיפה",
@@ -262,7 +278,7 @@
    "post": "haskupim/200216",
    "ts": "2026-10-30T06:25:44+00:00",
    "text": "כוחות כיבוי אש סיימו לחלץ את כלל הלכודים מהזירה, בה נפגע אוטובוס שהסיע בנות לטיול",
-   "views": 30,
+   "views": 38,
    "forwarded_from": null,
    "media": [
     {
@@ -280,7 +296,7 @@
    "post": "haskupim/200215",
    "ts": "2026-10-30T06:24:22+00:00",
    "text": "באירוע דרכים קשה בדרום הארץ נפגעו ילדים באורח אנוש וקשה כתוצאה מהתנגשות בין אוטובוס לטרקטור",
-   "views": 34,
+   "views": 42,
    "forwarded_from": null,
    "media": [],
    "title": "תאונת דרכים קשה בדרום הארץ",
@@ -292,7 +308,7 @@
    "post": "haskupim/200214",
    "ts": "2026-10-30T06:23:09+00:00",
    "text": "השר בצלאל סמוטריץ חתם על צו לפיו מחיר ליטר בנזין יעמוד בחודש נובמבר על 7.85 שקלים.",
-   "views": 34,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "title": "עדכון מחיר הדלק לחודש נובמבר",
@@ -304,7 +320,7 @@
    "post": "haskupim/200213",
    "ts": "2026-10-30T06:22:18+00:00",
    "text": "העיתונאי ישי כהן התייחס לשינוי בשיח הפוליטי סביב סוגיית הגיוס לאחר תוצאות הבחירות, וציין כי כעת עוסקים בחיפוש חוק מוסכם לאחר תקופה שבה הועלו טענות קשות בנושא.",
-   "views": 34,
+   "views": 42,
    "forwarded_from": null,
    "media": [
     {
@@ -340,7 +356,7 @@
    "post": "haskupim/200212",
    "ts": "2026-10-30T06:20:19+00:00",
    "text": "יאיר לפיד התייחס ברשתות החברתיות למאמצים להרכבת ממשלה, הגדיר זאת כתהליך מורכב וביקש סבלנות מהציבור, תוך ציון כי ישנו רוב ישראלי וכי מתנהלים מגעים שקטים מאחורי הקלעים.",
-   "views": 35,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "title": "יאיר לפיד על המגעים להקמת ממשלה",
@@ -352,7 +368,7 @@
    "post": "RealKikarHashabat/10438",
    "ts": "2026-10-30T06:16:06+00:00",
    "text": "תחקיר מציג רשת חשאית המורכבת מחמשת אלפים חברות שבאמצעותה עוקפת איראן את הסנקציות שהוטלו עליה",
-   "views": 1,
+   "views": 2,
    "forwarded_from": null,
    "media": [
     {
@@ -370,7 +386,7 @@
    "post": "RealKikarHashabat/10437",
    "ts": "2026-10-30T06:07:01+00:00",
    "text": "עיתונאים מציינים כי לאחר שנתיים של שימוש במונחים כמו שוויון בנטל והאשמות נגד חרדים סביב תוצאות הבחירות, נשמעים כעת קולות הקוראים לדון מחדש ו״לחפש חוק מוסכם לאחר שברית המשרתים ירדה מהפרק.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [
     {
@@ -388,7 +404,7 @@
    "post": "RealKikarHashabat/10436",
    "ts": "2026-10-30T06:06:51+00:00",
    "text": "יהדות התורה דורשת חקיקת חוק גיוס מוסכם בתמורה להימנעות בהצבעת ההשבעה, מה שמעורר דילמה בקרב גוש השינוי וישראל ביתנו.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [
     {
@@ -406,7 +422,7 @@
    "post": "merkaz/299758",
    "ts": "2026-10-30T06:03:42+00:00",
    "text": "יושב ראש יש עתיד יאיר לפיד התייחס בפוסט ברשתות החברתיות למלאכת הרכבת הממשלה וכתב כי מדובר בהליך פוליטי מורכב שחבים אותו לבוחרים. לדבריו, עומד לרשותם רוב ישראלי עצום המעוניין בכך.",
-   "views": 140,
+   "views": 141,
    "forwarded_from": null,
    "media": [],
    "title": "לפיד החל במגעים להקמת ממשלה",
@@ -418,7 +434,7 @@
    "post": "HiTech_Jobs_In_Israel/138003",
    "ts": "2026-10-30T06:03:22+00:00",
    "text": "AI Engineer at Skai\nLocation: Tel Aviv, Israel\nPress here https://skai.io/company/careers/tel-aviv-israel/ai-engineer/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 35,
+   "views": 36,
    "forwarded_from": null,
    "media": [
     {
@@ -436,7 +452,7 @@
    "post": "HiTech_Jobs_In_Israel/138002",
    "ts": "2026-10-30T06:03:21+00:00",
    "text": "Product Manager- AI Platform at Silverfort\nLocation: Tel Aviv, Israel\nPress here https://www.comeet.com/jobs/silverfort/54.007/product-manager--ai-platform/A0.477?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 29,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -448,7 +464,7 @@
    "post": "HiTech_Jobs_In_Israel/138001",
    "ts": "2026-10-30T06:03:19+00:00",
    "text": "Director of Software Engineering at ScyllaDB\nLocation: Israel\nPress here https://www.comeet.com/jobs/scylladb/E4.006/director-of-software-engineering/37.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 22,
+   "views": 23,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -460,7 +476,7 @@
    "post": "HiTech_Jobs_In_Israel/138000",
    "ts": "2026-10-30T06:03:16+00:00",
    "text": "Sub Contractor Machine Learning Engineer at Samsung Research and Development Center Israel\nLocation: Samsung Israel R&D Center- SIRC\nPress here https://www.comeet.com/jobs/samsung/D4.005/sub-contractor-machine-learning-engineer/D0.479?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -472,7 +488,7 @@
    "post": "HiTech_Jobs_In_Israel/137998",
    "ts": "2026-10-30T06:03:15+00:00",
    "text": "RF & Regulatory Compliance Engineer at Rocoto\nLocation: Ra'anana\nPress here https://www.comeet.com/jobs/rocoto/50.00C/rf--regulatory-compliance-engineer/58.47C?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 21,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -484,7 +500,7 @@
    "post": "HiTech_Jobs_In_Israel/137999",
    "ts": "2026-10-30T06:03:15+00:00",
    "text": "Director of Platform Engineering at http://riverside.fm/\nLocation: Israel\nPress here https://careers.riverside.com/careers/director-of-platform-engineering?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 20,
+   "views": 21,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -496,7 +512,7 @@
    "post": "HiTech_Jobs_In_Israel/137997",
    "ts": "2026-10-30T06:03:14+00:00",
    "text": "Controller at PI-Cardia\nLocation: Rehovot, Israel\nPress here https://www.comeet.com/jobs/pi-cardia/A5.00B/controller/D6.869?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 21,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -520,7 +536,7 @@
    "post": "HiTech_Jobs_In_Israel/137996",
    "ts": "2026-10-30T06:03:10+00:00",
    "text": "B2B Revenue Operations at Pango\nLocation: Petah Tikva, Israel\nPress here https://www.comeet.com/jobs/pango/59.002/b2b-revenue-operations/67.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 21,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -700,7 +716,7 @@
    "post": "amitsegal/66605",
    "ts": "2026-10-30T05:58:46+00:00",
    "text": "ראש הממשלה לשעבר יאיר לפיד פרסם התייחסות ברשתות החברתיות וביקש מהציבור לגלות סבלנות לקראת הליך הרכבת הממשלה המורכב. לפיד הדגיש כי ישנו רוב ציבורי רחב המעוניין בכך, וציין כי מתקיימים מגעים מאחורי הקלעים.",
-   "views": 27100,
+   "views": 28100,
    "forwarded_from": null,
    "media": [],
    "title": "יאיר לפיד קורא לציבור לסבלנות",
@@ -932,7 +948,7 @@
    "post": "haskupim/200205",
    "ts": "2026-10-29T21:34:51+00:00",
    "text": "יו״ר יהדות התורה ח״כ יעקב אשר נשא ברכה במעמד שבע ברכות לנישואי בת הגרש״ב סורוצקין ראש ישיבות עטרת שלמה.",
-   "views": 307,
+   "views": 308,
    "forwarded_from": null,
    "media": [
     {
@@ -1335,7 +1351,7 @@
    "post": "abualiexpress/132812",
    "ts": "2026-10-29T19:52:04+00:00",
    "text": "לפי דיווח בוול סטריט ג'ורנל, מפקד סנטקום בראד קופר הציג לנשיא טראמפ את חלופות התקיפה האפשריות מול איראן.",
-   "views": 81600,
+   "views": 81700,
    "forwarded_from": null,
    "media": [
     {
@@ -1389,7 +1405,7 @@
    "post": "abualiexpress/132811",
    "ts": "2026-10-29T19:38:44+00:00",
    "text": "שגריר ארצות הברית בטורקיה, תום באראכ, טען כי המחשבה על הקמת ישראל הגדולה מהווה אשליה, והוסיף כי יריביה הפוליטיים של המדינה הם אלו המפיצים זאת. לדבריו, בעקבות מאורעות שבעה באוקטובר ניתנה לישראל הזכות לשנות את המציאות בגבולותיה לצרכי ביטחון, ומהלך זה דורש זמן.",
-   "views": 85000,
+   "views": 85100,
    "forwarded_from": null,
    "media": [
     {
@@ -1473,7 +1489,7 @@
    "post": "abualiexpress/132810",
    "ts": "2026-10-29T19:15:01+00:00",
    "text": "סוכנות הידיעות תסנים המקושרת למשמרות המהפכה באיראן פרסמה לעג כלפי סגן נשיא ארצות הברית ג׳יי די ואנס, אשר ממתין לתגובת טהראן להצעתו בדבר פתיחת שיחות מחדש.",
-   "views": 83600,
+   "views": 83700,
    "forwarded_from": null,
    "media": [
     {
@@ -1638,7 +1654,7 @@
    "post": "amitsegal/66603",
    "ts": "2026-10-29T18:16:42+00:00",
    "text": "לדברי עמית סגל, המדינה נעה לעבר מערכת בחירות חדשה, ולא רק בשל החקירה הקטארית.",
-   "views": 96900,
+   "views": 97300,
    "forwarded_from": "",
    "media": [
     {
@@ -1785,7 +1801,7 @@
    "post": "abualiexpress/132803",
    "ts": "2026-10-29T17:44:01+00:00",
    "text": "סוכנות הידיעות האיראנית תסנים המזוהה עם משמרות המהפכה האיראנים לועגת לסגן נשיא ארה\"ב ג'יי די ואנס - שמחכה לתשובה מאיראן להצעה שלו על חידוש המו\"מ.",
-   "views": 76000,
+   "views": 76100,
    "forwarded_from": null,
    "media": [
     {
@@ -1916,7 +1932,7 @@
    "post": "amitsegal/66597",
    "ts": "2026-10-29T17:24:43+00:00",
    "text": "הסתיימה ספירת כלל הקולות הרגילים במערכת הבחירות.",
-   "views": 98400,
+   "views": 98700,
    "forwarded_from": null,
    "media": [],
    "title": "סיום ספירת הקולות הרגילים",
@@ -2421,7 +2437,7 @@
    "post": "amitsegal/66589",
    "ts": "2026-10-29T16:15:14+00:00",
    "text": "המשטרה הפעילה מספר רימוני הלם מול חרדים קיצוניים שביצעו חסימות בצומת גהה.",
-   "views": 94200,
+   "views": 94500,
    "forwarded_from": null,
    "media": [
     {
@@ -2659,7 +2675,7 @@
    "post": "AceIsraelofficial/4618",
    "ts": "2026-10-29T14:56:16+00:00",
    "text": "🌧❄️ חברי ACE CLUB, מוכנים לחורף? 🔥\nהטמפרטורות יורדות והמחירים מתחממים! 😍\nדואגים לכם לחורף חמים ונעים עם מחירים מיוחדים לחברי המועדון 💗\n🔥 רדיאטור 9 צלעות שחור עם שעון שבת מובנה ב־179 ₪ בלבד!\n🔥 תנור אינפרא לאמבטיה 1500 וואט ב־69 ₪ בלבד!\n🔥 רדיאטור 9 צלעות 2000 וואט מבית אטמור ב־149 ₪ בלבד!\n💗 מחירים מיוחדים לחברי ACE CLUB!\nהחורף מתקרב, זה הזמן להתחמם במחירים שווים! 🛒\nhttps://tinyurl.com/4wwexh4v\n\nלחברי מועדון ומצטרפים חדשים, תוקף כל מבצע מצוין בעמוד המוצר",
-   "views": 3840,
+   "views": 3850,
    "forwarded_from": null,
    "media": [
     {
@@ -2885,7 +2901,7 @@
    "post": "SALAMTAK_DEALS/58634",
    "ts": "2026-10-29T11:30:36+00:00",
    "text": "גיימרים זה בשבילכם! דיל מעולה מתחת לרף המכס! 🎮🔥\nבקר גיימינג לסמארטפון של ASUS ROG Tessen\n\n📱 מתאים לטלפוני אנדרואיד בחיבור USB-C\n📏 מחזיק טלפונים בעובי 7 עד 14.5 מ\"מ, גם עם כיסוי\n🕹️ סטיקים ברמת קונסולה וטריגרים אנלוגיים לשליטה מדויקת\n⚙️ כפתורים ניתנים לתכנות ותאורת RGB\n🎒 מתקפל ונכנס לכיס\n🔋 טעינה מהירה לטלפון גם תוך כדי משחק\n\n💰 מאמזון ארה\"ב 🇺🇸: כ-₪222 ($70.99) בלבד, במקום מעל ₪400 בארץ\n🚚 משלוח חינם עד הבית, בלי מכס\n\nלינק 👇\nhttps://salamtak.deals/archives/50738\n\nבקיצור, הופכים את הטלפון לקונסולת משחקים במחיר של חצי מבארץ 😉",
-   "views": 1330,
+   "views": 1340,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3136,7 +3152,7 @@
    "post": "Israel_media_industry/3874",
    "ts": "2026-10-29T07:53:50+00:00",
    "text": "",
-   "views": 308,
+   "views": 311,
    "forwarded_from": null,
    "media": [
     {
@@ -3417,7 +3433,7 @@
    "post": "SALAMTAK_DEALS/58629",
    "ts": "2026-10-28T16:52:49+00:00",
    "text": "החורף כבר כאן, והידיים נשארות חמות ויבשות! 🧤❄️\nכפפות חורף של GTUBIKE\n\n🔥 בטנה חמה מבפנים\n💧 דוחות מים וחוסמות רוח\n📱 מסך מגע באצבעות, בלי להוריד את הכפפה\n🔘 סגירה בגלגלת שמתאימה את הכפפה ליד\n✋ מונעות החלקה ואיבוד אחיזה, מושלם לכידון ולמקלות\n⭐ דירוג 4.8 ומעל 4,000 הזמנות\n\n💰 מחיר: כ-₪25 לזוג (מידות M עד XL)\n🚚 משלוח חינם בהזמנה מעל ₪42, כלומר בקנייה של שני זוגות\n\nלינק 👇\nhttps://salamtak.deals/archives/50710\n\nבקיצור, זוג כפפות לרכיבה, ריצה וטיולים בחורף, במחיר של קפה ומאפה 😉",
-   "views": 1810,
+   "views": 1820,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3579,7 +3595,7 @@
    "post": "SALAMTAK_DEALS/58628",
    "ts": "2026-10-28T13:00:26+00:00",
    "text": "מטען נייד בגודל של כרטיס אשראי, נצמד לטלפון וטוען! 🧲🔋\nמטען נייד מגנטי של Baseus\n\n🧲 נצמד מגנטית לגב הטלפון\n💳 דק וקומפקטי, נכנס לכל כיס\n⚡ טעינה מהירה עד 20W בדגם הקטן ועד 27W בגדול\n📱 מתאים לאייפון עם MagSafe, ולאנדרואיד עם כיסוי מגנטי\n⭐ דירוג 4.8 מהחנות הרשמית של Baseus\n\n🔋 בנפח 5,000mAh: כ-₪75 ($23.66), בשחור או ורוד\n🔋 בנפח 10,000mAh: כ-₪99 ($31.39)\n🎟️ קופון: PB3705\n🚚 משלוח חינם\n\nלינק 👇\nhttps://salamtak.deals/archives/50694\n\nבקיצור, סוללה שתמיד צמודה לטלפון ולא תופסת מקום בתיק 😉",
-   "views": 1840,
+   "views": 1850,
    "forwarded_from": "",
    "media": [
     {
@@ -3906,7 +3922,7 @@
    "post": "Israel_media_industry/3869",
    "ts": "2026-10-27T05:51:20+00:00",
    "text": "",
-   "views": 477,
+   "views": 478,
    "forwarded_from": null,
    "media": [
     {
@@ -4325,7 +4341,7 @@
    "post": "AceIsraelofficial/4600",
    "ts": "2026-10-22T12:25:14+00:00",
    "text": "🔥 ירידת מחירים באתר ACE! 🔥\nמגוון פריטים נבחרים במחירים שכדאי לתפוס! 🛒\n🛋 ספה 3 מושבים דומיניק\nרק 1,399 ₪!\n💻 פינת עבודה דגם סייפן\nרק 555 ₪!\n✨ כורסה מעוצבת קליפורניה\nרק 499 ₪!\n🎮 שולחן גיימינג ארגונומי ברוחב 120 ס\"מ\nרק 329 ₪!\n🌿 גלגלת השקיה אוטומטית 15 מטר\nרק 169 ₪!\n💡 צמוד תקרה JADY בקוטר 35 ס\"מ\nרק 79 ₪!\n🪑 סט 4 כיסאות בר מעוצבים דגם Elenora בז'\nרק 979 ₪!\n🛒 לרכישה באתר ACE בלבד\nhttps://tinyurl.com/2u2k6u7h\nתוקף כל מבצע מצוין בעמוד המוצר. בכפוף לתנאי המבצע.",
-   "views": 9640,
+   "views": 9650,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
