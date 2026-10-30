@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:36:10.265364+00:00",
+ "updated": "2026-10-30T06:38:12.481573+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,29 @@
  "count": 339,
  "items": [
   {
+   "id": "p7f1026c3dbb3",
+   "post": "behadrey/107766",
+   "ts": "2026-10-30T06:35:05+00:00",
+   "text": "אוטובוס שהסיע בנות התנגש בטרקטור בכביש 25 בדרום הארץ. כתוצאה מהתנגשות זו נהרג נהג הטרקטור ונפצעו 23 נוסעים.",
+   "views": 7,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/1272ead8a6d83314.jpg"
+    }
+   ],
+   "title": "תאונת דרכים קשה בדרום",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "p7d8ca79db51d",
    "post": "haskupim/200219",
    "ts": "2026-10-30T06:32:16+00:00",
    "text": "כוחות ההצלה פעלו בדרום הארץ לחילוץ ילדים שהיו בתוך אוטובוס",
-   "views": 10,
+   "views": 20,
    "forwarded_from": null,
    "media": [
     {
@@ -161,7 +179,7 @@
    "post": "haskupim/200218",
    "ts": "2026-10-30T06:28:59+00:00",
    "text": "זק״א עדכנו כי בתאונת הדרכים בצומת הגדי בכביש 25 נהרג נהג האוטובוס, ובנוסף מטופלים במקום שלושה פצועים באורח בינוני ועשרים פצועים באורח קל.",
-   "views": 24,
+   "views": 29,
    "forwarded_from": null,
    "media": [],
    "title": "הרוג ועשרות פצועים בכביש 25",
@@ -173,7 +191,7 @@
    "post": "merkaz/299761",
    "ts": "2026-10-30T06:28:41+00:00",
    "text": "באזור שיבולים בכביש 25 אירעה התנגשות מאחור בין אוטובוס שהסיע ילדים לבין טרקטור, ונקבע כי אדם אחד במצב אנוש.",
-   "views": 33,
+   "views": 63,
    "forwarded_from": null,
    "media": [
     {
@@ -191,7 +209,7 @@
    "post": "haskupim/200217",
    "ts": "2026-10-30T06:27:06+00:00",
    "text": "בנימין נתניהו התבטא כי אסור להקים ממשלה יחד איתם.",
-   "views": 27,
+   "views": 33,
    "forwarded_from": null,
    "media": [
     {
@@ -214,7 +232,7 @@
    "post": "merkaz/299760",
    "ts": "2026-10-30T06:26:49+00:00",
    "text": "לקראת פעולה צבאית אפשרית, סגן הנשיא ארה״ב ואנס הציע למזכיר המועצה העליונה לביטחון לאומי באיראן רזאי פגישה אישית לשם חידוש המגעים להפסקת הלחימה",
-   "views": 42,
+   "views": 72,
    "forwarded_from": null,
    "media": [],
    "title": "מסר מוושינגטון לבכיר איראני סמוך לתקיפה",
@@ -226,7 +244,7 @@
    "post": "behadrey/107765",
    "ts": "2026-10-30T06:26:44+00:00",
    "text": "בדרום התרחשה התאונה הקשה שבה התנגשו אוטובוס וטרקטור, ומספר ילדים נפצעו באורח אנוש וקשה.",
-   "views": 11,
+   "views": 15,
    "forwarded_from": null,
    "media": [
     {
@@ -244,7 +262,7 @@
    "post": "haskupim/200216",
    "ts": "2026-10-30T06:25:44+00:00",
    "text": "כוחות כיבוי אש סיימו לחלץ את כלל הלכודים מהזירה, בה נפגע אוטובוס שהסיע בנות לטיול",
-   "views": 28,
+   "views": 30,
    "forwarded_from": null,
    "media": [
     {
@@ -262,7 +280,7 @@
    "post": "haskupim/200215",
    "ts": "2026-10-30T06:24:22+00:00",
    "text": "באירוע דרכים קשה בדרום הארץ נפגעו ילדים באורח אנוש וקשה כתוצאה מהתנגשות בין אוטובוס לטרקטור",
-   "views": 32,
+   "views": 34,
    "forwarded_from": null,
    "media": [],
    "title": "תאונת דרכים קשה בדרום הארץ",
@@ -274,7 +292,7 @@
    "post": "haskupim/200214",
    "ts": "2026-10-30T06:23:09+00:00",
    "text": "השר בצלאל סמוטריץ חתם על צו לפיו מחיר ליטר בנזין יעמוד בחודש נובמבר על 7.85 שקלים.",
-   "views": 32,
+   "views": 34,
    "forwarded_from": null,
    "media": [],
    "title": "עדכון מחיר הדלק לחודש נובמבר",
@@ -286,7 +304,7 @@
    "post": "haskupim/200213",
    "ts": "2026-10-30T06:22:18+00:00",
    "text": "העיתונאי ישי כהן התייחס לשינוי בשיח הפוליטי סביב סוגיית הגיוס לאחר תוצאות הבחירות, וציין כי כעת עוסקים בחיפוש חוק מוסכם לאחר תקופה שבה הועלו טענות קשות בנושא.",
-   "views": 33,
+   "views": 34,
    "forwarded_from": null,
    "media": [
     {
@@ -304,7 +322,7 @@
    "post": "behadrey/107764",
    "ts": "2026-10-30T06:21:05+00:00",
    "text": "תאונת דרכים בין אוטובוס לטרקטור בדרום המדינה, מהמקום פונו נפגעים במצב אנוש וקשה, ביניהם ילדים.",
-   "views": 18,
+   "views": 22,
    "forwarded_from": null,
    "media": [
     {
@@ -322,7 +340,7 @@
    "post": "haskupim/200212",
    "ts": "2026-10-30T06:20:19+00:00",
    "text": "יאיר לפיד התייחס ברשתות החברתיות למאמצים להרכבת ממשלה, הגדיר זאת כתהליך מורכב וביקש סבלנות מהציבור, תוך ציון כי ישנו רוב ישראלי וכי מתנהלים מגעים שקטים מאחורי הקלעים.",
-   "views": 34,
+   "views": 35,
    "forwarded_from": null,
    "media": [],
    "title": "יאיר לפיד על המגעים להקמת ממשלה",
@@ -400,7 +418,7 @@
    "post": "HiTech_Jobs_In_Israel/138003",
    "ts": "2026-10-30T06:03:22+00:00",
    "text": "AI Engineer at Skai\nLocation: Tel Aviv, Israel\nPress here https://skai.io/company/careers/tel-aviv-israel/ai-engineer/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 34,
+   "views": 35,
    "forwarded_from": null,
    "media": [
     {
@@ -430,7 +448,7 @@
    "post": "HiTech_Jobs_In_Israel/138001",
    "ts": "2026-10-30T06:03:19+00:00",
    "text": "Director of Software Engineering at ScyllaDB\nLocation: Israel\nPress here https://www.comeet.com/jobs/scylladb/E4.006/director-of-software-engineering/37.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 20,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -454,7 +472,7 @@
    "post": "HiTech_Jobs_In_Israel/137998",
    "ts": "2026-10-30T06:03:15+00:00",
    "text": "RF & Regulatory Compliance Engineer at Rocoto\nLocation: Ra'anana\nPress here https://www.comeet.com/jobs/rocoto/50.00C/rf--regulatory-compliance-engineer/58.47C?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 21,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -466,7 +484,7 @@
    "post": "HiTech_Jobs_In_Israel/137999",
    "ts": "2026-10-30T06:03:15+00:00",
    "text": "Director of Platform Engineering at http://riverside.fm/\nLocation: Israel\nPress here https://careers.riverside.com/careers/director-of-platform-engineering?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -478,7 +496,7 @@
    "post": "HiTech_Jobs_In_Israel/137997",
    "ts": "2026-10-30T06:03:14+00:00",
    "text": "Controller at PI-Cardia\nLocation: Rehovot, Israel\nPress here https://www.comeet.com/jobs/pi-cardia/A5.00B/controller/D6.869?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 21,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -490,7 +508,7 @@
    "post": "HiTech_Jobs_In_Israel/137995",
    "ts": "2026-10-30T06:03:10+00:00",
    "text": "Securities Front Office at ONE ZERO Digital Bank\nLocation: Tel-Aviv\nPress here https://www.onezerobank.com/career/position/?positionID=E9.E44&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -502,7 +520,7 @@
    "post": "HiTech_Jobs_In_Israel/137996",
    "ts": "2026-10-30T06:03:10+00:00",
    "text": "B2B Revenue Operations at Pango\nLocation: Petah Tikva, Israel\nPress here https://www.comeet.com/jobs/pango/59.002/b2b-revenue-operations/67.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 20,
+   "views": 21,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -514,7 +532,7 @@
    "post": "HiTech_Jobs_In_Israel/137994",
    "ts": "2026-10-30T06:03:09+00:00",
    "text": "Head of Clinical AI at Navina\nLocation: IL\nPress here https://www.navina.ai/positions/position-53_47b?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 17,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -526,7 +544,7 @@
    "post": "HiTech_Jobs_In_Israel/137993",
    "ts": "2026-10-30T06:03:07+00:00",
    "text": "Front Desk Receptionist (Temporary Part-Time Position) at Moovit\nLocation: Ness Ziona, Israel\nPress here https://moovit.com/careers/co/ness-ziona-israel/48.47E/front-desk-receptionist-temporary-part-time-position/?fbclid=IwY2xjawVQcuZleHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH-RDScT6MwCJtaMCurXJIANDByRDqaNrCw57CuN7Zx6wblY7Nq6XOTuxCAB-_aem_Wj3RS0lLV8MFC7fZvvclRQ&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 22,
+   "views": 23,
    "forwarded_from": null,
    "media": [
     {
@@ -562,7 +580,7 @@
    "post": "HiTech_Jobs_In_Israel/137992",
    "ts": "2026-10-30T06:02:29+00:00",
    "text": "AI Engineer at Mentee Robotics\nLocation: Herzliya\nPress here https://www.comeet.com/jobs/mentee_robotics/6A.002/ai-engineer/37.47B?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 24,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -598,7 +616,7 @@
    "post": "HiTech_Jobs_In_Israel/137988",
    "ts": "2026-10-30T06:02:25+00:00",
    "text": "System Administrator at Kaltura\nLocation: Israel\nPress here https://corp.kaltura.com/careers/system-administrator/69.476/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 20,
+   "views": 21,
    "forwarded_from": null,
    "media": [
     {
@@ -628,7 +646,7 @@
    "post": "HiTech_Jobs_In_Israel/137987",
    "ts": "2026-10-30T06:02:20+00:00",
    "text": "HR - HRBP for EMEA & APJ and Israel at INFINIDAT\nLocation: Herzliya\nPress here https://www.comeet.com/jobs/infinidat/D6.003/hr---hrbp-for-emea--apj-and-israel/84.473?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 20,
+   "views": 21,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -682,7 +700,7 @@
    "post": "amitsegal/66605",
    "ts": "2026-10-30T05:58:46+00:00",
    "text": "ראש הממשלה לשעבר יאיר לפיד פרסם התייחסות ברשתות החברתיות וביקש מהציבור לגלות סבלנות לקראת הליך הרכבת הממשלה המורכב. לפיד הדגיש כי ישנו רוב ציבורי רחב המעוניין בכך, וציין כי מתקיימים מגעים מאחורי הקלעים.",
-   "views": 26200,
+   "views": 27100,
    "forwarded_from": null,
    "media": [],
    "title": "יאיר לפיד קורא לציבור לסבלנות",
@@ -712,7 +730,7 @@
    "post": "merkaz/299756",
    "ts": "2026-10-30T05:22:19+00:00",
    "text": "הלכה לעולמה מרת יהודית לוי ע\"ה, אלמנת הרב יששכר לוי זצ",
-   "views": 272,
+   "views": 302,
    "forwarded_from": null,
    "media": [],
    "title": "פטירת מרת יהודית לוי ע\"ה",
@@ -742,7 +760,7 @@
    "post": "behadrey/107763",
    "ts": "2026-10-30T05:21:02+00:00",
    "text": "פלטפורמת פולימרקט החלה בבדיקת פעילויות חריגות שהתבצעו סביב תוצאות ניצחון מפלגת הליכוד",
-   "views": 68,
+   "views": 70,
    "forwarded_from": null,
    "media": [
     {
@@ -760,7 +778,7 @@
    "post": "merkaz/299755",
    "ts": "2026-10-30T05:11:25+00:00",
    "text": "המחבל מוחמד סברי סולימאן, שביצע ביוני 2025 פיגוע בקבוקי תבערה לעבר עצרת למען חטופים בבולדר שבקולורדו, הודה באשמה ב-12 סעיפים פדרליים בהם פשעי שנאה. האקרים צפון קוריאניים אחראים לפריצה לבייננס שהסבה נזק של 6.3 מיליארד דולר. האקר סורי ששירת את משטר אסד ופרץ לדובר צה",
-   "views": 299,
+   "views": 329,
    "forwarded_from": null,
    "media": [],
    "title": "עדכוני חדשות מהעולם",
@@ -772,7 +790,7 @@
    "post": "behadrey/107762",
    "ts": "2026-10-30T05:11:10+00:00",
    "text": "צפויה התקררות ניכרת לצד משקעים שירדו באזור הצפון ובמרכז הארץ.",
-   "views": 78,
+   "views": 79,
    "forwarded_from": null,
    "media": [
     {
@@ -802,7 +820,7 @@
    "post": "haskupim/200207",
    "ts": "2026-10-30T05:05:13+00:00",
    "text": "תחזית מזג האוויר מעידה על ירידה קלה בטמפרטורות שיהיו נמוכות מהרגיל ברוב חלקי הארץ ומעונן חלקית. גשמים קלים צפויים לרדת בצפון ובמרכז בבוקר, ומשעות הצהריים ייתכן גשם קל בחוף הצפוני בלבד.",
-   "views": 110,
+   "views": 114,
    "forwarded_from": null,
    "media": [],
    "title": "תחזית מזג האוויר להיום",
@@ -814,7 +832,7 @@
    "post": "behadrey/107761",
    "ts": "2026-10-30T05:03:50+00:00",
    "text": "תושבים ברצועת עזה סיפרו על מקרים שבהם קיבלו התראות מוקדמות מכוחות הביטחון טרם תקיפת מבנים שבהם שהו",
-   "views": 78,
+   "views": 79,
    "forwarded_from": null,
    "media": [
     {
@@ -914,7 +932,7 @@
    "post": "haskupim/200205",
    "ts": "2026-10-29T21:34:51+00:00",
    "text": "יו״ר יהדות התורה ח״כ יעקב אשר נשא ברכה במעמד שבע ברכות לנישואי בת הגרש״ב סורוצקין ראש ישיבות עטרת שלמה.",
-   "views": 305,
+   "views": 307,
    "forwarded_from": null,
    "media": [
     {
@@ -949,7 +967,7 @@
    "post": "haskupim/200204",
    "ts": "2026-10-29T21:31:09+00:00",
    "text": "חילי טרופר הדגיש בתום הבחירות כי לא תקום ממשלה המבוססת על רע״ם או הרשימה המשותפת, כך לדברי ישי כהן.",
-   "views": 291,
+   "views": 292,
    "forwarded_from": null,
    "media": [],
    "title": "הצהרת חילי טרופר על ממשלה",
@@ -1021,7 +1039,7 @@
    "post": "haskupim/200200",
    "ts": "2026-10-29T21:06:51+00:00",
    "text": "משקיעים בפולימרקט ממהרים למשוך כספים לאחר שסכומי ענק של מעל ל-2.5 מיליון דולר הוצאו מהפלטפורמה.",
-   "views": 267,
+   "views": 268,
    "forwarded_from": null,
    "media": [],
    "title": "משיכת כספים חריגה בפולימרקט",
@@ -1317,7 +1335,7 @@
    "post": "abualiexpress/132812",
    "ts": "2026-10-29T19:52:04+00:00",
    "text": "לפי דיווח בוול סטריט ג'ורנל, מפקד סנטקום בראד קופר הציג לנשיא טראמפ את חלופות התקיפה האפשריות מול איראן.",
-   "views": 81500,
+   "views": 81600,
    "forwarded_from": null,
    "media": [
     {
@@ -1371,7 +1389,7 @@
    "post": "abualiexpress/132811",
    "ts": "2026-10-29T19:38:44+00:00",
    "text": "שגריר ארצות הברית בטורקיה, תום באראכ, טען כי המחשבה על הקמת ישראל הגדולה מהווה אשליה, והוסיף כי יריביה הפוליטיים של המדינה הם אלו המפיצים זאת. לדבריו, בעקבות מאורעות שבעה באוקטובר ניתנה לישראל הזכות לשנות את המציאות בגבולותיה לצרכי ביטחון, ומהלך זה דורש זמן.",
-   "views": 84800,
+   "views": 85000,
    "forwarded_from": null,
    "media": [
     {
@@ -1443,7 +1461,7 @@
    "post": "ramreports/216942",
    "ts": "2026-10-29T19:19:28+00:00",
    "text": "ארצות הברית ביצעה צעדי היערכות לקראת חידוש אפשרי של העימות מול איראן, ובמסגרת זאת נחתו עשרה מטוסים אמריקניים בבסיסים של חיל האוויר בנגב, כשהם נושאים ככל הנראה אמצעי הגנה אווירית ומיירטים. כמו כן, מטוסים הועברו גם לירדן, לערב הסעודית ולוקטר, זאת בהמשך לדיווחים מהשבוע על אזהרות אמריקניות למדינות המפרץ מפני עימות קצר וממוקד מול איראן. גורם ישראלי ציין בפני כאן חדשות כי ישראל וארצות הברית מתכוננות לכל צעד שעשוי להיקבע על ידי הנשיא טראמפ.",
-   "views": 18900,
+   "views": 19000,
    "forwarded_from": null,
    "media": [],
    "title": "היערכות אמריקנית באזור לקראת איראן",
@@ -1455,7 +1473,7 @@
    "post": "abualiexpress/132810",
    "ts": "2026-10-29T19:15:01+00:00",
    "text": "סוכנות הידיעות תסנים המקושרת למשמרות המהפכה באיראן פרסמה לעג כלפי סגן נשיא ארצות הברית ג׳יי די ואנס, אשר ממתין לתגובת טהראן להצעתו בדבר פתיחת שיחות מחדש.",
-   "views": 83500,
+   "views": 83600,
    "forwarded_from": null,
    "media": [
     {
@@ -1485,7 +1503,7 @@
    "post": "behadrey/107754",
    "ts": "2026-10-29T19:11:01+00:00",
    "text": "ניצב בדימוס אבשלפ זיני פנה לראש הממשלה בנימין נתניהו והביע תרעומת על כך שהיועצת המשפטית לממשלה שמה מגבלות על חקירת תיק השוחד סביב הבחירות",
-   "views": 138,
+   "views": 139,
    "forwarded_from": null,
    "media": [
     {
@@ -1575,7 +1593,7 @@
    "post": "abualiexpress/132806",
    "ts": "2026-10-29T18:21:11+00:00",
    "text": "תמונת המנדטים נותרה כשהייתה ועומדת על 53 לגוש נתניהו, 48 לגוש השינוי ו-19 למפלגות הערביות.",
-   "views": 76500,
+   "views": 76600,
    "forwarded_from": null,
    "media": [],
    "title": "עדכון תמונת המצבים הפוליטית",
@@ -1587,7 +1605,7 @@
    "post": "abualiexpress/132805",
    "ts": "2026-10-29T18:20:12+00:00",
    "text": "",
-   "views": 50800,
+   "views": 50900,
    "forwarded_from": "",
    "media": [
     {
@@ -1713,7 +1731,7 @@
    "post": "amitsegal/66600",
    "ts": "2026-10-29T17:59:56+00:00",
    "text": "שר הביטחון לשעבר יואב גלנט קרא להקים ממשלת אחדות רחבה.",
-   "views": 96800,
+   "views": 97100,
    "forwarded_from": null,
    "media": [
     {
@@ -1874,7 +1892,7 @@
    "post": "abualiexpress/132802",
    "ts": "2026-10-29T17:27:47+00:00",
    "text": "עם ספירת מלוא הקולות בבחירות לכנסת ה-26 ללא המעטפות הכפולות, עומד גוש נתניהו על 53 מנדטים, גוש השינוי על 48 מנדטים, והרשימות הערביות על 19 מנדטים ובהם 8 למפלגת רע״מ.",
-   "views": 76500,
+   "views": 76600,
    "forwarded_from": null,
    "media": [],
    "title": "תמונת מפת הגושים בבחירות",
@@ -2004,7 +2022,7 @@
    "post": "abualiexpress/132800",
    "ts": "2026-10-29T17:09:57+00:00",
    "text": "ספינת מכולות בחכירת חברת צים טבעה בים השחור אחרי שנפגעה משלושה כלי שיט בלתי מאוישים מול חופי בולגריה. הספינה יצאה מחיפה לרומניה עם 421 מכולות, וכוחות בולגריים חילצו בשלום את כל 18 אנשי הצוות. מצים נמסר כי הנזק הכספי לחברה מוערך כמזערי.",
-   "views": 76700,
+   "views": 76800,
    "forwarded_from": null,
    "media": [
     {
@@ -2051,7 +2069,7 @@
    "post": "amitsegal/66595",
    "ts": "2026-10-29T17:02:36+00:00",
    "text": "הערב התקיימה פגישה בין גדי איזנקוט לנפתלי בנט במעונו של בנט שברעננה, ובמהלכה שוחחו על אפשרויות הפעולה להקמת ממשלה בישראל בהקדם",
-   "views": 96500,
+   "views": 96800,
    "forwarded_from": null,
    "media": [
     {
@@ -2087,7 +2105,7 @@
    "post": "abualiexpress/132799",
    "ts": "2026-10-29T16:57:17+00:00",
    "text": "צבא ההגנה לישראל תקף את ביתו של אבו נהאצ אלמדהון ברחוב אחמד יאסין באזור א צפטאוי בצפון עזה, בעקבות התרעת פינוי שניתנה טרם התקיפה",
-   "views": 73900,
+   "views": 74000,
    "forwarded_from": null,
    "media": [
     {
@@ -2298,7 +2316,7 @@
    "post": "amitsegal/66593",
    "ts": "2026-10-29T16:41:53+00:00",
    "text": "יושב ראש יהדות התורה חבר הכנסת יעקב אשר הגיב להתנהלות הכוחות בהפגנות וציין כי למרות ההתנגדות לחסימות צירים אין לעבור בשתיקה על תיעודי פציעות של מפגינים ובהם צעיר בעל צרכים מיוחדים. הוא דרש מהמפכ״ל לזמן לשימוע את השוטרים שפעלו באלימות קשה בניגוד לחוק",
-   "views": 94700,
+   "views": 95000,
    "forwarded_from": null,
    "media": [],
    "title": "תגובת ח\"כ יעקב אשר לאלימות",
@@ -2340,7 +2358,7 @@
    "post": "amitsegal/66592",
    "ts": "2026-10-29T16:24:34+00:00",
    "text": "חבר הכנסת גדי איזנקוט מסר בשיחת טלפון כי בכוונתו לפעול להקמת ממשלה חדשה בישראל שתשקף את רצון הציבור.",
-   "views": 93900,
+   "views": 94200,
    "forwarded_from": null,
    "media": [],
    "title": "הודעת גדי איזנקוט",
@@ -2388,7 +2406,7 @@
    "post": "amitsegal/66590",
    "ts": "2026-10-29T16:16:32+00:00",
    "text": "",
-   "views": 95000,
+   "views": 95300,
    "forwarded_from": null,
    "media": [
     {
@@ -2717,7 +2735,7 @@
    "post": "AceIsraelofficial/4617",
    "ts": "2026-10-29T13:30:33+00:00",
    "text": "🌧 הגשם בדרך? הכביסה נשארת יבשה! ☔️\nהחורף מתקרב וזה בדיוק הזמן להתחדש במתקן לייבוש כביסה 🧺\n🔥 רק 69 ₪ במקום 149 ₪!\nמתקן לייבוש כביסה מבית HomeTown עם 3 קומות ו-24 מוטות תלייה 👕\n🚚 משלוח חינם לנקודת איסוף!\n🛒 לרכישה באתר בלבד 👇\nhttps://tinyurl.com/mts3v6c\n⏰ אל תפספסו את המחיר!\n\nבאתר בלבד , תוקף כל מבצע מצוין בעמוד המוצר",
-   "views": 4510,
+   "views": 4520,
    "forwarded_from": null,
    "media": [
     {
@@ -2845,24 +2863,6 @@
    "checked": 3
   },
   {
-   "id": "pe9daae0d1c5d",
-   "post": "behadrey/107738",
-   "ts": "2026-10-29T11:45:26+00:00",
-   "text": "יושב ראש רעמ מנסור עבאס דחה את הטענות על מעורבותו והצהיר כי יעניק שיתוף פעולה מלא לחקירה",
-   "views": 132,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/57556cb8eebd4b2a.jpg"
-    }
-   ],
-   "title": "עבאס מגיב לפרשה ומבטיח שיתוף פעולה",
-   "rw": 1,
-   "checked": 3
-  },
-  {
    "id": "p43f3fc5ed12f",
    "post": "abualiexpress/132785",
    "ts": "2026-10-29T11:35:01+00:00",
@@ -2957,7 +2957,7 @@
    "post": "ILcoupons/5929",
    "ts": "2026-10-29T10:55:34+00:00",
    "text": "הולי מולי!!! WTF?!? 🚨⚰️ דקו מתהפך בקברו! מי שיזם את הדילים המוגזמים עוד לא ראה את הטירוף הזה של BLACK+DECKER! 🔥 מקדחה רוטטת עוצמתית 710W עם ערכת אביזרים של 32 חלקים — במחיר שגורם ליד לרעוד לפני שלוחצים על ההזמנה! 🤯🔨\n\n⏳ ורק 12 יחידות במלאי! מי שיתמהמה עלול להישאר עם חור בקיר ובלי המקדחה 😂💥 זה הזמן לעקוץ את הדיל לפני שהוא נעלם, הכמות מוגבלת והמציאה הזאת לא מחכה לאף אחד! 🏃‍♂️💨\n\nבאנדל BLACK+DECKER BEH710SA32-QS מקדחה רוטטת 710W חזקה עם ארגז ביטים ומקדחים! במחיר דמיוני והזוי לכל הדיעות של 92₪ 😲🔥\n\n💰 קולטים איזה מחיר?! 92₪?!?! זו לא טעות! זו המציאות ואתם הולכים לחגוג על העקיצה הזו 🐝🐝 שתבינו שפעם היו מוכרים את הערכה בארץ ב-599 שקל\n\n✂️קוד קופון: BDiBuyIL\nמבצע חיסול BLACK+DECKER במחירי חלום חסרי תקדים של פעם בחיים - עשרות כלים ב50% הנחה\n🚛 איסוף עצמי חינם או משלוחים ב-45₪\n🛍 פרטים לרכישה באתר + כ24 מבצעים נוספים לשלב באותה עגלה:\nhttps://newtools.co.il/blackdecker\n\nמפרט טכני:\n⚡ הספק מנוע: 710W\n🔄 מהירות משתנה: 0-2,800 סל״ד\n🔨 קצב רטט מרבי: 47,600 פעימות בדקה\n🔩 פוטר מהיר בקוטר עד 13 מ״מ\n💪 קוטר קידוח מרבי בעץ: 25 מ״מ, במתכת / אבן: 13 מ״מ\n↔️ סיבוב קדימה ואחורה\n🔒 מתג נעילה לעבודה רציפה\n🎯 ידית כוח\n🔌 מקדחה חוטית בלי לחכות לטעינת סוללה!\n\n📦 מה מקבלים בערכה?\n✅ מקדחה רוטטת B+D 710W ✅ ידית צד ✅ תיק BD מקורי ✅ ערכת 32 אביזרים לקידוח ולהברגה\n\n✔️ מתאימה לעבודות ביתיות ולפרויקטים של DIY\n✔️ קידוח בעץ, במתכת ובבנייה\n✔️ מצב רטט לקידוח בטון\n✔️ ערכת אביזרים שמאפשרת להתחיל לעבוד בנוחות\n\n🔥 לפוסט-\nhttps://www.facebook.com/share/p/1Exncf41XN/",
-   "views": 773,
+   "views": 774,
    "forwarded_from": null,
    "media": [
     {
@@ -3064,7 +3064,7 @@
    "post": "SALAMTAK_DEALS/58631",
    "ts": "2026-10-29T09:34:32+00:00",
    "text": "מתכוננים ללידה? ככה חוסכים מאות שקלים על ציוד ההאכלה! 👶🍼\nסט בקבוקים ומוצצים של Tommee Tippee\n\n🍼 חמישה בקבוקים נגד גזים, בשני גדלים: 260 מ\"ל ו-150 מ\"ל\n🌬️ צינור אוורור מיוחד שמרחיק אוויר מהחלב ומפחית גזים וגיהוקים\n🤱 פטמה רכה בצורת שד, שמקלה על המעבר בין הנקה לבקבוק\n🧢 שלושה מכסים לבקבוקים, נוחים לנסיעות\n😴 שני מוצצים קלילים לתינוקות מגיל 0\n⭐ דירוג 4.6 מאלפי הורים באמזון\n\n💰 מאמזון ארה\"ב 🇺🇸: כ-₪82 ($26.58) לכל עשרת החלקים\n🚚 משלוח חינם בהזמנה מעל $49, בלי מכס\n\nלינק 👇\nhttps://salamtak.deals/archives/50722\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\nבקיצור, מתנת לידה מושלמת, או פשוט לפנק את עצמכם לפני שהקטן מגיע 🎁",
-   "views": 1300,
+   "views": 1310,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3597,7 +3597,7 @@
    "post": "SALAMTAK_DEALS/58627",
    "ts": "2026-10-28T12:33:58+00:00",
    "text": "זוג פנסים חזקים ב-40 ש\"ח! 🔦🔦\nפנסים נטענים של Banral 🔋\n\n💡 עוצמה של 1000 לומן עם זום מתכוונן\n🔆 שישה מצבי תאורה, כולל טורבו ו-SOS\n🔌 טעינה מהירה ב-USB-C, עד 12 שעות פעולה\n💧 גוף אלומיניום עמיד במים\n🎒 מגיעים בתיק עם קליפס ורצועה\n\nמאמזון ארה\"ב 🇺🇸: כ-₪40 לזוג עם קוד C1D7EQME בקופה\n🚚 משלוח חינם בסל מעל $49, אחרת המשלוח $18.53\nלינק 👇\nhttps://salamtak.deals/archives/50686\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\nבקיצור, אחד לבית ואחד לרכב 👌",
-   "views": 1770,
+   "views": 1780,
    "forwarded_from": "",
    "media": [
     {
@@ -3633,7 +3633,7 @@
    "post": "SALAMTAK_DEALS/58626",
    "ts": "2026-10-28T11:52:30+00:00",
    "text": "לא אחת, לא שתיים ולא שלוש, אלא ארבע מצלמות אבטחה! 📹📹📹📹\nסט מצלמות של AOQEE C1 2K לבית ולחצר 🏡\n\n🎥 צילום חד באיכות 2K\n🌙 ראיית לילה בצבע עם תאורה מובנית\n🌧️ עמידות לגשם ולאבק, לפנים ולחוץ\n📱 צפייה והתראות ישר לטלפון\n🔌 מתחברות לחשמל, בלי סוללות להטעין\n\nמאמזון ארה\"ב 🇺🇸: כ-₪124 ($39.99) לארבע מצלמות\n🚚 משלוח חינם בסל מעל $49, אחרת המשלוח $19.54\nלינק 👇\nhttps://salamtak.deals/archives/50684\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\nבקיצור, ארבע מצלמות במחיר של אחת בארץ 👌",
-   "views": 1640,
+   "views": 1650,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3731,7 +3731,7 @@
    "post": "SALAMTAK_DEALS/58623",
    "ts": "2026-10-27T16:50:10+00:00",
    "text": "המברגה הקטנה של Bosch, שכל בית צריך! 🔧\nמברגה חשמלית של Bosch Go 3 🔋\n\n💡 תאורת לד מובנית לעבודה בפינות חשוכות\n⚙️ דרגות מומנט, מברגים עדין או חזק\n👆 מתחילה לעבוד בלחיצה או בדחיפה על הבורג\n🔌 נטענת בכבל USB-C\n🧰 בקופסה ערכת ביטים, מחזיק ותיק\n\nמאמזון ארה\"ב 🇺🇸: $72.99 (כ-₪226), משלוח חינם עד הבית 🚚\nבארץ עולה כ-₪300\nלינק 👇\nhttps://salamtak.deals/archives/50656\n\nבקיצור, להרכבת רהיטים ולכל תיקון קטן בבית 👌",
-   "views": 2029,
+   "views": 2040,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3992,7 +3992,7 @@
    "post": "AceIsraelofficial/4613",
    "ts": "2026-10-26T08:32:15+00:00",
    "text": "🗳 מה שלא ייצא, הרווחתם! 🔥\nמבצעי הבחירות של ACE מטורפים! 🤯\nרק היום ומחר מחירים שלא רואים כל יום!\n🔥 סט ריהוט גן זוגי BRUNO ב-145 ₪ במקום 499 ₪\n🔥 מערכת ישיבה לגינה ADEL ב-799 ₪ במקום 2,499 ₪\n🔥 ארון אפק דלת אחת ב-222 ₪ במקום 499 ₪\n🔥 פינת אוכל מיאמי + 4 כיסאות ב-699 ₪ במקום 1,699 ₪\n🔥 מברגה/מקדחה 12V ב-99 ₪ במקום 199.90 ₪\n💥 וזה רק חלק מהמבצעים!\n🛒 לכל המבצעים >> https://tinyurl.com/3r66sprv\n⏰ עד 27.10.26 באתר ובסניפים או עד גמר המלאי, המוקדם מביניהם.",
-   "views": 9530,
+   "views": 9540,
    "forwarded_from": null,
    "media": [
     {
