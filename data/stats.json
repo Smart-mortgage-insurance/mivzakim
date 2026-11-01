@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-01T00:22:22Z",
+ "updated": "2026-11-01T00:43:59Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -63,9 +63,9 @@
    "iv": 0
   },
   "20261101": {
-   "u": 0,
-   "pv": 0,
-   "iv": 0
+   "u": 1,
+   "pv": 1,
+   "iv": 21
   }
  },
  "ads": {
@@ -73,6 +73,26 @@
   "konim": 3
  },
  "items": {
+  "DealIsraeli/61431": 1,
+  "DealIsraeli/61430": 1,
+  "DealIsraeli/61427": 1,
+  "DealIsraeli/61423": 1,
+  "haskupim/200381": 1,
+  "DealIsraeli/61422": 1,
+  "haskupim/200380": 1,
+  "DealIsraeli/61420": 1,
+  "haskupim/200378": 1,
+  "RealKikarHashabat/10502": 1,
+  "haskupim/200376": 1,
+  "haskupim/200375": 1,
+  "haskupim/200374": 1,
+  "haskupim/200373": 1,
+  "behadrey/107791": 1,
+  "RealKikarHashabat/10501": 1,
+  "amitsegal/66636": 1,
+  "ramreports/217039": 1,
+  "ramreports/217038": 1,
+  "ramreports/217037": 1,
   "SALAMTAK_DEALS/58621": 1,
   "Israel_media_industry/3870": 1,
   "Israel_media_industry/3869": 1,
