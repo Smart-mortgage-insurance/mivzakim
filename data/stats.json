@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-01T09:06:34Z",
+ "updated": "2026-11-01T09:29:00Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -74,10 +74,7 @@
  },
  "items": {
   "DealIsraeli/61431": 1,
-  "DealIsraeli/61430": 1,
-  "RealKikarHashabat/10502": 1,
   "behadrey/107791": 1,
-  "RealKikarHashabat/10501": 1,
   "amitsegal/66636": 1,
   "ramreports/217039": 1,
   "ramreports/217038": 1,
