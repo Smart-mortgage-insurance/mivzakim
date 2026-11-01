@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T12:24:25.761894+00:00",
+ "updated": "2026-11-01T12:26:12.238167+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,6 +134,18 @@
  "count": 342,
  "items": [
   {
+   "id": "pa03f2a222465",
+   "post": "merkaz/299884",
+   "ts": "2026-11-01T12:24:24+00:00",
+   "text": "מלשכת חבר הכנסת יעקב אשר, יו\"ר יהדות התורה, נמסר כי בתקופה הקרובה יופצו שמועות וכותרות שונות הקשורות למפלגה. עוד הובהר כי כל דיווח שלא יצא בצורה רשמית מהם נחשב למוכחש מראש, וכי לא תוקם מערכת להכחשת פרסומים פרטניים.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [],
+   "title": "הודעת הבהרה מטעם יהדות התורה",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "pd84b6645a396",
    "post": "RealKikarHashabat/10549",
    "ts": "2026-11-01T12:15:02+00:00",
@@ -161,7 +173,7 @@
    "post": "haskupim/200438",
    "ts": "2026-11-01T12:06:34+00:00",
    "text": "סגן השר אלמוג כהן קרא בראיון ל'קול ברמה' למשי וגדלוביץ' לעצור את הליך השבעת הכנסת ברקע חקירת המפלגות הערביות. לדבריו, יש לעצור את הכל וכי המשך השגרה אינו שפוי ומהווה חסר אחריות מאחר והבחירות הורעלו.",
-   "views": 37,
+   "views": 40,
    "forwarded_from": null,
    "media": [],
    "title": "דרישה לדחיית השבעת הכנסת",
@@ -173,7 +185,7 @@
    "post": "merkaz/299883",
    "ts": "2026-11-01T12:03:36+00:00",
    "text": "אטינגר: איזנקוט מתעקש לקבל את תפקיד יו״ר הכנסת למועמד ממפלגתו, ליברמן רוצה את התפקיד לעודד פורר.",
-   "views": 151,
+   "views": 168,
    "forwarded_from": null,
    "media": [],
    "title": "מחלוקת באופוזיציה על ראשות הכנסת",
@@ -184,7 +196,7 @@
    "post": "SALAMTAK_DEALS/58678",
    "ts": "2026-11-01T12:01:16+00:00",
    "text": "אחד המוצרים הכי טובים שקניתי לאחרונה! 🙌\nתג המעקב של UGREEN שעובד גם עם אייפון וגם עם אנדרואיד 📱\nמבקשים ממנו לצפצף דרך האפליקציה, והוא מצפצף ממש חזק 🔊\nמחזיק בערך שנה בטעינה אחת, ונטען ב-USB-C. לא צריך להחליף סוללות 🔋\nאפשר לשים אותו בארנק, בתיק או על מחזיק המפתחות 🔑👜, ותמיד יודעים איפה כל דבר נמצא 📍\nמוצר מאוד מומלץ 👌עשרות רכישות כבר היו בקבוצה !\n\nמאליאקספרס, החנות הרשמית של UGREEN: רביעייה ב-₪99 (כ-$31), יוצא כ-₪25 לתג, משלוח חינם 🚚\nקוד ראשון HUU001 ואחריו SLMTKN02\nלינק 👇\nhttps://salamtak.deals/archives/50499\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 250,
+   "views": 263,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -202,7 +214,7 @@
    "post": "HiTech_Jobs_In_Israel/138209",
    "ts": "2026-11-01T12:00:16+00:00",
    "text": "Brand and Web Designer - DesignDev team at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000158967691?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 56,
+   "views": 61,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -214,7 +226,7 @@
    "post": "HiTech_Jobs_In_Israel/138208",
    "ts": "2026-11-01T12:00:15+00:00",
    "text": "Financial Analyst – PCB Division at KLA\nLocation: Yavne, Israel\nPress here https://kla.wd1.myworkdayjobs.com/Search/job/Yavne-Israel/Financial-Analyst---PCB-Division_2643034-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 54,
+   "views": 58,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -226,7 +238,7 @@
    "post": "HiTech_Jobs_In_Israel/138207",
    "ts": "2026-11-01T12:00:11+00:00",
    "text": "Application Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Application-Engineer_R2623659?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 47,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -238,7 +250,7 @@
    "post": "HiTech_Jobs_In_Israel/138205",
    "ts": "2026-11-01T12:00:09+00:00",
    "text": "Machine Learning Software Engineer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/72e986e2-94b4-49f6-be5f-74a48de8a71d?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 44,
+   "views": 48,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -250,7 +262,7 @@
    "post": "HiTech_Jobs_In_Israel/138206",
    "ts": "2026-11-01T12:00:09+00:00",
    "text": "PnP System Validation and Integration Engineer at Intel\nLocation: Israel, Haifa\nPress here https://intel.wd1.myworkdayjobs.com/External/job/Israel-Haifa/PnP-System-Validation-and-Integration-Engineer_JR0288343?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 47,
+   "views": 49,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -262,7 +274,7 @@
    "post": "HiTech_Jobs_In_Israel/138204",
    "ts": "2026-11-01T12:00:08+00:00",
    "text": "Machine Learning Software Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 43,
+   "views": 46,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -274,7 +286,7 @@
    "post": "HiTech_Jobs_In_Israel/138203",
    "ts": "2026-11-01T12:00:07+00:00",
    "text": "Junior Validation & Integration Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/b1883e14-5a78-4cd4-af6d-f22790187366?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 39,
+   "views": 43,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -286,7 +298,7 @@
    "post": "HiTech_Jobs_In_Israel/138202",
    "ts": "2026-11-01T12:00:03+00:00",
    "text": "Low Level Engineer at Wiz, Inc.\nLocation: Tel Aviv\nPress here https://www.wiz.io/careers/job/4378449006/:title?gh_jid=4378449006&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 37,
+   "views": 41,
    "forwarded_from": null,
    "media": [
     {
@@ -304,7 +316,7 @@
    "post": "HiTech_Jobs_In_Israel/138201",
    "ts": "2026-11-01T12:00:02+00:00",
    "text": "Travel Coordinator- Temporary position at Similarweb\nLocation: Tel Aviv, Israel\nPress here https://job-boards.greenhouse.io/similarweb/jobs/8344422?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 35,
+   "views": 38,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -316,7 +328,7 @@
    "post": "HiTech_Jobs_In_Israel/138199",
    "ts": "2026-11-01T12:00:01+00:00",
    "text": "Research Analyst at Upwind Security\nLocation: Tel Aviv\nPress here https://www.upwind.io/careers/co/tel-aviv/3A.47F/research-analyst/all#jobs?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 41,
+   "views": 45,
    "forwarded_from": null,
    "media": [
     {
@@ -334,7 +346,7 @@
    "post": "HiTech_Jobs_In_Israel/138200",
    "ts": "2026-11-01T12:00:01+00:00",
    "text": "Global Organization Development Partner at JFrog\nLocation: Tel Aviv/ Netanya, Israel\nPress here https://join.jfrog.com/job/?job=8334509&amp;gh_jid=8334509&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 37,
+   "views": 40,
    "forwarded_from": null,
    "media": [
     {
@@ -352,7 +364,7 @@
    "post": "HiTech_Jobs_In_Israel/138198",
    "ts": "2026-11-01T12:00:00+00:00",
    "text": "Full Stack Engineer (Front End Orientation) at Appsforce\nLocation: Petah Tikva\nPress here https://www.comeet.com/jobs/appsforce/09.00C/full-stack-engineer-front-end-orientation/6A.470?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 43,
+   "views": 46,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -400,7 +412,7 @@
    "post": "iBuyIL/27725",
    "ts": "2026-11-01T11:50:07+00:00",
    "text": "הבטחתי שיאומי במחסן ישראל והנה מגיע הטירוף הבא 😱 טאבלט 9.7 אינץ' Xiaomi Redmi Pad 2 4GB/64GB עם כיסוי Book Cover רק 461₪ עד הבית מיסים כלולים‼️\n\nכנסו לקישור ותבדקו מה המחיר שאתם מקבלים כי הקופונים הרגילים לא עובדים כאןמזה רק קופונים אישיים שמקבלים אוטומטית בדף המוצר\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/xiaomi-redmi-pad-2-9-7-inch-4g\n\nהטאבלט שלא תרצו להוריד מהידיים 📱🛋️ מושלם לסרטים, גלישה, לימודים או סתם לנוח על הספה אחרי יום ארוך.\n\nעם מסך 2K חד וברור וקצב רענון גבוה, הכל נראה פשוט טוב, גם למשחקים וגם לנטפליקס.\n\n✔️ מסך 24.6 ס\"מ (9.7 אינץ') ברזולוציית 2K ו-120Hz\n✔️ מעבד Snapdragon 6s Gen 2 עוצמתי עם 8 ליבות\n✔️ זיכרון 4GB ואחסון פנימי 64GB\n✔️ זוג רמקולים לרעש איכותי בסרטים ומוזיקה 🎵\n✔️ כיסוי Book Cover כלול באריזה\n✔️ סוללת 7600mAh שמספיקה שעות ארוכות\n✔️ טעינה מהירה 18W + WiFi 5 לגלישה מהירה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4220532158244234/",
-   "views": 352,
+   "views": 365,
    "forwarded_from": null,
    "media": [
     {
@@ -459,7 +471,7 @@
    "post": "SALAMTAK_DEALS/58677",
    "ts": "2026-11-01T11:41:35+00:00",
    "text": "זה לא ישאר הרבה זמן במלאי אז תחטפו! ⏰\nהצלחות הדקות והעמידות שכולם מכירים 🍽️\nסט 12 צלחות Winter Frost White של Corelle 🤍\n\n🍽️ שש צלחות גדולות של 26 ס\"מ\n🥗 שש צלחות קטנות של 17 ס\"מ\n💪 זכוכית Vitrelle בשלוש שכבות, עמידה לשברים ולשריטות\n📦 דקות במיוחד, הערימה נכנסת גם לארון צפוף\n🧼 מתאימות למדיח ולמיקרוגל\n\nמאמזון ארה\"ב 🇺🇸: כ-₪190 ($59.99), המשלוח עד הבית חינם 🚚\nלינק 👇\nhttps://salamtak.deals/archives/50885\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 363,
+   "views": 369,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -477,7 +489,7 @@
    "post": "ramreports/217050",
    "ts": "2026-11-01T11:37:07+00:00",
    "text": "מספר ההרוגים בעיר עזה טיפס לחמישה וצפוי להמשיך לעלות.",
-   "views": 4450,
+   "views": 4610,
    "forwarded_from": null,
    "media": [],
    "title": "עדכון מספר ההרוגים בעיר עזה",
@@ -489,7 +501,7 @@
    "post": "merkaz/299882",
    "ts": "2026-11-01T11:36:20+00:00",
    "text": "כלי שיט ספג פגיעה באזור מצר הורמוז.",
-   "views": 244,
+   "views": 255,
    "forwarded_from": null,
    "media": [
     {
@@ -512,7 +524,7 @@
    "post": "abualiexpress/132935",
    "ts": "2026-11-01T11:36:19+00:00",
    "text": "אלו שמות חמישה ההרוגים בתקיפה על עמדת משטרת חמאס בח'אן יונס: מחמד זכריא שאכר אלג'מל, בסאם נעמאן מראד מקדאד, מחמד אמין מחמוד א-נמס, שאהר מחמד אחמידאן זערב ומחמד עלי חסין אבו שער.",
-   "views": 23500,
+   "views": 23800,
    "forwarded_from": null,
    "media": [],
    "title": "שמות ההרוגים בתקיפת חמאס בח'אן יונס",
@@ -524,7 +536,7 @@
    "post": "haskupim/200437",
    "ts": "2026-11-01T11:34:20+00:00",
    "text": "הרב יאשיהו פינטו ערך סעודת מלווה מלכה יחד עם חסידיו במלון מצודת דוד.",
-   "views": 83,
+   "views": 86,
    "forwarded_from": null,
    "media": [
     {
@@ -578,7 +590,7 @@
    "post": "abualiexpress/132932",
    "ts": "2026-11-01T11:29:24+00:00",
    "text": "מטוסי קרב ביצעו תקיפה בכפר אלקציר שבדרום לבנון סמוך לכפר פרון, בזמן ששרת הרווחה הלבנונית חנין א-סיד קיימה שם מסיבת עיתונאים, מה שהביא להפסקת האירוע ולקטיעת דבריה.",
-   "views": 25800,
+   "views": 26400,
    "forwarded_from": null,
    "media": [
     {
@@ -654,7 +666,7 @@
    "post": "merkaz/299881",
    "ts": "2026-11-01T11:17:41+00:00",
    "text": "תושב חיפה הגיש תביעה נגד הרבנות הראשית בסך 8.6 מיליון שקלים, בטענה שלא קיבל אישור לבעלות על כל האדמה שברא הקב\"ה. התובע דורש בנוסף הכרה בו ככהן, ומציין כי ביקש להשתמש בזכויות אלו לצורך מיזם אינטרנטי שמטרתו הבאת גאולת העם היהודי.",
-   "views": 298,
+   "views": 307,
    "forwarded_from": null,
    "media": [],
    "title": "תביעה משפטית נגד הרבנות הראשית",
@@ -666,7 +678,7 @@
    "post": "iBuyIL/27724",
    "ts": "2026-11-01T11:12:05+00:00",
    "text": "המון בקשות שלכם ספציפית לבוסטר הזה כי הוא תותחחחח אמיתי 🔥🔻🔥 ההנחות שלנו הכי חזקות תבדקו אותנו 👌 בוסטר התנעה UTRAI JS-30 7000A/8000A הדגם החזק (לא הלייט) משולב עם קומפרסור הכל באחד! הכי חזק שיש! נופל היום מתחת לרף נדירררר 😲🚗🔥\n\n💳 מחיר סופי $72.27 / 226₪ (לוודא שבוחרים את גרסת 7000A או 8000A ולשלם בדולרים!!!)\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/arrancador-de-batera-de-c\n\n🛠 שוס! כולל סורק תקלות OBD2 חכם אבחון תקלות ברכב בזמן אמת - פעם ראשונה שרכיב כזה מגיע בבאנדל עם בוסטר\n⚡️ הנעה עוצמתית במיוחד 7000A להתנעת רכבים, משאיות, אופנועים ועוד בשניות!\n💨 קומפרסור אוויר מובנה לניפוח צמיגים בקלות ובכל מקום.\n🔦 פנס הצפה ענק 2000lm על כל החלק האחורי\n🔌 טעינת טלפונים, טאבלטים ומכשירים אחרים.\n🚗 כולל מתאם עם כניסת 12V שקע מצת המסוגלת להוציא עד 160W\n🛡 עיצוב קשוח ונייד וכולל גם קייס מתאים לנסיעות, טיולים ומקרי חירום.\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4168892316741552/",
-   "views": 599,
+   "views": 607,
    "forwarded_from": null,
    "media": [
     {
@@ -684,7 +696,7 @@
    "post": "SALAMTAK_DEALS/58675",
    "ts": "2026-11-01T11:05:51+00:00",
    "text": "לא ניסיתי, אבל במחיר הזה זה שווה את הסיכון 🤷‍♂️🧹\nשואב שוטף אלחוטי K100 של Yanhama 💧\n\n🇮🇱 משלוח מהיר ממחסן בישראל\n🌪️ שאיבה של 25,000Pa עם מנוע 170W\n🧽 שואב ושוטף ביחד, וגם מנקה את עצמו\n🔋 זמן עבודה של 40 עד 50 דקות\n🤫 רעש נמוך, מתחת ל-65dB\n📦 שני רולרים ושני פילטרים באריזה\n⚠️ אין כאן ייבוש באוויר חם בעמדה\n\nמאליאקספרס, ממחסן ישראל 🇮🇱: כ-₪443 ($140)\nלחברי מועדון ELITE באליאקספרס יוצא כ-₪401\nקוד קופון SLMTKN05\nלינק 👇\nhttps://salamtak.deals/archives/50878\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 540,
+   "views": 543,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -714,7 +726,7 @@
    "post": "merkaz/299880",
    "ts": "2026-11-01T11:03:03+00:00",
    "text": "היום בצהריים צפויה להיערך פגישה בין יו״ר יהדות התורה יעקב אשר ובין גולדקנופף ופרוש, במטרה לתאם צעדים להמשך ולקראת ההמלצה לנשיא.",
-   "views": 331,
+   "views": 335,
    "forwarded_from": null,
    "media": [],
    "title": "פגישת ראשי יהדות התורה",
@@ -726,7 +738,7 @@
    "post": "haskupim/200436",
    "ts": "2026-11-01T11:02:26+00:00",
    "text": "חבר הכנסת יעקב אשר, העומד בראש דגל התורה, אמור לקיים היום בשעות הצהריים המאוחרות פגישה עם יצחק גולדקנופף ומאיר פרוש במטרה לגבש עמדה משותפת לקראת מתן ההמלצה לנשיא המדינה",
-   "views": 112,
+   "views": 115,
    "forwarded_from": null,
    "media": [],
    "title": "פגישת ראשי יהדות התורה בתיאום עמדות",
@@ -738,7 +750,7 @@
    "post": "merkaz/299879",
    "ts": "2026-11-01T11:00:55+00:00",
    "text": "מיכאל לוטם, שגריר ישראל הראשון בסומלילנד, מסר את כתב האמנה לנשיא אבדירחמן מוחמד עבדילאהי בטקס שנערך בארמון הנשיא שבהרגייסה",
-   "views": 329,
+   "views": 333,
    "forwarded_from": null,
    "media": [
     {
@@ -768,7 +780,7 @@
    "post": "ramreports/217048",
    "ts": "2026-11-01T10:52:28+00:00",
    "text": "",
-   "views": 7440,
+   "views": 7510,
    "forwarded_from": null,
    "media": [
     {
@@ -788,7 +800,7 @@
    "post": "ramreports/217047",
    "ts": "2026-11-01T10:51:54+00:00",
    "text": "בעיר עזה דווח על עלייה במספר המחוסלים ל 5.",
-   "views": 7190,
+   "views": 7260,
    "forwarded_from": null,
    "media": [],
    "title": "עלייה במספר המחוסלים בעיר עזה",
@@ -800,7 +812,7 @@
    "post": "abualiexpress/132931",
    "ts": "2026-11-01T10:51:03+00:00",
    "text": "בשתי תקיפות ברצועת עזה בשעה האחרונה נהרגו 8 בני אדם. בעיר עזה דווח על הרוגים נוספים ועל נפגעים בתקיפות.",
-   "views": 37000,
+   "views": 37400,
    "forwarded_from": null,
    "media": [],
    "title": "הרוגים בתקיפות ברצועת עזה",
@@ -812,7 +824,7 @@
    "post": "abualiexpress/132927",
    "ts": "2026-11-01T10:48:33+00:00",
    "text": "שמונה בני אדם נהרגו בשתי תקריות ברצועת עזה. בחאן יונס נהרגו חמישה בתקיפה שכוונתה לעמדת משטרה של חמאס באזור חקלאי. בעיר עזה נהרגו שלושה נוספים בתקיפה ברחוב א-ת'ורה סמוך לקניון תאג' מול.",
-   "views": 36500,
+   "views": 36800,
    "forwarded_from": null,
    "media": [
     {
@@ -845,7 +857,7 @@
    "post": "merkaz/299878",
    "ts": "2026-11-01T10:48:15+00:00",
    "text": "לפי דיווח של מתן חודרוב, מפעל הפיס יעלה את דמי המנוי החודשיים ל-70 שקל ובמקביל יגדיל את הפרס הראשון ל-1.8 מיליון שקל, בעקבות חשיפה על אי עמידה בתנאי ההיתר של משרד האוצר.",
-   "views": 353,
+   "views": 355,
    "forwarded_from": null,
    "media": [],
    "title": "מפעל הפיס מייקר את המנויים",
@@ -875,7 +887,7 @@
    "post": "ramreports/217046",
    "ts": "2026-11-01T10:47:55+00:00",
    "text": "",
-   "views": 7410,
+   "views": 7500,
    "forwarded_from": null,
    "media": [
     {
@@ -890,7 +902,7 @@
    "post": "haskupim/200435",
    "ts": "2026-11-01T10:43:17+00:00",
    "text": "הוגש כתב אישום נגד תושב בן 49 בגין פרסום קריאות ברשתות החברתיות לפגוע בראש הממשלה בנימין נתניהו, בחברי קואליציה ובמקורבי הממשלה וראשי המחנה.",
-   "views": 123,
+   "views": 125,
    "forwarded_from": null,
    "media": [],
    "title": "כתב אישום על הסתה לרצח",
@@ -902,7 +914,7 @@
    "post": "merkaz/299877",
    "ts": "2026-11-01T10:39:26+00:00",
    "text": "המשטרה הגישה בקשה להאריך בשמונה ימים את מעצרם של שני חשודים בפרשת החשד לשוחד בחירות ברע״מ, ובמקביל תבקש לשחרר חשוד שלישי למעצר בית.",
-   "views": 374,
+   "views": 375,
    "forwarded_from": null,
    "media": [],
    "title": "הארכת מעצר בחשד לשוחד ברעם",
@@ -914,7 +926,7 @@
    "post": "haskupim/200434",
    "ts": "2026-11-01T10:34:55+00:00",
    "text": "משטרת להב 433 תבקש להאריך בשמונה ימים את מעצרם של שניים מהחשודים בפרשה הנוגעת לפעילי רע״מ, ולשחרר את החשוד השלישי למעצר בית בן שבעה ימים",
-   "views": 130,
+   "views": 131,
    "forwarded_from": null,
    "media": [],
    "title": "הארכת מעצר בפרשת פעילי רעם",
@@ -926,7 +938,7 @@
    "post": "iBuyIL/27723",
    "ts": "2026-11-01T10:34:04+00:00",
    "text": "קצת הרגשה של סוף העולם עם המחירים היום 😂🫢 ואווווווו איזה מחיררררר מצלמת אבטחה ביתית Baseus P1 Pro 5MP 3K WiFi פנורמית ב-46₪ עד הביתתתתת!!!! 📸📸\n\n💰 עודכן למחיר 14.82$ / 46₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-5mp-3k-wifi-ip-camera-2\n\n🔍 רזולוציית 3K חדה במיוחד (2880×1620)\n📸 דיגיטלי זום 8x\n⚡ מעקב תנועה חכם העדשה עוקבת אחרי מה שמתרחש כדי שלא תפספס אף תזוזה.\n🌙 ראיית לילה מעולה תמונה ברורה גם בחושך מוחלט בזכות תאורת אינפרא אדום.\n🔊 שמע דו-כיווני שומעים ומדברים בזמן אמת עם כל מי שבבית.\n📲 חיבור אלחוטי קל ומהיר (2.4GHz/5GHz), כולל הצפנה מתקדמת WPA2.\n🎥 הקלטה עד 15 ימים בכרטיס זיכרון 256GB (לא כלול באריזה).\n🔄 תנועת 360° לצדדים ו-90° למעלה-למטה שומרים על כל פינה בבית.\n⚡ חיבור USB-C נוח להתקנה מהירה וקלה.\n\n💬 לדיון בפוסט\nhttps://www.facebook.com/share/p/1EmiHaTbb6/",
-   "views": 826,
+   "views": 832,
    "forwarded_from": null,
    "media": [
     {
@@ -944,7 +956,7 @@
    "post": "SALAMTAK_DEALS/58674",
    "ts": "2026-11-01T10:34:03+00:00",
    "text": "מסוג המוצרים שלעולם לא הייתי מפרסם, אבל זה משלוח מהיר מישראל וההפרש במחיר פשוט וואו! 🇮🇱🚲\nאופניים חשמליים Dorf Premium של JAGER ⚡\n\n🇮🇱 משלוח מהיר ממחסן בישראל\n🔋 סוללת Samsung של 48V ו-14.4Ah\n🛞 גלגלי 26 אינץ' רחבים ובולם זעזועים קדמי\n🛑 בלמי דיסק הידראוליים של TEKTRO ו-6 הילוכים של Shimano\n👶 אפשר להרכיב מושב ילד, עומס מרבי של 120 ק\"ג\n💡 צג LCD עם NFC ותאורה מלפנים ומאחור\n\nמאליאקספרס, ממחסן ישראל 🇮🇱: כ-₪3,559, משלוח חינם עד הבית 🚚\nקוד קופון SUPERIL2 (בתוקף עד 3.11)\nבארץ נמכרות בכ-₪6,000..\nלינק 👇\nhttps://salamtak.deals/archives/50875\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 658,
+   "views": 661,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -980,7 +992,7 @@
    "post": "amitsegal/66643",
    "ts": "2026-11-01T10:29:01+00:00",
    "text": "בריאיון לתכנית פגוש את העיתונות ציין אתמול בני גנץ כי נסיבות רבות השתנו מאז שנת 2020 ומכשלון ממשלת האחדות ההיא, והוסיף כי הפתרון הנדרש הוא אחדות.",
-   "views": 51100,
+   "views": 51700,
    "forwarded_from": null,
    "media": [
     {
@@ -1016,7 +1028,7 @@
    "post": "ILcoupons/5942",
    "ts": "2026-11-01T10:24:02+00:00",
    "text": "מתנדבים בדרכים? יש לכם סוללת מקיטה?! טוסו לקופה ותחטפו את המציאה , מתחת לרף המס! 🚨\nמפתח הרטיטה הלוהט של ONEVAN (תואם מקיטה 18V) במחיר מצחיק! 🤑🔥\n​חברי הקהילה כבר יודעים - מדובר בכלי מפלצתי! מפתח רטיטה ללא פחמים (Brushless) עוצמתי במיוחד, שמציע ביצועים מדהימים וכמעט זהים ל-DTW700Z המקורי של מקיטה, רק בשבריר המחיר! 🤛💥\n​💰 מחיר חיסול עכשיו: רק $60.89 (כ-190 ₪ בלבד!) - מתחת לרף המס!\n\n🛒 קישור להזמנה:\nhttps://newtools.co.il/onevan-588vf-22900-n-m-drehmom\n\n🚗 דיווחי ביצועים מהשטח: מניסיון של חברי הקהילה, פותח וסוגר בקלות ברגים של רכב פרטי, ג'יפים ואפילו האמר צבאי!\n​⚠️ שימו לב: יש לבחור בגרסת \"גוף בלבד\" (Body Only) לקבלת המחיר המנצח ללא סוללות/מטען גנריים.\n​⚙️ למה הכלי הזה הוא חובה בארגז הכלים שלכם?\n✔️ מנוע Brushless עוצמתי ואמין ללא פחמים\n✔️ 3 מהירויות עבודה לבחירה ושליטה מלאה\n✔️ תפסנית 1/2 אינץ' סטנדרטית לבוקסות אימפקט\n✔️ תאימות מלאה לסוללות מקיטה 18V LXT (הסוללות השחורות עם הכוכב ⭐)\nhttps://www.facebook.com/share/p/1MU74oGNj7/",
-   "views": 361,
+   "views": 364,
    "forwarded_from": null,
    "media": [
     {
@@ -1034,7 +1046,7 @@
    "post": "SALAMTAK_DEALS/58673",
    "ts": "2026-11-01T10:23:50+00:00",
    "text": "מה זה המחיר הזה?! 🤯\nרמקול קטן בעיצוב רטרו שנראה טוב על כל מדף 🔊✨\nרמקול Passion S של HiFuture 🎶\n\n🔊 הספק של 10W עם מעבד DSP לסאונד חזק\n💦 עמידות למים בתקן IPX7\n🔋 סוללה לעד 10 שעות\n🎧 מתחבר לרמקול שני לסאונד סטריאו\n🎨 ארבעה צבעים לבחירה\n\nמאליאקספרס: כ-₪111 ($35)\nקוד ראשון SALAMTAK001 ואחריו IL07\nלינק 👇\nhttps://salamtak.deals/archives/50872\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 670,
+   "views": 675,
    "forwarded_from": "",
    "media": [],
    "missing": "image",
@@ -1065,7 +1077,7 @@
    "post": "ramreports/217045",
    "ts": "2026-11-01T10:16:59+00:00",
    "text": "מניין ההרוגים בתקיפה בעיר עזה עלה לשלושה מחוסלים.",
-   "views": 9010,
+   "views": 9070,
    "forwarded_from": null,
    "media": [
     {
@@ -1083,7 +1095,7 @@
    "post": "ramreports/217044",
    "ts": "2026-11-01T10:15:33+00:00",
    "text": "חיל האוויר תקף ברחוב אל-תורה סמוך למרכז הקניות טאג בעיר עזה, ודווח על שני מחוסלים.",
-   "views": 9230,
+   "views": 9300,
    "forwarded_from": null,
    "media": [
     {
@@ -1124,7 +1136,7 @@
    "post": "merkaz/299876",
    "ts": "2026-11-01T10:13:14+00:00",
    "text": "לפי שלום שטיין, גורמים בבתי הרבנים של ש\"ס ובהם אריה דרעי וחיים ביטון בוחנים אפשרות לעזוב את הכנסת ולהמשיך לפעול בתנועה מבחוץ. המהלך נועד לאפשר לחברי כנסת שלא נכנסו להמשיך לכהן בתפקידם, ובהם הח\"כ הבכיר אריאל בוסו.",
-   "views": 391,
+   "views": 392,
    "forwarded_from": null,
    "media": [],
    "title": "שקילת פרישה מהכנסת בשס",
@@ -1208,7 +1220,7 @@
    "post": "merkaz/299875",
    "ts": "2026-11-01T10:01:12+00:00",
    "text": "הוגש כתב אישום נגד תושב עין החורש בן 49, רז ויינברגר, בטענה שפרסם ברשת X מספר פרסומים ובהם קריאות לפגיעה בראש הממשלה בנימין נתניהו, בחברי קואליציה ובפעילי ימין.",
-   "views": 425,
+   "views": 430,
    "forwarded_from": null,
    "media": [],
    "title": "כתב אישום בגין הסתה נגד ראש הממשלה",
@@ -1232,7 +1244,7 @@
    "post": "HiTech_Jobs_In_Israel/138196",
    "ts": "2026-11-01T10:00:22+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 129,
+   "views": 132,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -1244,7 +1256,7 @@
    "post": "HiTech_Jobs_In_Israel/138194",
    "ts": "2026-11-01T10:00:17+00:00",
    "text": "Product Quality Engineer at Philips\nLocation: Haifa\nPress here https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Haifa/Product-Quality-Engineer_593609?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 188,
+   "views": 193,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -1256,7 +1268,7 @@
    "post": "HiTech_Jobs_In_Israel/138193",
    "ts": "2026-11-01T10:00:16+00:00",
    "text": "Material Planning Analyst at Flex\nLocation: Israel, Modiin\nPress here https://flextronics.wd1.myworkdayjobs.com/Careers/job/Israel-Modiin/Material-Planning-Analyst_WD232048?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 103,
+   "views": 105,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -1280,7 +1292,7 @@
    "post": "HiTech_Jobs_In_Israel/138192",
    "ts": "2026-11-01T10:00:14+00:00",
    "text": "Validation & Integration Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/a6cf562b-dca7-4708-9772-7539a13b9a37?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 100,
+   "views": 102,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -1328,7 +1340,7 @@
    "post": "abualiexpress/132926",
    "ts": "2026-11-01T10:00:02+00:00",
    "text": "יהב אוחנה פרסם קריאה לעזרה יחד עם רעייתו רותם לאחר שצבר חובות כבדים ונקלע למצוקה כלכלית קשה בעקבות שירות מילואים ממושך, וכעת נפתח עבורם קמפיין תרומות ציבורי",
-   "views": 44600,
+   "views": 44900,
    "forwarded_from": null,
    "media": [
     {
@@ -1364,7 +1376,7 @@
    "post": "merkaz/299874",
    "ts": "2026-11-01T09:59:18+00:00",
    "text": "חבר הרשימה המשותפת בכר עוואדה אמר בראיון לתקשורת הירדנית כי כדי להקים ממשלה על גדעון סער לסגת מארבעה תנאים שהציג במערכת הבחירות, ובהם דרישת השירות לכול והכרה בישראל כמדינה יהודית, במגילת העצמאות ובחמאס כארגון טרור",
-   "views": 421,
+   "views": 423,
    "forwarded_from": null,
    "media": [],
    "title": "דרישה מנציג הרשימה המשותפת",
@@ -1376,7 +1388,7 @@
    "post": "amitsegal/66642",
    "ts": "2026-11-01T09:58:48+00:00",
    "text": "הובאה אמירה המזכירה את דברי בגין לפיהם יש המתנגדים לקפיטליזם אך חפצים בהון עצמו לכאורה",
-   "views": 58300,
+   "views": 58700,
    "forwarded_from": null,
    "media": [],
    "title": "אמירה על קפיטליזם",
@@ -1388,7 +1400,7 @@
    "post": "SALAMTAK_DEALS/58671",
    "ts": "2026-11-01T09:58:39+00:00",
    "text": "המחירים האלה נהיים מטורפים מרגע לרגע! 🔥\nסוללת ענק שמחזיקה את כל המשפחה בקמפינג ⛺🔋\nמטען נייד 50000mAh של Vention ⚡\n\n🔌 חמש יציאות ועוד שלושה כבלים מובנים, לא צריך לסחוב כלום\n🔋 נפח ענק של 50000mAh, מספיק לימים שלמים בלי חשמל\n⚡ מטעינה בהספק של 22.5W, עם תמיכה ב-PD וב-QC\n🔄 נטענת ומטעינה באותו הזמן\n🖥️ מסך דיגיטלי שמראה כמה אחוזים נשארו\n🔦 פנס מובנה עם ארבעה מצבים, מעולה לטיולים ולהפסקות חשמל\n\nמאליאקספרס, החנות הרשמית של Vention: כ-₪100 ($31.81)\nקוד ראשון 11IL15 ואחריו SLMTKN03\nלינק 👇\nhttps://salamtak.deals/archives/49304\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 703,
+   "views": 705,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1448,7 +1460,7 @@
    "post": "amitsegal/66640",
    "ts": "2026-11-01T09:51:50+00:00",
    "text": "חבר הכנסת בכר עוואדה טען בריאיון לגוף תקשורת בירדן כי על גדי איזנקוט לוותר על ארבעה עקרונות שהציג במסע הבחירות אם ברצונו להרכיב ממשלה. העקרונות המדוברים כוללים את הגדרת המדינה כיהודית, זיקה למגילת העצמאות, חובת שירות לכלל האוכלוסייה והגדרת חמאס כארגון טרור.",
-   "views": 61200,
+   "views": 61500,
    "forwarded_from": null,
    "media": [],
    "title": "ראשי הרשימה המשותפת על תנאי איזנקוט",
@@ -1460,7 +1472,7 @@
    "post": "haskupim/200428",
    "ts": "2026-11-01T09:49:36+00:00",
    "text": "גבר בן 50 נפצע באורח קשה מפגיעת אוטובוס ברחוב דרך זאב ז׳בוטינסקי בבני ברק. הפצוע סובל מחבלות רב־מערכתיות ופונה לקבלת טיפול רפואי בבית החולים.",
-   "views": 129,
+   "views": 130,
    "forwarded_from": null,
    "media": [],
    "title": "תאונת קורקינט קשה בבני ברק",
@@ -1472,7 +1484,7 @@
    "post": "abualiexpress/132924",
    "ts": "2026-11-01T09:46:49+00:00",
    "text": "כוחות צבאיים נרחבים נכנסו בשעות הבוקר לשוק הממוקם בעיר העתיקה בשכם, על פי דיווחים פלסטיניים.",
-   "views": 45400,
+   "views": 45500,
    "forwarded_from": null,
    "media": [],
    "missing": "video",
@@ -1485,7 +1497,7 @@
    "post": "haskupim/200427",
    "ts": "2026-11-01T09:44:56+00:00",
    "text": "הוגש כתב אישום נגד נער בן 15 בעקבות פריצה לבית כנסת בעפולה והשחתת ספרי קודש לאחר ויכוח משפחתי. מחקירת המשטרה עולה כי המעשים נעשו ממניע של עוינות כלפי הציבור היהודי.",
-   "views": 129,
+   "views": 130,
    "forwarded_from": null,
    "media": [
     {
@@ -1521,7 +1533,7 @@
    "post": "SALAMTAK_DEALS/58670",
    "ts": "2026-11-01T09:39:30+00:00",
    "text": "וואו איזה מחיר! 🤯\nסוללה מגנטית שנצמדת לאייפון וגם מעמידה אותו 📱🧲\nמטען נייד Qi2 של Baseus 🔋\n\n🧲 טעינה אלחוטית מגנטית Qi2 של 15W\n⚡ יציאת USB-C לטעינה מהירה של 20W\n🪪 בגודל של כרטיס אשראי, נכנס לכל כיס\n🦵 רגלית מובנית להעמדת הטלפון על השולחן\n🔋 נפח של 5000mAh\n\nמאליאקספרס, החנות הרשמית של Baseus: כ-₪45 ($14)\nקוד ראשון GBS100 ואחריו SLMTKN02\nלינק 👇\nhttps://salamtak.deals/archives/50864\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 759,
+   "views": 761,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1539,7 +1551,7 @@
    "post": "haskupim/200426",
    "ts": "2026-11-01T09:31:18+00:00",
    "text": "בית המשפט גזר שנתיים וארבעה חודשי מאסר בפועל לצד תשלום קנס על הגנב שנטל את ציוד ההגברה של מתן ליאור שנרצח במסיבה בנובה",
-   "views": 133,
+   "views": 134,
    "forwarded_from": null,
    "media": [],
    "title": "מאסר לגנב ציוד מתן ליאור זל",
@@ -1610,7 +1622,7 @@
    "post": "SALAMTAK_DEALS/58668",
    "ts": "2026-11-01T09:27:01+00:00",
    "text": "לחטוף! זה יגמר מהר! ⏰\nמטען אחד לנייד, לטאבלט ולמקבוק 💻📱\nמטען קיר GaN של Vention בהספק 100W ⚡\n\n🔌 ארבע יציאות: שלוש USB-C ואחת USB-A\n💻 עד 100W ביציאה אחת, טוען גם מחשב נייד\n📏 קטן בכ-20% מהמטען של אפל ב-96W\n⚡ תומך בטעינה מהירה PD ו-PPS לאייפון ולגלקסי\n🔋 טוען MacBook Pro ל-36% בחצי שעה\n\nמאליאקספרס, החנות הרשמית של Vention: כ-₪76 ($23.99)\nקוד ראשון FETIL5 ואחריו SLMTKN02\nלינק 👇\nhttps://salamtak.deals/archives/50861\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 782,
+   "views": 783,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1671,7 +1683,7 @@
    "post": "ILcoupons/5941",
    "ts": "2026-11-01T09:21:13+00:00",
    "text": "חריג 🚨חריג 🚨חריג 🚨 רוצים לאבטח את הסדנא או החצר שלכם בהשקעה מינימלית?! תקפצו דחוף על דיל המטורף הבא\nסט זוג מצלמות אבטחה חיצוניות סולאריות Baseus Security S1 Pro 3K עם פאנלים סולארים שמתכווננים אוטומטית לפי כיוון השמש 🌞\n\nוגם כולל רכזת מרוחקת שיכולה להכיל דיסק קשיח של עד 16 טרה בייט (לא כלול) ובכל לשמור את כל הצילומים בצורה מאובטחת בתוך הבית וללא דמי מנוי\n\n💰 הכי נמוך שהיה $71.51 / 224₪ 😱\nמחיר על גבול ההזייה לא הגיוני בעליל 🫢🫢🫢\nשלמו בדולרים ותהנו 💲\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-pro-outdoor\n\n✔️ איכות צילום חדה במיוחד 3K רואים פרטים גם בלילה\n✔️ טעינה סולארית רציפה לא מתעסקים עם בטריות\n✔️ זיכרון מובנה 16GB במצלמות + רכזת עם עד 16TB להתקנה עצמית\n✔️ עמידות מים ואבק בתקן IP67 אידיאלי לחוץ\n✔️ התקנה קלה, בלי חוטים וחיבורים מסורבלים\n✔️ זוג מצלמות ליותר כיסוי וראש שקט\n✔️ חיבור אלחוטי מהיר דרך WiFi ומעקב מכל מקום\n\n💬 לדיון בפוסט\nhttps://www.facebook.com/share/p/19zYyfeQj7/",
-   "views": 493,
+   "views": 496,
    "forwarded_from": null,
    "media": [
     {
@@ -1689,7 +1701,7 @@
    "post": "haskupim/200424",
    "ts": "2026-11-01T09:21:04+00:00",
    "text": "הנשיא הרצוג קרא לראשי הסיעות לעצור את העימותים והוויכוחים בעקבות סיום מערכת הבחירות.",
-   "views": 139,
+   "views": 140,
    "forwarded_from": null,
    "media": [],
    "title": "קריאת הרצוג לראשי המפלגות",
@@ -1725,7 +1737,7 @@
    "post": "haskupim/200423",
    "ts": "2026-11-01T09:20:02+00:00",
    "text": "דוד שפירא תועד יחד עם מרן הגר״ד לנדו בעת העלייה למטוס פרטי בדרך לטיסה ללונדון.",
-   "views": 141,
+   "views": 143,
    "forwarded_from": null,
    "media": [
     {
@@ -1743,7 +1755,7 @@
    "post": "haskupim/200422",
    "ts": "2026-11-01T09:18:22+00:00",
    "text": "המשותפת ורע״ם צפויות להודיע השבוע בפני הנשיא יצחק הרצוג על תמיכתן במינויו של איזנקוט.",
-   "views": 134,
+   "views": 135,
    "forwarded_from": null,
    "media": [],
    "title": "המלצה על מועמד לראשות הממשלה",
@@ -1809,7 +1821,7 @@
    "post": "SALAMTAK_DEALS/58667",
    "ts": "2026-11-01T09:17:00+00:00",
    "text": "מה זה המחיר הזה?! 🤯\nמצלמה שרואה קדימה, אחורה וגם בתוך הרכב 🚗🎥\nמצלמת רכב T800E של 70mai 📹\n\n🎬 צילום 4K מלפנים ו-1080p בתוך הרכב ומאחור\n🌙 ראיית לילה עם תאורת אינפרא אדום לתא הנוסעים\n🛰️ מיקום GPS מובנה שרושם מסלול ומהירות\n📶 מתחברת לטלפון ב-Wi-Fi 6 להורדת סרטונים מהירה\n🔋 קבל-על במקום סוללה, עמיד לחום של הרכב בקיץ\n\nמאליאקספרס, החנות הרשמית של 70mai: כ-₪205 ($64.80)\nקוד ראשון 70MIL1103 ואחריו IL04\nלינק 👇\nhttps://salamtak.deals/archives/48862\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 783,
+   "views": 784,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1940,7 +1952,7 @@
    "post": "SALAMTAK_DEALS/58666",
    "ts": "2026-11-01T08:50:09+00:00",
    "text": "וואו איזה מחיר! 🤯\nה-Pro הקומפקטי עם המעבד הכי חזק של השנה 📱⚡\nסמארטפון F9 Pro של POCO 📱\n\n⚙️ מעבד Snapdragon 8 Elite Gen 5\n🖥️ מסך AMOLED בגודל 6.59 אינץ' עם 185Hz\n📸 מצלמה ראשית של 200MP וטלפוטו 50MP עם זום פי 2.5\n🔋 סוללה של 6330mAh, טעינה מהירה 100W ואלחוטית 50W\n🔊 רמקולים בכיוונון Bose\n\nמאליאקספרס, החנות הרשמית של POCO: כ-₪1,739 ($549), דגם 12+256\nקוד ראשון YB89OX ואחריו SUPERIL2 (בתוקף עד 3.11)\nבארץ נמכר בכ-₪2,800..\nלינק 👇\nhttps://salamtak.deals/archives/50852\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 841,
+   "views": 844,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1988,7 +2000,7 @@
    "post": "SALAMTAK_DEALS/58665",
    "ts": "2026-11-01T08:43:01+00:00",
    "text": "זה לא ישאר הרבה זמן במלאי אז תחטפו! ⏰\nמצלמה אחת שמסתובבת ורואה את כל החצר ☀️📹\nמצלמת אבטחה SoloCam S340 של eufy 🏡\n\n🔭 שתי עדשות: רחבה ב-3K וטלפוטו ב-2K עם זום עד פי 8\n🔄 מסתובבת 360 מעלות ועוקבת לבד אחרי אנשים ורכבים\n☀️ פאנל סולארי, שעתיים שמש ביום מספיקות לה\n💾 זיכרון מובנה של 8GB, בלי לשלם מנוי חודשי\n🚨 פנס ואזעקה שמבריחים אורחים לא רצויים\n\nמאליאקספרס, החנות הרשמית של eufy: כ-₪370 ($116.70)\nקוד קופון IL06\nלינק 👇\nhttps://salamtak.deals/archives/50854\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 832,
+   "views": 835,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2024,7 +2036,7 @@
    "post": "SALAMTAK_DEALS/58664",
    "ts": "2026-11-01T08:32:45+00:00",
    "text": "המחירים האלה נהיים מטורפים מרגע לרגע! 🔥\nספינת הדגל החדשה של POCO, ביותר מ-1,200 שקל פחות מבארץ 📱🤯\nסמארטפון F9 Ultra של POCO 📱\n\n⚙️ מעבד Snapdragon 8 Elite Gen 5\n📸 מצלמת טלפוטו פריסקופ של 200MP עם זום פי 5\n🖥️ מסך AMOLED בגודל 6.9 אינץ' עם 185Hz\n🔋 סוללה ענקית של 8050mAh, טעינה מהירה 100W ואלחוטית 50W\n🔊 רמקולים בכיוונון Bose\n\nמאליאקספרס, החנות הרשמית של POCO: כ-₪2,135 ($673), דגם 12+256\nקוד ראשון 5PB666 ואחריו SUPERIL2 (בתוקף עד 3.11)\nבארץ נמכר בכ-₪3,400..\nלינק 👇\nhttps://salamtak.deals/archives/50850\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 838,
+   "views": 842,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2042,7 +2054,7 @@
    "post": "SALAMTAK_DEALS/58663",
    "ts": "2026-11-01T08:31:01+00:00",
    "text": "לחטוף! זה יגמר מהר! ⏰\nסוללת גיבוי קטנה שתמיד יש לה כבל צמוד 🔋\nמטען נייד 45W של Baseus ⚡\n\n🔌 כבל USB-C מובנה שמשמש גם לטעינה וגם כרצועת נשיאה\n📱 חצי סוללה לאייפון בכ-20 דקות\n🔋 נפח של 20000mAh, מספיק לכמה טעינות מלאות\n✈️ מאושר לטיסות, וקטן ב-36% מסוללות דומות\n🎨 בשחור או בטיטניום\n\nמאליאקספרס, החנות הרשמית של Baseus: כ-₪79 ($25)\nקוד ראשון GBS011 ואחריו ILAFF08\nלינק 👇\nhttps://salamtak.deals/archives/50844\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 813,
+   "views": 816,
    "forwarded_from": "",
    "media": [
     {
@@ -2101,7 +2113,7 @@
    "post": "SALAMTAK_DEALS/58662",
    "ts": "2026-11-01T08:21:28+00:00",
    "text": "מי שלא יחטוף עכשיו מפספס! 🔥\nטעינה מהירה לרכב החשמלי, בלי לחכות שעות ⚡🚗\nכבל טעינה תלת פאזי Type2 של Semicom 🔌\n\n⚡ טעינה בהספק של עד 22kW בזרם 32A\n📏 אורך של 5 מטר, מגיע גם לעמדה רחוקה\n🌧️ מעטה TPU גמיש ותקן IP55 נגד מים ואבק\n🛡️ אחריות של שנתיים מהיבואן הרשמי\n📦 אפשר לאסוף בחינם מסניף KSP הקרוב\n\nמ-KSP: ₪399 במקום ₪499\nלינק 👇\nhttps://salamtak.deals/archives/50846\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 829,
+   "views": 831,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2119,7 +2131,7 @@
    "post": "SALAMTAK_DEALS/58661",
    "ts": "2026-11-01T08:15:25+00:00",
    "text": "מה זה המחיר הזה?! 🤯\nאוזניות עם סינון רעשים רציני בפחות מ-110 שקל 🎧\nאוזניות Liberty 4 NC של Anker Soundcore 🎶\n\n🤫 סינון רעשים אדפטיבי שמוריד עד 98.5% מהרעש\n🎼 רמקולים של 11 מ\"מ ותמיכה ב-LDAC\n🔋 סוללה ל-10 שעות, ועד 50 עם הקופסה\n🎙️ שישה מיקרופונים לשיחות ברורות\n🎨 ארבעה צבעים לבחירה\n\nמאליאקספרס: כ-₪104 ($32.89)\nקוד ראשון ANA3947 ואחריו SLMTKN02\nבארץ נמכרות בסביבות ₪400..\nלינק 👇\nhttps://salamtak.deals/archives/47169\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 807,
+   "views": 809,
    "forwarded_from": "",
    "media": [
     {
@@ -2214,7 +2226,7 @@
    "post": "SALAMTAK_DEALS/58659",
    "ts": "2026-11-01T07:51:38+00:00",
    "text": "וואו איזה מחיר! 🤯\nסוללת גיבוי עם כבל משלה, שמטעינה גם לפטופ 🔋💻\nמטען נייד 145W של Baseus ⚡\n\n🔌 כבל USB-C שנשלף מתוך הסוללה, בלי לסחוב כבלים\n💻 עד 100W ליציאה, מספיק גם למקבוק\n📱 ארבע יציאות: שלוש USB-C ואחת USB-A\n🖥️ מסך דיגיטלי שמראה כמה סוללה נשארה\n⚡ מתמלא מחדש בכשעה וחצי בטעינת 100W\n🔋 קיבולת של 20000mAh\n\nמאליאקספרס, החנות הרשמית של Baseus: כ-₪101 ($31.77)\nקוד ראשון GB2505 ואחריו SLMTKN03\n❗ בוחרים בעמוד את הגרסה עם הכבל המובנה (20000mAh)\nלינק 👇\nhttps://salamtak.deals/archives/50839\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 886,
+   "views": 889,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -2378,24 +2390,6 @@
    "forwarded_from": null,
    "media": [],
    "title": "דברי דונלד טראמפ על איראן",
-   "rw": 1,
-   "checked": 3
-  },
-  {
-   "id": "pd328e7545490",
-   "post": "merkaz/299859",
-   "ts": "2026-11-01T07:18:53+00:00",
-   "text": "בדברים שנשא מרן ראש הישיבה רבנו הגדול רבי משה הלל הירש שליט״א ציין כי הנסיעה נועדה למטרה גדולה כדי שכל הכוללים והישיבות ימשיכו ללמוד כרגיל, והביע הערכה כי מסתמא גם לאחר הבחירות ההתנהלות תימשך כסדרה.",
-   "views": 447,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/ed23ddad509fd847.jpg"
-    }
-   ],
-   "title": "דברי ראש הישיבה רבי משה הלל הירש",
    "rw": 1,
    "checked": 3
   },
@@ -2667,7 +2661,7 @@
    "post": "iBuyIL/27714",
    "ts": "2026-11-01T05:04:23+00:00",
    "text": "ווווויייייי איזה קרנבל של סייל התחיל בעלי אקספרס ואני מפציץ אתכם ישר בדילים שקרוב לוודאי יגמרו ראשונים מרוב שהם מבוקשים!!! דילים ממחסן ישראל 🇮🇱\n\nמוכנים לשבירת מחיר לשואב שוטף רובוטי פולי אוטומטי?!?!? מבית שיאומי! פשוט חצי ממחירו בארץ!!!!\n\nשואב אבק ושוטף רובוטי Xiaomi Robot Vacuum H50 במחיר תת רצפתי 🤣\n\n💳 מחיר סופי 372$ / 1164₪ וזה כולל מיסים ומשלוח!!! לא תצטרכו לשלפ שקל מעבד לכך!\n😅 המחיר הזול ביותר בארץ הוא סביב 2200₪ כרגע\n\n🛍⁩ קישור להזמנה + קוד קופון עדכני:\nhttps://dlz.co.il/xiaomi-robot-vacuum-h50-robot\n\nאתם פשוט חוזרים הביתה והבית כבר נקי 🤩🤖\nשואב האבק הרובוטי הזה של שיאומי עושה בשבילכם את כל העבודה - כולל שטיפה, ניקוי וסחיטת הסמרטוט אוטומטית.\nבקיצור, מנקה שטח בלי שתזוזו מהספה.\n\nבזכות ניווט הלייזר המדויק, הוא מתמרן חכם בין רהיטים, לא מפספס פינות ולא נתקע.\n\n✔️ עוצמת שאיבה מטורפת של 10000Pa, מתאים גם לבתים עם חיות\n✔️ שטיפה עם הרמת מטליות אוטומטית בניקוי מעל שטיחים\n✔️ תחנת עגינה שמרוקנת את האבק לבד!\n✔️ שטיפת וסחיטת מגבונים אוטומטית מבלי לגעת בלכלוך\n✔️ ניווט לייזר (LDS) סופר מדויק המזהה חדרים ומכשולים\n✔️ מערכת אנטי-הסתבכות שיער לעבודה חלקה\n✔️ שליטה פשוטה מהאפליקציה, חיבור WiFi\n✔️ סוללת 5200mah עצומה לעבודה עד שטח 240 מ\"ר!\nhttps://www.facebook.com/share/p/1LzJd1PTS1/",
-   "views": 1610,
+   "views": 1620,
    "forwarded_from": null,
    "media": [],
    "missing": "image",
@@ -2760,7 +2754,7 @@
    "post": "Jobs_in_Jerusalem/36471",
    "ts": "2026-10-31T21:34:22+00:00",
    "text": "דרושה - רכזת שיווק\nאם את מסודרת, אחראית ויצירתית,\nאוהבת שיווק, כתיבה ועיצוב גרפי,\nומסוגלת לנהל משימות רבות במקביל -\nהמשרה הזו בשבילך!\n\nמה כולל התפקיד?\n* עיצוב גרפי שוטף\n* ⁠תפעול פרסום שוטף\n* ניהול תוכן\n\nדרישות התפקיד:\n* שליטה מלאה במחשב\n* זמינות לתחילת עבודה\n\nהעבודה ברמת #בית_שמש\nימים א-ה | 09:00-15:00\n\nשליחת קו”ח בוואטסאפ:\nhttp://wa.me/972528967702",
-   "views": 302,
+   "views": 304,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3689,7 +3683,7 @@
    "post": "AceIsraelofficial/4620",
    "ts": "2026-10-30T10:19:16+00:00",
    "text": "🚨 רגע, ראיתם מה קורה עכשיו באתר?! 🤯\nהמחירים באתר פשוט מפתיעים! 🔥\nמעל 20,000 מוצרים במבצע!\n🛋מגוון ריהוט לבית\n🍳מגוון מוצרי חשמל\n🛠 כל מה שצריך לשדרוג הבית\n😍 ועוד המון מציאות שלא תרצו לפספס!\nלא מגלים לכם הכול... כנסו לראות בעצמכם! 👀\n🛒 לכל המבצעים באתר 👇\nhttps://tinyurl.com/yddsz552\n\nבאתר בלבד | תוקף כל מבצע מצוין בעמוד המוצר",
-   "views": 7580,
+   "views": 7590,
    "forwarded_from": null,
    "media": [
     {
@@ -3935,7 +3929,7 @@
    "post": "AceIsraelofficial/4618",
    "ts": "2026-10-29T14:56:16+00:00",
    "text": "🌧❄️ חברי ACE CLUB, מוכנים לחורף? 🔥\nהטמפרטורות יורדות והמחירים מתחממים! 😍\nדואגים לכם לחורף חמים ונעים עם מחירים מיוחדים לחברי המועדון 💗\n🔥 רדיאטור 9 צלעות שחור עם שעון שבת מובנה ב־179 ₪ בלבד!\n🔥 תנור אינפרא לאמבטיה 1500 וואט ב־69 ₪ בלבד!\n🔥 רדיאטור 9 צלעות 2000 וואט מבית אטמור ב־149 ₪ בלבד!\n💗 מחירים מיוחדים לחברי ACE CLUB!\nהחורף מתקרב, זה הזמן להתחמם במחירים שווים! 🛒\nhttps://tinyurl.com/4wwexh4v\n\nלחברי מועדון ומצטרפים חדשים, תוקף כל מבצע מצוין בעמוד המוצר",
-   "views": 8170,
+   "views": 8180,
    "forwarded_from": null,
    "media": [
     {
@@ -4072,7 +4066,7 @@
    "post": "Jobs_in_Jerusalem/36467",
    "ts": "2026-10-27T22:50:47+00:00",
    "text": "",
-   "views": 742,
+   "views": 743,
    "forwarded_from": null,
    "media": [
     {
@@ -4088,7 +4082,7 @@
    "post": "Jobs_in_Jerusalem/36466",
    "ts": "2026-10-27T22:50:36+00:00",
    "text": "",
-   "views": 646,
+   "views": 647,
    "forwarded_from": null,
    "media": [
     {
