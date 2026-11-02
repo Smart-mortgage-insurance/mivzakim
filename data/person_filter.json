@@ -54,6 +54,7 @@
   "DealIsraeli/61513": 1793601054.1820254,
   "DealIsraeli/61534": 1793609449.7765412,
   "DealIsraeli/61545": 1793615523.174869,
+  "DealIsraeli/61550": 1793621747.4815974,
   "HiTech_Jobs_In_Israel/137877": 1792926840.5846374,
   "HiTech_Jobs_In_Israel/137878": 1792926840.5846374,
   "HiTech_Jobs_In_Israel/137879": 1792926840.5846374,
@@ -300,6 +301,8 @@
   "RealKikarHashabat/10634": 1793614082.697704,
   "RealKikarHashabat/10635": 1793615214.3367743,
   "RealKikarHashabat/10643": 1793618406.120054,
+  "RealKikarHashabat/10654": 1793621747.4815974,
+  "RealKikarHashabat/10655": 1793621747.4815974,
   "RealKikarHashabat/9355": 1792406758.5810013,
   "RealKikarHashabat/9368": 1792412028.1607,
   "RealKikarHashabat/9408": 1792438822.2511163,
@@ -1241,5 +1244,5 @@
   "ynetalerts/75761": 1792427401.3751264,
   "ynetalerts/75762": 1792427401.3751264
  },
- "pf_last": 1793621323.6494722
+ "pf_last": 1793621709.241683
 }
