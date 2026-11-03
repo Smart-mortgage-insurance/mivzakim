@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:12:47.248994+00:00",
+ "updated": "2026-11-03T05:14:28.630859+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,6 +134,18 @@
  "count": 349,
  "items": [
   {
+   "id": "p42f4aac93fb7",
+   "post": "merkaz/300091",
+   "ts": "2026-11-03T05:12:35+00:00",
+   "text": "כוחות צבא ארצות הברית השמידו בלילה משגר טילי קרקע אוויר באי קשם, בתגובה לשיגור טיל נגד מטוסים שביצעו משמרות המהפכה מהמקום. הנשיא טראמפ התבטא בנושא ואמר כי ייתכן שיידרשו לתקוף בהר המכוש, וציין כי יש ביכולתם לבצע זאת בתוך שעה.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [],
+   "title": "תקיפת צבא ארה\"ב באי קשם",
+   "rw": 1,
+   "checked": 3
+  },
+  {
    "id": "p099dd32ee07e",
    "post": "RealKikarHashabat/10720",
    "ts": "2026-11-03T05:08:20+00:00",
@@ -174,7 +186,7 @@
    "post": "merkaz/300090",
    "ts": "2026-11-03T04:49:08+00:00",
    "text": "כוחות ההצלה והביטחון הוזעקו בלילה לרחוב שלמה בן יוסף בשכונת פרדס כץ בבני ברק, בעקבות השלכת רימון הלם לעבר בניין דירות באזור.",
-   "views": 87,
+   "views": 117,
    "forwarded_from": null,
    "media": [
     {
@@ -197,7 +209,7 @@
    "post": "merkaz/300089",
    "ts": "2026-11-03T04:41:54+00:00",
    "text": "מוריה דהן, ישראלית בת 35 מקליפורניה בעלת גרין קארד, הואשמה בהצבעה בלתי חוקית בבחירות לנשיאות בשנת 2024 לאחר שנרשמה כחזות כאזרחית אמריקנית. במסגרת בקשת התאזרחות שהגישה שנה לאחר מכן, טענה כי לא הצהירה מעולם על אזרחות ולא נרשמה להצבעה, וכעת הוגש נגדה כתב אישום על מתן הצהרות כוזבות בהליך.",
-   "views": 140,
+   "views": 170,
    "forwarded_from": null,
    "media": [],
    "title": "אישום נגד ישראלית בגין הצבעה לא חוקית בארהב",
@@ -281,7 +293,7 @@
    "post": "ramreports/217126",
    "ts": "2026-11-03T03:50:55+00:00",
    "text": "לדברי טראמפ ייתכן שיידרש מהלך צבאי בהר המכוש, אולם העדפתו היא להגיע להסכם אם הדבר מתאפשר.",
-   "views": 8200,
+   "views": 8260,
    "forwarded_from": null,
    "media": [],
    "title": "אמירת טראמפ על הר המכוש",
@@ -293,7 +305,7 @@
    "post": "ramreports/217125",
    "ts": "2026-11-03T03:50:04+00:00",
    "text": "דיווחים על שישה פיצוצים לפחות באי קשם, כתוצאה מתקיפה של ארצות הברית נגד מערכות הגנה אוויריות באיראן. מדובר ככל הנראה בתגובה על הפלת כלי טיס בלתי מאוישים אמריקאיים מוקדם יותר על ידי השלטון האיראני.",
-   "views": 8260,
+   "views": 8360,
    "forwarded_from": null,
    "media": [],
    "title": "תקיפה אמריקאית באי קשם באיראן",
@@ -431,7 +443,7 @@
    "post": "ramreports/217121",
    "ts": "2026-11-02T21:54:45+00:00",
    "text": "כלי תקשורת באיראן טענו כי ישראל פועלת בצורה מסוכנת.",
-   "views": 18700,
+   "views": 18800,
    "forwarded_from": null,
    "media": [],
    "title": "אזהרה מאיראן נגד ישראל",
@@ -545,7 +557,7 @@
    "post": "ramreports/217117",
    "ts": "2026-11-02T21:34:03+00:00",
    "text": "דיווחים על קולות נפץ חדשים שנשמעו באזור החוף האיראני",
-   "views": 17000,
+   "views": 17100,
    "forwarded_from": null,
    "media": [],
    "title": "פיצוצים מול חופי איראן",
@@ -683,7 +695,7 @@
    "post": "abualiexpress/133005",
    "ts": "2026-11-02T21:16:07+00:00",
    "text": "",
-   "views": 66500,
+   "views": 66800,
    "forwarded_from": null,
    "media": [
     {
@@ -716,7 +728,7 @@
    "post": "amitsegal/66707",
    "ts": "2026-11-02T21:06:55+00:00",
    "text": "הנשיא לשעבר דונלד טראמפ פרסם ברשת החברתית שלו כי מחירי הנפט צונחים כתוצאה מתחושת הציבור שלא תפרוץ מלחמה מול איראן. לדבריו, איראן מעוניינת להגיע להבנות במהירות האפשרית והדבר בהחלט עשוי להתרחש",
-   "views": 69100,
+   "views": 69200,
    "forwarded_from": null,
    "media": [],
    "title": "דונלד טראמפ על המצב מול איראן",
@@ -865,7 +877,7 @@
    "post": "ramreports/217112",
    "ts": "2026-11-02T20:38:21+00:00",
    "text": "לפי דיווח בוול סטריט ג'ורנל, כמה ממדינות ערב במפרץ העבירו אזהרה לאיראן כי במקרה של פגיעה בתשתיותיהן, הן שוקלות אפשרות להגיב בתקיפה עצמאית או משותפת.",
-   "views": 18600,
+   "views": 18700,
    "forwarded_from": null,
    "media": [],
    "title": "אזהרת מדינות המפרץ לאיראן",
@@ -936,7 +948,7 @@
    "post": "ramreports/217109",
    "ts": "2026-11-02T20:28:17+00:00",
    "text": "ישראל העבירה מסר ללבנון ודרשה לפעול נגד חיזבאללה כדי למנוע את מעורבותו בהסלמה מול איראן",
-   "views": 18500,
+   "views": 18600,
    "forwarded_from": null,
    "media": [],
    "title": "פניית ישראל ללבנון מול חיזבאללה",
@@ -961,7 +973,7 @@
    "post": "abualiexpress/133004",
    "ts": "2026-11-02T20:20:33+00:00",
    "text": "כשישים אלף בני אדם מהקהילה הנוצרית האוונגליסטית התאספו ביום שישי בבירת פרו, לימה, לצורך הפגנת תמיכה בישראל.",
-   "views": 76100,
+   "views": 76300,
    "forwarded_from": null,
    "media": [
     {
@@ -1051,7 +1063,7 @@
    "post": "abualiexpress/133003",
    "ts": "2026-11-02T20:06:52+00:00",
    "text": "כשישים אלף נוצרים אוונגליסטים השתתפו ביום שישי בעצרת תמיכה במדינה שהתקיימה בלימה בירת פרו.",
-   "views": 78300,
+   "views": 78600,
    "forwarded_from": null,
    "media": [
     {
@@ -1074,7 +1086,7 @@
    "post": "abualiexpress/133002",
    "ts": "2026-11-02T19:56:18+00:00",
    "text": "הנשיא לשעבר דונלד טראמפ אמר כי איראן פנתה בבקשה להפסיק את חיסול מנהיגיה, וכי ארצות הברית הסכימה לכך.",
-   "views": 77500,
+   "views": 77700,
    "forwarded_from": null,
    "media": [
     {
@@ -1105,7 +1117,7 @@
    "post": "abualiexpress/133001",
    "ts": "2026-11-02T19:49:34+00:00",
    "text": "בעצרת הבחירות האחרונה שלו אמר דונלד טראמפ כי האיראנים מעוניינים להגיע להסכמה, וציין כי הדבר בהחלט אפשרי",
-   "views": 77600,
+   "views": 77800,
    "forwarded_from": null,
    "media": [
     {
@@ -1201,7 +1213,7 @@
    "post": "amitsegal/66706",
    "ts": "2026-11-02T19:41:35+00:00",
    "text": "נשיא ארצות הברית לשעבר טראמפ אמר כי איראן רוצה להגיע להסכמה וכי הדבר אפשרי.",
-   "views": 85400,
+   "views": 85500,
    "forwarded_from": null,
    "media": [],
    "title": "דונלד טראמפ: איראן מעוניינת בהסכם",
@@ -1396,18 +1408,6 @@
     }
    ],
    "title": "היערכות בישראל לקראת עימות",
-   "rw": 1,
-   "checked": 3
-  },
-  {
-   "id": "p77a8d1c84252",
-   "post": "merkaz/300067",
-   "ts": "2026-11-02T19:07:16+00:00",
-   "text": "לקראת אפשרות של עימות נוסף מול איראן, גורם בסעודיה ציין בשיחה עם כאן חדשות כי ריאד אינה מעוניינת ליטול חלק בלחימה, ומצפה בתמורה להבטחה מפני תקיפות איראן בתחומה.",
-   "views": 434,
-   "forwarded_from": null,
-   "media": [],
-   "title": "עמדת סעודיה לקראת תקיפה באיראן",
    "rw": 1,
    "checked": 3
   },
@@ -1627,7 +1627,7 @@
    "post": "amitsegal/66704",
    "ts": "2026-11-02T18:29:30+00:00",
    "text": "ראש הממשלה בנימין נתניהו אמר כי הציבור בישראל מסרב לממשלה הנשענת על רע״ם והמשותפת, שאותן כינה תומכות טרור ושוללות את קיומה של המדינה היהודית. לדבריו, מהיום הראשון הושטה יד להקמת ממשלה לאומית רחבה, שכן רוב מובהק בציבור היהודי בחר בליכוד ובו להנהגת הממשלה הבאה. נתניהו ציין כי השאיפה היא לכונן ממשלה רחבה יחד עם השותפים וכל מפלגה שאינה תומכת בטרור, והוסיף כי הוא פתוח לשיח בנושא.",
-   "views": 95000,
+   "views": 95100,
    "forwarded_from": null,
    "media": [],
    "title": "נתניהו קורא להקמת ממשלה רחבה",
@@ -1698,7 +1698,7 @@
    "post": "amitsegal/66703",
    "ts": "2026-11-02T18:24:56+00:00",
    "text": "מסביבת לפיד נמסר כי המטרה המרכזית היא להחליף את נתניהו ולהקים ממשלה טובה וראויה, וכי מדובר בשעה מורכבת עבור הדמוקרטיה וכי הדבר נעשה מתוך רצון לסייע",
-   "views": 93000,
+   "views": 93100,
    "forwarded_from": null,
    "media": [],
    "title": "תגובת סביבת לפיד לדיווחים",
@@ -1920,7 +1920,7 @@
    "post": "HiTech_Jobs_In_Israel/138315",
    "ts": "2026-11-02T18:00:25+00:00",
    "text": "Product, AI & Data Protection Counsel at Wiz, Inc.\nLocation: Tel Aviv\nPress here https://www.wiz.io/careers/job/4726018006/:title?gh_jid=4726018006&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 182,
+   "views": 183,
    "forwarded_from": null,
    "media": [
     {
@@ -1950,7 +1950,7 @@
    "post": "HiTech_Jobs_In_Israel/138313",
    "ts": "2026-11-02T18:00:17+00:00",
    "text": "Business Travel Consultant II at Navan\nLocation: Tel-Aviv, Israel\nPress here https://navan.com/careers/openings?gh_jid=8330532&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 122,
+   "views": 123,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -1962,7 +1962,7 @@
    "post": "HiTech_Jobs_In_Israel/138312",
    "ts": "2026-11-02T18:00:16+00:00",
    "text": "B2C Sales at MyHeritage\nLocation: Or Yehuda\nPress here https://careers.myheritage.com/jobs/8346016?gh_jid=8346016&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 111,
+   "views": 112,
    "forwarded_from": null,
    "media": [
     {
@@ -1980,7 +1980,7 @@
    "post": "HiTech_Jobs_In_Israel/138311",
    "ts": "2026-11-02T18:00:15+00:00",
    "text": "Back End Engineer - JFrog Security at JFrog\nLocation: Tel Aviv/ Netanya, Israel\nPress here https://join.jfrog.com/job/?job=8345559&amp;gh_jid=8345559&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 114,
+   "views": 115,
    "forwarded_from": null,
    "media": [
     {
@@ -1998,7 +1998,7 @@
    "post": "HiTech_Jobs_In_Israel/138310",
    "ts": "2026-11-02T18:00:14+00:00",
    "text": "Senior Director, Product Growth at Hello Heart\nLocation: Tel Aviv, Israel\nPress here https://job-boards.greenhouse.io/helloheart/jobs/8926728002?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 105,
+   "views": 106,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2010,7 +2010,7 @@
    "post": "HiTech_Jobs_In_Israel/138309",
    "ts": "2026-11-02T18:00:13+00:00",
    "text": "Cloud Partnerships Manager at Glassbox Ltd.\nLocation: Petah Tikva, Central District, Israel\nPress here https://www.glassbox.com/careers/roles/?gh_jid=5024985101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 103,
+   "views": 104,
    "forwarded_from": null,
    "media": [
     {
@@ -2028,7 +2028,7 @@
    "post": "HiTech_Jobs_In_Israel/138308",
    "ts": "2026-11-02T18:00:06+00:00",
    "text": "Sales Enablement Manager at AppsFlyer\nLocation: Herzliya\nPress here https://careers.appsflyer.com/jobs/position/8773365002?gh_jid=8773365002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 104,
+   "views": 105,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2040,7 +2040,7 @@
    "post": "HiTech_Jobs_In_Israel/138307",
    "ts": "2026-11-02T18:00:04+00:00",
    "text": "User Acquisition Manager at FrontStory\nLocation: Israel\nPress here https://www.comeet.com/jobs/FrontStory/04.008/user-acquisition-manager/2B.47B?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 108,
+   "views": 109,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2052,7 +2052,7 @@
    "post": "HiTech_Jobs_In_Israel/138305",
    "ts": "2026-11-02T18:00:02+00:00",
    "text": "Release Manager at VAST Data\nLocation: Israel - Tel Aviv\nPress here https://www.comeet.com/jobs/vastdata/43.001/release-manager/81.E32?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 116,
+   "views": 117,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -2064,7 +2064,7 @@
    "post": "HiTech_Jobs_In_Israel/138306",
    "ts": "2026-11-02T18:00:02+00:00",
    "text": "Marketing Vertical Growth, Team Lead at WSC Sports\nLocation: Israel\nPress here https://wsc-sports.com/career/marketing-vertical-growth-team-lead/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 116,
+   "views": 117,
    "forwarded_from": null,
    "media": [
     {
@@ -2357,7 +2357,7 @@
    "post": "abualiexpress/132996",
    "ts": "2026-11-02T17:12:07+00:00",
    "text": "בטקס חנוכת מוסד אקדמי יהודי בפרנקפורט ציין נשיא גרמניה פרנק וולטר שטיינמאייר כי מאז אירועי 7 באוקטובר עלו תקריות האלימות והפשיעה האנטישמית לשיא חסר תקדים. הוא הבהיר כי ביקורת או מחאה מדינית הופכות לשנאת יהודים כאשר הן משמשות לשלילת זכות הקיום של ישראל או הקהילה היהודית ולקריאות אלימות.",
-   "views": 80100,
+   "views": 80200,
    "forwarded_from": null,
    "media": [
     {
@@ -2447,7 +2447,7 @@
    "post": "amitsegal/66694",
    "ts": "2026-11-02T16:46:50+00:00",
    "text": "השופט סולברג דחה את דרישת הליכוד והודיע כי תוצאות הבחירות יפורסמו בזמן שנקבע מראש.",
-   "views": 87600,
+   "views": 87700,
    "forwarded_from": null,
    "media": [
     {
@@ -2717,7 +2717,7 @@
    "post": "abualiexpress/132992",
    "ts": "2026-11-02T15:39:59+00:00",
    "text": "בעקבות הדיווח על העברת כספים מאיראן לארגון, הודיע היום עלי דעמוש הבכיר בחזבאללה על חלוקת סיוע כספי למשפחות שבתיהן נפגעו בלחימה, הכולל 14 אלף דולר למשפחה בדאחיה בביירות מתוכם 6,000 לשכר דירה.",
-   "views": 81300,
+   "views": 81400,
    "forwarded_from": null,
    "media": [
     {
@@ -2753,7 +2753,7 @@
    "post": "ILcoupons/5948",
    "ts": "2026-11-02T15:35:18+00:00",
    "text": "🌟📷 מצלמת אבטחה WIFI ביתית IMILAB C22 חכמה 3K שוב במחיר פנטסטי גם בסייל החדש של ספטמבר 26 🌞🔥\n\nמחפשים פתרון חכם, איכותי ומשתלם לאבטחת הבית? ה-IMILAB C22 מציעה צילום חד במיוחד באיכות 3K, שליטה מלאה מהאפליקציה, זיהוי חכם וראיית לילה מתקדמת, והכול במחיר אטרקטיבי במיוחד\n\n💰 עודכנה למחיר דאבל קופון של 14.6$ / 46₪\n✈️ משלוח ב....ח....י.....נ.....ם ❗️\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/imilab-c22-wifi-3k\n\n- איכות וידאו 3K עם חיישן 5MP לצילום חד וברור 🎥\n- סיבוב מלא של 360° לכיסוי רחב של החלל 🔄\n- אודיו דו-כיווני לשיחה ושמיעה מרחוק 🗣️\n- זיהוי תנועה חכם והתרעות בזמן אמת 🚨\n- תמיכה ב-Wi‑Fi 6 לחיבור מהיר ויציב 📶\n- ראיית לילה צבעונית לצפייה טובה גם בחושך 🌃\n- תמיכה בשמירה בענן או בכרטיס זיכרון 💾\nhttps://www.facebook.com/share/p/1882cpeAyV/",
-   "views": 843,
+   "views": 844,
    "forwarded_from": null,
    "media": [
     {
@@ -2896,7 +2896,7 @@
    "post": "abualiexpress/132989",
    "ts": "2026-11-02T14:26:21+00:00",
    "text": "כוחות הביטחון תקפו מבנה בעיתא אלג׳בל שבדרום לבנון, ככל הנראה לאחר התרעת פינוי מוקדמת.",
-   "views": 82200,
+   "views": 82300,
    "forwarded_from": null,
    "media": [
     {
@@ -2975,7 +2975,7 @@
    "post": "abualiexpress/132987",
    "ts": "2026-11-02T13:27:14+00:00",
    "text": "בנאום שנשא בפתח מושב הפרלמנט הירדני, התייחס המלך עבדאללה השני למצוקת המים במדינה ואמר כי מים עומדים בראש סדר העדיפויות. לדבריו, ממשלתו לא תסכים לכך שאזרחי ירדן יסבלו מצמא בשל נסיבות כלשהן, והדגיש כי בנושא זה אין מקום למיקוח או לפשרות.",
-   "views": 81000,
+   "views": 81100,
    "forwarded_from": null,
    "media": [],
    "title": "הצהרת מלך ירדן על משבר המים",
@@ -3350,7 +3350,7 @@
    "post": "AceIsraelofficial/4623",
    "ts": "2026-11-02T10:53:29+00:00",
    "text": "🚨 מחירים כאלה לא רואים כל יום! 🔥\nמבצעי NOVEMBER SALE באתר אייס יצאו משליטה! 💛💙\nקבלו טעימה מהמחירים שמחכים לכם באתר:\n🔥 כוננית מתכת 5 מדפים ב־69 ₪ במקום 179 ₪\n🔥 יחידת אחסון לנעליים 9 קומות ב־69 ₪ במקום 139 ₪\n🔥 ארגז אחסון לגינה 477 ליטר ב־259 ₪ במקום 869 ₪\n🔥 ארונית לאחסון בגדים עם כיסוי בד ב־99 ₪ במקום 179 ₪\n🔥 מכונת ניקוי שואבת ושוטפת לספות ושטיחים ב־299 ₪ במקום 999 ₪\nוזו רק ההתחלה! 🤯\n🛒 לרכישה משתלמת באתר >>\nhttps://tinyurl.com/yddsz552\nהמבצעים על פריטים נבחרים | באתר בלבד | תוקף כל מבצע בעמוד המוצר | בכפוף למלאי ולתנאי האתר",
-   "views": 4870,
+   "views": 4880,
    "forwarded_from": null,
    "media": [
     {
@@ -3368,7 +3368,7 @@
    "post": "SALAMTAK_DEALS/58701",
    "ts": "2026-11-02T10:41:32+00:00",
    "text": "סוללה קטנה עם 55W? מי שמהיר מרוויח!\n\nנכנסת לכף היד, והכבל כבר מחובר אליה 🔋\nסוללת גיבוי 55W של UGREEN\n\n⚡ הספק של עד 55W\n🔌 כבל USB-C מובנה שמשמש גם כרצועה\n🔢 מסך שמציג אחוזי סוללה והספק\n🔋 נפח 10000mAh\n🧳 יציאות USB-A ו-USB-C נוספות\n\n💰 מחיר באליאקספרס: 86₪ עם משלוח חינם\n🎟️ קופון: ILUG10 ואחריו ILAFF05\n\nלינק 👇\nhttps://salamtak.deals/archives/50517\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 933,
+   "views": 934,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3404,7 +3404,7 @@
    "post": "ILcoupons/5947",
    "ts": "2026-11-02T10:35:09+00:00",
    "text": "⚡🎉 המחיר התרסק להכי נמוך אי פעם בפער!!! דיל פגז אל תפספסו קופונים חדשים עודכנו באתר!\n\n👀 לא היית רוצה לדעת מה קורה בחצר גם כשאתה לא שם? מרגיש שהאבטחה שלך לא שלמה עם מצלמות ישנות ואיטיות? מצלמת ה-Baseus B1 משנה את כללי המשחק עם אבטחת 24/7, תמונה סופר-חדה ואפס דאגות! 📱🔒\n\nמצלמת אבטחה חיצונית Baseus Security B1 2K אלחוטית\n\n💰 עודכן למחיר 23.54$ / 74₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-b1-outdoor-cam\n\n🌟 רזולוציה 2K סופר חדה- תזהו כל תנועה, גם ב-8 מטר מרחק!\n🌐 מתחברת בקלות ל-WiFi, ללא חוטים (Plug and Play)\n💾 זיכרון מובנה 8GB- שמירה עד 1.5 חודשים בלי עננים או עלויות נסתרות\n🔋 סוללה עוצמתית 7800mAh- עד 210 ימים ללא טעינה\n🌈 ראיית לילה צבעונית עד 6 מטר\n🌦️ עמידה לכל מזג אוויר- מתפקדת מ-20ºC- עד 50ºC!\n🔉 תקשורת דו-כיוונית בזמן אמת- שומעים ומדברים בקלות עם כל מי שמול המצלמה\n🕵️ זווית צפייה רחבה 145°- אין יותר \"שטחים מתים\" בחצר\n🛡️ הצפנה צבאית\n🛠️ התקנה קלה תוך דקות והשקט חוזר לבית\n📱 שליטה מאפליקציה ייעודית- כל המידע אצלך בכף היד\n\nלדיון בפוסט https://www.facebook.com/share/p/1Y9iVVcDB9/",
-   "views": 959,
+   "views": 960,
    "forwarded_from": null,
    "media": [
     {
