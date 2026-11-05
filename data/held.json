@@ -165,11 +165,6 @@
    "kind": "news",
    "text": "ההתערבות הזרה > אחרי העימות בצמרת: המידע המודיעיני עובר משב\"כ למשטרה"
   },
-  "haskupim/201095": {
-   "ts": "2026-11-05T09:01:37+00:00",
-   "kind": "news",
-   "text": "חדשות הסקופים\n“מי שם אותם לבעלי הבית על התורה?” | זקן מועצת חכמי התורה, הרב משה מאיה, במתקפה על הציונות הדתית בריאיון ל’משפחה’: “נופפה בפסוק ‘האחיכם יבאו למלחמה ואתם תשבו פה’, כאילו הם בקיאים בכל התורה כולה”.\nמרדכי הלפרין"
-  },
   "haskupim/201096": {
    "ts": "2026-11-05T09:05:16+00:00",
    "kind": "news",
@@ -265,6 +260,11 @@
    "kind": "news",
    "text": "חדשות הסקופים\nנציגי רע\"מ הגיעו לבית הנשיא\nעמיאל ירחי"
   },
+  "haskupim/201115": {
+   "ts": "2026-11-05T09:58:04+00:00",
+   "kind": "news",
+   "text": "חדשות הסקופים\nנחיתות חירום באירופה | בשעה האחרונה מטוסים בצרפת וברומא ביצעו נחיתות חירום בגלל חשש לפצצות על סיפון המטוס."
+  },
   "RealKikarHashabat/10955": {
    "ts": "2026-11-05T08:55:15+00:00",
    "kind": "news",
@@ -300,11 +300,6 @@
    "kind": "news",
    "text": "די להרצאות, לכו לשיעור תורה - \"קרטון מהזבל במקום סטייק\": הרב בנימין חותה בזעקה חריפה נגד הדרשות"
   },
-  "RealKikarHashabat/10962": {
-   "ts": "2026-11-05T09:30:28+00:00",
-   "kind": "news",
-   "text": "👆 צפו בתיעוד המלא"
-  },
   "RealKikarHashabat/10963": {
    "ts": "2026-11-05T09:47:14+00:00",
    "kind": "news",
@@ -324,6 +319,36 @@
    "ts": "2026-11-05T09:05:38+00:00",
    "kind": "jobs",
    "text": "מוזמנים/ות! 🤩\nלאירוע של קהילת KeremTech וקליקה משגב:\n\n📅 רביעי | 11.11 | 18:00 | קליקה משגב\n🔗 https://lp.vp4.me/ihst\n\n⚡ הרצאות טכנולוגיות קצרות ומרתקות על AI, MedTech, Defense Tech, Machine Learning ומערכות מולטידיסציפלינריות.\n\n💻 הזדמנויות קריירה בחברות טכנולוגיות בתחומי תוכנה, חומרה, אלגוריתמיקה, פיזיקה, R&D, ניהול מוצר, ניהול פרויקטים ועוד!\n\nלמי האירוע מתאים? 👾 סטארטאפיסטים, אנשי ונשות פיתוח, תוכנה, AI, מהנדסים בכל הדיסיפלינות, אנשי מוצר, מנהלי פרויקטים, סטודנטים, יזמים, וחובבי טכנולוגיה.\n\nההשתתפות ללא עלות, בהרשמה מראש, כל הפרטים והרשמה כאן:\n🔗 https://lp.vp4.me/ihst\n\nתפתחו יומנים. את המיטאפ הזה לא כדאי לפספס! 🔥"
+  },
+  "HiTech_Jobs_In_Israel/138486": {
+   "ts": "2026-11-05T10:00:03+00:00",
+   "kind": "jobs",
+   "text": "Full Stack Tech Lead – Cloud & AI at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138487": {
+   "ts": "2026-11-05T10:00:04+00:00",
+   "kind": "jobs",
+   "text": "Senior DevOps Engineer at abra\nLocation: Center\nPress here https://www.abra-it.com/career/rd/senior-devops-engineer/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138488": {
+   "ts": "2026-11-05T10:00:05+00:00",
+   "kind": "jobs",
+   "text": "Director of Testing at Cardo Systems\nLocation: Ra'anana\nPress here https://www.comeet.com/jobs/cardosystems/F2.003/director-of-testing/2D.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138489": {
+   "ts": "2026-11-05T10:00:05+00:00",
+   "kind": "jobs",
+   "text": "Security Data Analyst at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/EA.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138490": {
+   "ts": "2026-11-05T10:00:07+00:00",
+   "kind": "jobs",
+   "text": "IT Manager at Mindspace\nLocation: Tel Aviv\nPress here https://www.mindspace.me/careers/tel-aviv/it-manager/5D.17B/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138491": {
+   "ts": "2026-11-05T10:00:08+00:00",
+   "kind": "jobs",
+   "text": "Product Manager – Unattended Retail at Nayax\nLocation: Israel\nPress here https://www.nayax.com/career/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
   },
   "iBuyIL/27810": {
    "ts": "2026-11-05T08:40:05+00:00",
@@ -389,6 +414,11 @@
    "ts": "2026-11-05T09:48:04+00:00",
    "kind": "deals",
    "text": "🔥 מבצע 11.11\n💰 ₪40 במקום ₪86 (-53%)\n\nמנורת קיר חיצונית LED 💡\n\n✅ עוצמה של 25W עם שבב LED חסכוני\n✅ עמידות למים בתקן IP65, מתאימה למרפסת ולחצר\n✅ תאורה בזווית רחבה ואורך חיים של עד 50,000 שעות\n\n✂️ קופון 2$ הנחה בקנייה מעל 15$: ILAFF02\n⭐ דירוג 4.7 · 📦 500+ הזמנות\n\nלכל המידע על המוצר 👇\nhttps://s.click.aliexpress.com/e/_c2xnp4lV\n\n🤖 מצא לי AI: לחיפוש חכם! 🔍👈 לכניסה לבוט"
+  },
+  "DealIsraeli/61787": {
+   "ts": "2026-11-05T10:00:04+00:00",
+   "kind": "deals",
+   "text": "🔥 סייל 11.11\n🔥 מחיר סייל: ₪17 במקום ₪25 (-33%)\n\nכבל טעינה מהיר USB-C ל-USB-C 🔌\n\nכבל שטוח וחזק במיוחד לטעינה מהירה של מחשבים ניידים, טאבלטים וסמארטפונים.\n\n✅ הספק טעינה של עד 240W (תומך 5A PD 3.0)\n✅ עיצוב שטוח ודק בעובי 2.8 מ\\\"מ\n✅ מתאים למכשירי iPhone 15/16, Macbook, Xiaomi ועוד\n\n✂️ קופון 2$ הנחה בקנייה מעל 15$: ILAFF02\n⭐ דירוג 4.9 · 📦 6,000+ הזמנות\n\nלכל המידע על המוצר 👇\nhttps://s.click.aliexpress.com/e/_c4musjmF\n\n🤖 מצא לי AI: לחיפוש חכם! 🔍👈 לכניסה לבוט"
   },
   "SALAMTAK_DEALS/58752": {
    "ts": "2026-11-05T09:08:38+00:00",
