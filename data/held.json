@@ -125,11 +125,6 @@
    "kind": "news",
    "text": "מה זה שם בשמיים? תנועה חריגה בשמי ישראל\n\nמטוס תדלוק של חיל האוויר המריא מנמל התעופה בן גוריון ותועד לפני זמן קצר בשמי ישראל, במה שנראה כמהלך חריג שעורר עניין בקרב עוקבי תעופה וביטחון. נכון לעכשיו לא נמסר מידע רשמי על מטרת הטיסה, אך עצם פעילותו של מטוס תדלוק באזור מושכת תשומת לב על רקע המתיחות הביטחונית וההתפתחויות האזוריות."
   },
-  "abualiexpress/133125": {
-   "ts": "2026-11-05T10:00:26+00:00",
-   "kind": "news",
-   "text": "🚨 שעות אחרונות למבצע הגדול של השנה! 🚨\n\n🔥 אבו עלי מביאים לכם דיל שאסור לפספס!\n\nאת הכיסא שלכם אתם פוגשים יותר מאת הספה… אז אולי הגיע הזמן שגם הוא יהיה נוח 😌\n\n🛒 חגיגת Shopping IL ב-Newton מסתיימת ממש בקרוב, והמע״מ? עלינו!\n\n🇮🇱 כל האתר של ניוטון ללא מע״מ!\n\nזו ההזדמנות לשדרג את סביבת העבודה והבית עם כיסאות Newton ו-LiberNovo, בהנחה הכי חזקה שהייתה אי פעם!\n\nואיך לקוח אמר פעם?\n⭐️⭐️⭐️⭐️⭐️\n\"כיסא מדהים ונוח ברמות! הכאבי גב שלי נעלמו, אני מסוגל לשבת יותר שעות.\"\n\n⏰ שימו 🧡 נשארו שעות אחרונות בלבד לסיום המבצע!\n\nאז יאללה, למה אתם מחכים? לחצו כאן\n\n•ההנחה חלה אוטומטית בקופה, על כל האתר. ללא כפל מבצעים והנחות. בכפוף לתקנון ולמלאי הקיים."
-  },
   "abualiexpress/133126": {
    "ts": "2026-11-05T10:46:58+00:00",
    "kind": "news",
@@ -234,11 +229,6 @@
    "ts": "2026-11-05T11:26:34+00:00",
    "kind": "news",
    "text": "״המלצנו על בני גנץ, סליחה על גדי איזנקוט״"
-  },
-  "amitsegal/66843": {
-   "ts": "2026-11-05T11:48:21+00:00",
-   "kind": "news",
-   "text": "סיעת ש״ס מתכנסת לראשונה אחרי הבחירות"
   },
   "amitsegal/66844": {
    "ts": "2026-11-05T13:28:46+00:00",
@@ -380,11 +370,6 @@
    "kind": "news",
    "text": "חדשות הסקופים\nצעד נוסף לקראת עזיבתה האפשרית של אילה חסון: תאגיד כאן עירב עורך דין, ולפי גורמים ייתכן שייערך לה שימוע. בתאגיד מוכנים לסיים את הפרשה בהתנצלות מוסכמת, אך חסון מסרבת.\nרן בוקר"
   },
-  "RealKikarHashabat/10970": {
-   "ts": "2026-11-05T10:36:43+00:00",
-   "kind": "news",
-   "text": "פייננשל טיימס: איראן הזמינה מרוסיה 90 משגרי טילים מתקדמים להתקנה על מסוקי קרב. לא ברור אם המשגרים כבר סופקו לאיראן והאם העסקה כללה גם טילים."
-  },
   "RealKikarHashabat/10971": {
    "ts": "2026-11-05T10:53:27+00:00",
    "kind": "news",
@@ -480,6 +465,11 @@
    "kind": "news",
    "text": "⚠️ אזהרה לתושבי כפר חב״ד: משרד הבריאות הודיע על חובת הרתחת מים בעקבות תוצאות דיגום חריגות. יש להרתיח מים לפני שתייה, בישול, הכנת תרופות וצחצוח שיניים. ניתן להשתמש במים לרחצה ולסניטציה. ההנחיה בתוקף עד להודעה חדשה."
   },
+  "RealKikarHashabat/10990": {
+   "ts": "2026-11-05T14:00:05+00:00",
+   "kind": "news",
+   "text": "איראן מפרסמת תיעוד חדש: מוחמד כרמי, מפקד כוחות היבשה של משמרות המהפכה, נראה לכאורה מבקר באיים במפרץ הפרסי"
+  },
   "Tech_Galilee_Golan_Channel/803": {
    "ts": "2026-11-05T09:05:38+00:00",
    "kind": "jobs",
@@ -534,36 +524,6 @@
    "ts": "2026-11-05T13:47:10+00:00",
    "kind": "jobs",
    "text": "📋 אחראי/ת פרויקט | מרכז\nלארגון מוביל באזור המרכז דרוש/ה אחראי/ת פרויקט להובלת משימות ותהליכים טכנולוגיים בסביבה ארגונית מורכבת, תוך עבודה מול ממשקים מקצועיים, טכנולוגיים ותפעוליים רבים.\nסיווג ביטחוני ישראלי פעיל ברמה 1 הוא תנאי סף לתפקיד. מועמדים ללא סיווג פעיל ברמה זו אינם יכולים להתקדם בתהליך.\nמה עושים בתפקיד?\nריכוז והובלת פרויקטים ומשימות מקצה לקצה\nבניית תוכניות עבודה ומעקב אחר אבני דרך ולוחות זמנים\nתיאום בין צוותים טכנולוגיים, מקצועיים ותפעוליים\nמעקב אחר משימות, חסמים ותלויות בין גורמים שונים\nניהול סטטוסים והצגת תמונת מצב לגורמים הרלוונטיים\nקידום משימות מול ממשקים רבים עד לסגירה\nזיהוי סיכונים, פערים ועיכובים והצפתם בזמן\nתיעוד החלטות, משימות ותהליכי עבודה\nעבודה מול ספקים וגורמים חיצוניים בהתאם לצורך\nסיוע בהטמעה וליווי של פתרונות ותהליכים חדשים\nמה אנחנו מחפשים?\nסיווג ביטחוני פעיל ברמה 1\nניסיון בריכוז או ניהול פרויקטים\nיכולת עבודה מול ממשקים רבים והנעת גורמים\nיכולת בניית תוכניות עבודה ומעקב אחר ביצוע\nסדר, ארגון ויכולת ניהול מספר משימות במקביל\nראייה מערכתית לצד ירידה לפרטים\nיכולת עבודה עצמאית ולקיחת אחריות\nיכולת עבודה בסביבה דינמית ותחת עומס\nתקשורת בין־אישית גבוהה ויכולת הצגת סטטוסים בצורה ברורה\nיתרון ל:\nניסיון בפרויקטים טכנולוגיים או בסביבת IT\nניסיון בעבודה בארגון גדול\nהיכרות עם Jira, Monday, Azure DevOps או כלי ניהול משימות דומים\nניסיון בעבודה מול צוותי פיתוח, תשתיות, System או Cyber\nתואר אקדמי רלוונטי\n📍 אזור המרכז | משרה מלאה | סיווג ביטחוני פעיל ברמה 1\nhttps://bit.ly/4ippbKT"
-  },
-  "HiTech_Jobs_In_Israel/138496": {
-   "ts": "2026-11-05T12:00:00+00:00",
-   "kind": "jobs",
-   "text": "R&D Analog and Power Hardware Engineer at ACS Motion Control\nLocation: ACS Motion Control Israel (HQ)\nPress here https://acsmotioncontrol.com/comeet/co/acs-motion-control-israel-hq/5C.558/rd-analog-and-power-hardware-engineer/all/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138497": {
-   "ts": "2026-11-05T12:00:01+00:00",
-   "kind": "jobs",
-   "text": "AWS reselling SDR at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138498": {
-   "ts": "2026-11-05T12:00:01+00:00",
-   "kind": "jobs",
-   "text": "Information Systems Implementer – Insurance Industry Experience at abra\nLocation: Center\nPress here https://www.abra-it.com/en/career/professional-services/information-systems-implementer-insurance-industry-experience/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138499": {
-   "ts": "2026-11-05T12:00:02+00:00",
-   "kind": "jobs",
-   "text": "Tier 2 Application Support at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138500": {
-   "ts": "2026-11-05T12:00:02+00:00",
-   "kind": "jobs",
-   "text": "Java Developer - Yokneam at CodeValue\nLocation: Yokne'am\nPress here https://www.comeet.com/jobs/codevalue/81.009/senior-java-developer---yokneam/6B.837?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138501": {
-   "ts": "2026-11-05T12:00:07+00:00",
-   "kind": "jobs",
-   "text": "Data Reporting Lead at Cross River\nLocation: Jerusalem Office / Hybrid (In Israel)\nPress here https://www.comeet.com/jobs/crossriver/C7.00F?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
   },
   "HiTech_Jobs_In_Israel/138502": {
    "ts": "2026-11-05T12:00:07+00:00",
@@ -629,6 +589,36 @@
    "ts": "2026-11-05T12:00:27+00:00",
    "kind": "jobs",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤"
+  },
+  "HiTech_Jobs_In_Israel/138516": {
+   "ts": "2026-11-05T14:00:00+00:00",
+   "kind": "jobs",
+   "text": "Marketing Coordinator- Cloud at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138517": {
+   "ts": "2026-11-05T14:00:01+00:00",
+   "kind": "jobs",
+   "text": "סטודנט/ית ליחידת הביטחון at Aeronautics\nLocation: אירונאוטיקס\nPress here https://career.aeronautics-sys.com/open-positions/6D.477/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions"
+  },
+  "HiTech_Jobs_In_Israel/138518": {
+   "ts": "2026-11-05T14:00:02+00:00",
+   "kind": "jobs",
+   "text": "R&D System Integration Engineer at Cognyte\nLocation: Israel, Herzliya\nPress here https://www.cognyte.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138519": {
+   "ts": "2026-11-05T14:00:03+00:00",
+   "kind": "jobs",
+   "text": "תומכ.ת טכני.ת at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/careers/%D7%9E%D7%A9%D7%A8%D7%95%D7%AA-%D7%A4%D7%AA%D7%95%D7%97%D7%95%D7%AA/corporate-it-risk-consulting/%D7%AA%D7%95%D7%9E%D7%9B%D7%AA-%D7%98%D7%9B%D7%A0%D7%99%D7%AA-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138520": {
+   "ts": "2026-11-05T14:00:05+00:00",
+   "kind": "jobs",
+   "text": "Business Development Representative (Maternity Cover) at SysAid Technologies\nLocation: Israel\nPress here https://www.comeet.com/jobs/sysaid/43.00A/business-development-representative-maternity-cover/3D.47F?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138521": {
+   "ts": "2026-11-05T14:00:08+00:00",
+   "kind": "jobs",
+   "text": "QA Engineer, Salesforce at JFrog\nLocation: Tel Aviv, Israel\nPress here https://join.jfrog.com/job/?job=8302975&amp;gh_jid=8302975&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
   },
   "iBuyIL/27810": {
    "ts": "2026-11-05T08:40:05+00:00",
@@ -789,6 +779,11 @@
    "ts": "2026-11-05T13:21:26+00:00",
    "kind": "deals",
    "text": "מצלמת חוץ עם תאורה ב-98 שקל, מי לא לוקח?\n\nמצלמת אבטחה חכמה שמסתובבת ועוקבת אחרי תנועה, עם חיבור רשת 🎥\nEC5 של IMILAB\n\n📹 צילום באיכות 2K\n🔄 סיבוב של 350° לצדדים ו-110° למעלה ולמטה\n🚶 מעקב אוטומטי אחרי אנשים\n💡 תאורה ואזעקה בזיהוי תנועה\n🌐 חיבור LAN ו-WiFi\n🌧️ עמידות לתנאי חוץ IP66\n📲 שליטה באפליקציית Mi Home\n\n💰 מחיר באליאקספרס: 98₪ לגרסה עם LAN, עם משלוח חינם\n🎟️ קופון: SALAMTAKEC5 ואחריו IL08 או ILAFF60 או STYLE60\n\nלינק 👇\nhttps://salamtak.deals/archives/32214\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741"
+  },
+  "SALAMTAK_DEALS/58756": {
+   "ts": "2026-11-05T14:02:41+00:00",
+   "kind": "deals",
+   "text": "מטען 67W עם 2 כבלים ב-56 שקל, זה הזמן לתפוס!\n\nמטען קיר אחד עם כבלים נשלפים, הכבל תמיד איתכם 🔌\nמטען 67W של Baseus\n\n⚡ הספק של עד 67W בטכנולוגיית GaN\n🔌 שני כבלים נשלפים מובנים\n📱 טעינה של עד 3 מכשירים במקביל\n🧳 גודל קומפקטי שנוח לנסיעות\n\n💰 מחיר באליאקספרס: 56₪ לדגם עם 2 כבלים, עם משלוח חינם\n🎟️ קופון: ILNN15 ואחריו ILAFF05\n\nלינק 👇\nhttps://salamtak.deals/archives/51039\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741"
   },
   "AceIsraelofficial/4630": {
    "ts": "2026-11-05T09:03:17+00:00",
