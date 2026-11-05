@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-05T08:42:04Z",
+ "updated": "2026-11-05T09:11:08Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -108,7 +108,6 @@
   "jobnikim/306": 1,
   "PMO_jobs/83": 2,
   "PMO_jobs/82": 2,
-  "PMO_jobs/81": 2,
-  "Tech_Galilee_Golan_Channel/800": 2
+  "PMO_jobs/81": 2
  }
 }
