@@ -35,16 +35,6 @@
    "kind": "news",
    "text": "סוף להלנת המת > אחרי 55 ימים: גופת הנרצח יצחק אלמקייס ז\"ל מאומן שוחררה לקבורה"
   },
-  "haskupim/201160": {
-   "ts": "2026-11-05T16:11:44+00:00",
-   "kind": "news",
-   "text": "חדשות הסקופים\nנציגי סיעת 'ביחד' המליצה כעת אצל הנשיא על אייזנקוט להרכבת הממשלה"
-  },
-  "haskupim/201161": {
-   "ts": "2026-11-05T16:22:08+00:00",
-   "kind": "news",
-   "text": "חדשות הסקופים\n\"נחושים לעזור לאיזנקוט להקים ממשלה\" | יו\"ר סיעת ביחד, איתן גינזבורג, הצהיר: \"נחושים לעזור לאיזנקוט להקים ממשלה כמה שיותר מהר\".\nעמית סגל"
-  },
   "haskupim/201162": {
    "ts": "2026-11-05T16:25:25+00:00",
    "kind": "news",
@@ -134,6 +124,16 @@
    "ts": "2026-11-05T17:34:05+00:00",
    "kind": "news",
    "text": "חדשות הסקופים\n29 חרדים בכלא צבאי | 29 עריקים חרדים שוהים בכלא הצבאי, לפי ארגון \"נותנים גב\".\nיואלי ברים"
+  },
+  "haskupim/201180": {
+   "ts": "2026-11-05T18:00:20+00:00",
+   "kind": "news",
+   "text": "חדשות הסקופים\nליברמן מסיר את הוטו על החרדים. גוש השינוי מקדם ממשלה עם יהדות התורה על בסיס חוק גיוס מקל\nעמית סגל"
+  },
+  "haskupim/201181": {
+   "ts": "2026-11-05T18:01:52+00:00",
+   "kind": "news",
+   "text": "חדשות הסקופים\n\"הכל פתיר\" | גוש השינוי העביר היום מסר ליהדות התורה: \"הכל פתיר\".\nיעקב הרשקוביץ"
   },
   "RealKikarHashabat/10995": {
    "ts": "2026-11-05T14:33:52+00:00",
@@ -295,16 +295,6 @@
    "kind": "jobs",
    "text": "📋 אחראי/ת פרויקט | מרכז\nלארגון מוביל באזור המרכז דרוש/ה אחראי/ת פרויקט להובלת משימות ותהליכים טכנולוגיים בסביבה ארגונית מורכבת, תוך עבודה מול ממשקים מקצועיים, טכנולוגיים ותפעוליים רבים.\nסיווג ביטחוני ישראלי פעיל ברמה 1 הוא תנאי סף לתפקיד. מועמדים ללא סיווג פעיל ברמה זו אינם יכולים להתקדם בתהליך.\nמה עושים בתפקיד?\nריכוז והובלת פרויקטים ומשימות מקצה לקצה\nבניית תוכניות עבודה ומעקב אחר אבני דרך ולוחות זמנים\nתיאום בין צוותים טכנולוגיים, מקצועיים ותפעוליים\nמעקב אחר משימות, חסמים ותלויות בין גורמים שונים\nניהול סטטוסים והצגת תמונת מצב לגורמים הרלוונטיים\nקידום משימות מול ממשקים רבים עד לסגירה\nזיהוי סיכונים, פערים ועיכובים והצפתם בזמן\nתיעוד החלטות, משימות ותהליכי עבודה\nעבודה מול ספקים וגורמים חיצוניים בהתאם לצורך\nסיוע בהטמעה וליווי של פתרונות ותהליכים חדשים\nמה אנחנו מחפשים?\nסיווג ביטחוני פעיל ברמה 1\nניסיון בריכוז או ניהול פרויקטים\nיכולת עבודה מול ממשקים רבים והנעת גורמים\nיכולת בניית תוכניות עבודה ומעקב אחר ביצוע\nסדר, ארגון ויכולת ניהול מספר משימות במקביל\nראייה מערכתית לצד ירידה לפרטים\nיכולת עבודה עצמאית ולקיחת אחריות\nיכולת עבודה בסביבה דינמית ותחת עומס\nתקשורת בין־אישית גבוהה ויכולת הצגת סטטוסים בצורה ברורה\nיתרון ל:\nניסיון בפרויקטים טכנולוגיים או בסביבת IT\nניסיון בעבודה בארגון גדול\nהיכרות עם Jira, Monday, Azure DevOps או כלי ניהול משימות דומים\nניסיון בעבודה מול צוותי פיתוח, תשתיות, System או Cyber\nתואר אקדמי רלוונטי\n📍 אזור המרכז | משרה מלאה | סיווג ביטחוני פעיל ברמה 1\nhttps://bit.ly/4ippbKT"
   },
-  "HiTech_Jobs_In_Israel/138521": {
-   "ts": "2026-11-05T14:00:08+00:00",
-   "kind": "jobs",
-   "text": "QA Engineer, Salesforce at JFrog\nLocation: Tel Aviv, Israel\nPress here https://join.jfrog.com/job/?job=8302975&amp;gh_jid=8302975&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
-  "HiTech_Jobs_In_Israel/138522": {
-   "ts": "2026-11-05T16:00:01+00:00",
-   "kind": "jobs",
-   "text": "Data Center Technician at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10597542/data-center-technician?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
-  },
   "HiTech_Jobs_In_Israel/138523": {
    "ts": "2026-11-05T16:00:01+00:00",
    "kind": "jobs",
@@ -394,6 +384,11 @@
    "ts": "2026-11-05T18:00:40+00:00",
    "kind": "jobs",
    "text": "Senior Technical Recruiter, Annapurna Labs at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10595979/senior-technical-recruiter-annapurna-labs?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply"
+  },
+  "HiTech_Jobs_In_Israel/138541": {
+   "ts": "2026-11-05T18:00:41+00:00",
+   "kind": "jobs",
+   "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤"
   },
   "iBuyIL/27810": {
    "ts": "2026-11-05T08:40:05+00:00",
