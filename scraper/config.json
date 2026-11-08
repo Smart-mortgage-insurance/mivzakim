@@ -337,7 +337,7 @@
     "gemini_check": false
   },
   "person_filter": {
-    "enabled": true,
+    "enabled": false,
     "gemini_model": "gemini-3.5-flash-lite",
     "batch": 20,
     "min_interval_sec": 180
