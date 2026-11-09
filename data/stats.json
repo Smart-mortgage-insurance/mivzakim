@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-09T08:34:23Z",
+ "updated": "2026-11-09T08:55:03Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -120,7 +120,6 @@
   "ramreports/217404": 1,
   "behadrey/107979": 1,
   "behadrey/107978": 1,
-  "RealKikarHashabat/11198": 1,
   "DealIsraeli/61918": 1,
   "DealIsraeli/61917": 1,
   "behadrey/107977": 1,
@@ -134,7 +133,6 @@
   "Jobs_in_Jerusalem/36482": 1,
   "Israel_media_industry/3870": 1,
   "Israel_media_industry/3869": 1,
-  "Jobs_in_Jerusalem/36464": 1,
-  "AceIsraelofficial/4613": 1
+  "Jobs_in_Jerusalem/36464": 1
  }
 }
