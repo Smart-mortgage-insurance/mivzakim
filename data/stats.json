@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-09T15:43:05Z",
+ "updated": "2026-11-09T16:04:52Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -113,8 +113,6 @@
   "konim": 4
  },
  "items": {
-  "ramreports/217411": 1,
-  "ramreports/217410": 1,
   "behadrey/107979": 1,
   "behadrey/107978": 1,
   "behadrey/107977": 1,
