@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-10T08:32:24Z",
+ "updated": "2026-11-10T08:55:14Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -118,7 +118,6 @@
   "konim": 4
  },
  "items": {
-  "behadrey/107979": 1,
   "SALAMTAK_DEALS/58796": 1,
   "Jobs_in_Jerusalem/36482": 1
  }
