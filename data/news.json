@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:13:48.463454+00:00",
+ "updated": "2026-11-10T14:15:27.502252+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,26 @@
  "count": 329,
  "items": [
   {
+   "id": "pa674e41f0d87",
+   "post": "merkaz/300803",
+   "ts": "2026-11-10T14:12:39+00:00",
+   "text": "עמית סגל: צעיר חברי הכנסת ומי שהיה עד לפני כמה דקות צעיר חברי הכנסת בהיסטוריה",
+   "views": 23,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/2d779a992e32b441.jpg"
+    }
+   ]
+  },
+  {
    "id": "pc4fdc9ae5a42",
    "post": "amitsegal/67067",
    "ts": "2026-11-10T14:10:50+00:00",
    "text": "צעיר חברי הכנסת ומי שהיה עד לפני כמה דקות צעיר חברי הכנסת בהיסטוריה",
-   "views": 1030,
+   "views": 5200,
    "forwarded_from": null,
    "media": [
     {
@@ -169,7 +184,7 @@
    "post": "RealKikarHashabat/11359",
    "ts": "2026-11-10T14:09:00+00:00",
    "text": "שובר שיא היסטורי: נתניהו נכנס למשכן הכנסת והופך לאדם שכיהן במספר הכנסות הרב ביותר בתולדות המדינה – 15 כנסות, ובכך עוקף את השיאן הקודם, שמעון פרס.",
-   "views": 2,
+   "views": 3,
    "forwarded_from": null,
    "media": [
     {
@@ -189,7 +204,7 @@
    "post": "amitsegal/67066",
    "ts": "2026-11-10T14:08:30+00:00",
    "text": "משקיפות ממעל:\nגברת נתניהו\nוגברת איזנקוט",
-   "views": 5190,
+   "views": 7290,
    "forwarded_from": null,
    "media": [
     {
@@ -204,7 +219,7 @@
    "post": "amitsegal/67065",
    "ts": "2026-11-10T14:07:41+00:00",
    "text": "הרצוג פותח בברכות לנתניהו על הפיכתו לשיאן הכנסות ואת צעיר הח״כים יונתן שלו",
-   "views": 5220,
+   "views": 9360,
    "forwarded_from": null,
    "media": []
   },
@@ -213,7 +228,7 @@
    "post": "amitsegal/67064",
    "ts": "2026-11-10T14:05:45+00:00",
    "text": "הכנסת ה-26 יוצאת לדרך, החל טקס פתיחת המושב",
-   "views": 8320,
+   "views": 10400,
    "forwarded_from": null,
    "media": []
   },
@@ -222,7 +237,7 @@
    "post": "haskupim/201846",
    "ts": "2026-11-10T14:04:28+00:00",
    "text": "חדשות הסקופים\nנתניהו ורעייתו בתמונה המסורתית בכנסת",
-   "views": 19,
+   "views": 20,
    "forwarded_from": null,
    "media": [
     {
@@ -237,7 +252,7 @@
    "post": "HiTech_Jobs_In_Israel/138741",
    "ts": "2026-11-10T14:00:23+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 29,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -247,7 +262,7 @@
    "post": "HiTech_Jobs_In_Israel/138739",
    "ts": "2026-11-10T14:00:21+00:00",
    "text": "Embedded Software Engineer at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10600951/embedded-software-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 28,
+   "views": 31,
    "forwarded_from": null,
    "media": [
     {
@@ -263,7 +278,7 @@
    "post": "HiTech_Jobs_In_Israel/138740",
    "ts": "2026-11-10T14:00:21+00:00",
    "text": "Software Embedded Engineer at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10600959/software-embedded-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 31,
+   "views": 34,
    "forwarded_from": null,
    "media": [
     {
@@ -279,7 +294,7 @@
    "post": "HiTech_Jobs_In_Israel/138737",
    "ts": "2026-11-10T14:00:18+00:00",
    "text": "Staff Full Stack Engineer (Armis/Veza) at ServiceNow\nLocation: Tel Aviv-Yafo\nPress here https://www.smartrecruiters.com/ServiceNow/744000160862436?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 26,
+   "views": 28,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -289,7 +304,7 @@
    "post": "HiTech_Jobs_In_Israel/138738",
    "ts": "2026-11-10T14:00:18+00:00",
    "text": "Product Manager - Wix Editor Platform at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000160863331?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 26,
+   "views": 28,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -299,7 +314,7 @@
    "post": "HiTech_Jobs_In_Israel/138736",
    "ts": "2026-11-10T14:00:14+00:00",
    "text": "Computing DevOps engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Computing-DevOps-engineer_R2633047?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 26,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -309,7 +324,7 @@
    "post": "HiTech_Jobs_In_Israel/138733",
    "ts": "2026-11-10T14:00:12+00:00",
    "text": "Senior Network System Architect at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/76620f20-417e-4849-9d6f-51a7876695e3?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -319,7 +334,7 @@
    "post": "HiTech_Jobs_In_Israel/138734",
    "ts": "2026-11-10T14:00:12+00:00",
    "text": "Senior Network System Architect at Mobileye\nLocation: Haifa, Israel\nPress here https://jobs.eu.lever.co/mobileye/d98280e7-0daa-48fa-b1ce-5d4dbc547d83?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 21,
+   "views": 23,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -329,7 +344,7 @@
    "post": "HiTech_Jobs_In_Israel/138735",
    "ts": "2026-11-10T14:00:12+00:00",
    "text": "Senior Network System Architect at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/e5d147ca-0420-4483-94ad-63e2ea8265bd?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -339,7 +354,7 @@
    "post": "HiTech_Jobs_In_Israel/138730",
    "ts": "2026-11-10T14:00:08+00:00",
    "text": "AI Implementer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/b1abd9a9-39f4-466b-b14b-f16013202861?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -349,7 +364,7 @@
    "post": "HiTech_Jobs_In_Israel/138731",
    "ts": "2026-11-10T14:00:08+00:00",
    "text": "AI Implementer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/e190d4bb-4ef0-4aaa-ab44-b55858a29d14?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -359,7 +374,7 @@
    "post": "HiTech_Jobs_In_Israel/138732",
    "ts": "2026-11-10T14:00:08+00:00",
    "text": "Operations Control Center Operator - Student Position at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/12c753a2-6aea-4528-b700-5c96ec833c35?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -369,7 +384,7 @@
    "post": "HiTech_Jobs_In_Israel/138729",
    "ts": "2026-11-10T14:00:07+00:00",
    "text": "System Engineering Team Leader at D-Fend Solutions\nLocation: Raanana, Center District\nPress here https://jobs.lever.co/d-fendsolutions/84506171-47f0-4ac6-b9c8-67b637ce8798?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 26,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -379,7 +394,7 @@
    "post": "HiTech_Jobs_In_Israel/138728",
    "ts": "2026-11-10T14:00:05+00:00",
    "text": "Procurement Operations Manager at VAST Data\nLocation: Israel - Tel Aviv\nPress here https://www.comeet.com/jobs/vastdata/43.001/procurement-operations-manager/CF.47F?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -389,7 +404,7 @@
    "post": "HiTech_Jobs_In_Israel/138727",
    "ts": "2026-11-10T14:00:04+00:00",
    "text": "Lab Student at Rocoto\nLocation: Ra'anana\nPress here https://www.comeet.com/jobs/rocoto/50.00C/lab-student/5D.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 23,
+   "views": 25,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -399,7 +414,7 @@
    "post": "HiTech_Jobs_In_Israel/138726",
    "ts": "2026-11-10T14:00:03+00:00",
    "text": "Backend Team Leader – Core Infrastructure & Integrations at PlainID\nLocation: Israel\nPress here https://www.comeet.com/jobs/plainid/C4.00C/backend-team-leader--core-infrastructure--integrations/5F.47D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 26,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -409,7 +424,7 @@
    "post": "HiTech_Jobs_In_Israel/138725",
    "ts": "2026-11-10T14:00:02+00:00",
    "text": "Operation Security Specialist at Integrity Labs\nLocation: Tel Aviv\nPress here https://www.comeet.com/jobs/integritylabs/43.009/operation-security-specialist/8A.470?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 28,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -419,7 +434,7 @@
    "post": "HiTech_Jobs_In_Israel/138724",
    "ts": "2026-11-10T14:00:01+00:00",
    "text": "Senior Product Designer at Fiverr\nLocation: Tel Aviv\nPress here https://www.fiverr.com/jobs?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 28,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -429,7 +444,7 @@
    "post": "HiTech_Jobs_In_Israel/138723",
    "ts": "2026-11-10T14:00:00+00:00",
    "text": "Bookkeeper (Temporary – Maternity Leave Cover) at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/EE.471?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 28,
+   "views": 31,
    "forwarded_from": null,
    "media": [
     {
@@ -445,7 +460,7 @@
    "post": "ramreports/217480",
    "ts": "2026-11-10T13:58:59+00:00",
    "text": "בעוד מספר דקות יהפוך נתניהו לאדם שכיהן במספר הכנסות הרב ביותר (15) ויגבר על השיאן הקודם, שמעון פרס",
-   "views": 1870,
+   "views": 1930,
    "forwarded_from": null,
    "media": [
     {
@@ -469,7 +484,7 @@
    "post": "haskupim/201845",
    "ts": "2026-11-10T13:58:14+00:00",
    "text": "חדשות הסקופים\nרה\"מ נתניהו נכנס כעת עם רעייתו שרה נתניהו למשכן הכנסת",
-   "views": 27,
+   "views": 28,
    "forwarded_from": null,
    "media": []
   },
@@ -478,7 +493,7 @@
    "post": "abualiexpress/133417",
    "ts": "2026-11-10T13:57:57+00:00",
    "text": "מקורות אופוזיציה איראנים מדווחים על שיגורי טילים איראנים בשעה האחרונה בשמי הערים הבאות (ככל הנראה תרגיל צבאי) :\n\nדורוד\nטהראנסר (טהרן)\nכרמאנשאה\nהמדאן\nח'ורמאבאד\nריי",
-   "views": 7350,
+   "views": 8400,
    "forwarded_from": null,
    "media": [
     {
@@ -518,7 +533,7 @@
    "post": "haskupim/201844",
    "ts": "2026-11-10T13:57:45+00:00",
    "text": "חדשות הסקופים\n״לא מנהלים משא ומתן עם אף אחד״ | ש״ס בהודעה: ממשיכים לתמוך בנתניהו, לא מנהלים משא ומתן עם שום גורם אחר. התמיכה ניתנה בתנאי שיעביר את חוק הסדרת מעמד בני הישיבות.",
-   "views": 29,
+   "views": 30,
    "forwarded_from": null,
    "media": []
   },
@@ -527,7 +542,7 @@
    "post": "amitsegal/67063",
    "ts": "2026-11-10T13:57:32+00:00",
    "text": "בעוד שלוש דקות יהפוך נתניהו לאדם שכיהן במספר הכנסות הרב ביותר (15) ויגבר על השיאן הקודם, שמעון פרס",
-   "views": 15600,
+   "views": 17700,
    "forwarded_from": null,
    "media": [
     {
@@ -557,7 +572,7 @@
    "post": "haskupim/201843",
    "ts": "2026-11-10T13:56:14+00:00",
    "text": "חדשות הסקופים\nלחיצת יד בין אשר לליברמן",
-   "views": 32,
+   "views": 33,
    "forwarded_from": null,
    "media": [
     {
@@ -572,7 +587,7 @@
    "post": "merkaz/300802",
    "ts": "2026-11-10T13:50:40+00:00",
    "text": "ש״ס בהודעה: ״ש״ס ממשיכה לתמוך בנתניהו ואינה מנהלת משא ומתן עם שום גורם אחר״.",
-   "views": 100,
+   "views": 107,
    "forwarded_from": null,
    "media": []
   },
@@ -581,7 +596,7 @@
    "post": "amitsegal/67062",
    "ts": "2026-11-10T13:49:42+00:00",
    "text": "השבוע לפני 4 שנים",
-   "views": 20800,
+   "views": 21900,
    "forwarded_from": null,
    "media": [
     {
@@ -596,7 +611,7 @@
    "post": "merkaz/300801",
    "ts": "2026-11-10T13:47:11+00:00",
    "text": "ח\"כ הרב יעקב אשר לערוץ הכנסת: \"לא נתמוך בממשלת מיעוט שתישען עלינו\".",
-   "views": 116,
+   "views": 123,
    "forwarded_from": null,
    "media": []
   },
@@ -605,7 +620,7 @@
    "post": "merkaz/300800",
    "ts": "2026-11-10T13:44:48+00:00",
    "text": "השקל מתחזק מול המטבעות הזרים על רקע הציפיות להשבעת ממשלה חדשה: הדולר היציג יורד 0.32% ושערו נקבע על 3.161 שקלים. האירו היציג יורד 0.08% ונסגר על שער יציג של 3.546 שקלים",
-   "views": 129,
+   "views": 135,
    "forwarded_from": null,
    "media": []
   },
@@ -614,7 +629,7 @@
    "post": "haskupim/201842",
    "ts": "2026-11-10T13:44:41+00:00",
    "text": "מנכ״ל משרד הפנים, ישראל אוזן, והסטטיסטיקן הלאומי ומנהל הלשכה המרכזית לסטטיסטיקה, פרופ׳ ירון פלוס, חתמו היום על הסכם לשיתוף פעולה בין הגופים לחיזוק תשתית הנתונים על השלטון המקומי, לקידום החלטות מבוססות נתונים ולשיפור השירות לתושב.",
-   "views": 44,
+   "views": 45,
    "forwarded_from": null,
    "media": [
     {
@@ -629,7 +644,7 @@
    "post": "iBuyIL/27902",
    "ts": "2026-11-10T13:44:04+00:00",
    "text": "הלםםםם 😱 הרמקול החדש של CMF By Nothing המטורפים הגדול מבין השניים שהושקו גודל M מתחת לרף המס 🤯😱\n\nשתבינו שהמחיר הרשמי שלו 110$ ככה שהמחיר הזה חריג ברמות 🔻‼️🔻‼️\n\n💳 מחיר סופי 74$ / 235₪ (במקום 140$) 😲😲\nנא להגיב מי שתפס את הדיל 👇👇👇\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/cmf-by-nothing-speaker-s-m-m\n\nהרמקול שתופס את העין אפילו לפני ששומעים אותו 🎵🥛 העיצוב לא דומה לשום רמקול שראיתם (קרטון חלב?!😂) וזה רק מתחיל שם.\n\n✔️ עיצוב ייחודי בצורת בקבוק חלב, מושך מבטים בכל שולחן או פינה\n✔️ עמידות IP68 - מים ואבק כבר לא עניין (לגמרי מתאים לחוף או בריכה)\n✔️ קישוריות Bluetooth 6.0 לחיבור יציב ומהיר\n✔️ מצב Party Auracast ניתן לחבר רמקול נוסף מאותו סוג\n✔️ פאנל מודולרי מתחלף - אפשר להחליף צבע מתי שבא לכם\n✔️ הדיל כאן על גודל M עם הספק RMS 35W\n✔️ ארבעה צבעים לבחירה\n\n💬 לדיון בפוסט\nhttps://www.facebook.com/share/p/1FLUT5WrgE/",
-   "views": 323,
+   "views": 337,
    "forwarded_from": null,
    "media": [
     {
@@ -669,7 +684,7 @@
    "post": "merkaz/300799",
    "ts": "2026-11-10T13:40:56+00:00",
    "text": "המהלך להחלפת יו״ר הכנסת של גוש ״השינוי״: המשותפת ורע״מ יחד עם איזנקוט, בנט וליברמן (אדמקר).",
-   "views": 143,
+   "views": 148,
    "forwarded_from": null,
    "media": [
     {
@@ -719,7 +734,7 @@
    "post": "merkaz/300798",
    "ts": "2026-11-10T13:39:01+00:00",
    "text": "שר החוץ האמריקני רוביו: הלחץ הכלכלי וההרס על איראן עובד כל כך טוב שהנשיא לא צריך לבצע שום פעולה צבאית. מן הסתם אם המשטר האיראני עובר קווים אדומים מסוימים, מן הסתם הצבא האמריקני מוכן להתמודד עם זה, אבל כרגע אין באמת צורך",
-   "views": 150,
+   "views": 154,
    "forwarded_from": null,
    "media": []
   },
@@ -728,7 +743,7 @@
    "post": "amitsegal/67061",
    "ts": "2026-11-10T13:38:22+00:00",
    "text": "תחילתה של ידידות?",
-   "views": 28100,
+   "views": 29100,
    "forwarded_from": null,
    "media": [
     {
@@ -778,7 +793,7 @@
    "post": "amitsegal/67060",
    "ts": "2026-11-10T13:36:47+00:00",
    "text": "גם המשותפת שותפה להדחת אוחנה",
-   "views": 28100,
+   "views": 29100,
    "forwarded_from": null,
    "media": [
     {
@@ -808,7 +823,7 @@
    "post": "amitsegal/67059",
    "ts": "2026-11-10T13:33:45+00:00",
    "text": "החתימות של רע״מ",
-   "views": 29200,
+   "views": 30200,
    "forwarded_from": null,
    "media": [
     {
@@ -832,7 +847,7 @@
    "post": "amitsegal/67058",
    "ts": "2026-11-10T13:27:38+00:00",
    "text": "גוש איזנקוט הגיש כעת יותר מ-61 חתימות בדרישה להצביע על החלפת יו״ר הכנסת",
-   "views": 32200,
+   "views": 33300,
    "forwarded_from": null,
    "media": []
   },
@@ -894,7 +909,7 @@
    "post": "amitsegal/67057",
    "ts": "2026-11-10T13:19:02+00:00",
    "text": "הפרשנות המלאה",
-   "views": 35400,
+   "views": 36400,
    "forwarded_from": null,
    "media": [
     {
@@ -977,7 +992,7 @@
    "post": "merkaz/300797",
    "ts": "2026-11-10T13:11:40+00:00",
    "text": "דיווח ברויטרס: עיראק מנעה היום ממטוס שהוביל את נבחרת איראן בכדורגל לנחות בנמל התעופה בבצרה, בשל הסנקציות שהטילה ארה\"ב על חברות תעופה איראניות.",
-   "views": 227,
+   "views": 231,
    "forwarded_from": null,
    "media": []
   },
@@ -1019,7 +1034,7 @@
    "post": "merkaz/300796",
    "ts": "2026-11-10T13:09:47+00:00",
    "text": "ח\"כ יעקב אשר: \"אנחנו דורשים הסדרת מעמד לבני הישיבות, תקצוב לחינוך החרדי בלי להתנות לימודי ליבה, וסטטוס קוו בענייני דת ומדינה (בלי תחב\"צ בשבת ונישואים אזרחיים).",
-   "views": 219,
+   "views": 225,
    "forwarded_from": null,
    "media": []
   },
@@ -1058,7 +1073,7 @@
    "post": "merkaz/300795",
    "ts": "2026-11-10T13:07:41+00:00",
    "text": "גולדקנופף בעקיצה מרומזת נגד נתניהו בראיון: ליברמן אמר לשלוח אותנו במריצה, היו כאלה שלא רק אמרו אלא גם עשו. (12)",
-   "views": 228,
+   "views": 234,
    "forwarded_from": null,
    "media": []
   },
@@ -1067,7 +1082,7 @@
    "post": "iBuyIL/27901",
    "ts": "2026-11-10T13:07:14+00:00",
    "text": "חלום של דיל!!! 😶‍🌫 מפיץ ריח חכם לרכב Smart Car Air Freshener New Encounter\nבמחיק סופר שווה עם קופון שמרסק את המחיר, משלוח חינם עד הבית בלי להוסיף מוצרים ובנוסף בהזנת קופון MASTERCARDAY תקבלו 10% הנחה ממחיר המוצר המקורי, כלומר 5.3$ הנחה נוספים ותשלמו רק 21.19$ עד הבית 😁\n\nרוצים שהרכב שלכם יריח טוב ויראה אפילו יותר טוב עם אפקט תאורת כוכבים? 🚗✨\nהמפיץ הזה עושה את זה חכם- נדלק ונכבה לבד לפי מצב הרכב, מפיץ ארומה עדינה בכל נסיעה ומוסיף טאץ׳ לפנים הרכב.\n\nריח טוב שמחזיק לאורך זמן, והכל בלחיצת כפתור בודדת- שדרוג קטן, הבדל של רמה באווירה 😌\n\n💳 מחיר סופי: 26.49$ \\ 84₪ (במקום $52.99)\n\n✈️ המחיר כולל משלוח חינם עד הבית בלי להוסיף כלום!\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/smart-car-air-freshener-new-e\n\n✔️ מופעל אוטומטית לפי התנועה של הרכב, בזכות שבב AI\n✔️ 3 מצבי ריח לבחירה: עדין, חכם, חזק מעבר קל בלחיצה\n✔️ טכנולוגיית אוטומיזציה אולטרא-סונית ערפל עדין שמתפזר שווה\n✔️ סוללת 500mAh מובנית, משך פעולה ארוך בלי להיטען כל רגע\n\nלדיון בפוסט https://www.facebook.com/share/p/19ySvkG3Ra/",
-   "views": 532,
+   "views": 540,
    "forwarded_from": null,
    "media": [
     {
@@ -1098,7 +1113,7 @@
    "post": "abualiexpress/133415",
    "ts": "2026-11-10T13:01:54+00:00",
    "text": "התביעה הכללית בצרפת: איראן עומדת מאחורי מתקפת ההאקרים על מערכות קירור בבתי עסק בצרפת החקירה בנוגע לפריצת ההאקרים למערכות הקירור העלתה כי התוקפים השתמשו בשפה הפרסית. התביעה בצרפת הוסיפה כי במסגרת החקירה אותרו כתובות IP שמקורן באיראן. התביעה בפריז החליטה…",
-   "views": 24700,
+   "views": 25700,
    "forwarded_from": null,
    "media": [
     {
@@ -1113,7 +1128,7 @@
    "post": "merkaz/300794",
    "ts": "2026-11-10T13:00:35+00:00",
    "text": "• אחמד טיבי במסר לליברמן: \"11 מנדטים זה יותר מ־7\". לדבריו, המפלגות הערביות מעוניינות להשפיע על קבלת ההחלטות ולבטל את חוק קמניץ.\n\n• איזנקוט: \"לא נקפל את הדגל של שירות צבאי ולאומי לכולם\".\n\n• גולדקנופף על המגעים עם גוש השמאל: \"אין משא ומתן, יש גישושים\".\n\n• בנט: \"קיבלנו את הכלים הנדרשים להקמת ממשלה טובה בישראל. אני עושה הכול כדי לסייע לאיזנקוט להקים ממשלת תיקון ציונית במהירות, כדי לחולל את מהפכת המשרתים\".\n\n• לפיד בישיבת הסיעה: \"יש חוק שעובד בפוליטיקה הישראלית כבר 13 שנה: אם בנט ואני שקטים, סימן שקורים דברים\".",
-   "views": 246,
+   "views": 250,
    "forwarded_from": null,
    "media": []
   },
@@ -1122,7 +1137,7 @@
    "post": "haskupim/201836",
    "ts": "2026-11-10T13:00:07+00:00",
    "text": "חדשות הסקופים\nגדי איזנקוט בהצהרה ראשונה בכנסת: ״אני מחויב להקים ממשלת חירום לאומית מוקדם ככל האפשר.״",
-   "views": 60,
+   "views": 61,
    "forwarded_from": null,
    "media": []
   },
@@ -1146,7 +1161,7 @@
    "post": "haskupim/201835",
    "ts": "2026-11-10T12:58:32+00:00",
    "text": "חדשות הסקופים\nיאיר לפיד לחברי הכנסת של סיעת ״ביחד״ בישיבת הסיעה: יש חוק שעובד בפוליטיקה הישראלית כבר 13 שנים, אם בנט ואני שקטים - זה סימן שקורים דברים.",
-   "views": 66,
+   "views": 67,
    "forwarded_from": null,
    "media": []
   },
@@ -1155,7 +1170,7 @@
    "post": "haskupim/201834",
    "ts": "2026-11-10T12:57:15+00:00",
    "text": "חדשות הסקופים\nעדכון | תנאי יהדות התורה לקואליציה | יור המפלגה יעקב אשר מציג דרישות: חוק גיוס והסדרת מעמד תלמידי ישיבות, תקציבי חינוך ללא התניית לימודי ליבה וסטטוס קוו בדת ומדינה.\nישי כהן",
-   "views": 66,
+   "views": 67,
    "forwarded_from": null,
    "media": [
     {
@@ -1228,7 +1243,7 @@
    "post": "amitsegal/67054",
    "ts": "2026-11-10T12:45:59+00:00",
    "text": "איזנקוט: אני לא מתכוון להניח בצד את המצפון שלנו. שירות לכלל אזרחי ישראל - לא נקפל את הדגל הזה.",
-   "views": 43700,
+   "views": 44700,
    "forwarded_from": null,
    "media": []
   },
@@ -1237,7 +1252,7 @@
    "post": "amitsegal/67053",
    "ts": "2026-11-10T12:45:11+00:00",
    "text": "המצב כעת הוא שהתקצוב למוסדות תלוי לימודי ליבה\n\nאשר דורש לבטל זאת",
-   "views": 43700,
+   "views": 44700,
    "forwarded_from": null,
    "media": []
   },
@@ -1261,7 +1276,7 @@
    "post": "abualiexpress/133414",
    "ts": "2026-11-10T12:39:52+00:00",
    "text": "\"רצח העם\" ברצועת עזה:\n\n6,174 לידות ברצועת עזה בחודש אוקטובר האחרון, ע\"פ נתונים רשמיים של משרד הפנים של חמאס.\n\n202 מקרי פטירה בחודש זה ברצועה.\n\nזהו גידול של 12% במספר הלידות ברצועה בהשוואה לחודש אוגוסט השנה.\n\n##\nגידול האוכלוסין ברצועה ממשיך בקצב מסחרר. כך לא נראה אזור בו מתנהל רצח עם!",
-   "views": 28800,
+   "views": 29800,
    "forwarded_from": null,
    "media": [
     {
@@ -1291,7 +1306,7 @@
    "post": "merkaz/300793",
    "ts": "2026-11-10T12:34:44+00:00",
    "text": "• בנט שובר שתיקה בהקלטה לפעילי מפלגתו: \"עושים בשקט הכול כדי לסייע לאיזנקוט להקים ממשלת תיקון ציונית, כדי שנוכל להביא את מהפכת המשרתים\".\n\n• ליברמן: המפכ\"ל וראש השב\"כ יזומנו לוועדת החוץ והביטחון לבירור פרשת ההתערבות הזרה בבחירות, בשל הפערים הבלתי סבירים בין עמדותיהם.\n\n• סמוטריץ' קורא לכהנא לסרב לתפקיד יו\"ר הכנסת: \"להתמנות בקולות אויבי ישראל זה לא לגיטימי\".",
-   "views": 247,
+   "views": 249,
    "forwarded_from": null,
    "media": []
   },
@@ -1300,7 +1315,7 @@
    "post": "amitsegal/67050",
    "ts": "2026-11-10T12:34:11+00:00",
    "text": "סמוטריץ׳ לכהנא: ״תסרב לתפקיד, להתמנות ליו\"ר כנסת בקולות אויבי ישראל זה לא לגיטימי״",
-   "views": 44700,
+   "views": 45800,
    "forwarded_from": null,
    "media": []
   },
@@ -1309,7 +1324,7 @@
    "post": "haskupim/201830",
    "ts": "2026-11-10T12:33:17+00:00",
    "text": "חדשות הסקופים\nעדכון | סמוטריץ׳ פונה לכהנא | שר האוצר פנה ישירות לח״כ מתן כהנא וקרא לו שלא להתמנות ליו״ר הכנסת בקולות מפלגות שרואות בהקמת מדינת ישראל אסון וחותרות תחת זכות קיומה.",
-   "views": 53,
+   "views": 54,
    "forwarded_from": null,
    "media": [
     {
@@ -1340,7 +1355,7 @@
    "post": "amitsegal/67049",
    "ts": "2026-11-10T12:28:56+00:00",
    "text": "בנט שובר שתיקה בהקלטה לפעילי המפלגה: \"עושים בשקט הכל כדי לעזור לאיזנקוט להקים ממשלת תיקון ציונית כדי שנוכל להביא את מהפכת המשרתים\"",
-   "views": 46800,
+   "views": 46900,
    "forwarded_from": null,
    "media": []
   },
@@ -1349,7 +1364,7 @@
    "post": "iBuyIL/27900",
    "ts": "2026-11-10T12:28:06+00:00",
    "text": "יווו! איזו הפתעה שלא ציפיתי אליה - וגם כזאת שהצליחה לעשות לי כיף כבר בשניות הראשונות! תכירו את HERSH X של ALEZZ OUD מסעודיה 🇸🇦\n\nממש מיד הבנתי שהוא עובד לי אישית, יותר טוב ממה שעובד לי הבושם שהוא דומה לו (לייטון).\nלסקירה המלאה:\nhttps://www.facebook.com/share/p/1KFUegHqUD/\n🔥 יש בו רעננות פירותית קריספית, חרפרפות ירוקה וארומטית, ורק אחר כך חום קרמי ועצי. מבחינתי, זה בושם נקי סקסי, גם רך וגם עוקצני - וזה בדיוק מה שעושה לי את זה בו ‼️\n💳 מחיר לחברי הקבוצה: 186₪ לאחר הנחה + 2 דוגמיות מתנה בקופה\n✂️ הקופון של הקבוצה: iBuyILKSP\n📦 איסוף חינם מעשרות סניפי K.S.P בפריסה ארצית\n🛍 קישור להזמנה\n\nhttps://dlz.co.il/ksp-il-100-alezz-oud-hersh-x-e-d-p/\n\n👈🏻 הבושם Hersh X מבית Alezz Oud הוא בושם יוניסקס בנפח 100 מ״ל, בריכוז EDP. הוא משלב פירותיות ירוקה עם פרחים חרפרפים, תבלינים חמים ובסיס עצי-קרמי ונילי. האופי הכללי שלו הוא פירותי, מתובל, חם ועצי - אבל לא בושם כבד או מתוק בצורה מייגעת. מבחינתי, הוא מרגיש מודרני, מתוחכם ונוכח, עם ניגודיות מגניבה בין עוקצניות חרפרפה לקרמיות מתקתקה. והשמנים כ\"כ איכותיים! איזה כיף‼️",
-   "views": 694,
+   "views": 699,
    "forwarded_from": null,
    "media": [
     {
@@ -1365,7 +1380,7 @@
    "post": "haskupim/201829",
    "ts": "2026-11-10T12:27:38+00:00",
    "text": "חדשות הסקופים\nשר האוצר סמוטריץ' בהצהרתו קורא למתן כהנא לסרב להתמנות ליו\"ר הכנסת בקולות מפלגות שלדבריו רואות בהקמת מדינת ישראל אסון וחותרות תחת זכות קיומה: \"לא לחזור על טעויות העבר של ממשלת האחים המוסלמים\".",
-   "views": 47,
+   "views": 48,
    "forwarded_from": null,
    "media": []
   },
@@ -1374,7 +1389,7 @@
    "post": "haskupim/201828",
    "ts": "2026-11-10T12:27:37+00:00",
    "text": "חדשות הסקופים\nיו\"ר הציונות הדתית סמוטריץ': אחיי החרדים, אל תיפלו למלכודת הדבש הזו. הם יזרקו אתכם רגע אחרי שיסיימו להשתמש בכם כדי להדיח את נתניהו והימין ולתפוס את השלטון.",
-   "views": 44,
+   "views": 45,
    "forwarded_from": null,
    "media": []
   },
@@ -1401,7 +1416,7 @@
    "post": "merkaz/300792",
    "ts": "2026-11-10T12:18:00+00:00",
    "text": "ליברמן זורק מראש את האשמה על איזנקוט: גם אם המשא ומתן שהוא מוביל עם החרדים ייכשל, לא אסכים ללכת לממשלה שתשען על המפלגות הערביות (אילי זילברברג).",
-   "views": 295,
+   "views": 298,
    "forwarded_from": null,
    "media": []
   },
@@ -1410,7 +1425,7 @@
    "post": "merkaz/300791",
    "ts": "2026-11-10T12:16:24+00:00",
    "text": "ליברמן בהצהרה: צריך ללכת לחוק גיוס שעובר בג״צ. עשינו חישוב מחדש בעקבות תוצאות בחירות. ״אני בטוח שאפשר להקים ממשלה עם רוב ברור של 61 תוך זמן סביר ולשקם את כל ההריסות״.",
-   "views": 281,
+   "views": 286,
    "forwarded_from": null,
    "media": []
   },
@@ -1461,7 +1476,7 @@
    "post": "merkaz/300790",
    "ts": "2026-11-10T12:03:27+00:00",
    "text": "חושש משאלות עיתונאים? יו״ר סיעת ישר רועי פולקמן ביקש מלשכת קצין הכנסת להכניס את איזנקוט לכנסת דרך כניסת החירום ולא דרך הכניסה הרגילה, שם אורבים העיתונאים (מוסקוב).",
-   "views": 275,
+   "views": 280,
    "forwarded_from": null,
    "media": []
   },
@@ -1480,7 +1495,7 @@
    "post": "merkaz/300789",
    "ts": "2026-11-10T11:59:33+00:00",
    "text": "מנסור עבאס: גוש נתניהו יהפוך בעוד כמה שעות לאופוזיציה בכנסת. נמשיך לקדם את מהלך החלפת הממשלה. שואפים להיות חלק מהממשלה הבאה",
-   "views": 283,
+   "views": 287,
    "forwarded_from": null,
    "media": []
   },
@@ -1498,7 +1513,7 @@
    "post": "iBuyIL/27899",
    "ts": "2026-11-10T11:50:18+00:00",
    "text": "קלאס באפס מאמץ 😅🎧✨ שכחתם איך זה להאזין למוזיקה בלי רעשי רקע? עם האוזניות האלה זה בדיוק העניין! הן יאפשרו לכם להיכנס לעולם שלכם, בבית, בעבודה או בדרך, וליהנות מסאונד עשיר בלי הפרעות\n\nאוזניות אלחוטיות עם דרייבר 12 מ\"מ וסינון רעשים CMF Buds 2 Plus\n\n💳 מחיר סופי 26.17$ / 83₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/cmf-buds-2-plus-12mm-lcp-drive-2\n\n✔️ דרייבר גודל 12 מ\"מ לחוויית שמע עשירה ומאוזנת\n✔️ סינון רעשים היברידי עוצמתי - עד 50dB של שקט\n✔️ מתאימות גם לשיחות וגם להאזנה למוזיקה\n✔️ פוקוס מיידי בכל מקום!\n\nלדיון בפוסט https://www.facebook.com/share/p/18LxxLTHjL/",
-   "views": 818,
+   "views": 821,
    "forwarded_from": null,
    "media": [
     {
@@ -1555,7 +1570,7 @@
    "post": "merkaz/300788",
    "ts": "2026-11-10T11:47:25+00:00",
    "text": "אבישי גרינצייג: אם הקואליציה הנוכחית הייתה ממנה יו״ר ועדת כספים עם כמות ניגודי עניינים כלכליים כמו שלה - כל כלי התקשורת הכלכליים והפוליטיים היו עוסקים שבוע ברצף בבעייתיות ואיך היא בכלל יכולה לשמש בתפקיד הזה. ‏הנה רשימת הלקוחות (הגלויים) של בעלה של יו״ר ועדת…",
-   "views": 298,
+   "views": 301,
    "forwarded_from": null,
    "media": []
   },
@@ -1564,7 +1579,7 @@
    "post": "merkaz/300787",
    "ts": "2026-11-10T11:45:31+00:00",
    "text": "אמיר אטינגר: ‏המוקש המרכזי בשיחות החרדים וגוש איזנקוט -\n\n‏איך הם מקבלים משהו מגוש השינוי בנושא הגיוס לפני השבעת ממשלה שבה הם ימנעו או יתמכו\n\n‏הרי ברור שאי אפשר לתת גיוס, הם גם רוצים אותו חוק ממשלתי כלומר צריך ממשלה, גם הקפאת מעצרים כבר נפסל בבג״ץ\n\n‏סתם הבטחות לא מספיק להם\n\n‏זה לב האירוע",
-   "views": 296,
+   "views": 299,
    "forwarded_from": null,
    "media": []
   },
@@ -1573,7 +1588,7 @@
    "post": "merkaz/300786",
    "ts": "2026-11-10T11:43:34+00:00",
    "text": "יו\"ר סיעת הרשימה המשותפת, אחמד טיבי, על החשד לפגיעה בטוהר הבחירות: \"אין שום קטאר ואין 100 מיליון שקל - התיק קרס. נתניהו וזיני נתנו את ההוראה לעשות דה-לגיטימציה לאזרחים הערבים. הצמד הזה ביצע פיגוע בעיקרון הדמוקרטי של הזכות לבחור\"",
-   "views": 269,
+   "views": 271,
    "forwarded_from": null,
    "media": []
   },
@@ -1582,7 +1597,7 @@
    "post": "merkaz/300785",
    "ts": "2026-11-10T11:41:40+00:00",
    "text": "גולן על האפשרות שעבאס יכיר בחמאס כארגון טרור: ״זה ייסגר במסגרת משא ומתן״.",
-   "views": 263,
+   "views": 265,
    "forwarded_from": null,
    "media": []
   },
@@ -1591,7 +1606,7 @@
    "post": "ramreports/217479",
    "ts": "2026-11-10T11:41:25+00:00",
    "text": "\"יש לנו מדינה להציל, עלינו להקים ממשלה כמה שיותר מהר\" - יו\"ר סיעת הדמקורטים יאיר גולן במסר למפלגות גוש השינוי: \"אל תפסלו את המפלגות הערביות\"",
-   "views": 7630,
+   "views": 7660,
    "forwarded_from": null,
    "media": [
     {
@@ -1621,7 +1636,7 @@
    "post": "abualiexpress/133411",
    "ts": "2026-11-10T11:36:26+00:00",
    "text": "ישראל ומרוקו מעמיקות את שיתוף הפעולה הביטחוני: משלחת בראשות מנכ”ל משרד הביטחון, אלוף (מיל’) אמיר ברעם, הגיעה לביקור במרוקו לחיזוק שיתופי הפעולה הביטחוניים במהלכו ייחנך משכן הקבע של נספח ההגנה הישראלי במרוקו",
-   "views": 37400,
+   "views": 38400,
    "forwarded_from": null,
    "media": [
     {
@@ -1646,7 +1661,7 @@
    "post": "ramreports/217477",
    "ts": "2026-11-10T11:35:10+00:00",
    "text": "השר בן גביר: \"ממשלת אחדות זו ממשלת שיתוק! הבחירות הוטו ונגנבו. אני מקווה שיהיו בחירות חוזרות, אבל בכל מקרה אני הולך להיאבק כאן ב-19 תומכי חיזבאללה\"",
-   "views": 7410,
+   "views": 7440,
    "forwarded_from": null,
    "media": [
     {
@@ -1661,7 +1676,7 @@
    "post": "ramreports/217476",
    "ts": "2026-11-10T11:31:30+00:00",
    "text": "דיווח פלסטיני | מטוסי קרב ישראליים הפציצו בניין באזור אסקולה בשכונת זייתון בעיר עזה.",
-   "views": 7310,
+   "views": 7340,
    "forwarded_from": null,
    "media": []
   },
@@ -1686,7 +1701,7 @@
    "post": "merkaz/300784",
    "ts": "2026-11-10T11:19:13+00:00",
    "text": "בעקבות הווטו שהטילה סיעת 'דגל התורה' על תקציב העירוני בבני ברק עד שיוסדר הניקיון בעיר, מ\"מ ראש העיר מנחם שפירא חושף ביתד נאמן: \"אמרתי בצורה חד משמעית: שום דבר לא יקודם בעיר עד שהתברואה תסודר. וזה עבד. יש חברה חדשה ויש פרויקטור שיבטיחו את המהפך המתבקש\".",
-   "views": 304,
+   "views": 307,
    "forwarded_from": null,
    "media": [
     {
@@ -1697,31 +1712,11 @@
    ]
   },
   {
-   "id": "p2614dd136110",
-   "post": "merkaz/300783",
-   "ts": "2026-11-10T11:15:31+00:00",
-   "text": "אבישי גרינצייג: אם הקואליציה הנוכחית הייתה ממנה יו״ר ועדת כספים עם כמות ניגודי עניינים כלכליים כמו שלה - כל כלי התקשורת הכלכליים והפוליטיים היו עוסקים שבוע ברצף בבעייתיות ואיך היא בכלל יכולה לשמש בתפקיד הזה. ‏הנה רשימת הלקוחות (הגלויים) של בעלה של יו״ר ועדת הכספים הנכנסת",
-   "views": 295,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/074d4d55d80134d7.mp4"
-    },
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/074d4d55d80134d7.mp4"
-    }
-   ]
-  },
-  {
    "id": "p300d252276a5",
    "post": "iBuyIL/27898",
    "ts": "2026-11-10T11:12:04+00:00",
    "text": "יאבאלולו!!! מטורףףףףף המבצע שכל כך ביקשתם שכל פעם אתם מחסלים ורוצים ממנו עוד ועוד !!!\n\nרצועות קשירה ראטצ'ט ננעלות אוטומטית 1x300 ס\"מ (4 יחידות) בצבע שחור עם עודף מ100₪ כולל משלוח עם שליח עד הבית מאמזון 🤯🔥😮🤯🔥\n\nהזיייה!!!! 24₪ ליחידה כולל שליח. אולי תתנו גם שובר לספא וארוחת בוקר זוגית?! איזה מוגזם!!!!\n\n🐝🐝⁉️מי הספיק לעקוץ את המציאה ⁉️🐝🐝\n\n💳 מחיר סופי: 29.99$ \\ 95₪\n\n✈️ המחיר כולל משלוח חינם עד הבית בלי להוסיף כלום!\n✂️ כפל קופונים מטורף מעודכן לכם באתר להיום בלבד ועד גמר הקופונים 🏃‍♂️🏃🏼‍♀️\n\n🛍️⁩ קישור להזמנה:\nhttps://newtools.co.il/retractableratchetstraps4\n\nאז אם אתם לא רוצים להתעסק עם רצועות מסתבכות או מסתבכות בטיול, בעבודה או בהובלה, זה בדיוק הסט שיעשה לכם סדר! 🧳🚚\n\nכפתור קטן אחד מגלגל פנימה את כל הרצועה, בלי בלאגנים!\n\n✔️ רצועה נשלפת ונאספת עצמאית\n✔️ כל רצועה באורך 300 ס\"מ\n✔️ מתח עבודה עד 340 ק”ג לכל רצועה\n✔️ ווים מצופים גומי להגנה על הרכב או המטען, כולל נעילת בטיחות\n✔️ ערכה כוללת גם 4 לולאות רכות לעיגון במקומות בעייתיים\n✔️ תיק שרוך לאחסון כלול\n\nhttps://www.facebook.com/share/p/1A13t6KDKT/",
-   "views": 921,
+   "views": 925,
    "forwarded_from": null,
    "media": [
     {
@@ -1737,7 +1732,7 @@
    "post": "SALAMTAK_DEALS/58805",
    "ts": "2026-11-10T10:59:31+00:00",
    "text": "המעיל שמסתדר עם כל חורף ירד עוד במחיר!\n\nסופטשל, פליז, או שניהם יחד לקור אמיתי 🧥\nמעיל 3 ב-1 של Reebok\n\n❄️ לובשים לבד או יחד, לפי מזג האוויר\n💧 בד חיצוני עמיד לרוח ולמים\n🧢 קפוצ'ון מתכוונן\n👝 ארבעה כיסים\n🎨 מבחר גדול של מידות וצבעים\n\n💰 מחיר באמזון: 157₪ ($49.49) עם משלוח חינם\n🎟️ קוד הנחה של 10% בקופה: 3AHVF6C66UGB\n\nלינק 👇\nhttps://salamtak.deals/archives/51191\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 618,
+   "views": 621,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1838,7 +1833,7 @@
    "post": "SALAMTAK_DEALS/58804",
    "ts": "2026-11-10T10:44:58+00:00",
    "text": "נגמר הבלגן במגירות, ובמחיר שלא ראינו!\n\nתוויות ברורות לתבלינים, לקופסאות ולמחברות של הילדים 🏷️\nמדפסת תוויות B1 של NIIMBOT\n\n✍️ תמיכה מלאה בעברית\n📱 מדפיסים מהאפליקציה בטלפון\n🖨️ בלי דיו, על נייר תרמי\n📏 תוויות ברוחב של עד 2 אינץ'\n🖼️ מדפיסה גם צורות, לוגו וברקוד\n\n💰 מחיר באמזון: 47₪ ($14.99), זוג ב-72₪ ($22.98)\n🎟️ קוד קופון בקופה: B1DAVID\n\nלינק 👇\nhttps://salamtak.deals/archives/46447\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 669,
+   "views": 671,
    "forwarded_from": "",
    "media": [
     {
@@ -1854,7 +1849,7 @@
    "post": "SALAMTAK_DEALS/58803",
    "ts": "2026-11-10T10:35:38+00:00",
    "text": "גיימרים, זה הרגע לשדרג את האוזניות!\n\nנוחות לשעות של משחק וקול צלול לחברים בצ'אט 🎮\nאוזניות Cloud III של HyperX\n\n🎧 רמקולים של 53 מ\"מ בזווית\n🎙️ מיקרופון עם סינון רעשים ונורית השתקה\n☁️ ריפוד מספוג זיכרון\n🛡️ שלד מתכת עמיד\n🔌 חיבור USB-A, USB-C ו-3.5 מ\"מ: מחשב, PS5 ו-Xbox\n\n💰 מחיר באמזון: 222₪ ($69.95) עם משלוח חינם, כמעט חצי מהמחיר בארץ\n\nלינק 👇\nhttps://salamtak.deals/archives/49774\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 683,
+   "views": 685,
    "forwarded_from": "",
    "media": [
     {
@@ -1886,7 +1881,7 @@
    "post": "ILcoupons/5970",
    "ts": "2026-11-10T10:32:02+00:00",
    "text": "עשירי לחודש 🤗🕺 מאסטרקארד דיי 📣 היום 10 לחודש קופון MASTERCARDAY לשלל אתרים ברחבי הרשת 🔖\n\n✂️ קוד קופון: MASTERCARDAY ✂️\n🕙 פעיל החל משעה 10:00\n\n🔥 אמזון ארה\"ב 🇺🇲\nהקופון נותן 10% הנחה בקניה מעל 49 דולר ועד הנחה מקסימלית של 10$\n🔎למנוע חיפוש ומוצרים במשלוח חינם\nhttps://dlz.co.il/tag/amazon-free-shipping/\n____\n\nאליאקספרסס 5$ הנחה לרוכשים ב35$ באתר, דילים מומלצים יעודכנו כאן:\nhttps://dlz.co.il/dealstore/aliexpress/\nקופוני 11.11 לאליאקספרס\nhttps://dlz.co.il/aliexpress-coupons/\n____\n🔥אתר KSP הפעם 10% הנחה על כל מותגי הצעצועים והאספנות Mattel באתר KSP\n🛍 קישור לדף המבצע\nhttps://ksp.co.il/mob/cat/96486..95784..95429..95253..95299..95327..95200..95213..95035..95060..95067..95124..94320..94330..76934..76720..8325..28101..28124..28127..3685..8350..1380?appkey=3462\n____\n🔥 אתר LastPrice קופון 10% הנחה על המוצרים במבצע ללא הגבלת מימושים\n🛍קישור\nhttps://www.lastprice.co.il/Promotion?Scene=1010&aff=EN21eUZnbL",
-   "views": 460,
+   "views": 462,
    "forwarded_from": null,
    "media": [
     {
@@ -1918,7 +1913,7 @@
    "post": "ramreports/217474",
    "ts": "2026-11-10T10:21:10+00:00",
    "text": "פייננשל טיימס: נתניהו נמצא בקשר יומיומי עם טראמפ כדי לקדם תקיפות אמריקאיות חדשות על איראן.",
-   "views": 9450,
+   "views": 9480,
    "forwarded_from": null,
    "media": [
     {
@@ -1948,7 +1943,7 @@
    "post": "ramreports/217473",
    "ts": "2026-11-10T10:17:08+00:00",
    "text": "דיווח פלסטיני | מטוסי קרב ישראליים הפציצו בניין באזור אסקולה בשכונת זייתון בעיר עזה.",
-   "views": 9190,
+   "views": 9220,
    "forwarded_from": null,
    "media": []
   },
@@ -1957,7 +1952,7 @@
    "post": "ramreports/217472",
    "ts": "2026-11-10T10:16:10+00:00",
    "text": "שוטרי תחנת חיפה פתחו בחקירה בעקבות דיווח ותיעוד המעוררים חשד להתעללות בקטינה בשכונת כרמל צרפתי בחיפה בתיעוד נראית אישה הולכת ברחוב כאשר לצידה ילדה בת 7 קשורה לרצועה של בעל חיים אשר הולכת על ארבע באמצע הרחוב",
-   "views": 9070,
+   "views": 9100,
    "forwarded_from": null,
    "media": []
   },
@@ -1966,7 +1961,7 @@
    "post": "ramreports/217471",
    "ts": "2026-11-10T10:10:49+00:00",
    "text": "עבריין מין סדרתי ומפוקח פרץ לבית צעירה בת\"א, אנס אותה - וחזר אחרי שבועיים\nאדם יאסין, מפוקח מין ממזרח י-ם בעל עבר פלילי עשיר בעבירות מין שחוזר לסורו שוב ושוב חרף הרשעותיו והפיקוח כביכול, עקב אחר הצעירה שיצאה ממועדון ואנס אותה בחדר השינה. הוא גנב את המפתחות, וכעבור שבועיים חזר לזירת הפשע - וניסה לגעת בה תוך שהוא מצלם אותה. בעבר תקף מינית ילדה שאסף מביתה, וגם מטופלת בבית חולים",
-   "views": 8940,
+   "views": 8970,
    "forwarded_from": null,
    "media": []
   },
@@ -2314,7 +2309,7 @@
    "post": "ramreports/217467",
    "ts": "2026-11-10T08:17:47+00:00",
    "text": "בינתיים איזנקוט ולפיד נפגשו לפני זמן קצר: ״עסקנו במחויבות להקמת ממשלת חירום לאומית בהקדם האפשרי״. בהמשך היום יפגש איזנקוט עם יאיר גולן.",
-   "views": 9940,
+   "views": 9970,
    "forwarded_from": null,
    "media": []
   },
@@ -2419,7 +2414,7 @@
    "post": "iBuyIL/27891",
    "ts": "2026-11-10T07:20:08+00:00",
    "text": "עשירי לחודש 🤗🕺 מאסטרקארד דיי 📣 היום 10 לחודש קופון MASTERCARDAY לשלל אתרים ברחבי הרשת 🔖\n\n✂️ קוד קופון: MASTERCARDAY ✂️\n🕙 פעיל החל משעה 10:00\n\n🔥 אמזון ארה\"ב 🇺🇲\nהקופון נותן 10% הנחה בקניה מעל 49 דולר ועד הנחה מקסימלית של 10$\n🔎למנוע חיפוש ומוצרים במשלוח חינם\nhttps://dlz.co.il/tag/amazon-free-shipping/\n____\n\nאליאקספרסס 5$ הנחה לרוכשים ב35$ באתר, דילים מומלצים יעודכנו כאן:\nhttps://dlz.co.il/dealstore/aliexpress/\nקופוני 11.11 לאליאקספרס\nhttps://dlz.co.il/aliexpress-coupons/\n____\n🔥אתר KSP הפעם 10% הנחה על כל מותגי הצעצועים והאספנות Mattel באתר KSP\n🛍 קישור לדף המבצע\nhttps://ksp.co.il/mob/cat/96486..95784..95429..95253..95299..95327..95200..95213..95035..95060..95067..95124..94320..94330..76934..76720..8325..28101..28124..28127..3685..8350..1380?appkey=3462\n____\n🔥 אתר LastPrice קופון 10% הנחה על המוצרים במבצע ללא הגבלת מימושים\n🛍קישור\nhttps://www.lastprice.co.il/Promotion?Scene=1010&aff=EN21eUZnbL",
-   "views": 1260,
+   "views": 1270,
    "forwarded_from": null,
    "media": [
     {
@@ -2450,7 +2445,7 @@
    "post": "ramreports/217464",
    "ts": "2026-11-10T07:09:25+00:00",
    "text": "*דיווח: ארצות הברית פינתה מטוסים מבסיס בריטי נוסף בעקבות איום איראני*",
-   "views": 10900,
+   "views": 11000,
    "forwarded_from": null,
    "media": [
     {
@@ -3189,7 +3184,7 @@
    "post": "Israel_media_industry/3886",
    "ts": "2026-11-09T13:52:43+00:00",
    "text": "",
-   "views": 301,
+   "views": 302,
    "forwarded_from": null,
    "media": [
     {
