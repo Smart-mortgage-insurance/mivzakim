@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:14:40.955508+00:00",
+ "updated": "2026-11-10T06:16:24.235660+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,41 @@
  "count": 328,
  "items": [
   {
+   "id": "p84375ae4bbb1",
+   "post": "haskupim/201735",
+   "ts": "2026-11-10T06:15:47+00:00",
+   "text": "חדשות הסקופים\n\"גיליתי שהודחתי בשידור\" | עמיחי אתאלי מגיב ב-103FM להדחתו מ\"הפטריוטים\": \"זה לא מה שנאמר לי ע\"י בכירים בערוץ, להיפך. גיליתי שהודחתי בשידור\"\n103FM",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/bb2c8d245ec7553c.mp4"
+    }
+   ]
+  },
+  {
+   "id": "p85feb6dee207",
+   "post": "abualiexpress/133380",
+   "ts": "2026-11-10T06:15:01+00:00",
+   "text": "טראמפ על האפשרות לתקיפה באיראן, מתוך מסיבת עיתונאים שערך בבית הלבן הלילה:\n\n1. \"הפעולה הצבאית לא נראית נחוצה במיוחד כרגע, אבל אנחנו ערוכים ומוכנים לפעולה מכל סיבה שתידרש.\nאנחנו רואים התקדמות לקראת סיום הסכסוך הזה. אני חושב שהוא יסתיים בקרוב למדי\".\n\n2. \"מבחינה צבאית, המלחמה למעשה הסתיימה.\nאנחנו פשוט שומרים על המצב הקיים, ואנחנו עושים זאת בעיקר לבקשת המדינות השכנות לאיראן\".\n\n3. \"איראן מנהלת איתנו שיחות, והיא מדברת איתנו בנימוס רב\".\n\n4. \"אני לא מבטיח שום דבר. אבל אם נצטרך לחזור ולפעול צבאית, אנחנו ערוכים ומוכנים לצאת לפעולה\".\n\n5. \"יש לנו שם בעלות ברית מצוינות, ואנחנו חייבים לוודא שלא ייפגעו, כי הן עלולות להיפגע.\nהן הרבה יותר בטוחות כיום מכפי שהיו לפני שישה חודשים, משום שההנהגה האיראנית ספגה מכה קשה מאוד. אבל איראן עדיין מתנהגת במידה מסוימת כמו הבריון של המזרח התיכון\".\n\n6. \"ליתר ביטחון, שלחנו נושאת מטוסים נוספת. יש לנו רבות כאלה. היא עושה את דרכה למזרח התיכון וכבר עומדת להגיע, כך שיהיו לנו שם שלוש נושאות מטוסים.\nכולן ערוכות ומוכנות לפעולה, ואני מקווה שלא נצטרך להשתמש בהן\".\n\nנושאים נוספים מתוך מסיבת העיתונאים:\n\n7. על שר המלחמה, פיט הגסת' - '\"אמשיך לתמוך בו גם אם ייפתח נגדו הליך הדחה. הוא ניצח בשתי מלחמות\".\n\n8. על קובה - \"יהיה מעניין לראות מה יקרה בקובה. אני מעריך שהמשטר שם ייפול בקרוב למדי\".",
+   "views": 219,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/fbae1c8a0f2ebc06.mp4"
+    }
+   ]
+  },
+  {
    "id": "p45af0d301f0d",
    "post": "merkaz/300756",
    "ts": "2026-11-10T06:11:53+00:00",
    "text": "פרבר ב'בחדרי': 5.5 שנות מאסר ליורה לעבר בית ספר יהודי במונטריאול. הירי אירע חודש לאחר טבח שבעה באוקטובר, האירוע הסתיים ללא נפגעים",
-   "views": 9,
+   "views": 26,
    "forwarded_from": null,
    "media": []
   },
@@ -178,7 +208,7 @@
    "post": "merkaz/300755",
    "ts": "2026-11-10T06:06:24+00:00",
    "text": "המשחית ישלם: עיריית רחובות שלחה דרישות תשלום בגובה 62,564 ש''ח להורים של נערים המעורבים באירועי וונדליזם בעיר",
-   "views": 42,
+   "views": 62,
    "forwarded_from": null,
    "media": [
     {
@@ -193,7 +223,7 @@
    "post": "merkaz/300754",
    "ts": "2026-11-10T06:04:13+00:00",
    "text": "׳ווינט׳ בתחקיר: יותר מ-40 תינוקות חרדים נפטרו ועוד יותר מ-30 פונו במצב אנוש לאורך עשור, אבל כמעט אף אחד מהמקרים לא הגיע לכדי חקירה של המשטרה. בזמן שהמדינה מעלימה עין מאלפי מעונות פיראטיים האמת על מות התינוקות לא מתגלה.",
-   "views": 63,
+   "views": 73,
    "forwarded_from": null,
    "media": [
     {
@@ -208,7 +238,7 @@
    "post": "HiTech_Jobs_In_Israel/138689",
    "ts": "2026-11-10T06:00:31+00:00",
    "text": "Senior Data Scientist at ServiceNow\nLocation: Petah Tikva\nPress here https://www.smartrecruiters.com/ServiceNow/744000160686111?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 17,
+   "views": 18,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -234,7 +264,7 @@
    "post": "HiTech_Jobs_In_Israel/138688",
    "ts": "2026-11-10T06:00:23+00:00",
    "text": "DFT ATPG Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DFT-ATPG-Engineer_JR2029798?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 17,
+   "views": 18,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -244,7 +274,7 @@
    "post": "HiTech_Jobs_In_Israel/138687",
    "ts": "2026-11-10T06:00:10+00:00",
    "text": "Enterprise Product Sales Consultant at Riskified\nLocation: Tel Aviv\nPress here https://www.riskified.com/careers/job-description/?gh_jid=8935217002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 16,
+   "views": 17,
    "forwarded_from": null,
    "media": [
     {
@@ -260,7 +290,7 @@
    "post": "HiTech_Jobs_In_Israel/138686",
    "ts": "2026-11-10T06:00:01+00:00",
    "text": "Junior Devope Engineer at LSports\nLocation: Ashkelon\nPress here https://www.lsports.eu/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 17,
+   "views": 18,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -270,7 +300,7 @@
    "post": "haskupim/201734",
    "ts": "2026-11-10T05:54:45+00:00",
    "text": "חדשות הסקופים\nחמש וחצי שנות מאסר | בית משפט בקנדה גזר חמש וחצי שנות מאסר על צעיר בן 23 שירה לעבר ישיבת \"מרכז התורה\".",
-   "views": 26,
+   "views": 28,
    "forwarded_from": null,
    "media": []
   },
@@ -279,7 +309,7 @@
    "post": "haskupim/201733",
    "ts": "2026-11-10T05:53:30+00:00",
    "text": "חדשות הסקופים\n״לא נכנסים לכנסת בלי הסדרת מעמד בני הישיבות״ | המבשר, העיתון המזוהה עם חבר הכנסת פרוש מאגודת ישראל, שם את הקלפים על השולחן.\nביני אשכנזי",
-   "views": 29,
+   "views": 32,
    "forwarded_from": null,
    "media": [
     {
@@ -294,7 +324,7 @@
    "post": "haskupim/201732",
    "ts": "2026-11-10T05:47:43+00:00",
    "text": "חדשות הסקופים\n120 חברי כנסת ישבעו היום | 46 חדשים, נתניהו הוותיק ביותר (15 כנסת מאז 1988), יונתן שליו הצעיר ביותר (24), ושיא היסטורי של 33 נשים מכהנות.\nדפנה ליאל",
-   "views": 28,
+   "views": 30,
    "forwarded_from": null,
    "media": []
   },
@@ -312,7 +342,7 @@
    "post": "merkaz/300753",
    "ts": "2026-11-10T05:32:08+00:00",
    "text": "תנועות חריגות של כלי טיס נרשמו היום בבסיס חיל האוויר המלכותי הבריטי RAF Mildenhall, בסיס צבאי משותף של ארה\"ב ובריטניה בממלכה המאוחדת. מטוסי תדלוק אווירי של חיל האוויר האמריקני ונכסים צבאיים נוספים מועברים לבסיסים משניים ברחבי אירופה. זאת בעקבות איומים איראניים.",
-   "views": 177,
+   "views": 185,
    "forwarded_from": null,
    "media": [
     {
@@ -327,7 +357,7 @@
    "post": "haskupim/201731",
    "ts": "2026-11-10T05:31:57+00:00",
    "text": "חדשות הסקופים\nארה״ב פינתה מטוסים מבריטניה | ארה״ב פינתה מטוסים מבסיס בבריטניה בעקבות איומים מאיראן.\nערוץ 24",
-   "views": 51,
+   "views": 53,
    "forwarded_from": null,
    "media": []
   },
@@ -336,7 +366,7 @@
    "post": "haskupim/201730",
    "ts": "2026-11-10T05:31:42+00:00",
    "text": "חדשות הסקופים\nלקראת השבעת הכנסת ה-26 | מוטי קסטל, עושה סדר בכל מה שצריך לדעת לקראת ההשבעה.\nערוץ 14",
-   "views": 50,
+   "views": 52,
    "forwarded_from": null,
    "media": [
     {
@@ -366,7 +396,7 @@
    "post": "haskupim/201729",
    "ts": "2026-11-10T05:27:54+00:00",
    "text": "חדשות הסקופים\n\"אל תאיימו עלינו\" | מאמר המערכת של יתד נאמן תוקף את הימין: \"מתי בדיוק הפך הציבור החרדי לחלק בלתי נפרד מהימין? בנושא הגיוס התברר שהימין אינו טוב במאומה מהשמאל. אל תטיפו מוסר ואין אנחנו חייבים לכם שום הסבר או תשובה\"\nיתד נאמן",
-   "views": 52,
+   "views": 54,
    "forwarded_from": null,
    "media": [
     {
@@ -381,7 +411,7 @@
    "post": "haskupim/201728",
    "ts": "2026-11-10T05:22:18+00:00",
    "text": "חדשות הסקופים\nתחזית מזג האויר: לרוב בהיר. תחול עלייה קלה בטמפרטורות, אך הן יוסיפו להיות מעט נמוכות מהרגיל לעונה במרבית האזורים. בשעות הבוקר ינשבו רוחות מזרחיות ערות בהרי הצפון, ואחה\"צ ינשבו רוחות צפוניות ערות לאורך החוף. הלילה: בהיר עד מעונן חלקית.",
-   "views": 58,
+   "views": 60,
    "forwarded_from": null,
    "media": []
   },
@@ -390,7 +420,7 @@
    "post": "haskupim/201727",
    "ts": "2026-11-10T05:19:09+00:00",
    "text": "חדשות הסקופים\nממשלת מיעוט מול סירוב ליברמן | גדי איזנקוט הבטיח בבית הנשיא להקים ממשלה בתוך 28 ימים, אך לא הזכיר בנאומו את שותפיו לגוש השינוי. האפשרות המועדפת עליו היא ממשלת מיעוט, שליברמן מסרב לה. איזנקוט מוכן לבחון מי מחבריו לגוש יתנגד עד הרגע האחרון.\nווינט",
-   "views": 60,
+   "views": 61,
    "forwarded_from": null,
    "media": []
   },
@@ -399,7 +429,7 @@
    "post": "merkaz/300752",
    "ts": "2026-11-10T05:18:18+00:00",
    "text": "כלב נושך: שני אנשים כבן 43 וכבן 21 ננשכו ע\"י כלב ברחוב פארן בירושלים. הם פונו לקבלת טיפול רפואי במצב בינוני וקל.\n‏",
-   "views": 205,
+   "views": 215,
    "forwarded_from": null,
    "media": []
   },
@@ -408,7 +438,7 @@
    "post": "haskupim/201726",
    "ts": "2026-11-10T05:12:21+00:00",
    "text": "חדשות הסקופים\nדגל תוקפת ח״כים סרוגים | ב'יתד נאמן' של דגל התורה הופכים את שינוי עמדת ליברמן למתקפה על הח״כים הסרוגים סופר, אדלשטיין, סעדה, סולומון, אילוז וכהנא. העיתון לא מציין עם איזה גוש ילכו החרדים.\nמוסקוב & הלפרין | הפרלמנט החרדי",
-   "views": 70,
+   "views": 71,
    "forwarded_from": null,
    "media": [
     {
@@ -462,7 +492,7 @@
    "post": "merkaz/300751",
    "ts": "2026-11-10T04:57:57+00:00",
    "text": "בעל חנות ממתקים באיראן סובל מהתעללות ומהחרמה בגלל הדמיון בינו לבין נתניהו.",
-   "views": 276,
+   "views": 288,
    "forwarded_from": null,
    "media": [
     {
@@ -477,7 +507,7 @@
    "post": "merkaz/300750",
    "ts": "2026-11-10T04:55:51+00:00",
    "text": "הכנסת ה-26 יוצאת לדרך: 120 חברי הכנסת יצהירו אמונים היום.\n\nאשדוד: כריזת צבע אדום תישמע הבוקר במסגרת תרגיל בבסיס חיל הים.\n\nהרכבת הקלה בירושלים: קו L3 יוארך עד לשער שכם החל מהיום.\n\nאנטשמיות בארה\"ב: גבר נעצר בחשד שאיים על אם ובתה בת השבע בחנות בניו יורק, השמיע קריאות אנטישמיות וביצע תנועות המדמות ירי.\n\nדיווחים על פיצוצים בשלושה כפרים בדרום לבנון: במדינה טוענים כי מדובר בתקיפות של צה\"ל במרחב.\n\nשלושה עובדים מתו מחנק במפעל בהודו, המייצר רכיבים למכשירי אייפון של אפל.\n\nראש ממשלת קטאר לאחר פגישתו עם טראמפ: דיונים חיוביים להשגת הסכם עם איראן.\n\nטראמפ הצהיר כי \"אין כרגע צורך בפעולה צבאית באיראן\", בדברים שנשא בבית הלבן. מוקדם יותר פרסם ציוץ בו סיפר ששוחח עם ראש ממשלת קטר, ואמר כי הוא רואה \"התקדמות חיובית לעבר סיום הסכסוך\".",
-   "views": 252,
+   "views": 261,
    "forwarded_from": null,
    "media": []
   },
@@ -543,7 +573,7 @@
    "post": "amitsegal/67021",
    "ts": "2026-11-09T22:02:21+00:00",
    "text": "בטאונו של מאיר פרוש המבשר: לא נסתפק בהבטחות וערבויות, דורשים את הסדרת מעמדם של לומדי התורה.\n\nכזכור, פרוש הוא הסמן הימני של יהדות התורה\n\nוכזכור גם, האדמו״ר מסלונים שמחובר אליו הוא זה שסיכל לפני שמונה שנים את אותו חוק שעליו מדבר ליברמן עכשיו",
-   "views": 60200,
+   "views": 60300,
    "forwarded_from": null,
    "media": [
     {
@@ -685,7 +715,7 @@
    "post": "abualiexpress/133379",
    "ts": "2026-11-09T21:36:00+00:00",
    "text": "הנשיא טראמפ אחרי המפגש עם ראש ממשלת קטר: פעולה צבאית נגד איראן אינה אפשרות סבירה בשלב זה\n\nדבריו המלאים:\n\n\"קיימתי שיחה מצוינת עם שייח' מחמד בן עבד א-רחמן בן ג'אסם אאל ת'אני, ראש ממשלת קטר, שבמהלכה דנו בהרחבה בנושאים הנוגעים לרפובליקה האסלאמית של איראן.\n\nחשוב מכול, קטר, סעודיה, איחוד האמירויות, בחריין, כווית ומדינות נוספות מעדיפות לשמור על הסטטוס קוו, כלומר להמשיך במצור הימי הגדול ביותר בהיסטוריה ובמבצע החדש 'שער הברזל', הן ביבשה והן בים.\n\nכולם הסכימו שאסור שלאיראן יהיה נשק גרעיני. זהו תנאי שאינו נתון למשא ומתן!\n\nאם יחול שינוי כלשהו בהתפתחויות במזרח התיכון, ארצות הברית נמצאת בכוננות מלאה, עם נשק טעון ומוכן לפעולה. עם זאת, בשלב זה נראה שהאפשרות הזאת אינה סבירה במיוחד.\n\nישראל והמזרח התיכון כולו מוגנים מפני הסכנות והאיומים הנשקפים מאיראן.\n\nאנו רואים תנופה חיובית לקראת סיום העימות הזה, ונדאג לכך שהאינטרסים של ארצות הברית יהיו מוגנים בכל עת.\n\nעם סיום המערכה הצבאית הזאת, העם האמריקאי והעולם כולו יהיו בטוחים ומוגנים הרבה יותר\"",
-   "views": 59800,
+   "views": 60100,
    "forwarded_from": null,
    "media": [
     {
@@ -731,7 +761,7 @@
    "post": "haskupim/201717",
    "ts": "2026-11-09T21:25:02+00:00",
    "text": "חדשות הסקופים\nעדכון | \"השותפים הטבעיים הפכו את זה למו״מ\" | עמיאל ירחי: איזנקוט לא רושם ניצחון, במקסימום ניצל בדקה ה-90 ממהלך שעשו עליו השותפים בנט לפיד וליברמן. יו״ר הכנסת היה צריך להיות שלו בטאבו.\nעמיאל ירחי",
-   "views": 186,
+   "views": 187,
    "forwarded_from": null,
    "media": []
   },
@@ -764,7 +794,7 @@
    "post": "ramreports/217459",
    "ts": "2026-11-09T21:14:59+00:00",
    "text": "שוטרי תחנת חיפה פתחו בחקירה בעקבות דיווח ותיעוד המעוררים חשד להתעללות בקטינה בשכונת כרמל צרפתי בחיפה\n\nבתיעוד נראית אישה הולכת ברחוב כאשר לצידה ילדה בת 7 קשורה לרצועה של בעל חיים אשר הולכת על ארבע באמצע הרחוב",
-   "views": 12800,
+   "views": 12900,
    "forwarded_from": null,
    "media": [
     {
@@ -776,21 +806,6 @@
      "type": "video",
      "checked": 1,
      "file": "data/media/f89ea2bae674d910.mp4"
-    }
-   ]
-  },
-  {
-   "id": "pa9d0bba679b6",
-   "post": "haskupim/201715",
-   "ts": "2026-11-09T21:12:54+00:00",
-   "text": "חדשות הסקופים\nלפני דקות אחדות חוסל מירי כוחותינו מחבל בן 14 בכפר הפלסטיני בורקה שבנפת שכם.",
-   "views": 166,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/fc21b9a3a7d251f4.jpg"
     }
    ]
   },
@@ -808,7 +823,7 @@
    "post": "ramreports/217457",
    "ts": "2026-11-09T21:06:01+00:00",
    "text": "המחבל הצעיר מועתז איאד דאגלס (בן 14), חוסל מירי כוחותינו בכפר \"בורקה\", צפונית-מערבית לשכם.",
-   "views": 11700,
+   "views": 11800,
    "forwarded_from": null,
    "media": [
     {
@@ -853,7 +868,7 @@
    "post": "abualiexpress/133378",
    "ts": "2026-11-09T20:48:29+00:00",
    "text": "יחיאל לייטר, שגריר ישראל בארה\"ב מזהיר בועידת שלוחי חב\"ד:\n\nהאשמת ישראל ברצח עם כעת היא עלילת דם שמטרתה להכשיר רצח עם נגד יהודים בעתיד.\nזה עניין רציני מאוד",
-   "views": 65600,
+   "views": 65800,
    "forwarded_from": null,
    "media": [
     {
@@ -942,7 +957,7 @@
    "post": "abualiexpress/133377",
    "ts": "2026-11-09T20:31:15+00:00",
    "text": "שר החוץ האמריקאי מרקו רוביו :\n\n\"אנחנו יכולים להסב לבית הדין הפלילי הבינלאומי (ICC) נזק עצום, אם הוא לא יכיר בטעות שבדרכו.\n\nהיום זה נתניהו, מחר זה יהיה אזרח אמריקאי. העניין אינו האנשים עצמם, אלא בית הדין הפלילי הבינלאומי.\"\n\nרוביו על סוגיית הסיוע האמריקאי:\n\n\"ישראל כיום עשירה מספיק כדי להפוך למדינה שרוכשת מאיתנו נשק. היא יכולה לקנות מאיתנו אמצעי לחימה, אבל אנחנו כבר לא צריכים לממן עבורה את הרכישות האלה.\"",
-   "views": 66600,
+   "views": 66800,
    "forwarded_from": null,
    "media": [
     {
@@ -1012,7 +1027,7 @@
    "post": "merkaz/300748",
    "ts": "2026-11-09T20:12:47+00:00",
    "text": "‏טוביה יגלניק: עשרות מיליוני הדולרים שהעבירה הקרן החדשה לישראל נחשפים. ‏מאות אלפי שקלים לפייק ריפורטר, לחרדיות הפמניסטיות, דפי אינסטגרם פופולריים, סיוע מסיבי לפלסטינים - וסכומי ענק לחיזוק המחאה נגד הממשלה. סה\"כ ב-2024 לבדה הועברו מענקים בסכום כולל של 35.8 מיליון דולר.",
-   "views": 478,
+   "views": 481,
    "forwarded_from": null,
    "media": []
   },
@@ -1046,7 +1061,7 @@
    "post": "abualiexpress/133376",
    "ts": "2026-11-09T20:05:59+00:00",
    "text": "מחיר חבית נפט מסוג ברנט צולל ביותר מ 7% ועומד כעת על כ 91 דולר.",
-   "views": 67300,
+   "views": 67400,
    "forwarded_from": null,
    "media": [
     {
@@ -1100,7 +1115,7 @@
    "post": "abualiexpress/133375",
    "ts": "2026-11-09T19:58:49+00:00",
    "text": "הנשיא טראמפ מפרסם סרטון AI נוסף ובו דיינה וויט, מנכ\"ל ה UFC משמש כדובר הבית הלבן.",
-   "views": 67900,
+   "views": 68000,
    "forwarded_from": null,
    "media": [
     {
@@ -1115,7 +1130,7 @@
    "post": "abualiexpress/133374",
    "ts": "2026-11-09T19:50:39+00:00",
    "text": "הנשיא טראמפ מצייץ את הסרטון הזה - אחרי שאתמול ביקש מדיינה וויט, מנכ\"ל ה UFC להיות דובר הבית הלבן.",
-   "views": 66300,
+   "views": 66500,
    "forwarded_from": null,
    "media": [
     {
@@ -1271,7 +1286,7 @@
    "post": "abualiexpress/133372",
    "ts": "2026-11-09T19:15:33+00:00",
    "text": "שר המלחמה האמריקאי פיט הגסת' על המלחמה באיראן:\n\n\"לא כל החלטה הכרחית היא גם צעד פופולרי.\nמישהו היה חייב להתעמת עם המשטר האיראני.\n\nאי אפשר לאפשר לאסלאמיסטים מטורפים להחזיק בפצצה גרעינית.\n\nההיסטוריה תשפוט את טראמפ באופן חיובי מאוד.\"\n\nהגסת' על האפשרות להדחתו:\n\n\"אנחנו לא מודאגים מהליך הדחה. מחר בבוקר נקיים מסיבת עיתונאים בנושא הזה.\"",
-   "views": 68900,
+   "views": 69000,
    "forwarded_from": null,
    "media": [
     {
@@ -1300,7 +1315,7 @@
    "post": "merkaz/300744",
    "ts": "2026-11-09T19:04:35+00:00",
    "text": "לי עייש: שב\"כ ומשטרת מרחב ירקון חוקרים חשד להפעלה איראנית בהפצת עלונים מאיימים בשלוש כתובות בצפון תל אביב, שלפחות אחת מהן פורסמה בידי קבוצת ההאקרים \"חנדלה\". החוקרים סורקים מצלמות אבטחה ומעריכים כי העלונים הודפסו בארץ והופצו בלילה, כאשר כבר ישנו כיוון חקירה מוביל לעבר בית הדפוס שבו הודפסו.",
-   "views": 532,
+   "views": 534,
    "forwarded_from": null,
    "media": []
   },
@@ -1424,7 +1439,7 @@
    "post": "merkaz/300740",
    "ts": "2026-11-09T18:39:45+00:00",
    "text": "הקואליציה בהובלת סעודיה הודיעה כי השמידה מטרות של ייצור טילים בליסטיים של החות'ים.",
-   "views": 423,
+   "views": 424,
    "forwarded_from": null,
    "media": []
   },
@@ -1433,7 +1448,7 @@
    "post": "merkaz/300739",
    "ts": "2026-11-09T18:38:06+00:00",
    "text": "פוטין מנהל מלחמה שגבתה מאות אלפי קורבנות, אבל יש מערכה אחרת שמעסיקה אותו במיוחד: המלחמה בשעון הביולוגי. בתו הבכורה מגייסת מיליארדי רובלים לפרויקט שאפתני שנועד למצוא דרך לדחות את המוות ככל האפשר - ואולי אפילו לנצח אותו. (כאן)",
-   "views": 424,
+   "views": 425,
    "forwarded_from": null,
    "media": []
   },
@@ -1457,7 +1472,7 @@
    "post": "merkaz/300738",
    "ts": "2026-11-09T18:30:16+00:00",
    "text": "ברים: נתניהו מפעיל לחצים כבדים כדי לשוחח עם הרב לנדו והירש - הוא סורב. בנוסף, הרבנים אישרו היום רשמית להתחיל במו\"מ עם אייזנקוט.",
-   "views": 513,
+   "views": 514,
    "forwarded_from": null,
    "media": []
   },
@@ -1500,7 +1515,7 @@
    "post": "amitsegal/67019",
    "ts": "2026-11-09T18:21:14+00:00",
    "text": "הפגישה בין איזנקוט וליברמן הייתה טובה\n\nסוכם להתקדם יחד להקמת ממשלה\n\nהמשמעות היא שהולכים על המסלול החרדי בשלב ראשון",
-   "views": 83500,
+   "views": 83600,
    "forwarded_from": null,
    "media": []
   },
@@ -1640,7 +1655,7 @@
    "post": "amitsegal/67017",
    "ts": "2026-11-09T18:01:14+00:00",
    "text": "זהו ההסדר הריאלי בעיניי החרדים: שנה עד שנה וחצי של הקפאת המעצרים, הסנקציות והגיוס עד לגיבוש חוק חדש (שכמובן ספק גדול אם יושג).\n\nדורשים שהיועמשית תאשר שתגן על כך בבגצ",
-   "views": 91800,
+   "views": 91900,
    "forwarded_from": null,
    "media": [
     {
@@ -1691,7 +1706,7 @@
    "post": "HiTech_Jobs_In_Israel/138683",
    "ts": "2026-11-09T18:00:07+00:00",
    "text": "Senior Backend Engineer – AI Platform at Kaltura\nLocation: Israel\nPress here https://www.comeet.com/jobs/kaltura/E2.00D/senior-backend-engineer--ai-platform/5F.479?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 181,
+   "views": 182,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1701,7 +1716,7 @@
    "post": "HiTech_Jobs_In_Israel/138681",
    "ts": "2026-11-09T18:00:05+00:00",
    "text": "Student Position: AI OPS at ZIM\nLocation: IL-Haifa (Student Positions)\nPress here https://www.zim.com/careers/job-opportunities?grid-page=1&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 151,
+   "views": 152,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1711,7 +1726,7 @@
    "post": "HiTech_Jobs_In_Israel/138680",
    "ts": "2026-11-09T18:00:04+00:00",
    "text": "Data Operations Student - Nights & Weekend shifts at Voyantis\nLocation: Tel Aviv, Israel\nPress here https://www.comeet.com/jobs/voyantis/86.00B/data-operations-student---nights--weekend-shifts/15.C61?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 148,
+   "views": 149,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1721,7 +1736,7 @@
    "post": "HiTech_Jobs_In_Israel/138679",
    "ts": "2026-11-09T18:00:03+00:00",
    "text": "Customer Experience Specialist at Ultra\nLocation: Herzelia\nPress here https://www.comeet.com/jobs/ultra/E3.004/customer-experience-specialist/2F.478?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 147,
+   "views": 148,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1731,7 +1746,7 @@
    "post": "HiTech_Jobs_In_Israel/138678",
    "ts": "2026-11-09T18:00:02+00:00",
    "text": "BI & Data Analyst Student at Thetaray\nLocation: Israel, Hod HaSharon\nPress here https://www.comeet.com/jobs/thetaray/72.00F/bi--data-analyst-student/3F.475?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 146,
+   "views": 148,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1741,7 +1756,7 @@
    "post": "HiTech_Jobs_In_Israel/138677",
    "ts": "2026-11-09T18:00:00+00:00",
    "text": "Marketing Automation Team Lead at Pango\nLocation: Petah Tikva, Israel\nPress here https://www.comeet.com/jobs/pango/59.002/marketing-automation-team-lead/DA.47B?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 254,
+   "views": 257,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2050,7 +2065,7 @@
    "post": "abualiexpress/133363",
    "ts": "2026-11-09T17:00:01+00:00",
    "text": "סוכנות הידיעות האיראנית מהר: מחסן רזאאי, מזכיר המועצה העליונה לביטחון לאומי של איראן צפוי להיפגש בשבוע הבא בקטר עם סגן נשיא ארה\"ב ג'יי די ואנס.",
-   "views": 67100,
+   "views": 67200,
    "forwarded_from": null,
    "media": []
   },
@@ -2157,7 +2172,7 @@
    "post": "Jobs_in_Jerusalem/36496",
    "ts": "2026-11-09T16:31:32+00:00",
    "text": "",
-   "views": 174,
+   "views": 175,
    "forwarded_from": null,
    "media": [
     {
@@ -2208,7 +2223,7 @@
    "post": "Jobs_in_Jerusalem/36492",
    "ts": "2026-11-09T16:30:42+00:00",
    "text": "",
-   "views": 167,
+   "views": 168,
    "forwarded_from": null,
    "media": [
     {
@@ -2270,7 +2285,7 @@
    "post": "HiTech_Jobs_In_Israel/138675",
    "ts": "2026-11-09T16:00:22+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 164,
+   "views": 165,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2280,7 +2295,7 @@
    "post": "HiTech_Jobs_In_Israel/138674",
    "ts": "2026-11-09T16:00:21+00:00",
    "text": "FP&A analyst at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000160617951?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 158,
+   "views": 160,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2290,7 +2305,7 @@
    "post": "HiTech_Jobs_In_Israel/138673",
    "ts": "2026-11-09T16:00:20+00:00",
    "text": "Associate Software Engineer at ServiceNow\nLocation: Petah Tikva\nPress here https://www.smartrecruiters.com/ServiceNow/744000160632431?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 161,
+   "views": 162,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2310,7 +2325,7 @@
    "post": "HiTech_Jobs_In_Israel/138671",
    "ts": "2026-11-09T16:00:15+00:00",
    "text": "Project Cost Engineer at Intel\nLocation: Israel, Kiryat-Gat\nPress here https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Project-Cost-Engineer_JR0289021?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 134,
+   "views": 135,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2330,7 +2345,7 @@
    "post": "HiTech_Jobs_In_Israel/138670",
    "ts": "2026-11-09T16:00:12+00:00",
    "text": "Senior Release Manager at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/0f7933a9-6b28-44e4-8398-a443e0ec0eb2?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 128,
+   "views": 129,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2483,7 +2498,7 @@
    "post": "iBuyIL/27880",
    "ts": "2026-11-09T14:22:06+00:00",
    "text": "בקבוק במחיר שוק 😲 חזר לא מאמיןןן במחיר טיפה יותר אבל עדיין שווה אשששש בקבוק מים מבודד 710 מ\"ל POWCAN עם פיית לחיצה וקשית קחו 3 בקבוקים שלמו 22.93$ עד הבית לשלושתם ‼️\n\nקשית לשתייה נינוחה, או פייה ללגימה מהירה.\n\n💳 מחיר יחידה: 8.49$ \\ 27₪ (במקום 16.99$)\n👈 תוסיפו 3 בקבוקים ושלמו 22.93$ עד הבית 🏃‍♂️🏃‍♂️\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/powcan-24-oz-insulated-water-b\n\n✔️ מבודד בטכנולוגיית וואקום כפולה שומר קור עד 24 שעות וחום עד 12 שעות\n✔️ 100% אטימות אף טיפה לא בורחת, גם בתיק או באוטו\n✔️ קומפקטי ומתאים לרוב מתקני הכוסות ברכב ובתיקי גב\n✔️ עשוי נירוסטה 304 איכותית עמיד, לא סופג ריחות ולא מחליד\n✔️ בטוח לשימוש BPA FREE\n✔️ אידאלי לספורט, בית ספר, נסיעות ומתנה שימושית\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4230068623957254/",
-   "views": 1720,
+   "views": 1730,
    "forwarded_from": null,
    "media": [
     {
@@ -2665,7 +2680,7 @@
    "post": "iBuyIL/27879",
    "ts": "2026-11-09T13:44:05+00:00",
    "text": "המותג שהביקוש אליו גובר על קצב היצור 😱🔥 מצלמת אבטחה חוץ סולארית חכמה Eufy SoloCam E30 Solar Powered 360° מתחת לרף המס 🏃‍♀️🏃‍♂️🏃‍♀️🏃‍♂️ רק 16 יחידות במלאי\n\n66 יחידות במלאי\n💳 מחיר סופי 72.85$ / 233₪ סופי!! מתחת לרף המס‼️ לשלם רק בדולרים ‼️\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/eufy-security-eufy-solocam-e30\n\n✔️ בינה מלאכותית עם נעילה אוטומטית ומעקב אחרי בני אדם או רכבים 🚶‍♂️🚗\n✔️ פאנל סולארי חכם שעתיים שמש ביום מספיקות לחשמל אינסופי ☀️🔋\n✔️ איכות וידאו 2K חדה גם ביום וגם בלילה 🌙📷\n✔️ פרטיות מלאה שמירה בכרטיס MicroSD (עד 128GB, לא כלול) בלי מנוי חודשי 🛡\n✔️ תקן עמידות IP65 מותאם לגשם, שמש וכל מזג אוויר 🌧☀️\n✔️ שמע דו-כיווני דברו ישירות עם מי שנמצא מול המצלמה 🎤🔊\n✔️ אפשרות לשדרוג עם HomeBase S380 לחוויית אבטחה חכמה עוד יותר 🚀\n\n💬 לדיון בפוסט\nhttps://www.facebook.com/share/p/1F7mp1JpF6/",
-   "views": 1730,
+   "views": 1740,
    "forwarded_from": null,
    "media": [
     {
@@ -2870,21 +2885,6 @@
    "kind": "deals"
   },
   {
-   "id": "p9f0998dec72f",
-   "post": "abualiexpress/133349",
-   "ts": "2026-11-09T12:36:52+00:00",
-   "text": "התביעה הכללית במצרים הודיעה באופן סופי ומוחלט (אחרי כל שלבי הערעור - א\"ע) כי תנועת האחים המוסלמים במצרים מוגדרת מעתה כארגון טרור.\n\n##\nבישראל עדיין לא.... להפך.",
-   "views": 57600,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/0d63d292994d90ea.jpg"
-    }
-   ]
-  },
-  {
    "id": "p92e3ab00695a",
    "post": "amitsegal/66993",
    "ts": "2026-11-09T12:35:35+00:00",
@@ -2947,7 +2947,7 @@
    "post": "Jobs_in_Jerusalem/36490",
    "ts": "2026-11-09T11:58:42+00:00",
    "text": "*דרושה מנהלת מחלקה לפעילות יהודית ערכית, לארגון בירושלים*\n\n- ניהול פעילות בצמיחה, פיתוח מענים ותוכניות.\n- ניהול וקידום צוות.\n- גיוס, הדרכה, הפעלה ושימור מתנדבים.\n- בניית והפעלת קהילות תוכן דיגיטליות.\n- בניית אירועים והכשרות.\n*דרישות:*\n- 5 שנות ניסיון בניהול צוות\n- רקע או ניסיון בעולמות הקירוב\n- מנהיגות, יוזמה ויכולות טכנולוגיות.\n- משרה מלאה מהמשרד.\n\n*קורות חיים בוואטסאפ:* 055-9419103, עם שם המשרה: מנהלת מחלקה לפעילות יהודית ערכית.",
-   "views": 253,
+   "views": 254,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -3259,7 +3259,7 @@
    "post": "SALAMTAK_DEALS/58796",
    "ts": "2026-11-08T19:55:15+00:00",
    "text": "שתי כוסות Contigo במחיר של אחת בארץ!\n\nקפה חם בדרך לעבודה, בלי טפטוף בתיק ☕\nזוג כוסות תרמיות Luxe של Contigo\n\n❄️ שומרות קור עד 12 שעות\n🔥 שומרות חום עד 5 שעות\n🔒 מנגנון AUTOSEAL שלא נוזל\n🥤 נפח של 415 מ\"ל לכל כוס\n🧼 כל החלקים מתאימים למדיח\n\n💰 מחיר באמזון: 103₪ ($32.99) לזוג\n\nלינק 👇\nhttps://salamtak.deals/archives/51238\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 1680,
+   "views": 1690,
    "forwarded_from": "",
    "media": [
     {
@@ -3367,7 +3367,7 @@
    "post": "SALAMTAK_DEALS/58783",
    "ts": "2026-11-08T17:17:09+00:00",
    "text": "שולחן מסודר עם שני מסכים באוויר, זה הזמן!\n\nמפנים את השולחן ומרימים את המסכים לגובה הנכון 🖥️\nזרוע כפולה למסכים של VYNTERA\n\n🦾 שתי זרועות עצמאיות עם בוכנת גז\n🔩 שני מהדקים נפרדים, אחד לכל זרוע\n📐 מתאימה למסכים של 13 עד 34 אינץ', גם מעוקלים\n🏋️ עד כ-10 ק\"ג לכל זרוע\n🔧 תקן VESA 75/100, במהדק או דרך חור בשולחן\n\n💰 מחיר באמזון: 117₪ ($37.49)\n\nלינק 👇\nhttps://salamtak.deals/archives/51210\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 1510,
+   "views": 1520,
    "forwarded_from": "",
    "media": [
     {
@@ -3545,7 +3545,7 @@
    "post": "Jobs_in_Jerusalem/36488",
    "ts": "2026-11-08T12:02:08+00:00",
    "text": "*דרושה עובדת רצינית - תנאים מעולים פרטים בפנים*",
-   "views": 377,
+   "views": 378,
    "forwarded_from": null,
    "media": [
     {
@@ -3639,7 +3639,7 @@
    "post": "Jobs_in_Jerusalem/36487",
    "ts": "2026-11-08T08:41:32+00:00",
    "text": "💻 *דרוש/ה מתכנת/ת WordPress לעבודה מהבית*\n\nלצוות שלנו דרוש/ה מתכנת/ת עם ניסיון בWordPress וElementor לעבודה שוטפת על אתרי לקוחות.\n\n🏠 *עבודה מהבית – רלוונטי למועמדים מכל הארץ*\n\n*דרישות עיקריות:*\n• ניסיון בWordPress ו־Elementor\n• ידע ב־CSS / PHP / JS\n• תחזוקה, פתרון תקלות ועבודה עם דומיינים ו־DNS\n\n📲 *לפרטים בוואטסאפ:*\nhttps://wa.me/83292185",
-   "views": 396,
+   "views": 397,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3651,7 +3651,7 @@
    "post": "Jobs_in_Jerusalem/36486",
    "ts": "2026-11-08T08:35:05+00:00",
    "text": "מחפשת סייעת רפואית לפעם בשבוע\nלילדה חמודה\nבגן גיל 3 ברחוב כהנא 1 #בית_שמש\n054-971-0243\nלפרטים נא לפנות למספר",
-   "views": 396,
+   "views": 397,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -3762,7 +3762,7 @@
    "post": "Jobs_in_Jerusalem/36483",
    "ts": "2026-11-05T20:12:51+00:00",
    "text": "",
-   "views": 539,
+   "views": 540,
    "forwarded_from": null,
    "media": [
     {
@@ -3778,7 +3778,7 @@
    "post": "Jobs_in_Jerusalem/36482",
    "ts": "2026-11-05T20:12:08+00:00",
    "text": "דרוש לישיבה לבעלי תשובה ב #ירושלים\nבחור (שיפוצניק מתחיל) לתיקונים ושיפוצים קטנים, פעמים בשבוע\n0508758409",
-   "views": 518,
+   "views": 519,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
