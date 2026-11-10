@@ -1,6 +1,6 @@
 {
  "start": "2026-10-20",
- "updated": "2026-11-10T05:44:58Z",
+ "updated": "2026-11-10T06:04:41Z",
  "days": {
   "20261020": {
    "u": 3,
@@ -120,8 +120,6 @@
  "items": {
   "behadrey/107979": 1,
   "SALAMTAK_DEALS/58796": 1,
-  "Jobs_in_Jerusalem/36482": 1,
-  "Israel_media_industry/3870": 1,
-  "Israel_media_industry/3869": 1
+  "Jobs_in_Jerusalem/36482": 1
  }
 }
