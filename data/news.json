@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:22:17.496132+00:00",
+ "updated": "2026-11-11T17:23:55.882368+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,26 @@
  "count": 338,
  "items": [
   {
+   "id": "pc7699dc1f334",
+   "post": "amitsegal/67139",
+   "ts": "2026-11-11T17:22:40+00:00",
+   "text": "שיקלי: איזנקוט - אהוד ברק מרוקאי\n#",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/96f4b74e9a9f4180.jpg"
+    }
+   ]
+  },
+  {
    "id": "p5bffe7bd6c3e",
    "post": "merkaz/300934",
    "ts": "2026-11-11T17:19:50+00:00",
    "text": "מנסור עבאס לאתר פאנט: נכונות להכריז על חמאס כארגון טרור? לא יצא ממני דבר כזה.",
-   "views": 29,
+   "views": 45,
    "forwarded_from": null,
    "media": []
   },
@@ -147,7 +162,7 @@
    "post": "behadrey/108024",
    "ts": "2026-11-11T17:18:12+00:00",
    "text": "מאבק בין הרשויות > החשד להשפעה זרה בבחירות: הכלים החריגים שזיני אישר להפעיל",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [
     {
@@ -162,7 +177,7 @@
    "post": "merkaz/300933",
    "ts": "2026-11-11T17:17:54+00:00",
    "text": "טראמפ: אנחנו ניצחנו (את איראן) זו רק שאלה של מתי נעצור אנחנו רוצים לנצח ב100% לא ב90 ומשהו אחוז. הרסנו להם דברים שייקח להם 25 שנה לשקם",
-   "views": 62,
+   "views": 67,
    "forwarded_from": null,
    "media": []
   },
@@ -171,7 +186,7 @@
    "post": "merkaz/300932",
    "ts": "2026-11-11T17:16:08+00:00",
    "text": "החשש מהמפלגות הערביות? איזנקוט פונה לנתניהו במכתב, ברקע המתיחות הביטחונית: \"גלה איפוק וזהירות מפי מהלכים מסוכנים שיכולים לחכות להשבעת ממשלה חדשה.",
-   "views": 66,
+   "views": 76,
    "forwarded_from": null,
    "media": [
     {
@@ -201,7 +216,7 @@
    "post": "ramreports/217547",
    "ts": "2026-11-11T17:13:17+00:00",
    "text": "טראמפ: אנחנו ניצחנו (את איראן) זו רק שאלה של מתי נעצור אנחנו רוצים לנצח ב100% לא ב90 ומשהו אחוז. הרסנו להם דברים שייקח להם 25 שנה לשקם",
-   "views": 1890,
+   "views": 2130,
    "forwarded_from": null,
    "media": []
   },
@@ -210,7 +225,7 @@
    "post": "ramreports/217546",
    "ts": "2026-11-11T17:12:31+00:00",
    "text": "עושים פוליטיקה על חשבון של הביטחון שלנו כמה נמוך",
-   "views": 1920,
+   "views": 2200,
    "forwarded_from": null,
    "media": [
     {
@@ -240,7 +255,7 @@
    "post": "haskupim/202070",
    "ts": "2026-11-11T17:11:20+00:00",
    "text": "חדשות הסקופים\n\"לא יצא ממני דבר כזה\" | מנסור עבאס לפאנט: לא אכריז על חמאס כארגון טרור.\nמיכאל שמש",
-   "views": 30,
+   "views": 32,
    "forwarded_from": null,
    "media": []
   },
@@ -249,7 +264,7 @@
    "post": "abualiexpress/133496",
    "ts": "2026-11-11T17:07:28+00:00",
    "text": "משרד החוץ הרוסי: אלכסנדר דארצ'ייב, שגריר רוסיה בארה\"ב, מת בטרם עת (גיל 66). ## שגריר רוסי זה תפקיד עם תוחלת חיים קצרה.",
-   "views": 9250,
+   "views": 10300,
    "forwarded_from": null,
    "media": []
   },
@@ -258,7 +273,7 @@
    "post": "ramreports/217545",
    "ts": "2026-11-11T17:06:59+00:00",
    "text": "עושים פוליטיקה על חשבון של הביטחון שלנו\n\nכמה נמוך",
-   "views": 2730,
+   "views": 2980,
    "forwarded_from": null,
    "media": []
   },
@@ -267,7 +282,7 @@
    "post": "ramreports/217544",
    "ts": "2026-11-11T17:06:25+00:00",
    "text": "איזנקוט לנתניהו: אני דורש ממך: בתקופה רגישה זו אתה נדרש לאחריות לאומית, גלה איפוק וזהירות מפני מהלכים ביטחוניים שיכולים לחכות",
-   "views": 2700,
+   "views": 2950,
    "forwarded_from": null,
    "media": []
   },
@@ -291,7 +306,7 @@
    "post": "haskupim/202069",
    "ts": "2026-11-11T17:04:34+00:00",
    "text": "חדשות הסקופים\n״עצם קיומו של נתניהו בעיניהם זה הסתה״ | תמיר מורג על התגובות לנאום ראש הממשלה בכנסת.\nעכשיו 14",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [
     {
@@ -306,7 +321,7 @@
    "post": "merkaz/300931",
    "ts": "2026-11-11T17:02:05+00:00",
    "text": "🚨הלילה זה קורה!!!! ההרשמה המוקדמת להגרלת הבונוס על 15,000 דולר במזומן עומדת להיסגר!\n\n🏡 דירת יוקרה בירושלים בשווי 1.3 מיליון דולר יכולה להיות שלכם!\n\n🎁 מבצע 1+1! קונים כרטיס ומקבלים כרטיס נוסף בחינם!\n\n⏳ הלילה בחצות ההרשמה להגרלת הבונוס נסגרת! נותרו שעות בודדות להצטרף וליהנות משתי ההזדמנויות!\n\n✅ זו לא הדמיית AI ולא הבטחה דמיונית – זו הגרלת החלומות של קרן עם ישראל חי, המתקיימת כבר 9 שנים ברציפות, עם זוכים אמיתיים!\n\n🔥 הזמן אוזל! אל תישארו בחוץ!\n\n👇 רוכשים כרטיס עכשיו, מקבלים כרטיס נוסף במתנה ונכנסים גם להגרלת הבונוס לפני הסגירה!",
-   "views": 98,
+   "views": 105,
    "forwarded_from": null,
    "media": [
     {
@@ -321,7 +336,7 @@
    "post": "ramreports/217543",
    "ts": "2026-11-11T17:00:14+00:00",
    "text": "תושבי הצפון עודכנו: גל תקיפות בלבנון צפוי בשעה הקרובה, הדי פיצוצים יישמעו באזור ​",
-   "views": 3350,
+   "views": 3540,
    "forwarded_from": null,
    "media": []
   },
@@ -330,7 +345,7 @@
    "post": "haskupim/202068",
    "ts": "2026-11-11T16:58:42+00:00",
    "text": "חדשות הסקופים\nחילוקי דעות בסביבת נתניהו | המשפחה דוחפת להמשך קמפיין הדה-לגיטימציה למפלגות הערביות, יועצים סבורים שיש להתמקד ולחתור לאחדות.\nוואלה",
-   "views": 50,
+   "views": 51,
    "forwarded_from": null,
    "media": []
   },
@@ -354,7 +369,7 @@
    "post": "haskupim/202067",
    "ts": "2026-11-11T16:57:13+00:00",
    "text": "חדשות הסקופים\nדמעות בהשבעה | שירה שפירא נכנסה לכנסת עם תמונת ענר, סיפרה על המשימה שהציבה לעצמה למען הצעירים בישראל.\nערוץ 7",
-   "views": 51,
+   "views": 52,
    "forwarded_from": null,
    "media": [
     {
@@ -385,7 +400,7 @@
    "post": "merkaz/300930",
    "ts": "2026-11-11T16:51:52+00:00",
    "text": "ברייקינג: בג״ץ לשר הפנים גדעון סער- בתוך 30 יום עליך להחליט אם לשלול הנחה בארנונה מעריקים (יואלי ברים)",
-   "views": 132,
+   "views": 139,
    "forwarded_from": null,
    "media": []
   },
@@ -394,7 +409,7 @@
    "post": "abualiexpress/133495",
    "ts": "2026-11-11T16:49:12+00:00",
    "text": "משרד החוץ הרוסי:\nאלכסנדר דארצ'ייב, שגריר רוסיה בארה\"ב, מת בטרם עת (גיל 66).\n\n##\nשגריר רוסי זה תפקיד עם תוחלת חיים קצרה.",
-   "views": 18200,
+   "views": 19200,
    "forwarded_from": null,
    "media": [
     {
@@ -409,7 +424,7 @@
    "post": "ramreports/217542",
    "ts": "2026-11-11T16:48:42+00:00",
    "text": "טיסות כבדות בדרום לבנון ומעל עזה",
-   "views": 4460,
+   "views": 4670,
    "forwarded_from": null,
    "media": []
   },
@@ -418,7 +433,7 @@
    "post": "haskupim/202066",
    "ts": "2026-11-11T16:47:22+00:00",
    "text": "חדשות הסקופים\nחכ״מ עוזב את ש״ס | הרב משה אבוטבול בראיון פרישה נרחב אצל דניאל גרוביס בכאן מורשת.\nכאן מורשת",
-   "views": 54,
+   "views": 56,
    "forwarded_from": null,
    "media": []
   },
@@ -427,7 +442,7 @@
    "post": "ramreports/217541",
    "ts": "2026-11-11T16:43:45+00:00",
    "text": "טיסות כבדות בדרום לבנון ומעל עזה",
-   "views": 4830,
+   "views": 4990,
    "forwarded_from": null,
    "media": []
   },
@@ -436,7 +451,7 @@
    "post": "haskupim/202065",
    "ts": "2026-11-11T16:42:41+00:00",
    "text": "חדשות הסקופים\nועדה תבחן עד ינואר 2026 | איזנקוט מבטיח: ועדת החקירה תבחן את ההתנהלות מסיום צוק איתן (2014) ועד השבת החטוף האחרון מעזה בינואר 2026, כולל המחדלים שהובילו לשבעה באוקטובר.\nגילי כהן",
-   "views": 56,
+   "views": 58,
    "forwarded_from": null,
    "media": []
   },
@@ -445,7 +460,7 @@
    "post": "ILcoupons/5980",
    "ts": "2026-11-11T16:42:33+00:00",
    "text": "סטטוס קופונים עדכניים 11.11 לאתר Aliexpress 🔥 יש קופונים חדשים ושווים 👏\n\n🛍⁩קישור ישיר לאליאקספרס:\n🔗 https://s.click.aliexpress.com/e/_c40JOeCt\n\nרשימת קופונים חדשים\n\n✂️ הנחה של 3$ בקניה מעל 18$ עם הקופון: ILAFFN01 או ILN01\n✂️ הנחה של 5$ בקניה מעל 29$ עם הקופון: ILAFF05 או iBuyIL05 או ILAFFN02 או ILN02\n✂️ הנחה של 10$ בקניה מעל 55$ עם הקופון: ILAFFN03 או ILN03\n✂️ הנחה של 24$ בקניה מעל 139$ עם הקופון: ILAFFN05 או ILN05\n\n🏷 כל הקופונים הפעילים מעודכנים כאן:\nhttps://dlz.co.il/aliexpress-coupons/\n\n🛍 לכל הדילים המומלצים שאפשר לרכוש עם הקופונים:\nhttps://dlz.co.il/dealstore/aliexpress/\n\n🛠 לכל הדילים המומלצים שאפשר לרכוש בקטגוריית כלי עבודה עם הקופונים:\nhttps://newtools.co.il/dealstore/aliexpress/",
-   "views": 139,
+   "views": 140,
    "forwarded_from": "דילז - מועדון צרכנות חברתית",
    "media": [
     {
@@ -476,7 +491,7 @@
    "post": "Israel_media_industry/3891",
    "ts": "2026-11-11T16:40:42+00:00",
    "text": "",
-   "views": 84,
+   "views": 86,
    "forwarded_from": null,
    "media": [
     {
@@ -517,7 +532,7 @@
    "post": "haskupim/202064",
    "ts": "2026-11-11T16:35:57+00:00",
    "text": "חדשות הסקופים\n\"כדאי ללמוד ערבית וקוראן\" | חכ קרויזר בכנסת: \"כדאי לכם להתחיל ללמוד ערבית ולתרגל לימודי קוראן - זאת השפה ששולטת עכשיו במשכן\"\nערוץ 14",
-   "views": 61,
+   "views": 63,
    "forwarded_from": null,
    "media": []
   },
@@ -550,7 +565,7 @@
    "post": "ramreports/217540",
    "ts": "2026-11-11T16:29:45+00:00",
    "text": "‏\n\nאחמד טיבי בחתונה באום אל פאחם:\n\n‏\"אנחנו בעלי הארץ\"",
-   "views": 5830,
+   "views": 5990,
    "forwarded_from": null,
    "media": [
     {
@@ -610,7 +625,7 @@
    "post": "haskupim/202060",
    "ts": "2026-11-11T16:27:46+00:00",
    "text": "חדשות הסקופים\nפגשתי את ליברמן במסדרון ושאלתי אותו על \"הפגישה\" עם יעקב אשר. ליברמן אישר את גרסת לשכתו של אשר\nדניאל גרובייס ויעקב הרשקוביץ",
-   "views": 51,
+   "views": 52,
    "forwarded_from": null,
    "media": []
   },
@@ -619,7 +634,7 @@
    "post": "haskupim/202059",
    "ts": "2026-11-11T16:26:02+00:00",
    "text": "חדשות הסקופים\nישי כהן על פגישת אשר וליברמן: פגישה משמעותית ראשונה בה דיברו על סוגיית חוק הגיוס והסדרת מעמד תלמידי הישיבות בניסיון למצוא נוסח שעובר את הרב דב לנדו ואת שופטי בג\"ץ.",
-   "views": 52,
+   "views": 53,
    "forwarded_from": null,
    "media": []
   },
@@ -637,7 +652,7 @@
    "post": "merkaz/300929",
    "ts": "2026-11-11T16:25:47+00:00",
    "text": "שגריר רוסיה בוושינגטון אלכסנדר דרצ׳ייב מת בגיל 66. משרד החוץ הרוסי לא מסר בהודעה את סיבת המוות (מסוואדה).",
-   "views": 191,
+   "views": 194,
    "forwarded_from": null,
    "media": []
   },
@@ -646,7 +661,7 @@
    "post": "haskupim/202057",
    "ts": "2026-11-11T16:24:47+00:00",
    "text": "חדשות הסקופים\n״השמאל מעדיף את תומכי חמאס״ | ח״כ אלי גולדשמידט בנאום ראשון בכנסת: השמאל פוסל מצביעי ימין ציונים מקריית שמונה ומהאופקים, ומעדיף תומכי מפלגות ערביות שמכנות את חמאס ארגון צדקה ומסרבות לכנותו ארגון טרור.",
-   "views": 53,
+   "views": 54,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -656,7 +671,7 @@
    "post": "merkaz/300928",
    "ts": "2026-11-11T16:23:55+00:00",
    "text": "תושבי הצפון עודכנו כי בשעה הקרובה צפוי גל תקיפות בדרום לבנון והדי פיצוצים ישמעו ביישובי הצפון",
-   "views": 206,
+   "views": 207,
    "forwarded_from": null,
    "media": []
   },
@@ -665,7 +680,7 @@
    "post": "ramreports/217539",
    "ts": "2026-11-11T16:23:13+00:00",
    "text": "לקראת תקיפת יעד טרור ברצועה: החזירים בפאניקה\n\nמהבוקר לפחות 7 מחוסלים.",
-   "views": 5990,
+   "views": 6110,
    "forwarded_from": null,
    "media": [
     {
@@ -694,7 +709,7 @@
    "post": "haskupim/202056",
    "ts": "2026-11-11T16:15:25+00:00",
    "text": "חדשות הסקופים\nאשר נפגש עם ליברמן | יו״ר יהדות התורה אשר נפגש לפני כשעתיים עם ליברמן. במקביל לחששות נתניהו מממשלת שמאל-חרדים בהישענות על תומכי טרור, יש מי שמנסים לברר מהלכים מול גוש השמאל. מלשכת אשר: ״יושבים חדר מול חדר, היה חסר לו קפה״.\nמוטי קסטל",
-   "views": 60,
+   "views": 62,
    "forwarded_from": null,
    "media": []
   },
@@ -703,7 +718,7 @@
    "post": "haskupim/202055",
    "ts": "2026-11-11T16:14:45+00:00",
    "text": "חדשות הסקופים\n\"אני לא מכיר טרור יהודי\" | ח\"כ צביקה מור (הציונות הדתית) נשאל אם תמיכת ח\"כים בשחרור רוצח משפחת דואבשה לגיטימית והשיב: \"אני לא מכיר טרור יהודי. הוציאו מעמירם בן אוליאל הודאה בעינויים. אין מה להשוות בין זה לטרור הערבי שרוצה לחסל אותנו\"\nכאן חדשות",
-   "views": 60,
+   "views": 61,
    "forwarded_from": null,
    "media": []
   },
@@ -712,7 +727,7 @@
    "post": "merkaz/300927",
    "ts": "2026-11-11T16:14:39+00:00",
    "text": "יו”ר יהדות התורה, יעקב אשר נפגש היום בכנסת עם יו”ר ישראל ביתנו אביגדור ליברמן.\n\nמלשכתו נמסר: “הם יושבים חדר מול חדר, היה חסר לו קפה - הוא בא לליברמן להלוות”. (פריינד)",
-   "views": 227,
+   "views": 228,
    "forwarded_from": null,
    "media": []
   },
@@ -721,7 +736,7 @@
    "post": "haskupim/202054",
    "ts": "2026-11-11T16:13:07+00:00",
    "text": "חדשות הסקופים\nהמלדיביים אוסרים על ישראלים | ממשלת האיים מקדמת חוקים לאיסור קבוע על כניסת בעלי דרכון ישראלי וחסימת השקעות נדלן של ישראלים גם עם דרכון זר. לא ברור אם בעלי אזרחות כפולה יוכלו לבקר כתיירים.",
-   "views": 61,
+   "views": 62,
    "forwarded_from": null,
    "media": []
   },
@@ -730,7 +745,7 @@
    "post": "ILcoupons/5979",
    "ts": "2026-11-11T16:07:22+00:00",
    "text": "💸✨ מפתח רטיטה גנרי לדיוולט עם הינע ½ אינץ מבית Electric Goddess 18V עם מומנט פיתול מוערך של סביבות ה-500-700Nm במחיר רצפההההההה משוגע !! שימו אחד בבגאז'!\n\nמנסיון, הכלי מתאים גם לגלגלי האמר צבאי ( כלומר בוקסה ⅞\") 🪖\n\n💰 עודכן למחיר מטורף של 62.59$ / 199₪\n👈🏿 לשם השוואה, כלי מקורי בעל מומנט דומה יעלה לכם כמעט אלף שקלים בארץ !!!\n🛍⁩ קישור להזמנה:\nhttps://newtools.co.il/electric-goddess-1-2in-high-to\n\n⚫️🟡\nגוף בלבד ללא סוללה או מטען. תואם לסוללות של דיוולט 18/20V\n⚫️🟡\n\nhttps://www.facebook.com/share/p/19pb7T83ae/",
-   "views": 308,
+   "views": 309,
    "forwarded_from": null,
    "media": [
     {
@@ -746,7 +761,7 @@
    "post": "haskupim/202053",
    "ts": "2026-11-11T16:06:46+00:00",
    "text": "חדשות הסקופים\nהרכבי ועדות הליבה | בתום יום סוער במליאה נקבעו הרכבים זמניים לוועדות הליבה. המועמדים המומלצים ליו״ר: לירן אבישר בן חורין לכספים, אביגדור ליברמן לחוץ וביטחון.\nערוץ הכנסת",
-   "views": 70,
+   "views": 71,
    "forwarded_from": null,
    "media": [
     {
@@ -780,7 +795,7 @@
    "post": "haskupim/202051",
    "ts": "2026-11-11T16:05:10+00:00",
    "text": "חדשות הסקופים\n21 יום להכריע על הנחות בתחבורה | שרי האוצר והתחבורה נדרשו להכריע בתוך 21 יום בסוגיית ההנחות בתחבורה הציבורית. עד ההכרעה - ההנחות בתוקף.",
-   "views": 61,
+   "views": 62,
    "forwarded_from": null,
    "media": []
   },
@@ -805,7 +820,7 @@
    "post": "merkaz/300925",
    "ts": "2026-11-11T16:04:25+00:00",
    "text": "ראש המוסד לשעבר דדי ברנע: הסכם עם איראן ייתפס כפרס, האפשרויות - מלחמה, או סנקציות ומצור מוחלט",
-   "views": 240,
+   "views": 243,
    "forwarded_from": null,
    "media": []
   },
@@ -845,7 +860,7 @@
    "post": "merkaz/300924",
    "ts": "2026-11-11T16:02:36+00:00",
    "text": "ח״כ רפי בן שטרית ממפלגת ישראל ביתנו הגיש היום יחד עם חברי הסיעה הצעת חוק להקמת ועדת חקירה ממלכתית למחדלי ה-7 באוקטובר",
-   "views": 240,
+   "views": 242,
    "forwarded_from": null,
    "media": []
   },
@@ -854,7 +869,7 @@
    "post": "merkaz/300923",
    "ts": "2026-11-11T16:00:47+00:00",
    "text": "ברייקינג: בג״ץ לשר הפנים גדעון סער- בתוך 30 יום עליך להחליט אם לשלול הנחה בארנונה מעריקים (יואלי ברים)",
-   "views": 238,
+   "views": 240,
    "forwarded_from": null,
    "media": []
   },
@@ -863,7 +878,7 @@
    "post": "HiTech_Jobs_In_Israel/138833",
    "ts": "2026-11-11T16:00:26+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 79,
+   "views": 80,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -873,7 +888,7 @@
    "post": "HiTech_Jobs_In_Israel/138832",
    "ts": "2026-11-11T16:00:25+00:00",
    "text": "Senior Software Engineer – AIUC Group at Akamai\nLocation: Israel\nSend your CV + the link below to the admin who works there ✌🏻 or apply on your own: https://jobs.akamai.com/en/sites/CX_1/job/4158/?utm_source=telegram&utm_medium=HiTech_Jobs_In_Israel&utm_campaign=job-updates",
-   "views": 78,
+   "views": 79,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -883,7 +898,7 @@
    "post": "HiTech_Jobs_In_Israel/138831",
    "ts": "2026-11-11T16:00:20+00:00",
    "text": "Senior Marketing Manager at Rapaport\nLocation: Israel, Israel\nPress here https://rapaport.bamboohr.com/careers/293?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 67,
+   "views": 68,
    "forwarded_from": null,
    "media": [
     {
@@ -899,7 +914,7 @@
    "post": "HiTech_Jobs_In_Israel/138830",
    "ts": "2026-11-11T16:00:18+00:00",
    "text": "Process Engineer at Flex\nLocation: Israel, Migdal Ha-Emek\nPress here https://flextronics.wd1.myworkdayjobs.com/Careers/job/Israel-Migdal-Ha-Emek/Process-Engineer_WD233533?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 58,
+   "views": 59,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -909,7 +924,7 @@
    "post": "HiTech_Jobs_In_Israel/138829",
    "ts": "2026-11-11T16:00:17+00:00",
    "text": "CNC Quality Control at Envista\nLocation: Israel, Central District, Modi'in-Macabim-Re'ut\nPress here https://envista.wd1.myworkdayjobs.com/envistacareers/job/Israel-Central-District-Modiin-Macabim-Reut/CNC-Quality-Control_R5027837?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 57,
+   "views": 58,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -919,7 +934,7 @@
    "post": "HiTech_Jobs_In_Israel/138828",
    "ts": "2026-11-11T16:00:15+00:00",
    "text": "Algorithm Developer - Vision Algorithms at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/4445a729-d5ec-4ae4-b1f6-5bea979b4dce?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 55,
+   "views": 56,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -929,7 +944,7 @@
    "post": "HiTech_Jobs_In_Israel/138827",
    "ts": "2026-11-11T16:00:09+00:00",
    "text": "DevSecOps at Connecteam\nLocation: Tel Aviv District, Israel\nPress here https://connecteam.com/careers/6255153004?gh_jid=6255153004&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 54,
+   "views": 55,
    "forwarded_from": null,
    "media": [
     {
@@ -945,7 +960,7 @@
    "post": "HiTech_Jobs_In_Israel/138826",
    "ts": "2026-11-11T16:00:08+00:00",
    "text": "AI Creative Designer at Viber\nLocation: Ramat Gan, Israel (Hybrid)\nPress here https://www.comeet.com/jobs/viber/04.002/ai-creative-designer/E5.47B?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 54,
+   "views": 55,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -955,7 +970,7 @@
    "post": "HiTech_Jobs_In_Israel/138825",
    "ts": "2026-11-11T16:00:06+00:00",
    "text": "Office & Employee Experience Manager at TeraSky\nLocation: Petach Tikva, Israel\nPress here https://www.terasky.com/careers-2/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 56,
+   "views": 57,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -965,7 +980,7 @@
    "post": "HiTech_Jobs_In_Israel/138824",
    "ts": "2026-11-11T16:00:05+00:00",
    "text": "Social Media Manager at Play Perfect\nLocation: Tel Aviv (Azrieli Sarona) office, Israel\nPress here https://play-perfect.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 55,
+   "views": 56,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -975,7 +990,7 @@
    "post": "HiTech_Jobs_In_Israel/138823",
    "ts": "2026-11-11T16:00:04+00:00",
    "text": "SecOps IR Analyst at ONE ZERO Digital Bank\nLocation: Tel-Aviv\nPress here https://www.comeet.com/jobs/onezerobank/36.00A/secops-ir-analyst/33.57E?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 72,
+   "views": 73,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -985,7 +1000,7 @@
    "post": "HiTech_Jobs_In_Israel/138822",
    "ts": "2026-11-11T16:00:03+00:00",
    "text": "Configuration Management Specialist at mPrest\nLocation: Petah Tikva, Israel\nPress here https://mprest.com/mprest_careers/co/petah-tikva-israel/43.571/configuration-management-specialist/all/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 71,
+   "views": 72,
    "forwarded_from": null,
    "media": [
     {
@@ -1001,7 +1016,7 @@
    "post": "HiTech_Jobs_In_Israel/138821",
    "ts": "2026-11-11T16:00:02+00:00",
    "text": "GenAI Engineer at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/technologyconsulting/careers/jobs/genai-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 69,
+   "views": 70,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1011,7 +1026,7 @@
    "post": "HiTech_Jobs_In_Israel/138820",
    "ts": "2026-11-11T16:00:00+00:00",
    "text": "Information Security GRC Specialist at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 69,
+   "views": 70,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1021,7 +1036,7 @@
    "post": "merkaz/300921",
    "ts": "2026-11-11T15:54:09+00:00",
    "text": "הליכוד במכתב ליו\"ר ועדת הבחירות המרכזית, השופט סולברג, מאשים את היועמ\"שית ומפכ\"ל המשטרה: \"אין לתת יד למצב שהנחייתך לחקור את החשדות לשוחד בחירות כראוי - הופכת לאות מתה; בעוד מחדלי גורמי החקירה מגבילים באופן קשה את כוחה של מרשתי לממש את זכותה לבסס את ערעורה על תוצאות הבחירות\"",
-   "views": 254,
+   "views": 257,
    "forwarded_from": null,
    "media": []
   },
@@ -1030,7 +1045,7 @@
    "post": "merkaz/300920",
    "ts": "2026-11-11T15:52:08+00:00",
    "text": "צוותי כבאות והצלה חילצו פועל שנפל לבור בעומק כ-10 מטרים ברחוב מוהליבר ביהוד. הפועל פונה לבית החולים במצב בינוני.",
-   "views": 247,
+   "views": 249,
    "forwarded_from": null,
    "media": [
     {
@@ -1045,7 +1060,7 @@
    "post": "abualiexpress/133492",
    "ts": "2026-11-11T15:50:01+00:00",
    "text": "צרפת מנעה את כניסתו לשטחה של יוסי דגן, ראש המועצה האזורית שומרון בשל \"תפקידו כראש מועצת שומרון שבונה ישובים ביו\"ש כולל חזרה לגוש קטיף\".",
-   "views": 32800,
+   "views": 33900,
    "forwarded_from": null,
    "media": [
     {
@@ -1060,7 +1075,7 @@
    "post": "abualiexpress/133489",
    "ts": "2026-11-11T15:42:32+00:00",
    "text": "כוחות מיחידת 'חץ יהודה' של מחוז ש\"י עצרו ארבעה פלסטינים תושבי חברון, החשודים בהתעללות בבעל חיים, לאחר שתיעוד מתוך חתונה בחברון (מצורף) התפרסם ברשתות החברתיות.",
-   "views": 33700,
+   "views": 34700,
    "forwarded_from": null,
    "media": [
     {
@@ -1197,7 +1212,7 @@
    "post": "merkaz/300919",
    "ts": "2026-11-11T15:03:38+00:00",
    "text": "1,400 יחידות חדשות בבית שמש: הונחה אבן הפינה לפרויקט ׳עולמיא על הפארק׳ של קבוצת שי חי ברמה ה׳ 2, במעמד הראשל\"צ הגר\"ש עמאר, ראש העיר גרינברג ובכירי העירייה. הפרויקט שממוקם צמוד לפארק ירמות יכלול דירות 5–7 חדרים ודופלקסים.",
-   "views": 293,
+   "views": 295,
    "forwarded_from": null,
    "media": [
     {
@@ -1212,7 +1227,7 @@
    "post": "ramreports/217538",
    "ts": "2026-11-11T14:58:33+00:00",
    "text": "מהומה בכינוס הראשון של הוועדה המסדרת: צעקות בין הח\"כים, היו\"ר הוציא את אלמוג כהן ואת טלי גוטליב מהדיון",
-   "views": 8920,
+   "views": 8960,
    "forwarded_from": null,
    "media": [
     {
@@ -1227,7 +1242,7 @@
    "post": "merkaz/300917",
    "ts": "2026-11-11T14:56:41+00:00",
    "text": "אטינגר: אחרי מינוי גדעון סער - בליכוד בוחנים תפקיד שר גם לאמיר אוחנה שיעזוב את יו\"ר הכנסת לטובת מתן כהנא.",
-   "views": 309,
+   "views": 310,
    "forwarded_from": null,
    "media": []
   },
@@ -1236,7 +1251,7 @@
    "post": "merkaz/300916",
    "ts": "2026-11-11T14:54:51+00:00",
    "text": "אושר מינוי לירן אבישר ליו\"ר וועדת הכספים.",
-   "views": 290,
+   "views": 291,
    "forwarded_from": null,
    "media": []
   },
@@ -1245,7 +1260,7 @@
    "post": "ramreports/217537",
    "ts": "2026-11-11T14:54:32+00:00",
    "text": "בתמיכת חברי הכנסת הערבים: ליברמן מונה ליו”ר ועדת החוץ והביטחון",
-   "views": 8810,
+   "views": 8870,
    "forwarded_from": null,
    "media": []
   },
@@ -1287,7 +1302,7 @@
    "post": "merkaz/300914",
    "ts": "2026-11-11T14:51:24+00:00",
    "text": "צרפת אסרה בימים האחרונים על יוסי דגן, ראש המועצה האיזורית שומרון להיכנס למדינה.",
-   "views": 324,
+   "views": 325,
    "forwarded_from": null,
    "media": []
   },
@@ -1500,7 +1515,7 @@
    "post": "HiTech_Jobs_In_Israel/138818",
    "ts": "2026-11-11T14:00:21+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 125,
+   "views": 126,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1510,7 +1525,7 @@
    "post": "HiTech_Jobs_In_Israel/138817",
    "ts": "2026-11-11T14:00:20+00:00",
    "text": "Software Development Engineer, AWS Agentic AI at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/3147697/software-development-engineer-aws-agentic-ai?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 126,
+   "views": 127,
    "forwarded_from": null,
    "media": [
     {
@@ -1526,7 +1541,7 @@
    "post": "HiTech_Jobs_In_Israel/138816",
    "ts": "2026-11-11T14:00:19+00:00",
    "text": "System Engineer, Graviton Team at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10599710/system-engineer-graviton-team?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 108,
+   "views": 109,
    "forwarded_from": null,
    "media": [
     {
@@ -1542,7 +1557,7 @@
    "post": "HiTech_Jobs_In_Israel/138815",
    "ts": "2026-11-11T14:00:15+00:00",
    "text": "NPI Installation Engineer at KLA\nLocation: Migdal Ha'emek, Israel\nPress here https://kla.wd1.myworkdayjobs.com/Search/job/Migdal-Haemek-Israel/NPI-Installation-Engineer_2643360-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 100,
+   "views": 101,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1618,7 +1633,7 @@
    "post": "abualiexpress/133482",
    "ts": "2026-11-11T13:40:36+00:00",
    "text": "3 הרוגים עזתיים מאז שעות הבוקר בשתי תקיפות כטב\"מ:\n\n◾ הרוג ופצועים בתקיפת כטב\"מ על גג בית משפחת אלח'צ'רי בשכונת א-נצר, בצפון-מערב העיר עזה. ההרוג הוא האני אלח׳צ׳רי.\n\n◾ שני הרוגים ומספר פצועים בתקיפת כטב\"מ על אוהל ברחוב אלג׳לאא בעיר עזה. ההרוגים הם:\nמחמוד אלעבסי\nג׳מיל אלעבסי",
-   "views": 43000,
+   "views": 44000,
    "forwarded_from": null,
    "media": [
     {
@@ -1674,7 +1689,7 @@
    "post": "amitsegal/67134",
    "ts": "2026-11-11T13:32:20+00:00",
    "text": "חידושים בוועדת חוץ וביטחון:\n\nנציג רע\"מ (סגלוביץ) יהיה חבר בוועדה, יונתן שלו ישמש כממלא מקום",
-   "views": 65600,
+   "views": 65900,
    "forwarded_from": null,
    "media": []
   },
@@ -1698,7 +1713,7 @@
    "post": "Israel_media_industry/3890",
    "ts": "2026-11-11T13:27:51+00:00",
    "text": "מחפש מפיק.ת פוסט לתוכנית אולפן יומית. תחילת עבודה מיידית ברמת החייל. ניסיון חובה. נא לשלוח קו\"ח למייל ולא לפרטי sweet16tv@gmail.com",
-   "views": 175,
+   "views": 176,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1708,7 +1723,7 @@
    "post": "ramreports/217536",
    "ts": "2026-11-11T13:14:33+00:00",
    "text": "ארה''ב: תינוק בן 11 חודשים שנעדר במשך 24 שעות נמצא בחיים, קבור באדמה",
-   "views": 11700,
+   "views": 11800,
    "forwarded_from": null,
    "media": []
   },
@@ -1748,7 +1763,7 @@
    "post": "ramreports/217534",
    "ts": "2026-11-11T13:11:14+00:00",
    "text": "חרף המתיחות עם איראן והדריכות הגבוהה: הקבינט הביטחוני לא כונס בחודש האחרון",
-   "views": 11300,
+   "views": 11400,
    "forwarded_from": null,
    "media": []
   },
@@ -1757,7 +1772,7 @@
    "post": "ramreports/217533",
    "ts": "2026-11-11T13:11:12+00:00",
    "text": "מורה בבית ספר יסודי מהמרכז נעצר בחשד לעבירות מין בתלמידה",
-   "views": 11000,
+   "views": 11100,
    "forwarded_from": null,
    "media": []
   },
@@ -1792,7 +1807,7 @@
    "post": "SALAMTAK_DEALS/58812",
    "ts": "2026-11-11T12:57:19+00:00",
    "text": "מחפשים טלוויזיה גדולה לסלון בלי לשבור את הכיס? 📺\n\nTCL 50 אינץ' QLED עם Google TV, HDR10+ ו-Dolby Audio,\n\n---\n\nטלוויזיה חכמה TCL 50\" QLED 50S5K\n\nרק ב-1,032₪ (במקום 1,159) | קופון 1111\n⏰ בתוקף ל-11.11 בלבד!\n\nלינק- https://salamtak.deals/archives/51279\n\n---\n\n✅מסך QLED בגודל 50 אינץ', רזולוציית Full HD\n✅Google TV עם Google Assistant ו-Chromecast מובנה\n✅תמיכה ב-HDR10, HDR10+ ו-HLG\n✅סאונד Dolby Audio",
-   "views": 804,
+   "views": 808,
    "forwarded_from": null,
    "media": [
     {
@@ -1839,7 +1854,7 @@
    "post": "amitsegal/67133",
    "ts": "2026-11-11T12:39:46+00:00",
    "text": "הליכוד:\n\nזה החל. המפלגות של איזנקוט, ליברמן ובנט הצביעו היום יחד עם טיבי ועבאס במליאת הכנסת.\n\nאנו קוראים לכם – בואו לאחדות. חדלו משיתופי הפעולה עם תומכי הטרור שמחרימים את ההמנון הלאומי.",
-   "views": 71700,
+   "views": 72000,
    "forwarded_from": null,
    "media": []
   },
@@ -1848,7 +1863,7 @@
    "post": "amitsegal/67132",
    "ts": "2026-11-11T12:35:32+00:00",
    "text": "מליאת הכנסת אישרה (50-63) את הקמת הוועדה המסדרת בראשות ח״כ פולקמן מישר!",
-   "views": 71500,
+   "views": 71800,
    "forwarded_from": null,
    "media": []
   },
@@ -1873,7 +1888,7 @@
    "post": "ramreports/217532",
    "ts": "2026-11-11T12:12:27+00:00",
    "text": "2 מחוסלים ומספר פצועים בתקיפה ברצועה",
-   "views": 11800,
+   "views": 11900,
    "forwarded_from": null,
    "media": [
     {
@@ -2148,7 +2163,7 @@
    "post": "AceIsraelofficial/4653",
    "ts": "2026-11-11T10:17:20+00:00",
    "text": "מחפשים התאמה מושלמת? יש לנו ארון בשבילכם! 😉🚪\nרבי המכר שלנו מקבלים אקסטרה 10% הנחה! 🔥\n\nלכבוד יום הרווקים, יש לנו הצעה שקשה לסרב לה 😉😍\n\n⭐️ EXTRA 10% על ארונות נבחרים מסדרות רבי המכר!\n\nמגוון דגמים עם 2 עד 6 דלתות, כי גם אם אתם רווקים או תפוסים, לבגדים שלכם מגיע ספייס! 🚪\n\n🎟 לקבלת הקופון:\nhttps://lp6.me/IoVOp\n\n🛒 לרכישה באתר:\nhttps://tinyurl.com/2pese55h\n\nתקף באתר בלבד עד 15.11 או עד גמר המלאי, המוקדם מביניהם | כפוף לתקנון:\nhttps://www.ace.co.il/best",
-   "views": 3090,
+   "views": 3100,
    "forwarded_from": null,
    "media": [
     {
@@ -2244,7 +2259,7 @@
    "post": "Jobs_in_Jerusalem/36500",
    "ts": "2026-11-11T09:54:52+00:00",
    "text": "☕️ דרושים מנהלי/ות משמרת וברמנים! ☕️\n\nלקפה גרג בירושלים דרושים אנשים רציניים, שירותיים ואנרגטיים\nלעבודה באווירה צעירה ומשפחתית.\n\n✅ דרושים/ות:\n• מנהלי/ות משמרת\n• בריסטות\n\nמה אנחנו מחפשים?\nאנשים עם אחריות, יחסי אנוש טובים, אהבה לעולם השירות והקפה,\nורצון להשתלב בצוות חזק לטווח ארוך.\n\n📍 עבודה במשמרות\n💰 תנאים טובים למתאימים\n🚀 אפשרויות קידום למתאימים\n🤝 סביבת עבודה נעימה ומקצועית\n\nניסיון קודם - יתרון משמעותי.\n\nלפרטים:\nשי 0524002277",
-   "views": 75,
+   "views": 76,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2400,7 +2415,7 @@
    "post": "AceIsraelofficial/4652",
    "ts": "2026-11-11T09:09:20+00:00",
    "text": "💘 רווקים? לפחות תמצאו כיסא שיתאים לכם! 🪑\nביום הרווקים לא חייבים להתפשר, בטח לא על פינת העבודה שלכם 😉\n🔥 אקסטרה 10% הנחה על מגוון כיסאות ושולחנות כתיבה!\nכי מגיע לכם לשבת בנוח 😎\n\nלהנפקת קופון אישי » https://lp6.me/iasKN\n🛒 לרכישה באתר אייס >> https://tinyurl.com/47wuph2h\n\nבאתר בלבד עד 16.11 או עד גמר המלאי | לא כולל מוכרים חיצוניים | כפוף לתקנון https://www.ace.co.il/telegraextra10_tables",
-   "views": 3460,
+   "views": 3470,
    "forwarded_from": null,
    "media": [
     {
@@ -2694,15 +2709,6 @@
    "media": []
   },
   {
-   "id": "pa76b86d70e43",
-   "post": "amitsegal/67118",
-   "ts": "2026-11-11T08:00:45+00:00",
-   "text": "בנט במסר ברור לשותפיו ולחרדים:\nהגשתי את הצעת חוק המשרתים שיתעדף אותם על פני המשתמטים.\n\n״העקרונות שלנו ברורים ועל פיהם אנחנו פועלים כבר מהרגע הראשון. הצעת החוק שהגשנו עם השבעת הכנסת מדגישה את כוונותינו: להפוך את הפירמידה, ולהציב את המשרתים בראש סדר העדיפויות הלאומי.\n\nהתגמול שלנו למשרתים בסדיר ובמילואים, הוא מסר ברור עבורם ועבור בני משפחותיהם: אנחנו מחויבים לכם״.",
-   "views": 81800,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p95f8f83d8d0c",
    "post": "abualiexpress/133464",
    "ts": "2026-11-11T07:59:50+00:00",
@@ -2814,7 +2820,7 @@
    "post": "Israel_media_industry/3889",
    "ts": "2026-11-11T06:35:39+00:00",
    "text": "במחלקת החדשות ברדיו דרום מחפשים כתב/ת שטח\n\nהתפקיד במשרה מלאה .\n\nכולל ​סיקור אקטואליה, ​כתבות עומק ותחקירים לצד דיווחים שוטפים בזמן אמת ברדיו ובדיגיטל.\n\nמה צריך ?\n\n​רכב צמוד + רישיון נהיגה – חובה!\n\n​מגורים בבאר שבע והסביבה הקרובה – חובה.\n\n​זמינות לעבודת שטח דינמית והקפצות בזמן אמת.\n\n​ניסיון קודם – יתרון\n\nראש גדול . יצירתיות . ים מוטיבציה ...\n\n​📧 קורות חיים המלצות ותיק עבודות\n\namnon.sof@gmail.com",
-   "views": 271,
+   "views": 273,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2824,7 +2830,7 @@
    "post": "Israel_media_industry/3888",
    "ts": "2026-11-11T06:12:30+00:00",
    "text": "מערכת C14 מגייסת עורכים/ות לדסק החדשות!\n\nאנחנו מחפשים אנשי חדשות שחיים אקטואליה, יודעים לזהות סיפור, לנסח כותרת ולעבוד מהר ומדויק בסביבה חדשותית דינמית.\n\nדרישות:\n\n• היכרות מעמיקה עם סדר היום החדשותי\n• יכולת כתיבה ועריכה ברמה גבוהה\n• זריזות, אחריות ויכולת עבודה תחת לחץ\n• ניסיון קודם בתקשורת – יתרון\n\nהעבודה במשמרות בדסק החדשות של C14.\n\nחושבים שאתם מתאימים? שלחו קורות חיים ופרטים ליצירת קשר.\n\nitzhaka@now14.co.il",
-   "views": 264,
+   "views": 266,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -3166,7 +3172,7 @@
    "post": "Israel_media_industry/3887",
    "ts": "2026-11-10T15:26:19+00:00",
    "text": "ערוץ הספורט מגייס מפעיל/ת CG\n\nמחפשים מישהו/י עם ניסיון קודם בעבודה עם גרפיקה לשידור / CG, לעבודה בחדרי הקונטרול של ערוץ הספורט.\n\n✔️ ניסיון קודם רלוונטי - חובה\n\n✔️ ידע והיכרות עם עולם הספורט\n\n✔️ אוריינטציה טכנית, אחריות ויכולת לעבוד תחת לחץ\n\n✔️ זמינות לעבודה בשעות לא שגרתיות\n\n📍 הרצליה\n\n🕒 משרה מלאה במשמרות ערב כולל סופי שבוע\n\nלהגשת מועמדות ופרטים נוספים:\nhttps://rge.co.il/jobs/cg_sport5/",
-   "views": 325,
+   "views": 326,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -3176,7 +3182,7 @@
    "post": "Jobs_in_Jerusalem/36499",
    "ts": "2026-11-10T15:21:50+00:00",
    "text": "",
-   "views": 350,
+   "views": 351,
    "forwarded_from": null,
    "media": [
     {
@@ -3370,7 +3376,7 @@
    "post": "Jobs_in_Jerusalem/36497",
    "ts": "2026-11-09T16:31:48+00:00",
    "text": "",
-   "views": 413,
+   "views": 414,
    "forwarded_from": null,
    "media": [
     {
@@ -3386,7 +3392,7 @@
    "post": "Jobs_in_Jerusalem/36495",
    "ts": "2026-11-09T16:31:32+00:00",
    "text": "",
-   "views": 345,
+   "views": 347,
    "forwarded_from": null,
    "media": [
     {
@@ -3402,7 +3408,7 @@
    "post": "Jobs_in_Jerusalem/36496",
    "ts": "2026-11-09T16:31:32+00:00",
    "text": "",
-   "views": 364,
+   "views": 365,
    "forwarded_from": null,
    "media": [
     {
@@ -3428,7 +3434,7 @@
    "post": "Jobs_in_Jerusalem/36493",
    "ts": "2026-11-09T16:31:05+00:00",
    "text": "תכנית \"חלונות\" בירושלים למגזר החרדי מתרחבת! 🚀\nזו ההזדמנות שלך להשתלב בצוות המוביל שלנו ולרכוש מקצועיות עמוקה בתהליכי שילוב חברתי מותאמי-תרבות, עבור אנשים המתמודדים עם קושי נפשי (זכאי סל שיקום).\n\nמה אנחנו מציעים?\n\nעבודה משמעותית בעלת אופי של שליחות.\n\nליווי, הדרכה והתפתחות מקצועית בתחום השיקום.\n\nסביבת עבודה עטופה, תומכת ומותאמת תרבותית למגזר החרדי.\n\nאנחנו מחכים לפנייתך!\n\n📧 שליחת קורות חיים למייל:\n\nchalonot.romema@gmail.com",
-   "views": 345,
+   "views": 347,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -3550,7 +3556,7 @@
    "post": "Jobs_in_Jerusalem/36491",
    "ts": "2026-11-09T13:06:13+00:00",
    "text": "דרוש רכז גיוס\n📍 רמת #בית_שמש | חברה חרדית\nידע ב־Office, יחסי אנוש מעולים.\nעדיפות לניסיון במכירות וגיוס.\n🕘 09:00–17:00\n📞 052-710-5687\n✉️ 3300@100p.co.il",
-   "views": 371,
+   "views": 373,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -3792,7 +3798,7 @@
    "post": "Israel_media_industry/3884",
    "ts": "2026-11-08T12:53:16+00:00",
    "text": "",
-   "views": 472,
+   "views": 473,
    "forwarded_from": null,
    "media": [
     {
@@ -4799,7 +4805,7 @@
    "post": "Israel_media_industry/3874",
    "ts": "2026-10-29T07:53:50+00:00",
    "text": "",
-   "views": 927,
+   "views": 929,
    "forwarded_from": null,
    "media": [
     {
