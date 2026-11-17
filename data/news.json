@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:33:27.473448+00:00",
+ "updated": "2026-11-17T20:35:05.275826+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,26 @@
  "count": 347,
  "items": [
   {
+   "id": "p129cc3fd3f65",
+   "post": "amitsegal/67321",
+   "ts": "2026-11-17T20:33:03+00:00",
+   "text": "יצאתי לריצה וחזרתי עם תובנה",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/c3f2591f5b76fb4f.jpg"
+    }
+   ]
+  },
+  {
    "id": "pe3ef1d937e4f",
    "post": "merkaz/301462",
    "ts": "2026-11-17T20:32:29+00:00",
    "text": "ח״כ יהודה ויספיש בנאום בכורה במליאת הכנסת עם סיפור מביה״כ איצקוביץ׳",
-   "views": 1,
+   "views": 15,
    "forwarded_from": null,
    "media": [
     {
@@ -169,7 +184,7 @@
    "post": "merkaz/301461",
    "ts": "2026-11-17T20:22:49+00:00",
    "text": "צה״ל על מותה של האישה הפלסטינית בת ה-72 הלילה ביריחו: הפלסטינית נפגעה ככל הנראה מירי של אזרח ישראלי, שכיוון לעבר מרחב שממנו יידו אבנים. נסיבות מותה ממשיכות להיבדק. שני פלסטינים החשודים בתקיפת הישראלים באירוע - נעצרו לחקירה.",
-   "views": 62,
+   "views": 72,
    "forwarded_from": null,
    "media": []
   },
@@ -208,7 +223,7 @@
    "post": "abualiexpress/133824",
    "ts": "2026-11-17T20:16:59+00:00",
    "text": "שגריר ארה\"ב בישראל, מייק האקבי:\n\n1. על תבוסת הרפובליקנים בבחירות האמצע: ישראל אינה הסיבה לכישלון הרפובליקנים בבחירות בשבוע שעבר. אם בוחנים את הנתונים בפועל, מדגמי היציאה מהקלפיות הראו שרק 17% מהאוונגליסטים יצאו להצביע בשבוע שעבר.\n\nאין גוש מצביעים חיוני יותר לניצחון הרפובליקנים מהמצביעים האוונגליסטים בארה\"ב, המונים 80 מיליון איש. כשהם יוצאים להצביע בהמוניהם, הרפובליקנים מנצחים. כשהם נשארים בבית, הרפובליקנים מפסידים.\n\n2. על החזית השמינית: ישראל חייבת להיות פעילה באינסטגרם, בטוויטר ובטיקטוק. לא מפני שזה מהנה או משום שמדובר במקורות מידע אמינים, אלא מפני ששם ישראל סופגת מתקפות קשות בקרב הקהל הצעיר, מתחת לגיל 35.\n\n3. על ההצלחה הכלכלית של ישראל: תסתכלו על הנתונים הכלכליים של ישראל - צמיחה של 7.5% בתמ\"ג בעיצומן של חמש מלחמות. אתם רציניים? אף מדינה אחרת לא מצליחה לעשות דבר כזה.",
-   "views": 12500,
+   "views": 13500,
    "forwarded_from": null,
    "media": [
     {
@@ -223,7 +238,7 @@
    "post": "amitsegal/67320",
    "ts": "2026-11-17T20:16:38+00:00",
    "text": "גורמים בשב״כ:\nבהמשך למכתבו של כבוד השופט סולברג,\nתפקוד השירות באופן יעיל ומקצועי הינו פועל יוצא של אמון הציבור תוך שמירה על החוק ועל הדמוקרטיה הישראלית.\nלאור זאת על מנת למנוע פרשנות שאינה מהימנה של הכתוב במכתב.\nאנו מדגישים כי כמופיע במכתבו של השופט סולברג ישנן חשדות רבים שאם יוכחו כנכונים, עשויים להשפיע גם על חלק מתוצאות הבחירות. כאמור במכתב, חשדות אלה לא הבשילו לכדי ראיות מספקות, זאת מפאת המגבלות המוטלות על החקירה.\nשב״כ ימשיך לפעול בממלכתיות ועל פי החוק למימוש ייעודו.",
-   "views": 17100,
+   "views": 18100,
    "forwarded_from": null,
    "media": []
   },
@@ -324,7 +339,7 @@
    "post": "ramreports/217786",
    "ts": "2026-11-17T19:53:53+00:00",
    "text": "חיזבאללה בעיראק מפרסם",
-   "views": 5520,
+   "views": 5580,
    "forwarded_from": null,
    "media": [
     {
@@ -366,7 +381,7 @@
    "post": "merkaz/301460",
    "ts": "2026-11-17T19:50:17+00:00",
    "text": "יהדות התורה תימנע בהצבעה במליאת הכנסת על בחירת סגני יו\"ר הכנסת.",
-   "views": 195,
+   "views": 204,
    "forwarded_from": null,
    "media": []
   },
@@ -384,7 +399,7 @@
    "post": "ramreports/217785",
    "ts": "2026-11-17T19:49:14+00:00",
    "text": "הנחיית הדריכות לצבא בעניין תקיפה אפשרית באיראן נותרה בעינה\n\n(מדברים על שישי🤦)",
-   "views": 6480,
+   "views": 6570,
    "forwarded_from": null,
    "media": []
   },
@@ -424,7 +439,7 @@
    "post": "abualiexpress/133823",
    "ts": "2026-11-17T19:47:22+00:00",
    "text": "עמוד יווני פופולרי ברשת X לועג להליכתו המוזרה של ארדואן:\n\n\"טורקיה היא מדינה כל כך מתקדמת מבחינת הייטק שאפילו יש לה נשיא - רובוט\"",
-   "views": 27000,
+   "views": 28100,
    "forwarded_from": null,
    "media": [
     {
@@ -439,7 +454,7 @@
    "post": "ramreports/217784",
    "ts": "2026-11-17T19:46:22+00:00",
    "text": "חמש תקיפות אוויריות אמריקאיות כוונו נגד משגרי טילים ומתקני מכ\"ם באי קשם, איראן.",
-   "views": 6870,
+   "views": 6930,
    "forwarded_from": null,
    "media": []
   },
@@ -495,7 +510,7 @@
    "post": "abualiexpress/133820",
    "ts": "2026-11-17T19:32:38+00:00",
    "text": "אבדנאן, מערב איראן - המפגינים המתנגדים למשטר האיראני קוראים לעבר כוחות הביטחון שהגיעו כדי לטפל מחאה:\n\n\"חסרי כבוד\nחסרי כבוד\"\n\n##\nאלו אותן הסיסמאות שנשמעו במחאות של ינואר - אז אירע הטבח הגדול במפגינים.\n\nהאומץ חזר אל המפגינים באבדנאן.",
-   "views": 31100,
+   "views": 32100,
    "forwarded_from": null,
    "media": [
     {
@@ -559,7 +574,7 @@
    "post": "amitsegal/67318",
    "ts": "2026-11-17T19:28:00+00:00",
    "text": "גוש השינוי הגיע להסכמות עם הליכוד: בחירת יו\"ר הכנסת תהיה בעוד כשעתיים, בתמורה להקפאת ביטול חוקי הרפורמה המשפטית עד יום שני",
-   "views": 41700,
+   "views": 42700,
    "forwarded_from": null,
    "media": []
   },
@@ -681,7 +696,7 @@
    "post": "ramreports/217783",
    "ts": "2026-11-17T19:06:55+00:00",
    "text": "בנט: זה או אחדות או בחירות",
-   "views": 9800,
+   "views": 9860,
    "forwarded_from": null,
    "media": []
   },
@@ -705,7 +720,7 @@
    "post": "iBuyIL/28077",
    "ts": "2026-11-17T18:56:03+00:00",
    "text": "המחיר התרסקקקקק!!!!\nיאבלולולו של דיל על טאבלט 10.1 אינץ' Teclast P30T עד 120Hz מתחת לרף המס!!! 🤯💥🤯💥 חשוב חשוב חשוב לשלם בדולרים 💲\n\nדגם P30T עם מסך 10.1'' וקצב רענון מטורף עד 120Hz # זיכרון 32GB RAM + 128GB אחסון (ניתן להרחבה) # מעבד T610 אוקטה-קור # סוללה חזקה 6000mAh # אנדרואיד 16 # תמיכה ב-Widevine L1\n# גרסה גלובלית # Brand+ מקורי\n\n💳 מחיר סופי 66.22$ / 215₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/up-to-120hz-refresh-rate-tecla\n\nפצצה של טאבלט לגלישה, לימודים, משחקים או צפייה בסדרות ! 😎💻\n\n✔️ קצב רענון עד 120Hz לגלילה וחוויה חלקה במיוחד\n✔️ מסך בגודל 10.1 אינץ' (25.7 ס\"מ) עם TDDI לתצוגה איכותית\n✔️ מערכת הפעלה Android 16 עדכנית\n✔️ זיכרון פנימי גדול: 128GB פלוס אופציה להוסיף עד 32GB נוספים\n✔️ מעבד שמונה ליבות Unisoc T610 לביצועים יומיומיים טובים\n✔️ סוללה גדולה - 6000mAh להמון שעות עבודה\n✔️ תומך Widevine L1: מתאים לצפייה באיכות גבוהה בשירותי סטרימינג\n\nלדיון בפוסט https://www.facebook.com/share/p/18b7rKSNTS/",
-   "views": 836,
+   "views": 844,
    "forwarded_from": null,
    "media": [
     {
@@ -766,7 +781,7 @@
    "post": "ramreports/217780",
    "ts": "2026-11-17T18:42:37+00:00",
    "text": "רה\"מ נתניהו בכנסת: \"האתגרים היום גדולים כמו לפני ששת הימים - צריך ממשלת אחדות\"",
-   "views": 9940,
+   "views": 9970,
    "forwarded_from": null,
    "media": []
   },
@@ -775,7 +790,7 @@
    "post": "merkaz/301459",
    "ts": "2026-11-17T18:39:53+00:00",
    "text": "יוסי יהושוע: המוסד העביר ליוון מידע שהוביל למעצר החוליה האיראנית",
-   "views": 341,
+   "views": 345,
    "forwarded_from": null,
    "media": []
   },
@@ -784,7 +799,7 @@
    "post": "merkaz/301458",
    "ts": "2026-11-17T18:37:58+00:00",
    "text": "הרמטכ\"ל אייל זמיר מקדם תוכנית צמצום כוחות: בדיון אמש בקריה סוכם להוציא בחודשים הבאים אוגדה מעזה ולהשאיר אחת בלבד, כמו לפני ה-7 באוקטובר, וכן להוציא מפקדת אוגדה מלבנון. בנוסף יצומצמו 9 גדודים ללא כוחות חלופיים. המהלך עלול להוביל לנסיגה חלקית או מלאה מחזיתות ולצמצום מוצבים (הלל ביטון רוזן).",
-   "views": 355,
+   "views": 357,
    "forwarded_from": null,
    "media": []
   },
@@ -837,7 +852,7 @@
    "post": "merkaz/301457",
    "ts": "2026-11-17T18:34:59+00:00",
    "text": "לפיד ואיזנקוט נפגשו לפני זמן קצר בכנסת",
-   "views": 359,
+   "views": 362,
    "forwarded_from": null,
    "media": []
   },
@@ -846,7 +861,7 @@
    "post": "merkaz/301456",
    "ts": "2026-11-17T18:32:07+00:00",
    "text": "מפקד סנטקום, אדמירל בראד קופר, יבקר מחר בישראל וייפגש עם בכירי מערכת הביטחון הישראלית (דורון קדוש).",
-   "views": 363,
+   "views": 365,
    "forwarded_from": null,
    "media": []
   },
@@ -879,7 +894,7 @@
    "post": "merkaz/301455",
    "ts": "2026-11-17T18:23:51+00:00",
    "text": "ינון מגל: היועמ\"שית מיארה הודיעה לרמ\"י כי אסור לפתוח את מעטפות המכרז לבנייה בשטח E1 עד לאחר הרכבת הממשלה. לאחר שכבר עיכבה את פתיחתן עד אחרי הבחירות. ההודעה מגיעה ביום שבו בריטניה הטילה סנקציות על חברות בנייה ישראליות הפועלות ביו\"ש.",
-   "views": 389,
+   "views": 390,
    "forwarded_from": null,
    "media": []
   },
@@ -903,7 +918,7 @@
    "post": "merkaz/301454",
    "ts": "2026-11-17T18:21:22+00:00",
    "text": "תקלות נוספות בארה\"ב: משתמשים מדווחים על תקלות במספר שירותים מרכזיים, בהם ג'ימייל, רשת המלונות מריוט, מיקרוסופט אאוטלוק ומיקרוסופט 365. במקביל נרשמת עלייה חדה במספר הדיווחים על תקלות בשירותי התמיכה של אפל, בחנות האפליקציות שלה, בשירות הענן iCloud ובשירות התשלומים Apple Pay (אבו עלי).",
-   "views": 399,
+   "views": 400,
    "forwarded_from": null,
    "media": [
     {
@@ -927,7 +942,7 @@
    "post": "merkaz/301453",
    "ts": "2026-11-17T18:19:44+00:00",
    "text": "עוד מנתניהו: האתגרים עכשיו לא פחות גדולים מהימים שהיו לפני מלחמת ששת הימים. במובנים מסוימים הם יעוד יותר גדולים",
-   "views": 328,
+   "views": 329,
    "forwarded_from": null,
    "media": []
   },
@@ -1006,7 +1021,7 @@
    "post": "merkaz/301450",
    "ts": "2026-11-17T18:14:12+00:00",
    "text": "שר החוץ גדעון סער על הסנקציות שהטילה היום בריטניה על חברות ישראליות: ישראל רואה בחומרה רבה את הסנקציות הנוספות נגדה. ישראל לא תיכנע ולא תשנה את מדיניותה תחת לחצים חיצוניים. ישראל תנקוט צעדי-נגד למהלך הבריטי.",
-   "views": 303,
+   "views": 304,
    "forwarded_from": null,
    "media": []
   },
@@ -1039,7 +1054,7 @@
    "post": "merkaz/301449",
    "ts": "2026-11-17T18:12:30+00:00",
    "text": "מפקד פיקוד המרכז האמריקני בראד קופר ביקר היום בישראל",
-   "views": 299,
+   "views": 301,
    "forwarded_from": null,
    "media": []
   },
@@ -1088,7 +1103,7 @@
    "post": "amitsegal/67313",
    "ts": "2026-11-17T18:05:09+00:00",
    "text": "הרב הירש דוחה את מתווה הפטור של גוש השינוי והמגעים עם החרדים תקועים",
-   "views": 61400,
+   "views": 62400,
    "forwarded_from": null,
    "media": [
     {
@@ -1134,7 +1149,7 @@
    "post": "HiTech_Jobs_In_Israel/139137",
    "ts": "2026-11-17T18:00:19+00:00",
    "text": "Software Development Engineer - Shopping Personalization, Amazon Stores at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10570946/software-development-engineer-shopping-personalization-amazon-stores?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 120,
+   "views": 122,
    "forwarded_from": null,
    "media": [
     {
@@ -1150,7 +1165,7 @@
    "post": "HiTech_Jobs_In_Israel/139136",
    "ts": "2026-11-17T18:00:18+00:00",
    "text": "Procurement Business Partner - Base44 at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162118677?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 122,
+   "views": 124,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1160,7 +1175,7 @@
    "post": "HiTech_Jobs_In_Israel/139135",
    "ts": "2026-11-17T18:00:17+00:00",
    "text": "Senior Director Product, Autonomous Data Analytics at ServiceNow\nLocation: Petah Tikva\nPress here https://www.smartrecruiters.com/ServiceNow/744000162114935?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 106,
+   "views": 108,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1170,7 +1185,7 @@
    "post": "HiTech_Jobs_In_Israel/139134",
    "ts": "2026-11-17T18:00:08+00:00",
    "text": "Senior C++ Developer – Neural Network Integration & Production 3D Sensing Systems at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/a3c063b1-9d4e-436e-b0d8-c1619377be37?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 104,
+   "views": 106,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1180,7 +1195,7 @@
    "post": "HiTech_Jobs_In_Israel/139133",
    "ts": "2026-11-17T18:00:07+00:00",
    "text": "C++ Developer – Neural Network Integration & Production 3D Sensing Systems at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/da4f0a8d-6af3-4150-9acf-1898e83d5a61?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 106,
+   "views": 108,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1190,7 +1205,7 @@
    "post": "HiTech_Jobs_In_Israel/139132",
    "ts": "2026-11-17T18:00:02+00:00",
    "text": "QA Engineer – Firmware Team at DRIVENETS\nLocation: Raanana, Israel\nPress here https://drivenets.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 190,
+   "views": 192,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1200,7 +1215,7 @@
    "post": "HiTech_Jobs_In_Israel/139131",
    "ts": "2026-11-17T18:00:01+00:00",
    "text": "QA E2E System Team Leader at DRIVENETS\nLocation: Raanana, Israel\nPress here https://drivenets.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 189,
+   "views": 191,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1251,7 +1266,7 @@
    "post": "SALAMTAK_DEALS/58836",
    "ts": "2026-11-17T17:48:14+00:00",
    "text": "פולו של Tommy Hilfiger בשליש מהמחיר בארץ? כן, זה קורה עכשיו! 😎👕\n\nחולצת פולו מקורית בשרוול קצר\nחולצות פולו של Tommy Hilfiger\n\n👕 שתי גזרות לבחירה: Regular Fit או Slim Fit\n🌿 גזרה רגילה מכותנת Liquid Cotton רכה\n💪 גזרה צרה מכותנה אורגנית עם קצת סטרץ'\n🚩 דגל Tommy Hilfiger רקום על החזה\n🎨 עשרות צבעים לבחירה\n\n💰 מחיר: החל מ-113₪ ($34.75)\n👈 המחיר משתנה לפי צבע ומידה\n🚚 משלוח חינם עד הבית בסל מעל 49$\n\nלינק לשתי הגזרות 👇\nhttps://salamtak.deals/archives/51432\n\n🛒 מחפשים מה להוסיף לסל הקניות כדי להגיע לרף של 49$ ולקבל משלוח חינם?\nזה הלינק עבורכם עם המוצרים הזולים שתמיד טוב שיש בבית\nבמחירי השלמה מעולים 👇\nhttps://salamtak.deals/28455-2\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 728,
+   "views": 732,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1410,7 +1425,7 @@
    "post": "merkaz/301448",
    "ts": "2026-11-17T17:16:55+00:00",
    "text": "לטענת הוול סטריט ג׳ורנל האירוע בארה\"ב של נפילת רשת התקשורת אינה סייבר מדובר רק ״בעדכון תוכנה״",
-   "views": 350,
+   "views": 351,
    "forwarded_from": null,
    "media": []
   },
@@ -1419,7 +1434,7 @@
    "post": "merkaz/301447",
    "ts": "2026-11-17T17:15:08+00:00",
    "text": "בית משפט השלום בנתניה גזר 27 חודשי מאסר ותשלום פיצויים בסך 30 אלף ש\"ח לסרבן גט, שבית הדין הרבי כבר קבע לפני יותר מ-6 שנים שעליו להתגרש ממנה",
-   "views": 347,
+   "views": 348,
    "forwarded_from": null,
    "media": []
   },
@@ -1428,7 +1443,7 @@
    "post": "merkaz/301446",
    "ts": "2026-11-17T17:13:09+00:00",
    "text": "במסר לאירן: פיקוד המרכז האמריקני מפרסם תמונות של שתי נושאות מטוסים אמריקניות זו לצד זו בים הערבי",
-   "views": 341,
+   "views": 342,
    "forwarded_from": null,
    "media": [
     {
@@ -1697,7 +1712,7 @@
    "post": "HiTech_Jobs_In_Israel/139130",
    "ts": "2026-11-17T16:00:16+00:00",
    "text": "Senior Site Reliability Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2030134?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 156,
+   "views": 158,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1707,7 +1722,7 @@
    "post": "HiTech_Jobs_In_Israel/139129",
    "ts": "2026-11-17T16:00:12+00:00",
    "text": "Senior Software Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2633431?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 150,
+   "views": 152,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1717,7 +1732,7 @@
    "post": "HiTech_Jobs_In_Israel/139128",
    "ts": "2026-11-17T16:00:09+00:00",
    "text": "Mid-Market Sales Specialist at Payoneer\nLocation: Herzliya, Tel Aviv District, Israel\nPress here https://www.payoneer.com/careers/position/8392384/?gh_jid=8392384&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 132,
+   "views": 134,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1727,7 +1742,7 @@
    "post": "HiTech_Jobs_In_Israel/139127",
    "ts": "2026-11-17T16:00:05+00:00",
    "text": "PMM Team Lead at Lusha\nLocation: Tel Aviv\nPress here https://www.lusha.com/careers/co/tel-aviv/27.475/pmm-team-lead/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 130,
+   "views": 132,
    "forwarded_from": null,
    "media": [
     {
@@ -1743,7 +1758,7 @@
    "post": "HiTech_Jobs_In_Israel/139126",
    "ts": "2026-11-17T16:00:03+00:00",
    "text": "Senior Backend Software Engineer at DealHub\nLocation: Holon, Israel\nPress here https://www.comeet.com/jobs/dealhub/86.005/senior-backend-software-engineer/76.573?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 130,
+   "views": 132,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1753,7 +1768,7 @@
    "post": "HiTech_Jobs_In_Israel/139125",
    "ts": "2026-11-17T16:00:02+00:00",
    "text": "Senior Software Engineer at Checkmarx\nLocation: Ramat Gan, Israel\nPress here https://checkmarx.com/job-openings/position/35.27F/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 128,
+   "views": 130,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1763,7 +1778,7 @@
    "post": "HiTech_Jobs_In_Israel/139124",
    "ts": "2026-11-17T16:00:01+00:00",
    "text": "Senior Data Product Manager, AI at ActiveFence\nLocation: Ramat Gan, IL\nPress here https://alice.io/positions/position-91_47e?utm_type=model_hardening&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 120,
+   "views": 122,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1793,7 +1808,7 @@
    "post": "iBuyIL/28074",
    "ts": "2026-11-17T15:46:59+00:00",
    "text": "איי אייי אייייי איזה דיל שאי אפשר לסרב לו!!! אחד הדגמים האהובים והנמכרים של Osprey ב-40% הנחה שמביאים אותו למחיר שווה מתחת לרף המס במשלוח חינם!!! 🎒\n\nתרמיל גב 30 ליטר Osprey Proxima\n\nיום עמוס? תיק אחד לסחוב את הכל, ולהרגיש קליל 😎🎒\nתרמיל Osprey Proxima כאן בשביל כל מי שחי על הקו בין הלימודים, העבודה והאקשן של היום יום\n\n💳 מחיר סופי: 66.00$ \\ 213₪ (במקום $110.00) זמין גם בצבע תכלת מתחת לרף המס בתוספת כמה דולרים בוגגים למי שמעוניין\n\n✈️ המחיר כולל משלוח חינם עד הבית בלי להוסיף כלום!\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/osprey-proxima-30l-campus-lapt\n\n✔️ תא ייעודי ללפטופ עד 16 אינץ' ותא לטאבלט\n✔️ כיסי ארגון עם רוכסן, שרוול למסמכים, מחזיק מפתחות וכיס עליון לדברים חשובים או משקפי שמש\n✔️ גב אוורירי עם ריפוד AirScape\n✔️ רצועות דחיסה חיצוניות לנשיאת יוגה-מאט, סקייטבורד או ג'קט\n✔️ עשוי 100% פוליאסטר ממוחזר ועמיד במיוחד\n✔️ מתאים לשימוש יומיומי, אמין וגם שומר על הסביבה 🌿\n\nלדיון בפוסט https://www.facebook.com/share/p/19twDCmboq/",
-   "views": 1320,
+   "views": 1330,
    "forwarded_from": null,
    "media": [
     {
@@ -1809,7 +1824,7 @@
    "post": "ramreports/217777",
    "ts": "2026-11-17T15:45:59+00:00",
    "text": "מערכות התקשורת של הסוכנות לביטחון לאומי של ארה\"ב (NSA) קרסו. מדובר באחת מסוכנויות המודיעין המרכזיות של ארצות הברית, כך דווח ב-CNN",
-   "views": 14700,
+   "views": 14800,
    "forwarded_from": null,
    "media": []
   },
@@ -1842,7 +1857,7 @@
    "post": "amitsegal/67304",
    "ts": "2026-11-17T15:29:43+00:00",
    "text": "רגע מיוחד במליאה: מרכזת האופוזיציה בכנסת החולפת מירב בן ארי מודה ליו״ר היוצא אוחנה",
-   "views": 72800,
+   "views": 73800,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -1861,7 +1876,7 @@
    "post": "ramreports/217776",
    "ts": "2026-11-17T15:20:28+00:00",
    "text": "המשותפת הודיעה שתתמוך במתן כהנא לתפקיד יו\"ר הכנסת",
-   "views": 14600,
+   "views": 14700,
    "forwarded_from": null,
    "media": []
   },
@@ -1944,7 +1959,7 @@
    "post": "ramreports/217775",
    "ts": "2026-11-17T14:48:45+00:00",
    "text": "נאצים ערבים נצפו זורקים כלבים חיים קשורים בידיים וברגליים לביצת מים גדולה ליד מעלה אפריים. יהודים שחיים בחווה הסמוכה הגיעו לשם והצליחו לחלץ רק את הכלב האחרון ששרד.\nתתי אדם.\nאין מילים.\n(אזהרת צפיה🔴)\n\nאיילת לאש",
-   "views": 14800,
+   "views": 14900,
    "forwarded_from": null,
    "media": [
     {
@@ -2082,15 +2097,6 @@
    ]
   },
   {
-   "id": "p0f7b700b093e",
-   "post": "amitsegal/67301",
-   "ts": "2026-11-17T14:01:53+00:00",
-   "text": "המסר של איזנקוט לליברמן והחרדים:\n\n\"לצה\"ל חסרים 12,000 לוחמים. צה\"ל חייב להתחזק כדי לעמוד במשימות ובאתגרים. נחפש פשרות והבנות, אבל לא יהיה ויתור על זה\"",
-   "views": 78100,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p7a00842991a3",
    "post": "abualiexpress/133800",
    "ts": "2026-11-17T14:01:30+00:00",
@@ -2120,7 +2126,7 @@
    "post": "HiTech_Jobs_In_Israel/139122",
    "ts": "2026-11-17T14:00:23+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 152,
+   "views": 154,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2130,7 +2136,7 @@
    "post": "HiTech_Jobs_In_Israel/139121",
    "ts": "2026-11-17T14:00:21+00:00",
    "text": "Talent Acquisition Partner - Sourcing Expert (Temp Position) at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162060211?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 156,
+   "views": 158,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2140,7 +2146,7 @@
    "post": "HiTech_Jobs_In_Israel/139120",
    "ts": "2026-11-17T14:00:20+00:00",
    "text": "Senior Staff Technical Program Manager (Armis/Veza) at ServiceNow\nLocation: Tel Aviv-Yafo\nPress here https://www.smartrecruiters.com/ServiceNow/744000162063081?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 147,
+   "views": 149,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2150,7 +2156,7 @@
    "post": "HiTech_Jobs_In_Israel/139119",
    "ts": "2026-11-17T14:00:17+00:00",
    "text": "Manufacturing Training Technician at Intel\nLocation: Israel, Kiryat-Gat\nPress here https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Manufacturing-Training-Technician_JR0289237?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 137,
+   "views": 139,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2160,7 +2166,7 @@
    "post": "HiTech_Jobs_In_Israel/139118",
    "ts": "2026-11-17T14:00:16+00:00",
    "text": "Manufacturing Training Engineer at Intel\nLocation: Israel, Kiryat-Gat\nPress here https://intel.wd1.myworkdayjobs.com/External/job/Israel-Kiryat-Gat/Manufacturing-Training-Engineer_JR0289229-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 138,
+   "views": 140,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2373,7 +2379,7 @@
    "post": "ramreports/217768",
    "ts": "2026-11-17T12:49:16+00:00",
    "text": "האיראנים ממשיכים להפיל כלי טייס בלתי מאוישים של ארצות הברית בהורמוז לטענתם.",
-   "views": 11300,
+   "views": 11400,
    "forwarded_from": null,
    "media": [
     {
@@ -2511,7 +2517,7 @@
    "post": "iBuyIL/28067",
    "ts": "2026-11-17T11:58:04+00:00",
    "text": "ירידת מחיר שווה 🔻🔻🔻\nאיזה פנס לוקחים לטיול כשלא מוכנים לוותר על אור מלא🔦✨ גם בשטח? כשיוצאים לקמפינג, לילה בלי תאורה טובה יכול להפוך את כל החוויה למבאסת במיוחד.. הפנס הזה הופך את הלילה ליום- הבטחה של קולמן, מהמותגים המובילים בעולם הקמפינג כבר עשרות שנים ⛺\n\nחזר למשלוח חינם אחרי תקופה ארוכה..\n\nפנס לד עוצמתי לקמפינג Coleman 700L (כולל 4 סוללות D)\n\n💳 מחיר סופי: 31.99$ / 103₪\n\n👈 משלוח חינם בתנאי הגעה ל-49$\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/coleman-700l-led-lantern-with\n\n💡 עוצמת תאורה מרשימה: עד 700 לומן\n📏 טווח הארה: 12 מטר במצב גבוה, 8 מטר במצב נמוך\n⏳ זמן פעולה: עד 30 שעות (גבוה), עד 70 שעות(!) במצב נמוך\n🧳 ידית נשיאה עם קרבינה: תלייה קלה ונשיאה ביד אחת\n💧 עמידות למים: דרגת IPX4\n💡 לדים עמידים במיוחד: נורת LED שלא צריך להחליף אף פעם\n💪 עמידות בפני נפילות: שורד נפילה מגובה מטר בלי למצמץ\n\nהפנסים של Coleman הם הסטנדרט הגלובלי בתחום- לילות בשטח יהיו בטוחים, מוארים ובעיקר פשוט קלים יותר!\n\nלדיון בפוסט https://www.facebook.com/share/p/18LpMgN3i1/",
-   "views": 1420,
+   "views": 1430,
    "forwarded_from": null,
    "media": [
     {
