@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:33:09.734488+00:00",
+ "updated": "2026-11-18T10:34:50.855030+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,53 @@
  "count": 350,
  "items": [
   {
+   "id": "p72d2d331ddc6",
+   "post": "haskupim/203174",
+   "ts": "2026-11-18T10:34:17+00:00",
+   "text": "חדשות הסקופים\nאצל איזנקוט למדו על פגישת נתניהו בנט דרך התקשורת\nביני אשכנזי",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "pc2d70bdc0be7",
+   "post": "amitsegal/67354",
+   "ts": "2026-11-18T10:33:38+00:00",
+   "text": "אם מדובר בתדרוך ביטחוני, היכן המזכיר הצבאי של רה״מ?",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "pdf22bb2a3557",
+   "post": "amitsegal/67353",
+   "ts": "2026-11-18T10:33:02+00:00",
+   "text": "בינתיים סמוך למזנון, שני המופתעים מסתודדים",
+   "views": 1060,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/d690deb406bdcdc7.jpg"
+    }
+   ]
+  },
+  {
+   "id": "p4543591a3b0e",
+   "post": "haskupim/203173",
+   "ts": "2026-11-18T10:32:13+00:00",
+   "text": "חדשות הסקופים\nהליכוד: ראש הממשלה בנימין נתניהו ויו״ר מפלגת ביחד נפתלי בנט נפגשים כעת לתדרוך בטחוני בכנסת.",
+   "views": 15,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
    "id": "p7a987491fd3f",
    "post": "merkaz/301513",
    "ts": "2026-11-18T10:31:24+00:00",
    "text": "הליכוד; נתניהו מקיים תדרוך ביטחוני עם בנט.",
-   "views": 1,
+   "views": 27,
    "forwarded_from": null,
    "media": []
   },
@@ -163,7 +205,7 @@
    "post": "merkaz/301512",
    "ts": "2026-11-18T10:29:46+00:00",
    "text": "עמית סגל: בנט לא תיאם עם איזנקוט את הפגישה עם נתניהו.",
-   "views": 33,
+   "views": 50,
    "forwarded_from": null,
    "media": []
   },
@@ -172,7 +214,7 @@
    "post": "haskupim/203172",
    "ts": "2026-11-18T10:29:09+00:00",
    "text": "חדשות הסקופים\nאצל נתניהו לא עונים האם המזכ״צ בחדר. בנט לא נושא בתפקיד רשמי כמו יו״ר האופוזיציה או ראש הסיעה הגדולה ולכן העיתוי של קבלת התדרוך הבטחוני מעלה תהיה\nביני אשכנזי",
-   "views": 15,
+   "views": 21,
    "forwarded_from": null,
    "media": []
   },
@@ -199,7 +241,7 @@
    "post": "amitsegal/67352",
    "ts": "2026-11-18T10:28:33+00:00",
    "text": "בנט לא תיאם עם איזנקוט את הפגישה עם נתניהו",
-   "views": 4140,
+   "views": 7210,
    "forwarded_from": null,
    "media": []
   },
@@ -208,7 +250,7 @@
    "post": "amitsegal/67351",
    "ts": "2026-11-18T10:28:19+00:00",
    "text": "דקות אחרי, ראש המל״ל נכנס לפגישה",
-   "views": 4140,
+   "views": 6190,
    "forwarded_from": null,
    "media": []
   },
@@ -226,7 +268,7 @@
    "post": "haskupim/203170",
    "ts": "2026-11-18T10:23:26+00:00",
    "text": "חדשות הסקופים\nחיים לוינסון: בנט מפרק את גוש השינוי ונותן לביבי עוד בחירות\n\n(פרוייקט סקופים)",
-   "views": 30,
+   "views": 37,
    "forwarded_from": null,
    "media": []
   },
@@ -235,7 +277,7 @@
    "post": "haskupim/203169",
    "ts": "2026-11-18T10:23:24+00:00",
    "text": "חדשות הסקופים\nעדכון | חוק עוקף סנקציות של יעקב אשר הונח בכנסת | הצעת החוק של יעקב אשר תמנע מפקידים לשלול הטבות מאזרחים ללא הסמכה מפורשת בחוק. אשר: \"סמכות שלטונית אינה רישיון להעניש אזרחים לפי שיקול דעת פקיד\".",
-   "views": 26,
+   "views": 34,
    "forwarded_from": null,
    "media": []
   },
@@ -264,7 +306,7 @@
    "post": "merkaz/301511",
    "ts": "2026-11-18T10:21:05+00:00",
    "text": "שמש: לשכת בנט שותקת ולא מוסרת פרטים על הפגישה החריגה שלו עם נתניהו",
-   "views": 61,
+   "views": 73,
    "forwarded_from": null,
    "media": [
     {
@@ -284,7 +326,7 @@
    "post": "amitsegal/67350",
    "ts": "2026-11-18T10:20:44+00:00",
    "text": "ללכת לפגישה בלשכת נתניהו מול כל המצלמות -\n\nמי שעושה את זה יודע בדיוק איך זה נראה ואיך זה מתרחש",
-   "views": 13000,
+   "views": 14100,
    "forwarded_from": null,
    "media": []
   },
@@ -293,7 +335,7 @@
    "post": "amitsegal/67349",
    "ts": "2026-11-18T10:20:39+00:00",
    "text": "הליכוד: מדובר בתדרוך ביטחוני",
-   "views": 12000,
+   "views": 14100,
    "forwarded_from": null,
    "media": []
   },
@@ -317,7 +359,7 @@
    "post": "merkaz/301510",
    "ts": "2026-11-18T10:19:00+00:00",
    "text": "חוק עוקף סנקציות: יו\"ר יהדות התורה ח\"כ יעקב אשר יוזם מהלך שימנע מפקידים לשלול הטבות מאזרחים ללא הסמכה מפורשת בחוק. הצעת החוק של ח\"כ יעקב אשר, שאושרה היום בנשיאות הכנסת והונחה על שולחנה, נועדה למנוע מפקידי ממשלה להשתמש בשלילת הטבות כלכליות וסוציאליות כאמצעי ענישה או אכיפה, ללא הסמכה מפורשת בחוק.",
-   "views": 71,
+   "views": 83,
    "forwarded_from": null,
    "media": []
   },
@@ -326,7 +368,7 @@
    "post": "merkaz/301509",
    "ts": "2026-11-18T10:15:37+00:00",
    "text": "לפחות שלושה בני אדם נהרגו מפגיעה של כטב\"ם מתאבד רוסי בעיר אודסה שבדרום אוקראינה - כך הודיע מושל המחוז. ערוצים אוקראיניים פרסמו תיעוד מהפגיעה הישירה.",
-   "views": 81,
+   "views": 86,
    "forwarded_from": null,
    "media": [
     {
@@ -346,7 +388,7 @@
    "post": "haskupim/203168",
    "ts": "2026-11-18T10:14:19+00:00",
    "text": "חדשות הסקופים\nבנט נכנס ללשכת נתניהו | נפתלי בנט נכנס כעת ללשכת ראש הממשלה נתניהו.",
-   "views": 36,
+   "views": 40,
    "forwarded_from": null,
    "media": [
     {
@@ -366,7 +408,7 @@
    "post": "merkaz/301508",
    "ts": "2026-11-18T10:14:00+00:00",
    "text": "דרמטי - נפתלי בנט נכנס כעת ללשכת רה״מ נתניהו (שלום שטיין).",
-   "views": 108,
+   "views": 114,
    "forwarded_from": null,
    "media": []
   },
@@ -375,7 +417,7 @@
    "post": "amitsegal/67348",
    "ts": "2026-11-18T10:12:47+00:00",
    "text": "שעה לפני שייפגש עם ראשי גוש השינוי",
-   "views": 18000,
+   "views": 19100,
    "forwarded_from": null,
    "media": []
   },
@@ -384,7 +426,7 @@
    "post": "amitsegal/67347",
    "ts": "2026-11-18T10:11:38+00:00",
    "text": "בנט נכנס ללשכת נתניהו בכנסת\n\n(",
-   "views": 19900,
+   "views": 22000,
    "forwarded_from": null,
    "media": [
     {
@@ -404,7 +446,7 @@
    "post": "merkaz/301507",
    "ts": "2026-11-18T10:10:38+00:00",
    "text": "דרמטי - נפתלי בנט נכנס כעת ללשכת רה״מ נתניהו (שלום שטיין).",
-   "views": 103,
+   "views": 109,
    "forwarded_from": null,
    "media": []
   },
@@ -429,7 +471,7 @@
    "post": "iBuyIL/28085",
    "ts": "2026-11-18T10:08:22+00:00",
    "text": "חוץ מלהטעין את הרכב שלכם, המטען הזה עושה הכל 😆🔋🚗\nהמטען המטורף 150W הזה לא מתרגש מפקקים או טיולים משפחתיים, ומטעין הכל ביחד! 🏕️🚗\nאם אתם מאלו שתמיד חסר להם כבל או שקע פנוי ברכב - תפסו מקום לשדרוג בלי בלאגן 🥰\n\nמטען רכב 150W UGREEN עם כבלים נשלפים ושלושה חיבורי USB-C וחיבור USB-A\n\n💳 מחיר סופי 29.75$ / 97₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/ugreen-150w-car-charger-built\n\n✔️ 2 כבלים מובנים שנשלפים עד 80 ס”מ - אף פעם לא מחפשים כבל\n✔️ 3 חיבורי USB-C לטעינה מהירה של טלפונים, טאבלטים וגאדג’טים\n✔️ חיבור USB-A נוסף שהופך את המטען לרב תכליתי\n✔️ תמיכה ב-PD וגם QC4.0 לטעינה סופר מהירה\n✔️ סה”כ 150W לכמה מכשירים במקביל, בלי להתפשר על מהירות\n✔️ מתאים גם לרכב פרטי וגם לטיולי קמפינג שמריצים ציוד כבד\n\nלדיון בפוסט https://www.facebook.com/share/p/18YYjHf17i/",
-   "views": 224,
+   "views": 229,
    "forwarded_from": null,
    "media": [
     {
@@ -445,7 +487,7 @@
    "post": "HiTech_Jobs_In_Israel/139163",
    "ts": "2026-11-18T10:00:27+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 53,
+   "views": 54,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -455,7 +497,7 @@
    "post": "HiTech_Jobs_In_Israel/139162",
    "ts": "2026-11-18T10:00:26+00:00",
    "text": "Embedded Software Engineer - Nitro , Annapurna Labs at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10561329/embedded-software-engineer-nitro-annapurna-labs?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 55,
+   "views": 56,
    "forwarded_from": null,
    "media": [
     {
@@ -471,7 +513,7 @@
    "post": "HiTech_Jobs_In_Israel/139160",
    "ts": "2026-11-18T10:00:25+00:00",
    "text": "Software Development Engineer, MLIL Firmware at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10607880/software-development-engineer-mlil-firmware?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 52,
+   "views": 54,
    "forwarded_from": null,
    "media": [
     {
@@ -487,7 +529,7 @@
    "post": "HiTech_Jobs_In_Israel/139161",
    "ts": "2026-11-18T10:00:25+00:00",
    "text": "Logistics Manager at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10596405/logistics-manager?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 49,
+   "views": 50,
    "forwarded_from": null,
    "media": [
     {
@@ -503,7 +545,7 @@
    "post": "HiTech_Jobs_In_Israel/139159",
    "ts": "2026-11-18T10:00:24+00:00",
    "text": "Embedded Software Engineer - Networking drivers, ENA team at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10607861/embedded-software-engineer-networking-drivers-ena-team?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 50,
+   "views": 52,
    "forwarded_from": null,
    "media": [
     {
@@ -519,7 +561,7 @@
    "post": "HiTech_Jobs_In_Israel/139158",
    "ts": "2026-11-18T10:00:21+00:00",
    "text": "AI Analyst at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162246081?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 48,
+   "views": 49,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -529,7 +571,7 @@
    "post": "HiTech_Jobs_In_Israel/139157",
    "ts": "2026-11-18T10:00:20+00:00",
    "text": "Full Stack Team Leader at Nuvei\nLocation: Israel Tel Aviv-Yafo\nPress here https://apply.workable.com/nuvei/j/1F3AFFEE45/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 50,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -549,7 +591,7 @@
    "post": "HiTech_Jobs_In_Israel/139156",
    "ts": "2026-11-18T10:00:19+00:00",
    "text": "Account Executive at Salesforce\nLocation: Israel - Tel Aviv\nPress here https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Account-Executive_JR368768?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 48,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -559,7 +601,7 @@
    "post": "HiTech_Jobs_In_Israel/139154",
    "ts": "2026-11-18T10:00:16+00:00",
    "text": "Process Engineer at Flex\nLocation: Israel, Migdal Ha-Emek\nPress here https://flextronics.wd1.myworkdayjobs.com/Careers/job/Israel-Migdal-Ha-Emek/Process-Engineer_WD234327?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 47,
+   "views": 50,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -569,7 +611,7 @@
    "post": "HiTech_Jobs_In_Israel/139153",
    "ts": "2026-11-18T10:00:14+00:00",
    "text": "Global Product Support (GPS) Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Global-Product-Support--GPS--Engineer_R2634007?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 46,
+   "views": 48,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -579,7 +621,7 @@
    "post": "HiTech_Jobs_In_Israel/139150",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Director of Algorithm Software Infrastructure & Integration at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/adfee845-9356-4f68-8103-c6d24d7f3a3f?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 45,
+   "views": 47,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -589,7 +631,7 @@
    "post": "HiTech_Jobs_In_Israel/139151",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Director of Algorithm Software Infrastructure & Integration at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/eadec8b5-6b58-40f5-a024-5915cef79001?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 45,
+   "views": 47,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -599,7 +641,7 @@
    "post": "HiTech_Jobs_In_Israel/139152",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Senior Product Manager - Autonomous Urban Driving at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/bfee467c-d620-41fd-803e-ae9846568ef6?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 48,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -609,7 +651,7 @@
    "post": "HiTech_Jobs_In_Israel/139149",
    "ts": "2026-11-18T10:00:11+00:00",
    "text": "Senior Engineering Manager, Security Graph & Agentic AI at SentinelOne\nLocation: Israel\nPress here https://www.sentinelone.com/jobs/?gh_jid=8204537003&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 51,
+   "views": 53,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -619,7 +661,7 @@
    "post": "HiTech_Jobs_In_Israel/139148",
    "ts": "2026-11-18T10:00:07+00:00",
    "text": "Web Marketing Manager — Contract at Cato Networks\nLocation: Tel Aviv District, Israel\nPress here https://www.catonetworks.com/careers/careers-post/5035117101?gh_jid=5035117101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 50,
+   "views": 52,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -629,7 +671,7 @@
    "post": "HiTech_Jobs_In_Israel/139147",
    "ts": "2026-11-18T10:00:04+00:00",
    "text": "Senior FP&A Analyst at Minute Media\nLocation: Tel Aviv\nPress here https://www.comeet.com/jobs/minute/45.00A/senior-fpa-analyst/07.572?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 50,
+   "views": 51,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -639,7 +681,7 @@
    "post": "HiTech_Jobs_In_Israel/139146",
    "ts": "2026-11-18T10:00:03+00:00",
    "text": "AI Software Engineer at Komodor\nLocation: Tel Aviv\nPress here https://komodor.com/job/4E.47C/ai-software-engineer/?_gl=1*43eqsa*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUSTYjZ3sTTCle3erVvjzGX19yH50xZPCzxQouVLTpy4CziMuAP1A90aArS3EALw_wcB&amp;gbraid=0AAAAABoZzUQs3JC3Ac359hiE8-uu_jSge&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 51,
+   "views": 54,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -649,7 +691,7 @@
    "post": "HiTech_Jobs_In_Israel/139145",
    "ts": "2026-11-18T10:00:02+00:00",
    "text": "Product Manager at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/43.57D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 51,
+   "views": 54,
    "forwarded_from": null,
    "media": [
     {
@@ -680,7 +722,7 @@
    "post": "abualiexpress/133843",
    "ts": "2026-11-18T09:51:18+00:00",
    "text": "בצעד מקביל לצעד הבריטי שפורסם אתמול, משרד החוץ האוסטרלי מכריז על סנקציות כנגד חברות ישראליות ואישים ישראלים הקשורים להרחבת ההתיישבות באיו\"ש משרד החוץ האוסטרלי: \"במסגרת הצעדים נאסר על אזרחי אוסטרליה ועל חברות אוסטרליות לקיים קשרי מסחר או להעניק תמיכה כספית…",
-   "views": 15400,
+   "views": 15700,
    "forwarded_from": null,
    "media": [
     {
@@ -711,7 +753,7 @@
    "post": "haskupim/203167",
    "ts": "2026-11-18T09:50:41+00:00",
    "text": "חדשות הסקופים\nהישג לגוש השינוי: ביטול שינוי הוועדה לבחירת שופטים עבר בטרומית",
-   "views": 54,
+   "views": 58,
    "forwarded_from": null,
    "media": []
   },
@@ -720,7 +762,7 @@
    "post": "amitsegal/67346",
    "ts": "2026-11-18T09:50:23+00:00",
    "text": "אושר בטרומית החוק לביטול שינוי הרכב הוועדה לבחירת שופטים",
-   "views": 26500,
+   "views": 28500,
    "forwarded_from": null,
    "media": []
   },
@@ -760,7 +802,7 @@
    "post": "haskupim/203166",
    "ts": "2026-11-18T09:44:17+00:00",
    "text": "חדשות הסקופים\nביידן לנתניהו: ״אני עדיין אוהב אותך, חבר״ | בניגוד למה שנכתב בספר של נשיא ארה\"ב לשעבר, ביידן אמר לנתניהו בשיחה האחרונה ביניהם: \"אתה אדם טוב, אני מעריך אותך. אני עדיין אוהב אותך, חבר\".\nצביקה קליין",
-   "views": 65,
+   "views": 67,
    "forwarded_from": null,
    "media": []
   },
@@ -784,7 +826,7 @@
    "post": "haskupim/203165",
    "ts": "2026-11-18T09:37:02+00:00",
    "text": "חדשות הסקופים\nיריב לוין זועם בכנסת על בליץ החקיקה שמבטלת החוקים שלו בכזו מהירות. מודעות, קווים לדמותה\nקרדיט: יניר קוזין וירון אברהם",
-   "views": 77,
+   "views": 79,
    "forwarded_from": null,
    "media": []
   },
@@ -793,7 +835,7 @@
    "post": "haskupim/203164",
    "ts": "2026-11-18T09:31:11+00:00",
    "text": "חדשות הסקופים\nחזקי ברוך: רגע לפני פתיחת מליאת הכנסת, אלעזר שטרן נשמע צועק מרחוק לשר אופיר סופר: \"חכה לי\". סופר הגיב לו: \"אני ממהר למליאה להצביע נגד 'חוק ההשתמטות'\".",
-   "views": 83,
+   "views": 85,
    "forwarded_from": null,
    "media": []
   },
@@ -818,7 +860,7 @@
    "post": "abualiexpress/133840",
    "ts": "2026-11-18T09:28:32+00:00",
    "text": "הנשיא טראמפ נחת בסין.\nנשיא סין חיכה לו למרגלות המטוס על השטיח האדום.",
-   "views": 21300,
+   "views": 21600,
    "forwarded_from": null,
    "media": [
     {
@@ -838,7 +880,7 @@
    "post": "haskupim/203163",
    "ts": "2026-11-18T09:25:41+00:00",
    "text": "חדשות הסקופים\nראשי מפלגות השינוי - גדי איזנקוט, נפתלי בנט, יאיר גולן, אביגדור ליברמן ויאיר לפיד - ייפגשו בעוד כשעתיים. המפגש ייערך בכנסת",
-   "views": 84,
+   "views": 85,
    "forwarded_from": null,
    "media": []
   },
@@ -892,7 +934,7 @@
    "post": "amitsegal/67345",
    "ts": "2026-11-18T09:11:14+00:00",
    "text": "יהדות התורה הולכת גם היום עם גוש נתניהו: תצביע נגד ביטול חוקי הרפורמה המשפטית",
-   "views": 36900,
+   "views": 37900,
    "forwarded_from": null,
    "media": []
   },
@@ -901,7 +943,7 @@
    "post": "merkaz/301506",
    "ts": "2026-11-18T09:10:39+00:00",
    "text": "נשיא סין שי ג'ינפינג מקבל את פניו של טראמפ עם נחיתתו בשנז'ן",
-   "views": 190,
+   "views": 193,
    "forwarded_from": null,
    "media": [
     {
@@ -932,7 +974,7 @@
    "post": "merkaz/301505",
    "ts": "2026-11-18T09:07:33+00:00",
    "text": "שלח את ח\"כ ינון אזולאי לקשר ביניהם טלפונית: דרעי לאלישע מדן: ״אתה עושה את הצעד הגדול שלך ואני עושה את הצעד שלי״",
-   "views": 190,
+   "views": 193,
    "forwarded_from": null,
    "media": [
     {
@@ -947,7 +989,7 @@
    "post": "merkaz/301504",
    "ts": "2026-11-18T09:04:52+00:00",
    "text": "בעוד כשעתיים: פגישת ראשי גוש השינוי - איזנקוט, בנט, ליברמן, גולן ולפיד",
-   "views": 178,
+   "views": 182,
    "forwarded_from": null,
    "media": []
   },
@@ -956,7 +998,7 @@
    "post": "amitsegal/67344",
    "ts": "2026-11-18T09:03:20+00:00",
    "text": "בעוד כשעתיים: פגישת ראשי גוש השינוי - איזנקוט, בנט, ליברמן, גולן ולפיד",
-   "views": 38700,
+   "views": 39700,
    "forwarded_from": null,
    "media": []
   },
@@ -980,7 +1022,7 @@
    "post": "merkaz/301503",
    "ts": "2026-11-18T08:58:46+00:00",
    "text": "יהדות התורה תצביע היום יחד עם הליכוד נגד ביטול חוקי הרפורמה המשפטית. (שטיין)",
-   "views": 193,
+   "views": 195,
    "forwarded_from": null,
    "media": []
   },
@@ -1023,7 +1065,7 @@
    "post": "merkaz/301502",
    "ts": "2026-11-18T08:55:14+00:00",
    "text": "טיבי לנציגי גוש השינוי על החוקים של אופיר כץ: \"אני רוצה להתנגד לכל מה שהוא מעלה וכל מה שקשור אליו אני רוצה שירגיש משונמך בכל צעד שהוא עושה אחרי הכנס שהוא רדה בנו\". (עמית סגל).",
-   "views": 190,
+   "views": 194,
    "forwarded_from": null,
    "media": [
     {
@@ -1054,7 +1096,7 @@
    "post": "abualiexpress/133836",
    "ts": "2026-11-18T08:54:25+00:00",
    "text": "ת'אאר אסמאעיל אלואדיה שחוסל הבוקר בעיר עזה הצטרף לשלושה אחיו שחוסלו במהלך המלחמה: מחמד, עבדאללה ואנס.\nהוא בצד ימין של התמונה מחזיק את הטלפון של הסלפי.\n\nהנה תיעוד נוסף של האחים שלו",
-   "views": 27500,
+   "views": 27800,
    "forwarded_from": null,
    "media": [
     {
@@ -1093,7 +1135,7 @@
    "post": "merkaz/301500",
    "ts": "2026-11-18T08:51:56+00:00",
    "text": "נעצר חשוד במעורבות בפיגוע שאירע ביום שני ביריחו; החשוד הועבר לחקירה משותפת של המשטרה ושב״כ",
-   "views": 183,
+   "views": 186,
    "forwarded_from": null,
    "media": []
   },
@@ -1118,7 +1160,7 @@
    "post": "merkaz/301499",
    "ts": "2026-11-18T08:50:19+00:00",
    "text": "יו״ר סיעת בל״ד, ח״כ בכר עואודה, התייחס בריאיון לרדיו א-שמס לתנאים שמציב איזנקוט והצהיר: \"התנאים של איזנקוט? אנחנו אלה שמציבים את התנאים, אנחנו אלה שיש לנו את הכוח\". עואודה הוסיף כי הדרישה המרכזית של בל״ד היא \"גביית מחירים עבור כל הצבעה\".",
-   "views": 175,
+   "views": 184,
    "forwarded_from": null,
    "media": []
   },
@@ -1158,7 +1200,7 @@
    "post": "merkaz/301498",
    "ts": "2026-11-18T08:48:32+00:00",
    "text": "אמל״ח שהוחזר ע״י אלמונים במבצע החזרת הציוד הצבאי, שהסתיים אתמול - 3 פצמ״רים 60 מ״מ, תחמושת לתותחים, ועוד שלל נשקים (ישראליים ונשקי אויב) מסוגים שונים",
-   "views": 177,
+   "views": 182,
    "forwarded_from": null,
    "media": [
     {
@@ -1173,7 +1215,7 @@
    "post": "iBuyIL/28083",
    "ts": "2026-11-18T08:48:24+00:00",
    "text": "יום אחרון לסייל של אלי אני מבחין בכמה מוצרים שהמחיר שלהם זול יותר ממה שהיה ביום הרווקים אז שימו לב 🔥 בוסטר התנעה UTRAI BD10 6000A 26800mAh עוד מפלצת התנעות של המותג האהוב 💪\n\nהדגם סופר משתלם ומגיע עם חיבור שקע מצת 12V לחיבור מוצרי חשמל (מקרר נייד למשל) ישירות לבוסטר בניסף טעינה מהירה 45W\n\n💰 עודכן למחיר סופי 59.37$ / 193₪ (במקום 96.37$) מטורףףףף 😱😱😱\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/utrai-bd10-6000a-26800mah\n\n💥 עוצמת התנעה מטורפת (6000A Peak): מניע בלי למצמץ מנועי בנזין ודיזל בכל נפח (גם רכבי שטח, מסחריות ומשאיות קלות), גם במצבר ריק לחלוטין.\n🔋 קיבולת ענקית של 26800mAh\n⚡️ טעינה סופר-מהירה PD 45W: כניסה ויציאת Type-C מהירה\n🖥 מסך גדול \"6.0 LED: ברור, מפורט ומציג נתונים בזמן אמת\n🛡 בטיחות מעל הכל: צבתות חכמות עם הגנה מפני קצר, חיבור הפוך (קוטביות שגויה), טעינת יתר והתחממות. גם אם מעולם לא פתחתם מכסה מנוע אי אפשר לטעות כאן.\n🔦 פנס חירום עוצמתי: כולל מצבי תאורה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4241962426101207/",
-   "views": 624,
+   "views": 629,
    "forwarded_from": null,
    "media": [
     {
@@ -1229,7 +1271,7 @@
    "post": "haskupim/203158",
    "ts": "2026-11-18T08:47:42+00:00",
    "text": "חדשות הסקופים\n״נתניהו זה רה״מ הכי רקוב שהיה פה אי פעם״ | בן כספית על ביטחון נתניהו מאז ועד היום.\n103FM",
-   "views": 73,
+   "views": 74,
    "forwarded_from": null,
    "media": [
     {
@@ -1244,7 +1286,7 @@
    "post": "ramreports/217806",
    "ts": "2026-11-18T08:47:24+00:00",
    "text": "שר הביטחון ישראל כ\"ץ:\n\nמדיניות הממשלה, המתוקפת על ידי רה\"מ ועל ידי כשר הביטחון, ברורה: צה\"ל שולט באזורי הביטחון בלבנון, בסוריה ובעזה ופועל בהם כדי להגן על היישובים הישראלים בגליל, בגולן ובנגב מפני איומים של כוחות ג׳יהאדיסטים - וזאת כלקח מאירועי ה-7 באוקטובר.\n\nכפי שהבהרנו: ישראל לא תיסוג מהקווים הנוכחיים של אזורי הביטחון ולא תיערך בהם מחדש, לפני פירוק החמאס ופירוז עזה, פירוק החיזבאללה מנשקו בכל לבנון והסרת כל האיומים הג׳יהאדיסטים מסוריה.\n\nמעבר לכך: במקרה של התלקחות הזירות, צה\"ל ערוך לתמרון ולכיבוש שטחים נוספים, תוך פינוי התושבים והרס תשתיות הטרור במקום והפיכתם לחלק מאזורי הביטחון הקבועים של ישראל בצפון ובדרום.",
-   "views": 5670,
+   "views": 5740,
    "forwarded_from": null,
    "media": []
   },
@@ -1253,7 +1295,7 @@
    "post": "merkaz/301497",
    "ts": "2026-11-18T08:46:39+00:00",
    "text": "צה\"ל השמיד במהלך היממה האחרונה תוואי תת-קרקעי ששימש את ארגון הטרור חיזבאללה בהר דב, שבאזור הביטחון בדרום לבנון. בתוואי נמצאו מספר חדרי שהייה ופיקוד.",
-   "views": 175,
+   "views": 178,
    "forwarded_from": null,
    "media": [
     {
@@ -1303,7 +1345,7 @@
    "post": "merkaz/301496",
    "ts": "2026-11-18T08:45:02+00:00",
    "text": "אחרי שהפרקליטות עתרה לבג\"ץ נגד החלטת השופטים, סנגורי נתניהו הודיעו כי מסירים את התנגדותם לחקירה הנגדית שמבקשת התביעה לקיים למנדלבליט (נטעאל בנדל).",
-   "views": 165,
+   "views": 168,
    "forwarded_from": null,
    "media": []
   },
@@ -1312,7 +1354,7 @@
    "post": "merkaz/301495",
    "ts": "2026-11-18T08:43:25+00:00",
    "text": "תיעוד של רגע התקיפה האיראנית בבסיס האמריקני עלי א-סאלם בכווית לפנות בוקר",
-   "views": 162,
+   "views": 167,
    "forwarded_from": null,
    "media": [
     {
@@ -1327,7 +1369,7 @@
    "post": "haskupim/203156",
    "ts": "2026-11-18T08:42:09+00:00",
    "text": "חדשות הסקופים\nפייגלין הגיש בקשה רשמית להתפלגות מהציונות הדתית של סמוטריץ'\nיקי אדמקר",
-   "views": 56,
+   "views": 57,
    "forwarded_from": null,
    "media": []
   },
@@ -1336,7 +1378,7 @@
    "post": "Moshepargod/77026",
    "ts": "2026-11-18T08:41:44+00:00",
    "text": "הפרגוד: הודעה רשמית של הרצפניקים: \"הקרן למלחמה בגזירת הגיוס\" בהכוונת מרן הגר\"צ פרידמן שליט\"א מודיעה: בעקבות מעצרו של האברך יוסף חיים דודו מב\"ב, נצא בעזר\"ה מחר, יום חמישי בצהרים, למחאה המונית שתשמיע את זעקת היהדות החרדית נגד גזירת הגיוס והמעצרים. פרטים נוספים…",
-   "views": 924,
+   "views": 930,
    "forwarded_from": null,
    "media": []
   },
@@ -1345,7 +1387,7 @@
    "post": "merkaz/301494",
    "ts": "2026-11-18T08:41:41+00:00",
    "text": "חוקר נוער בטמרה מואשם שלקח אלפי שקלים מחשודים ומחק מתיק חקירה פרטים של אחד מהם: לפי כתב האישום שהגישה מח״ש, החוקר ביקש כספים בטענה שנזקק להלוואה ללימודי בתו. באחד המקרים קיבל 2,800 שקל מאדם שחקר באזהרה, מחק את פרטיו מהתיק ובהמשך דרש וקיבל ממנו עוד 2,000 שקל. בעקבות המחיקה התיק נגנז",
-   "views": 172,
+   "views": 175,
    "forwarded_from": null,
    "media": []
   },
@@ -1354,7 +1396,7 @@
    "post": "haskupim/203155",
    "ts": "2026-11-18T08:31:27+00:00",
    "text": "חדשות הסקופים\nמגל: ״איפה הייתם לפני הבחירות?״ | בן כספית: ״'ריקון בריכה' מורכב ממיליון פעולות לטפל בעשרות אלפים שלא התגייסו והם כבר לא בני 18. זו שאלה איך עושים את זה, אבל זה חייב להיות״\n103",
-   "views": 68,
+   "views": 69,
    "forwarded_from": null,
    "media": []
   },
@@ -1375,21 +1417,6 @@
    "kind": "deals"
   },
   {
-   "id": "p0c161ca5d1db",
-   "post": "haskupim/203154",
-   "ts": "2026-11-18T08:28:53+00:00",
-   "text": "חדשות הסקופים\nעדכון | ח״כ ינון אזולאי מש״ס: ״אתם חבורה של צבועים! מעדיפים תומכי טרור על לומדי תורה. אם יו״ר כנסת היה נבחר מהצד שלנו הייתם צועקים קואליציית המשתמטים, אבל כשאתם בוחרים זה בסדר״.\nחזקי ברוך",
-   "views": 71,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/8460fc3236261c27.mp4"
-    }
-   ]
-  },
-  {
    "id": "p9dcc63cedd4b",
    "post": "RealKikarHashabat/11884",
    "ts": "2026-11-18T08:27:18+00:00",
@@ -1403,15 +1430,6 @@
      "file": "data/media/fea00fb40c4a1188.jpg"
     }
    ]
-  },
-  {
-   "id": "p88d12b874ffe",
-   "post": "haskupim/203153",
-   "ts": "2026-11-18T08:25:32+00:00",
-   "text": "חדשות הסקופים\nהפגנה בעקבות מעצר עריק | בעקבות מעצר העריק אמש בשערי נתב\"ג, פלג הרצפיקנים יקיים מחר הפגנה במרכז הארץ.",
-   "views": 69,
-   "forwarded_from": null,
-   "media": []
   },
   {
    "id": "pccd2300cc727",
@@ -1433,7 +1451,7 @@
    "post": "ILcoupons/5995",
    "ts": "2026-11-18T08:14:57+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 312,
+   "views": 313,
    "forwarded_from": null,
    "media": [
     {
@@ -1479,7 +1497,7 @@
    "post": "iBuyIL/28082",
    "ts": "2026-11-18T08:10:18+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 743,
+   "views": 744,
    "forwarded_from": null,
    "media": [
     {
@@ -1610,7 +1628,7 @@
    "post": "iBuyIL/28081",
    "ts": "2026-11-18T07:32:58+00:00",
    "text": "הכי נמוך אי פעם 🔋🚗 סוללת גיבוי קומפקטית Baseus EnerFill FT31 10000mAh עם טעינה אלחוטית ל-Apple Watch ו-45W USB-C\nטעינה בדרך, בלי להסתבך עם כבלים או להיתקע בלי סוללה באמצע הנסיעה! פתרון מעולה למי שמחזיק גם אייפון וגם Apple Watch ולא רוצה להיגרר עם כמה מטענים!\n\nהעיצוב הקומפקטי והכבלים המובנים מאפשרים להטעין כל מה שצריך בקלות, תוך כדי תנועה!\n\n💳 מחיר סופי 19.46$ / 63₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-enerfill-ft31-10000m\n\n✔️ טעינה חוטית ואלחוטית במקביל לאייפון ושעון אפל\n✔️ טעינה אלחוטית (5W) תומכת ב-Apple Watch בלבד\n✔️ טעינת USB-C מהירה במיוחד 45W - מתאים גם למחשבים ניידים\n✔️ טעינת 4 מכשירים בבת אחת בלי המתנה\n✔️ סוללה חזקה של 10000mAh במשקל רק כ-205 גרם\n✔️ קבל USB-C מובנה ואורך 18 ס\"מ - לא צריך סחבה של כבלים\n✔️ תצוגה דיגיטלית חכמה למידע ברור על מצב הסוללה\n✔️ נכנסת בקלות לתיק, מוכנה לכל טיול, טיסה או יום ארוך מחוץ לבית 🏕\n\nלדיון בפוסט https://www.facebook.com/share/p/19a3ZchpXG/",
-   "views": 849,
+   "views": 851,
    "forwarded_from": null,
    "media": [
     {
@@ -1737,7 +1755,7 @@
    "post": "ramreports/217805",
    "ts": "2026-11-18T06:45:01+00:00",
    "text": "דיווח: איראן גייסה תאילנדים שיעים כדי לבצע פיגוע בשגרירות ישראל בבנגקוק",
-   "views": 9890,
+   "views": 9920,
    "forwarded_from": null,
    "media": []
   },
@@ -1857,7 +1875,7 @@
    "post": "AceIsraelofficial/4667",
    "ts": "2026-11-18T06:10:04+00:00",
    "text": "🖤 BLACK FRIDAY מגיע בהפתעה לאייס! 💚\n🎁 מבצעי הפתעה עד חצות במחירים שאסור לפספס!\n🔥 מכונת כביסה 6 ק\"ג ב־599 ₪ בלבד!\n🔥 מחסן מתכת לגינה ב־599 ₪ בלבד!\n🔥 ג'קוזי מתנפח ל־6–4 משתמשים ב־1,690 ₪ בלבד!\n🔥 הליכון מתקפל ב־569 ₪ בלבד!\n🔥 ארון רומי 3 דלתות ב־749 ₪ בלבד!\n🔥 טלוויזיה חכמה Hisense בגודל 40 אינץ' ב־599 ₪ בלבד!\n⏰ ההפתעות כאן היום ומחר כבר לא!\n🛒 מהרו לקנות באתר אייס >>\nhttps://tinyurl.com/34uh9had\n\nבאתר בלבד ב-18.11.26 / גמר המלאי",
-   "views": 2770,
+   "views": 2780,
    "forwarded_from": null,
    "media": [
     {
@@ -1882,7 +1900,7 @@
    "post": "amitsegal/67338",
    "ts": "2026-11-18T06:04:00+00:00",
    "text": "היועמ״שית לנתניהו: אסור לך למנות את אמיר אוחנה לשר בממשלה בלי אישור הכנסת",
-   "views": 63600,
+   "views": 64599,
    "forwarded_from": null,
    "media": []
   },
@@ -1942,7 +1960,7 @@
    "post": "ramreports/217803",
    "ts": "2026-11-18T00:20:14+00:00",
    "text": "היום הזה 17.11.2026 יזכר\nלדיראון עולם:\n\nבנט וכהנא",
-   "views": 18100,
+   "views": 18200,
    "forwarded_from": null,
    "media": [
     {
@@ -2140,7 +2158,7 @@
    "post": "ramreports/217790",
    "ts": "2026-11-17T22:42:20+00:00",
    "text": "מפלגת הליכוד פרסמה הערב הודעה חריפה בעקבות בחירתו של מתן כהנא לתפקיד יושב ראש הכנסת, לאחר שזכה לתמיכתם של 66 חברי כנסת, בהם חברי המפלגות הערביות.\n\n\"לדראון עולם. הערב מונה יו\"ר כנסת באופן חד צדדי בקולות תומכי טרור. זו נקודת שפל בתולדות הכנסת\", נמסר בהודעת הליכוד.\n\nבמפלגה מתחו ביקורת על שיתוף הפעולה שהוביל לבחירת כהנא וטענו כי המהלך מנוגד לרצון הציבור: \"עם ישראל מתנגד למסירת מפתחות השלטון במדינה לידי מי שמבזים את המנון המדינה. עם ישראל מייחל לאחדות\".\n\nבסיום ההודעה הפנו בליכוד ביקורת ישירה כלפי ראשי המפלגות שתמכו במהלך: \"איזנקוט, בנט וליברמן העדיפו היום את תומכי הטרור על פני אחדות לאומית. ההיסטוריה תזכור להם זאת\".",
-   "views": 13900,
+   "views": 14000,
    "forwarded_from": null,
    "media": []
   },
@@ -2261,30 +2279,6 @@
      "file": "data/media/5f88289ddb8dbae5.jpg"
     }
    ]
-  },
-  {
-   "id": "pa3435a166757",
-   "post": "amitsegal/67331",
-   "ts": "2026-11-17T21:17:43+00:00",
-   "text": "הראשונים שיקרא לסדר?",
-   "views": 84300,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/0a9f40d16ec984e7.jpg"
-    }
-   ]
-  },
-  {
-   "id": "p9a787d9ccf68",
-   "post": "amitsegal/67330",
-   "ts": "2026-11-17T21:16:35+00:00",
-   "text": "עמית סגל pinned a video",
-   "views": null,
-   "forwarded_from": null,
-   "media": []
   },
   {
    "id": "p3c777d7784c9",
@@ -3004,7 +2998,7 @@
    "post": "SALAMTAK_DEALS/58833",
    "ts": "2026-11-17T10:15:12+00:00",
    "text": "טעות במחיר? מהרו להזמין לפני שמתקנים! ⚡🏃\n\nמטען אחד דק שטוען מחשב נייד, טלפון ואוזניות ביחד\nמטען GaN חדש של Vention בהספק 65W\n\n💻 עד 65W, טוען גם מחשב נייד\n🔌 שלוש יציאות: שתי USB-C ואחת USB-A\n📏 עובי 15.5 מ\"מ בלבד, נכנס גם מאחורי הספה\n⚡ תומך בטעינה מהירה PD ו-PPS\n🌍 ראשים מתחלפים, כולל תקע אירופאי\n\n💰 מחיר: 31₪ בלבד ($9.65) עם משלוח חינם\n🎟️ קוד ראשון FCBIL05 ואחריו ILAFF02\n\nלינק 👇\nhttps://salamtak.deals/archives/51394\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 1500,
+   "views": 1510,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -3418,7 +3412,7 @@
    "post": "AceIsraelofficial/4663",
    "ts": "2026-11-15T08:23:20+00:00",
    "text": "🚨 יש דברים שפשוט אי אפשר לשמור בארון!\nכמו ההטבה החדשה שלנו 😍\nבגלל שממש אהבתם את רבי המכר שלנו , הגדלנו לכם את המבחר\n\n🔥 אקסטרה 10% הנחה על מגוון ארונות באתר אייס!\nזה הזמן להתחדש בארון חדש, לעשות קצת סדר ולפנות מקום לכל מה שאתם אוהבים 🛍\n🎟 לקבלת קופון ההנחה >>\nhttps://lp6.me/xlueT\n🛒 לרכישה באתר אייס >>\nhttps://tinyurl.com/yzmnb49n\nבאתר בלבד עד 30.11 או עד גמר המלאי, המוקדם מביניהם | כפוף לתקנון:\nhttps://www.ace.co.il/telegraextra10_wardrobe",
-   "views": 9110,
+   "views": 9120,
    "forwarded_from": null,
    "media": [
     {
