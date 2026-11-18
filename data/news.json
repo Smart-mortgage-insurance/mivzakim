@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:09:11.002587+00:00",
+ "updated": "2026-11-18T16:10:51.664497+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,29 @@
  "count": 351,
  "items": [
   {
+   "id": "pf9ea719e673e",
+   "post": "haskupim/203229",
+   "ts": "2026-11-18T16:09:38+00:00",
+   "text": "חדשות הסקופים\nחשש להסלמה ביטחונית | בישיבת ראשי הגוש נדון גם המצב הביטחוני המורכב, ונשקלת אפשרות להסלמה שתכביד על ניסיונות הרכבת הממשלה.\nבן כספית",
+   "views": 4,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p81b9165c5f66",
+   "post": "haskupim/203228",
+   "ts": "2026-11-18T16:08:41+00:00",
+   "text": "חדשות הסקופים\nליברמן: אצביע נגד ממשלת מיעוט בתמיכת הערבים | ליברמן אמר בישיבת ראשי הגוש כי יתנגד לממשלת מיעוט בתמיכת הערבים מבחוץ. שאר המשתתפים לא אמרו זאת.\nבן כספית",
+   "views": 13,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
    "id": "p6b994785b432",
    "post": "RealKikarHashabat/11933",
    "ts": "2026-11-18T16:08:36+00:00",
    "text": "חשיפה אמריקאית - דיווח: איראן תכננה לפגוע בבכירי ממשל טראמפ בנשק כימי",
-   "views": 1,
+   "views": 2,
    "forwarded_from": null,
    "media": [
     {
@@ -153,7 +171,7 @@
    "post": "merkaz/301543",
    "ts": "2026-11-18T16:02:33+00:00",
    "text": "הכי גבוה ברכסים! 🌳\nהונחה אבן הפינה לפרויקט הפסגה הירוקה\n\nבמעמד רב רושם ובהשתתפות רבני היישוב, ראש המועצה ואישי ציבור, הושק הפרויקט היוקרתי \"הפסגה הירוקה\" בשכונת גבעת הפרסה החדשה ברכסים.\n\nמאחורי הפרויקט, הכולל 13 בניינים מדורגים מול הנוף הפנורמי של הרי הכרמל, עומדים יזמים תושבי רכסים שבחרו את המיקום, האדריכלות והנוף הטובים ביותר.\n\nצפו בתיעוד המרגש מרגעי השיא במעמד",
-   "views": 27,
+   "views": 30,
    "forwarded_from": null,
    "media": [
     {
@@ -168,7 +186,7 @@
    "post": "RealKikarHashabat/11932",
    "ts": "2026-11-18T16:02:23+00:00",
    "text": "זה ממשיך עם אופיר כץ",
-   "views": 4,
+   "views": 5,
    "forwarded_from": null,
    "media": [
     {
@@ -183,7 +201,7 @@
    "post": "amitsegal/67381",
    "ts": "2026-11-18T16:02:16+00:00",
    "text": "ועכשיו אלמוג כהן",
-   "views": 8310,
+   "views": 10400,
    "forwarded_from": null,
    "media": [
     {
@@ -198,7 +216,7 @@
    "post": "merkaz/301542",
    "ts": "2026-11-18T16:00:41+00:00",
    "text": "רויטרס: ראש המוסד גופמן והשר לשעבר רון דרמר פעלו במהלך ביקורם בוושינגטון לקידום תקיפה משותפת עם ארה\"ב באיראן. לפי הדיווח, גופמן הציג לראש ה-CIA מודיעין ישראלי, בין היתר בנושא הגרעין. בישראל חוששים מצמצום הנוכחות הצבאית האמריקנית באזור, אך בצה\"ל מעריכים שאין איום איראני מיידי המחייב תקיפה. הבית הלבן ממשיך להעדיף לחץ כלכלי.",
-   "views": 45,
+   "views": 46,
    "forwarded_from": null,
    "media": []
   },
@@ -207,7 +225,7 @@
    "post": "haskupim/203227",
    "ts": "2026-11-18T16:00:28+00:00",
    "text": "חדשות הסקופים\nמור דילג על קריאה רשמית | חבר הכנסת צביקה מור לא פתח בקריאה \"אדוני היו\"ר\" כאשר אחמד טיבי ישב על כסא היושב ראש.",
-   "views": 22,
+   "views": 31,
    "forwarded_from": null,
    "media": []
   },
@@ -216,7 +234,7 @@
    "post": "HiTech_Jobs_In_Israel/139198",
    "ts": "2026-11-18T16:00:14+00:00",
    "text": "Machine Learning Software Engineer at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/72e986e2-94b4-49f6-be5f-74a48de8a71d?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 32,
+   "views": 36,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -226,7 +244,7 @@
    "post": "HiTech_Jobs_In_Israel/139195",
    "ts": "2026-11-18T16:00:13+00:00",
    "text": "Director of Release Management at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/7e5223a3-ffe2-4d05-8ae7-07b26e48c049?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -236,7 +254,7 @@
    "post": "HiTech_Jobs_In_Israel/139196",
    "ts": "2026-11-18T16:00:13+00:00",
    "text": "Director of Release Management at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 27,
+   "views": 32,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -246,7 +264,7 @@
    "post": "HiTech_Jobs_In_Israel/139197",
    "ts": "2026-11-18T16:00:13+00:00",
    "text": "Machine Learning Software Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 29,
+   "views": 35,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -256,7 +274,7 @@
    "post": "HiTech_Jobs_In_Israel/139194",
    "ts": "2026-11-18T16:00:08+00:00",
    "text": "Director of Product Management, Agentic Security - Prompt Security at SentinelOne\nLocation: Israel\nPress here https://www.sentinelone.com/jobs/?gh_jid=8196402003&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -266,7 +284,7 @@
    "post": "HiTech_Jobs_In_Israel/139193",
    "ts": "2026-11-18T16:00:06+00:00",
    "text": "CTO Data Analyst at Wiz, Inc.\nLocation: Tel Aviv\nPress here https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 27,
+   "views": 31,
    "forwarded_from": null,
    "media": [
     {
@@ -282,7 +300,7 @@
    "post": "HiTech_Jobs_In_Israel/139192",
    "ts": "2026-11-18T16:00:03+00:00",
    "text": "Poker QA Engineer at evoke\nLocation: Israel\nPress here https://jobs.888.com/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 38,
+   "views": 40,
    "forwarded_from": null,
    "media": [
     {
@@ -298,7 +316,7 @@
    "post": "HiTech_Jobs_In_Israel/139191",
    "ts": "2026-11-18T16:00:02+00:00",
    "text": "Quality Audits & Processes Engineer at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 25,
+   "views": 30,
    "forwarded_from": null,
    "media": [
     {
@@ -314,7 +332,7 @@
    "post": "HiTech_Jobs_In_Israel/139190",
    "ts": "2026-11-18T16:00:01+00:00",
    "text": "Vulnerability Research Team Lead at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/94.A63?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 28,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs",
@@ -325,7 +343,7 @@
    "post": "HiTech_Jobs_In_Israel/139189",
    "ts": "2026-11-18T16:00:00+00:00",
    "text": "BI Team Leader at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/37.573?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 27,
+   "views": 31,
    "forwarded_from": null,
    "media": [
     {
@@ -341,7 +359,7 @@
    "post": "RealKikarHashabat/11931",
    "ts": "2026-11-18T15:59:28+00:00",
    "text": "עימות בכנסת: אחמד טיבי הוציא את ח”כ אלמוג כהן מהמליאה לאחר שקרא לו “בוגד ותומך טרור”.",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": [
     {
@@ -356,7 +374,7 @@
    "post": "haskupim/203226",
    "ts": "2026-11-18T15:57:53+00:00",
    "text": "חדשות הסקופים\nעדכון | ״לא קוראים ליושב ראש תומך טרור, יאללה ברה״ | אחמד טיבי סילק את אלמוג כהן מהמליאה לאחר שכינה אותו תומך טרור.",
-   "views": 23,
+   "views": 32,
    "forwarded_from": null,
    "media": [
     {
@@ -371,7 +389,7 @@
    "post": "haskupim/203225",
    "ts": "2026-11-18T15:56:42+00:00",
    "text": "חדשות הסקופים\nעמית סגל: דורפמן בעימות עם טיבי",
-   "views": 25,
+   "views": 32,
    "forwarded_from": null,
    "media": [
     {
@@ -386,7 +404,7 @@
    "post": "haskupim/203224",
    "ts": "2026-11-18T15:55:34+00:00",
    "text": "חדשות הסקופים\nליברמן מזמן לדיונים | ראש המוסד, ראש השב\"כ וראש המל\"ל יוזמנו לדיונים בראשות ליברמן בוועדת משנה למודיעין יום אחר יום בסוף החודש.\nמוטי קסטל",
-   "views": 32,
+   "views": 37,
    "forwarded_from": null,
    "media": []
   },
@@ -395,7 +413,7 @@
    "post": "haskupim/203223",
    "ts": "2026-11-18T15:53:57+00:00",
    "text": "חדשות הסקופים\nאחמד טיבי הוציא את ח״כ אופיר כץ מהמליאה | טיבי הרחיק את כץ לאחר שכינה אותו תומך טרור.",
-   "views": 34,
+   "views": 37,
    "forwarded_from": null,
    "media": [
     {
@@ -410,7 +428,7 @@
    "post": "haskupim/203222",
    "ts": "2026-11-18T15:53:45+00:00",
    "text": "חדשות הסקופים\nעדכון | לפיד: ״אין מה להיות מודאגים, בנט ואני מחויבים לגמרי לממשלת שינוי״ | לפיד בהקלטה לפעילי יש עתיד: ״אנחנו לא מורידים לרגע את העיניים מהמטרה״.\nעמיאל ירחי",
-   "views": 27,
+   "views": 29,
    "forwarded_from": null,
    "media": [
     {
@@ -473,7 +491,7 @@
    "post": "abualiexpress/133860",
    "ts": "2026-11-18T15:42:29+00:00",
    "text": "איגוד החוות מציג: ירידה במספר פיגועים בציר אלון בעקבות הגידול במספר החוות החקלאיות לאורך הציר\n\nע\"פ האיגוד מספר אירועי הטרור בציר ירד מ-459 אירועי טרור ל-52 בלבד:\n\n\"כביש אלון, מהצירים המרכזיים ביהודה ושומרון ובבקעת הירדן, עובר בשנים האחרונות שינוי ביטחוני דרמטי.\n\n459 אירועי פח\"ע בשנת 2022, לעומת 52 בלבד מתחילת 2026 ועד תחילת נובמבר!\nבמקביל, מספר החוות לאורך הציר גדל מ-3 ל-13 חוות.\n\nהשינוי מתאפשר בזכות פעילות צה\"ל וכוחות הביטחון, בשיתוף הרשויות והחוות החקלאיות, שתורמות בנוכחותן בשטח לביטחון הציר ולתחושת הביטחון של התושבים.\n\nוכמו בכביש אלון, כך גם בשאר האזורים - החוות תורמות לביטחון היישובים והצירים, לשמירה על קו התפר ולהגנה על הגבול המזרחי.\"",
-   "views": 14400,
+   "views": 15400,
    "forwarded_from": null,
    "media": [
     {
@@ -488,7 +506,7 @@
    "post": "RealKikarHashabat/11930",
    "ts": "2026-11-18T15:39:03+00:00",
    "text": "לראשונה מזה חודשיים: איראן ניסתה לתקוף בסיסים אמריקניים בכווית, בתגובה לתקיפה האמריקנית הלילה באי איראני. (רויטרס)",
-   "views": 5,
+   "views": 6,
    "forwarded_from": null,
    "media": []
   },
@@ -497,7 +515,7 @@
    "post": "haskupim/203221",
    "ts": "2026-11-18T15:32:29+00:00",
    "text": "חדשות הסקופים\nחוסלו שני מפקדי מחלקה בחמאס | צה״ל ושב״כ הודיעו כי חיסלו שני מפקדי מחלקה בזרוע הצבאית של ארגון חמאס.\nאלמוג בוקר",
-   "views": 48,
+   "views": 49,
    "forwarded_from": null,
    "media": [
     {
@@ -528,7 +546,7 @@
    "post": "haskupim/203220",
    "ts": "2026-11-18T15:27:00+00:00",
    "text": "חדשות הסקופים\nתדמור לטיבי: למי אתה נאמן? | ח״כ ארז תדמור שאל את אחמד טיבי אם נאמנותו לישראל או לפלסטין, ואם הוא נאמן ליאסר ערפאת ״הארכי מחבל הרוצח״ או לישראל. טיבי הוציא את תדמור מהמליאה.\nמוטי קסטל",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": [
     {
@@ -543,7 +561,7 @@
    "post": "amitsegal/67378",
    "ts": "2026-11-18T15:21:00+00:00",
    "text": "אליסף פרץ, שסומן כעריק אפשרי לגוש הימין, משיב לנתניהו",
-   "views": 34900,
+   "views": 35000,
    "forwarded_from": null,
    "media": [
     {
@@ -558,7 +576,7 @@
    "post": "merkaz/301541",
    "ts": "2026-11-18T15:19:21+00:00",
    "text": "בינתיים במליאה - אחמד טיבי שמנהל את הישיבה מוציא בזה אחר זה את חברי הכנסת של הליכוד מהמליאה, הוציא את אלמוג כהן, ארז תדמור, חנמאל דורפמן (שטיין).",
-   "views": 144,
+   "views": 146,
    "forwarded_from": null,
    "media": []
   },
@@ -567,7 +585,7 @@
    "post": "abualiexpress/133859",
    "ts": "2026-11-18T15:18:58+00:00",
    "text": "גולשים עזתיים מקשרים בין המבצע הקרקעי של צה\"ל במרכז הרצועה בשעות האחרונות לבין הפליירים עם הקפה והסיגריה שהוטלו במרכז הרצועה בתחילת השבוע:\n\nעכשיו אנחנו מבינים למה הקפטנים של השב\"כ התכוונו - הם מגיעים לקפה וסיגריה אצלנו...",
-   "views": 23100,
+   "views": 23700,
    "forwarded_from": null,
    "media": [
     {
@@ -582,7 +600,7 @@
    "post": "haskupim/203219",
    "ts": "2026-11-18T15:18:51+00:00",
    "text": "חדשות הסקופים\nלפיד אחרי פגישת נתניהו-בנט | לפיד פרסם הודעה מלאה לאחר פגישת נתניהו ובנט.",
-   "views": 26,
+   "views": 27,
    "forwarded_from": null,
    "media": [
     {
@@ -597,7 +615,7 @@
    "post": "merkaz/301540",
    "ts": "2026-11-18T15:17:57+00:00",
    "text": "מיכאל שמש: כדאי שמישהו יעדכן את לפיד בתדרוך של בנט מלפני שעה קלה ולפיו הוא עובד על ממשלת אחדות ברוטציה בין איזנקוט לנתניהו. זה קצת שונה מהממשלה שלפיד מדבר עליה",
-   "views": 174,
+   "views": 175,
    "forwarded_from": null,
    "media": []
   },
@@ -606,7 +624,7 @@
    "post": "merkaz/301539",
    "ts": "2026-11-18T15:16:03+00:00",
    "text": "לפיד ממשיך לשדר עסקים כרגיל אחרי פגישת נתניהו ובנט, אף שלא עודכן עליה מראש (אדמקר).",
-   "views": 172,
+   "views": 173,
    "forwarded_from": null,
    "media": [
     {
@@ -621,7 +639,7 @@
    "post": "haskupim/203218",
    "ts": "2026-11-18T15:15:22+00:00",
    "text": "חדשות הסקופים\nטיבי מוציא ח״כים מהמליאה | אחמד טיבי שמנהל את הישיבה מוציא בזה אחר זה את חברי הכנסת של הימין מהמליאה: אלמוג כהן, ארז תדמור, חנמאל דורפמן.",
-   "views": 52,
+   "views": 53,
    "forwarded_from": null,
    "media": []
   },
@@ -665,7 +683,7 @@
    "post": "haskupim/203216",
    "ts": "2026-11-18T15:08:53+00:00",
    "text": "חדשות הסקופים\n״אדוני היו\"ר שנבחר בקולותיהם של תומכי הטרור״ | ח״כ שמחה רוטמן פתח את דבריו במליאה למתן כהנא: ״אדוני היו\"ר שנבחר בקולותיהם של תומכי הטרור, כנסת נכבדה...״",
-   "views": 46,
+   "views": 47,
    "forwarded_from": null,
    "media": [
     {
@@ -696,7 +714,7 @@
    "post": "haskupim/203215",
    "ts": "2026-11-18T15:05:58+00:00",
    "text": "חדשות הסקופים\nעדכון | לפיד: בנט ואני ממשיכים לעבוד על הקמת ממשלת שינוי בראשות גדי איזנקוט. עדכון קצר לכל המודאגים: לא מסיטים את המבט מהמטרה.",
-   "views": 59,
+   "views": 60,
    "forwarded_from": null,
    "media": []
   },
@@ -720,7 +738,7 @@
    "post": "amitsegal/67377",
    "ts": "2026-11-18T15:04:03+00:00",
    "text": "ראש הממשלה לשעבר יאיר לפיד:\n\nאיני נוהג לעדכן באמצע מו״מ קואליציוני, אבל עדכון קצר לכל המודאגים:\n\nבנט ואני ממשיכים לעבוד ללא לאות על הקמת ממשלת השינוי בראשות גדי אייזנקוט.\n\nמטבע הדברים זוהי תקופה שבה כל פגישה, עדכון בטחוני או שיחה מעוררות גלי שמועות וספקולציות.\n\nזה לא גורם לנו להסיט את המבט מהמטרה:\n\nלהקים ממשלה חדשה, טובה ויעילה שתדע להתמודד עם האתגרים הבטחוניים, הכלכליים והמדיניים שישראל ניצבת מולם.",
-   "views": 40900,
+   "views": 41900,
    "forwarded_from": null,
    "media": []
   },
@@ -819,7 +837,7 @@
    "post": "haskupim/203214",
    "ts": "2026-11-18T14:53:05+00:00",
    "text": "חדשות הסקופים\nראשי גוש השינוי בפגישה",
-   "views": 45,
+   "views": 46,
    "forwarded_from": null,
    "media": [
     {
@@ -834,7 +852,7 @@
    "post": "haskupim/203213",
    "ts": "2026-11-18T14:51:04+00:00",
    "text": "חדשות הסקופים\nהודעת ראשי מפלגת גוש השינוי: ראשי מפלגות השינוי הודיעו על התקדמות במו\"מ להקמת ממשלת חירום בראשות איזנקוט. בפגישה ציינו את בחירת מתן כהנא ליו\"ר הכנסת וסיכמו על המשך עבודה משותפת. ראשי מפלגות השינוי",
-   "views": 43,
+   "views": 45,
    "forwarded_from": null,
    "media": []
   },
@@ -843,7 +861,7 @@
    "post": "merkaz/301537",
    "ts": "2026-11-18T14:50:50+00:00",
    "text": "ראשי גוש השינוי בהודעה משותפת: \"כולנו רואים עין בעין באשר לדחיפות בכינונה של ממשלת חירום לאומית בראשות איזנקוט, והחלפתו של נתניהו בלשכת ראש הממשלה - בעדיפות עליונה ובהקדם\"",
-   "views": 179,
+   "views": 181,
    "forwarded_from": null,
    "media": [
     {
@@ -858,7 +876,7 @@
    "post": "abualiexpress/133858",
    "ts": "2026-11-18T14:48:43+00:00",
    "text": "איראן: דיווחים על הדי התפוצצויות בבסיס האווירי האיראני בבנדר עבאס בדרום איראן.\n\nהנסיבות נבדקות...",
-   "views": 32800,
+   "views": 33100,
    "forwarded_from": null,
    "media": [
     {
@@ -878,7 +896,7 @@
    "post": "merkaz/301536",
    "ts": "2026-11-18T14:48:24+00:00",
    "text": "תקיפה של ארה\"ב? בדרום איראן מדווח על פיצוץ במרחב הבסיס האווירי שבבנדר עבאס.",
-   "views": 177,
+   "views": 180,
    "forwarded_from": null,
    "media": [
     {
@@ -907,7 +925,7 @@
    "post": "amitsegal/67375",
    "ts": "2026-11-18T14:47:45+00:00",
    "text": "",
-   "views": 44700,
+   "views": 45800,
    "forwarded_from": null,
    "media": [
     {
@@ -922,7 +940,7 @@
    "post": "haskupim/203212",
    "ts": "2026-11-18T14:47:02+00:00",
    "text": "חדשות הסקופים\nהיועמ\"שית תיפגש הערב עם פרקליט המדינה בהקשר התנהלות המשטרה ביום הבחירות ומעצר פעילי רע\"ם ששוחררו\nגיא פלג",
-   "views": 44,
+   "views": 45,
    "forwarded_from": null,
    "media": []
   },
@@ -931,7 +949,7 @@
    "post": "merkaz/301535",
    "ts": "2026-11-18T14:46:39+00:00",
    "text": "רבנים דתיים לאומיים לרב לנדו והרב הירש: תמנעו ממשלת שמאל. (ברים)",
-   "views": 177,
+   "views": 179,
    "forwarded_from": null,
    "media": [
     {
@@ -946,7 +964,7 @@
    "post": "ramreports/217817",
    "ts": "2026-11-18T14:45:59+00:00",
    "text": "מנהיג בקהילה היהודית שקשור לתעשיות ביטחוניות: \"זה היעד של החוליה האיראנית ביוון\"\nלפי דיווחים, חוליית ההתנקשות האיראנית שנעצרה ביוון ובצפון מקדוניה תכננה לרצוח את אברהם מינוס מויסיס, איש עסקים מוכר שכיהן כראש הקהילה היהודית באתונה. בראש החוליה עמד \"איראני בעל קשרים ישירים לביון בטהרן\", המתנקשים שנעצרו קשורים ככל הנראה לארגוני פשע בצפון מקדוניה",
-   "views": 5890,
+   "views": 5980,
    "forwarded_from": null,
    "media": [
     {
@@ -961,7 +979,7 @@
    "post": "merkaz/301534",
    "ts": "2026-11-18T14:44:58+00:00",
    "text": "היועמ\"שית תיפגש הערב עם פרקליט המדינה בהקשר התנהלות המשטרה ביום הבחירות ומעצר פעילי רע\"ם ששוחררו. (12)",
-   "views": 175,
+   "views": 177,
    "forwarded_from": null,
    "media": []
   },
@@ -1015,7 +1033,7 @@
    "post": "ramreports/217816",
    "ts": "2026-11-18T14:38:26+00:00",
    "text": "ארגון הטרור הנאצי דעאש חמאס: הודעת הצבא הישראלי על מבצע צבאי במרכז עזה היא הפרה בוטה של ​​הסכם הפסקת האש. על המתווכים לקחת על עצמם את אחריותם ולהתערב באופן מיידי כדי לעצור את התוקפנות הזו.",
-   "views": 6490,
+   "views": 6560,
    "forwarded_from": null,
    "media": []
   },
@@ -1024,7 +1042,7 @@
    "post": "haskupim/203210",
    "ts": "2026-11-18T14:35:26+00:00",
    "text": "חדשות הסקופים\nח\"כ יאיא פינק בריאיון בערוץ 12: \"מתכוונים להקים ועדת חקירה ממלכתית לאירועי הבחירות\"",
-   "views": 69,
+   "views": 70,
    "forwarded_from": null,
    "media": []
   },
@@ -1033,7 +1051,7 @@
    "post": "ramreports/217815",
    "ts": "2026-11-18T14:34:40+00:00",
    "text": "צבא ארה\"ב תקף לפני זמן קצר באופן ממוקד יעד בנמל בנדר עבאס בדרום איראן סמוך למצר הורמוז.",
-   "views": 6660,
+   "views": 6730,
    "forwarded_from": null,
    "media": [
     {
@@ -1044,20 +1062,11 @@
    ]
   },
   {
-   "id": "p52c1772be6a7",
-   "post": "haskupim/203209",
-   "ts": "2026-11-18T14:34:13+00:00",
-   "text": "חדשות הסקופים\nעל רקע פגישתו של נפתלי בנט עם רה\"מ נתניהו: הפגנה מול ביתו של יו\"ר ביחד צפויה להתקיים הערב בקריאה להקמת ממשלת שינוי ללא נתניהו\nחדשות 12",
-   "views": 65,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p53f5bdd2e996",
    "post": "merkaz/301533",
    "ts": "2026-11-18T14:30:41+00:00",
    "text": "תחת אבטחה כבדה: תלמידי ישיבת \"דרכי תורה\" בפאר רוקאווי (ניו יורק), בראשות ראשי הישיבה ורבניה, קיבלו בהתרגשות סוחפת ובשירה אדירה את פניו של רבנו הגדול מרן רה\"י הגרמ\"ה הירש, שהגיע למסע חיזוק מיוחד בקרב יהדות הגולה.",
-   "views": 241,
+   "views": 243,
    "forwarded_from": null,
    "media": [
     {
@@ -1120,7 +1129,7 @@
    "post": "merkaz/301532",
    "ts": "2026-11-18T14:26:54+00:00",
    "text": "במסר לאיראן: פיקוד המרכז האמריקני (סנטקום) מפרסם תמונות של שתי נושאות מטוסים אמריקניות זו לצד זו בים הערבי",
-   "views": 243,
+   "views": 245,
    "forwarded_from": null,
    "media": [
     {
@@ -1140,15 +1149,6 @@
    "media": []
   },
   {
-   "id": "pcd209dff4aec",
-   "post": "haskupim/203208",
-   "ts": "2026-11-18T14:24:04+00:00",
-   "text": "חדשות הסקופים\nיו\"ר הדמוקרטים גולן אחרי פגישת ראשי גוש השינוי: \"כולנו מבינים את גודל השעה ואת הצורך להקים ממשלה יציבה מהר\"",
-   "views": 74,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p8e36007e1b8c",
    "post": "merkaz/301530",
    "ts": "2026-11-18T14:23:07+00:00",
@@ -1162,7 +1162,7 @@
    "post": "amitsegal/67374",
    "ts": "2026-11-18T14:21:13+00:00",
    "text": "אחרי שהופתעו מבנט, ראשי גוש השינוי מנסים לשדר מסרים אופטימיים מפגישתם שהסתיימה כעת",
-   "views": 50800,
+   "views": 51800,
    "forwarded_from": null,
    "media": []
   },
@@ -1242,7 +1242,7 @@
    "post": "HiTech_Jobs_In_Israel/139188",
    "ts": "2026-11-18T14:00:11+00:00",
    "text": "Head of Product Partnership at XTEND\nLocation: Tel-Aviv\nPress here https://www.comeet.com/jobs/xtend/85.00A/head-of-product-partnership/37.57C?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 116,
+   "views": 118,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1252,7 +1252,7 @@
    "post": "HiTech_Jobs_In_Israel/139187",
    "ts": "2026-11-18T14:00:10+00:00",
    "text": "Senior Data Engineer at Silverfort\nLocation: Tel Aviv, Israel\nPress here https://www.comeet.com/jobs/silverfort/54.007/senior-data-engineer/25.578?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 121,
+   "views": 122,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1262,7 +1262,7 @@
    "post": "HiTech_Jobs_In_Israel/139186",
    "ts": "2026-11-18T14:00:08+00:00",
    "text": "Senior Business Analyst at Lusha\nLocation: Tel Aviv\nPress here https://www.lusha.com/careers/co/tel-aviv/37.57E/senior-business-analyst/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 113,
+   "views": 115,
    "forwarded_from": null,
    "media": [
     {
@@ -1278,7 +1278,7 @@
    "post": "HiTech_Jobs_In_Israel/139185",
    "ts": "2026-11-18T14:00:07+00:00",
    "text": "Strategic Partnerships Manager at Lumenis\nLocation: Pollogen PTV Israel\nPress here https://www.comeet.com/jobs/lumenis/A1.00C/strategic-partnerships--manager/37.572?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 100,
+   "views": 102,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1288,7 +1288,7 @@
    "post": "HiTech_Jobs_In_Israel/139184",
    "ts": "2026-11-18T14:00:05+00:00",
    "text": "Junior Data Analyst at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/apply?position=CA.37A&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#JuniorPositions",
-   "views": 99,
+   "views": 101,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1298,7 +1298,7 @@
    "post": "HiTech_Jobs_In_Israel/139183",
    "ts": "2026-11-18T14:00:04+00:00",
    "text": "Security Operations Engineer at CommIT\nLocation: Or Yehuda\nPress here https://www.comm-it.com/commit-jobs#career-sec?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 101,
+   "views": 102,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1308,7 +1308,7 @@
    "post": "HiTech_Jobs_In_Israel/139181",
    "ts": "2026-11-18T14:00:03+00:00",
    "text": "Automation Engineer - Yokneam at CodeValue\nLocation: Yokne'am\nPress here https://www.comeet.com/jobs/codevalue/81.009/automation-engineer---yokneam/17.620?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 177,
+   "views": 179,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1318,7 +1318,7 @@
    "post": "HiTech_Jobs_In_Israel/139182",
    "ts": "2026-11-18T14:00:03+00:00",
    "text": "Embedded software developer at CodeValue\nLocation: Yokne'am\nPress here https://www.comeet.com/jobs/codevalue/81.009/embedded-software-developer/65.35F?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 100,
+   "views": 102,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1328,7 +1328,7 @@
    "post": "HiTech_Jobs_In_Israel/139180",
    "ts": "2026-11-18T14:00:02+00:00",
    "text": "GRC Manager at Checkmarx\nLocation: Ramat Gan, Israel\nPress here https://checkmarx.com/company/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 102,
+   "views": 104,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1338,7 +1338,7 @@
    "post": "HiTech_Jobs_In_Israel/139179",
    "ts": "2026-11-18T14:00:00+00:00",
    "text": "Web & Application Infrastructure Specialist at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 102,
+   "views": 105,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1348,7 +1348,7 @@
    "post": "abualiexpress/133853",
    "ts": "2026-11-18T13:56:39+00:00",
    "text": "חמאס מגיבה למבצע הצבאי עליו הכריז צה\"ל היום במרכז הרצועה: \" הכרזת צבא הכיבוש הטרוריסטי על מבצע צבאי במרכז רצועת עזה היא הפרה בוטה של הסכם הפסקת האש. על המתווכות לשאת באחריותן ולהתערב באופן מיידי להפסקתו. המבצע הצבאי שעליו הכריז צבא הכיבוש במרכז רצועת עזה…",
-   "views": 36300,
+   "views": 36600,
    "forwarded_from": null,
    "media": [
     {
@@ -1420,7 +1420,7 @@
    "post": "amitsegal/67372",
    "ts": "2026-11-18T13:47:18+00:00",
    "text": "תזכורת לגבי בנט:",
-   "views": 57800,
+   "views": 58800,
    "forwarded_from": null,
    "media": []
   },
@@ -1454,7 +1454,7 @@
    "post": "ramreports/217814",
    "ts": "2026-11-18T13:38:04+00:00",
    "text": "צה\"ל נערך להישאר בעזה, לבנון וסוריה גם ב-2027",
-   "views": 8690,
+   "views": 8750,
    "forwarded_from": null,
    "media": []
   },
@@ -1483,7 +1483,7 @@
    "post": "ramreports/217813",
    "ts": "2026-11-18T13:36:09+00:00",
    "text": "ארגון הטרור הנאצי דעאש חמאס:\n\nהודעת הצבא הישראלי על מבצע צבאי במרכז עזה היא הפרה בוטה של ​​הסכם הפסקת האש.\n\nעל המתווכים לקחת על עצמם את אחריותם ולהתערב באופן מיידי כדי לעצור את התוקפנות הזו.",
-   "views": 8760,
+   "views": 8790,
    "forwarded_from": null,
    "media": []
   },
@@ -1492,7 +1492,7 @@
    "post": "abualiexpress/133852",
    "ts": "2026-11-18T13:30:36+00:00",
    "text": "בהמשך לדיווח כאן אתמול מתאם פעולות הממשלה בשטחים הודיע לפני זמן קצר על פעילות מיוחדת של צה\"ל להשמדת תשתיות במרכז הרצועה. ע\"פ המתאם בשל הפעילות המיוחדת ייסגר לתנועה ציר צלאח א-דין - הציר המרכזי המחבר בין צפון הרצועה לדרומה.",
-   "views": 42900,
+   "views": 43200,
    "forwarded_from": null,
    "media": [
     {
@@ -1620,7 +1620,7 @@
    "post": "amitsegal/67369",
    "ts": "2026-11-18T13:03:05+00:00",
    "text": "בדרך לפגישת ראשי גוש השינוי",
-   "views": 63900,
+   "views": 64900,
    "forwarded_from": null,
    "media": [
     {
@@ -1712,7 +1712,7 @@
    "post": "AceIsraelofficial/4668",
    "ts": "2026-11-18T12:46:55+00:00",
    "text": "🚨 עד חצות וזה נגמר! ⏰🔥\n🖤 מוצרי ההפתעה של BLACK FRIDAY באייס ובאוטודיפו נחשפים עם מבצעים מטורפים! 🤯\n🔥 ג'קוזי מתנפח BESTWAY ל־4 עד 6 אנשים ב־1,690 ₪\n🔥 הליכון מתקפל EUROLEAP ב־569 ₪\n🔥 מכונת כביסה 6 ק\"ג ב־599 ₪\n🔥 טלוויזיה חכמה Hisense בגודל 40 אינץ' ב־599 ₪\n🔥 מחסן מתכת לגינה ב־599 ₪\n\n🚗 וגם באוטודיפו יש הפתעות!\nמיני מקרר לרכב בנפח 4 ליטר ב־199.90 ₪ במקום 299.90 ₪!\n⏰ השעון מתקתק! מבצעי ההפתעה לזמן מוגבל!\nאל תחכו שהמוצרים שרציתם יחזרו למחיר הרגיל!\n🛒 לכל ההפתעות באייס >>\nhttps://tinyurl.com/34uh9had\n\nבאתר בלבד ב18.11.26 או עד גמר המלאי",
-   "views": 2460,
+   "views": 2470,
    "forwarded_from": null,
    "media": [
     {
@@ -1783,7 +1783,7 @@
    "post": "merkaz/301526",
    "ts": "2026-11-18T12:42:55+00:00",
    "text": "אחרי שעתיים וחצי: הסתיימה פגישת נתניהו-בנט",
-   "views": 331,
+   "views": 332,
    "forwarded_from": null,
    "media": []
   },
@@ -1969,7 +1969,7 @@
    "post": "ramreports/217810",
    "ts": "2026-11-18T11:53:59+00:00",
    "text": "\"תראו מה קורה פה! טיבי נתן להם הוראה לצאת וגוש השמאל יוצא מהמליאה\"!\n\nיו\"ר הקואליציה כץ זועק על הדוכן עם תחילת הדיון בחוק שיזם לשלילת זכויות ממי שלא מכיר בחמאס כארגון טרור.",
-   "views": 11100,
+   "views": 11200,
    "forwarded_from": null,
    "media": [
     {
@@ -2051,7 +2051,7 @@
    "post": "abualiexpress/133848",
    "ts": "2026-11-18T11:31:25+00:00",
    "text": "בהמשך לדיווח כאן אתמול מתאם פעולות הממשלה בשטחים הודיע לפני זמן קצר על פעילות מיוחדת של צה\"ל להשמדת תשתיות במרכז הרצועה. ע\"פ המתאם בשל הפעילות המיוחדת ייסגר לתנועה ציר צלאח א-דין - הציר המרכזי המחבר בין צפון הרצועה לדרומה.",
-   "views": 53700,
+   "views": 54000,
    "forwarded_from": null,
    "media": [
     {
@@ -2082,7 +2082,7 @@
    "post": "amitsegal/67363",
    "ts": "2026-11-18T11:28:55+00:00",
    "text": "מפלגת ישר! עם איזנקוט:\n\nלא נשתתף בהצגות של הליכוד.\nכל הצעה של הליכוד היום היא הטרלה מביכה ובגדר טריקים ושטיקים.\n\nלאחר שאישרנו בקריאה טרומית את ביטול חוקי ההפיכה, מפלגות גוש השינוי והתיקון לא ישתתפו בהצבעות על הצעות החוק של הליכוד, וחברי הכנסת מטעמן יצאו מהמליאה בזמן ההצבעות.\n\nמדובר בהצעות חוק שהליכוד כלל לא טרח לקדם במשך ארבע שנים בשלטון, ורק כעת, כשכל מה שנאשר לו זו הצגה, נזכר להעלות אותן להצבעה.\n\nיו״ר סיעת ישר!, ח״כ רועי פולקמן:\n\n״מי שרמסו במשך ארבע שנים את הכנסת ואת הדמוקרטיה הישראלית לא יקבעו לנו עכשיו את סדר היום. נתניהו והליכוד נזכרו לקדם חוקים שלא טרחו אפילו להעלות במשך ארבע שנים, דווקא כשהם מאבדים את כוחם.\n\nלא ניתן להם לנסות להכניס טריז בגוש השינוי. אנחנו נמשיך לעבוד כדי לתקן את הנזקים שהותירה הממשלה היוצאת.״",
-   "views": 73000,
+   "views": 73100,
    "forwarded_from": null,
    "media": []
   },
@@ -2091,7 +2091,7 @@
    "post": "abualiexpress/133847",
    "ts": "2026-11-18T11:27:21+00:00",
    "text": "ערוצים עזתיים מדווחים שכוחות צה\"ל הזיזו היום את הקו הצהוב מערבה למרחק של 100 מטרים באזור אבו אלעג'ין במזרח דיר אלבלח, במרכז רצועת עזה.",
-   "views": 51800,
+   "views": 52100,
    "forwarded_from": null,
    "media": [
     {
@@ -2174,7 +2174,7 @@
    "post": "ramreports/217809",
    "ts": "2026-11-18T10:58:46+00:00",
    "text": "יוסי יהושוע: ברקע המתיחות מול איראן, הרמטכ״ל אייל זמיר נפגש בשעה זו בלשכתו עם מפקד סנטקום, האדמירל בראד קופר, ועם בכירים בצה״ל, לדיון ביטחוני שבמרכזו גם האפשרות לחידוש הלחימה מול איראן.",
-   "views": 12000,
+   "views": 12100,
    "forwarded_from": null,
    "media": []
   },
@@ -2287,7 +2287,7 @@
    "post": "abualiexpress/133843",
    "ts": "2026-11-18T09:51:18+00:00",
    "text": "בצעד מקביל לצעד הבריטי שפורסם אתמול, משרד החוץ האוסטרלי מכריז על סנקציות כנגד חברות ישראליות ואישים ישראלים הקשורים להרחבת ההתיישבות באיו\"ש משרד החוץ האוסטרלי: \"במסגרת הצעדים נאסר על אזרחי אוסטרליה ועל חברות אוסטרליות לקיים קשרי מסחר או להעניק תמיכה כספית…",
-   "views": 50200,
+   "views": 50500,
    "forwarded_from": null,
    "media": [
     {
@@ -2456,7 +2456,7 @@
    "post": "ramreports/217806",
    "ts": "2026-11-18T08:47:24+00:00",
    "text": "שר הביטחון ישראל כ\"ץ:\n\nמדיניות הממשלה, המתוקפת על ידי רה\"מ ועל ידי כשר הביטחון, ברורה: צה\"ל שולט באזורי הביטחון בלבנון, בסוריה ובעזה ופועל בהם כדי להגן על היישובים הישראלים בגליל, בגולן ובנגב מפני איומים של כוחות ג׳יהאדיסטים - וזאת כלקח מאירועי ה-7 באוקטובר.\n\nכפי שהבהרנו: ישראל לא תיסוג מהקווים הנוכחיים של אזורי הביטחון ולא תיערך בהם מחדש, לפני פירוק החמאס ופירוז עזה, פירוק החיזבאללה מנשקו בכל לבנון והסרת כל האיומים הג׳יהאדיסטים מסוריה.\n\nמעבר לכך: במקרה של התלקחות הזירות, צה\"ל ערוך לתמרון ולכיבוש שטחים נוספים, תוך פינוי התושבים והרס תשתיות הטרור במקום והפיכתם לחלק מאזורי הביטחון הקבועים של ישראל בצפון ובדרום.",
-   "views": 13700,
+   "views": 13800,
    "forwarded_from": null,
    "media": []
   },
@@ -2474,7 +2474,7 @@
    "post": "ILcoupons/5995",
    "ts": "2026-11-18T08:14:57+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 582,
+   "views": 583,
    "forwarded_from": null,
    "media": [
     {
@@ -2592,7 +2592,7 @@
    "post": "ramreports/217805",
    "ts": "2026-11-18T06:45:01+00:00",
    "text": "דיווח: איראן גייסה תאילנדים שיעים כדי לבצע פיגוע בשגרירות ישראל בבנגקוק",
-   "views": 15000,
+   "views": 15100,
    "forwarded_from": null,
    "media": []
   },
@@ -2708,7 +2708,7 @@
    "post": "ramreports/217801",
    "ts": "2026-11-18T00:11:19+00:00",
    "text": "אירן מסלימה את המצב? דיווחים: תקיפות איראניות על כווית ובחריין",
-   "views": 18700,
+   "views": 18800,
    "forwarded_from": null,
    "media": [
     {
@@ -4024,7 +4024,7 @@
    "post": "jobsHOTjobss/17681",
    "ts": "2026-11-12T09:11:01+00:00",
    "text": "",
-   "views": 127,
+   "views": 128,
    "forwarded_from": null,
    "media": [
     {
