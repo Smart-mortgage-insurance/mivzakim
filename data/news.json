@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:18:22.333506+00:00",
+ "updated": "2026-11-18T07:20:03.070828+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,35 @@
  "count": 347,
  "items": [
   {
+   "id": "p4e672228aea6",
+   "post": "haskupim/203145",
+   "ts": "2026-11-18T07:18:24+00:00",
+   "text": "חדשות הסקופים\nברוך דיין האמת | הרה\"ח אהרן לוין זצ\"ל, מחשובי תושבי רמת אלחנן בבני ברק ואביו של המפיק המוזיקלי נוטע לוין, נפטר לאחר מחלה קצרה. הלווייתו בשעה 11:00 מביתו ברחוב גיבורי ישראל 26 בבני ברק. בתמונתו האחרונה ביקש להניח תפילין בשארית כוחותיו.\nקבוצת ברוך דיין האמת",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/df2e12abf7619dfa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "pa8ad95851557",
+   "post": "RealKikarHashabat/11877",
+   "ts": "2026-11-18T07:18:13+00:00",
+   "text": "הצעות החוק של חבר הכנסת אופיר כץ שגוש הימין יעלה היום למליאה:\n\n• הצעת חוק הנחת התפילין: איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך. רשות מקומית ומוסדות חינוך לא יפריעו לאדם להניח תפילין ולא ימנעו ממנו לעשות כן.\n\n• הצעת חוק הכרה בחמאס כארגון טרור: חבר כנסת המסרב או נמנע מלהכיר בארגון חמאס כארגון טרור ישללו זכויותיו כחבר כנסת כל עוד לא הכיר בו. ההחלטה לשלילה תיעשה על ידי ועדת הכנסת.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
    "id": "p61d68210d4e8",
    "post": "haskupim/203144",
    "ts": "2026-11-18T07:11:39+00:00",
    "text": "חדשות הסקופים\nצה\"ל ערוך לכיבוש שטחים נוספים | שר הביטחון ישראל כץ מזהיר: ישראל לא תיסוג מאזורים בלבנון, סוריה ועזה עד פירוק חמאס וחיזבאללה מנשקם. במקרה של התלקחות, צה\"ל יכבוש שטחים, יפנה תושבים ויהפוך אותם לאזורי ביטחון.",
-   "views": 13,
+   "views": 15,
    "forwarded_from": null,
    "media": []
   },
@@ -147,7 +171,7 @@
    "post": "haskupim/203143",
    "ts": "2026-11-18T07:10:09+00:00",
    "text": "חדשות הסקופים\nניידת משטרה באכיפת תנועה מאחורי הלוויה בתימן | שימו לב: ניידת משטרה נראית מאחורי הלוויה בתימן במהלך אכיפת תנועה.\nחדשות בני ברק",
-   "views": 19,
+   "views": 20,
    "forwarded_from": null,
    "media": [
     {
@@ -162,7 +186,7 @@
    "post": "haskupim/203142",
    "ts": "2026-11-18T07:09:08+00:00",
    "text": "חדשות הסקופים\nח\"כ ינון אזולאי: \"שותפות עם מי שלא מסוגלים לגנות את חמאס לא מפריעה לכם\" | יו\"ר סיעת ש״ס במליאת הכנסת: \"לבחורי הישיבות אתם קוראים משתמטים, אבל שותפות עם מי שלא מסוגלים לגנות את חמאס לא מפריעה לכם\"",
-   "views": 17,
+   "views": 19,
    "forwarded_from": null,
    "media": [
     {
@@ -177,7 +201,7 @@
    "post": "merkaz/301486",
    "ts": "2026-11-18T07:07:34+00:00",
    "text": "שר הביטחון ישראל כץ מאיים: במקרה של התלקחות הזירות, צה\"ל ערוך לתמרון ולכיבוש שטחים נוספים, תוך פינוי התושבים והרס תשתיות הטרור במקום והפיכתם לחלק מאזורי הביטחון הקבועים של ישראל בצפון ובדרום.",
-   "views": 62,
+   "views": 65,
    "forwarded_from": null,
    "media": []
   },
@@ -186,7 +210,7 @@
    "post": "haskupim/203141",
    "ts": "2026-11-18T07:05:48+00:00",
    "text": "חדשות הסקופים\nביטול חקיקת הרפורמה אפשרי לפני בחירות | היועץ המשפטי אישר לגורמים בגוש השינוי: גם בלי ממשלה, ניתן לבטל את חוקי הרפורמה. החוקים: הוועדה לשופטים, פיצול היועמ\"ש, מח\"ש, תקשורת ונבצרות.\nיערה שפירא",
-   "views": 19,
+   "views": 20,
    "forwarded_from": null,
    "media": []
   },
@@ -250,7 +274,7 @@
    "post": "merkaz/301485",
    "ts": "2026-11-18T06:56:53+00:00",
    "text": "הצעות החוק של ח״כ אופיר כץ שגוש הימין יעלה היום למליאה:\n\n• הצעת חוק הנחת התפילין: איסור הפרעה להנחת תפילין במרחב הציבורי ובמוסדות חינוך. רשות מקומית ומוסדות חינוך לא יפריעו לאדם להניח תפילין ולא ימנעו ממנו לעשות כן.\n\n• הצעת חוק הכרה בחמאס כארגון טרור: חבר כנסת המסרב או נמנע מלהכיר בארגון חמאס כארגון טרור ישללו זכויותיו כחבר כנסת כל עוד לא הכיר בו. ההחלטה לשלילה תיעשה על ידי ועדת הכנסת.",
-   "views": 91,
+   "views": 94,
    "forwarded_from": null,
    "media": []
   },
@@ -274,7 +298,7 @@
    "post": "merkaz/301484",
    "ts": "2026-11-18T06:55:04+00:00",
    "text": "בכר עואודה, יו״ר סיעת בל״ד, בריאיון לרדיו נאס: ההצבעה בעד מתן כהנא היא צעד פוליטי מתבקש בדרך להחלפת ממשלת נתניהו וכל סמליה, והתמיכה הזו לא ניתנה בחינם. נשיג הישגים עבור החברה הערבית, ואנחנו בעיצומו של משא ומתן",
-   "views": 96,
+   "views": 98,
    "forwarded_from": null,
    "media": []
   },
@@ -283,7 +307,7 @@
    "post": "iBuyIL/28080",
    "ts": "2026-11-18T06:54:05+00:00",
    "text": "חזרררר ירידת מחיר!!!🛒 מחיר מטורףףף לשטיח מהודר שנותן סטייל וחמימות לבית! בטעות ממש במשלוח חינם! מהרו להזמין לפני שייגמר\n\nשטיח 152×213 ס\"מ GENIMO לסלון\n\n💳 מחיר סופי: 24.99$ \\ 81₪ (במקום $49.99)\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/genimo-5x7-area-rugs-for-livin\n\n🌸 עיצוב וינטאג' מהמם - דוגמאות פרחוניות קלאסיות בגוונים הרמוניים שמשדרגים את הבית\n🧵 סיבי צ'ניל דקיקים ורכים במיוחד - רך למגע, לא שוקע, נשמר יפה לאורך זמן\n🦶 דגם דק (Low Pile) - שומר על לוק יוקרתי, בלי לתפוס מקום מיותר\n🧺 ניתן לכביסה במכונה - פשוט, קל ונוח (כביסה עדינה)\n🧹 תחזוקה יומיומית קלה - שואב לניקוי זריז, הסרה קלה של שערות בעלי חיים\n🚫 תחתית מונעת החלקה\n\nתנו לבית שלכם טאצ’ עם משמעות, עיצוב שלא מתפשר ותחושת נוחות שכל כף רגל תוקיר! 🏡✨\n\nלדיון בפוסט https://www.facebook.com/share/p/18GjxisBui/",
-   "views": 256,
+   "views": 275,
    "forwarded_from": null,
    "media": [
     {
@@ -299,7 +323,7 @@
    "post": "abualiexpress/133831",
    "ts": "2026-11-18T06:52:01+00:00",
    "text": "קריאות מתוך ההפגנה באבדאנאן במערב איראן: \"זהו הקרב האחרון, פהלווי עוד ישוב!\" ## מפגינים אמיצים!",
-   "views": 12700,
+   "views": 13000,
    "forwarded_from": null,
    "media": [
     {
@@ -314,7 +338,7 @@
    "post": "ramreports/217805",
    "ts": "2026-11-18T06:45:01+00:00",
    "text": "דיווח: איראן גייסה תאילנדים שיעים כדי לבצע פיגוע בשגרירות ישראל בבנגקוק",
-   "views": 3250,
+   "views": 3380,
    "forwarded_from": null,
    "media": []
   },
@@ -323,7 +347,7 @@
    "post": "abualiexpress/133829",
    "ts": "2026-11-18T06:44:38+00:00",
    "text": "רצועת עזה בשעות האחרונות: שני חיסולים בתקיפות כטב\"מ ופשיטה גדולה של המיליציות המתנגדות לחמאס בדיר אלבלח\n\nמאירועי השעות האחרונות ברצועה:\n\n1. חוסל פאדי אסמאעיל, בן 35 בתקיפת כטב\"מ ליד תחנה של משטרת חמאס הקרובה למסגד אלאנצאר במרכז דיר אלבלח מעט לפני השעה שבע הבוקר. הותקפה גם ניידת משטרה ריקה באזור זה, בטיל נוסף של כטב\"מ.\n\n2. חוסל ת'אאר אלואדיה, בתקיפת כטב\"מ ישראלי ליד המועדון הימי בשכונת שיח' עג'לין בדרום מערב העיר עזה, מעט אחרי השעה שבע הבוקר(מצורף תיעוד מזירת התקיפה וכן תמונה של ת'אאר).\n\n3. כוח גדול של המיליציות המתנגדות לחמאס פשטו לפנות בוקר על אזור צפון מזרח נציראת במרכז הרצועה וביצעו מעצרים. ע\"פ הדיווחים הכוחות הסתובבו בחופשיות באזור, זכו לחיפוי אווירי מצד כטב\"מים של צה\"ל וכרזו למבוקשים להסגיר את עצמם.",
-   "views": 15500,
+   "views": 16100,
    "forwarded_from": null,
    "media": [
     {
@@ -376,7 +400,7 @@
    "post": "abualiexpress/133828",
    "ts": "2026-11-18T06:35:19+00:00",
    "text": "פחות מיממה אחרי בחירות האמצע בארה\"ב מחיר חבית נפט מסוג ברנט צולל בכמעט 8% הרבה מתחת לרף 100 הדולרים. המחיר עומד כעת על 95 דולרים - הזול ביותר בחודשיים האחרונים. לפני פחות משבועיים המחיר עמד על 116 דולר. למי היה אינטרס להחזיק אותו גבוה עד הבחירות?",
-   "views": 19500,
+   "views": 20100,
    "forwarded_from": null,
    "media": [
     {
@@ -450,7 +474,7 @@
    "post": "merkaz/301483",
    "ts": "2026-11-18T06:26:06+00:00",
    "text": "אלמוג בוקר: בניגוד להבטחות הדרג המדיני, משאיות סיוע הגיעו הבוקר למעבר ארז. הן יעברו בידוק ומשם ימשיכו לכרם שלום כדי להיכנס לרצועת עזה",
-   "views": 174,
+   "views": 176,
    "forwarded_from": null,
    "media": [
     {
@@ -465,7 +489,7 @@
    "post": "abualiexpress/133826",
    "ts": "2026-11-18T06:25:17+00:00",
    "text": "התרעות על תקיפות איראניות הלילה הופעלו בכווית (לראשונה מזה חודשיים) ובבחריין\n\nאיראן קיבלה אחריות באופן רשמי על תקיפת הבסיס האמריקאי \"עלי א-סאלם\" בכווית.\n\nלטענת איראן, היא שיגרה מתקפת כטב\"מים על מערכות הגנה אווירית מסוג פטריוט וכן מתקני שיגור של כטב\"מים בבסיס זה.\n\nאיראן לא קיבלה אחריות על תקיפה בבחריין.\n\nסנטקום טרם דיווח על תוצאות האירועים - כפי שראינו בימים האחרונים, שווה להמתין לתגובת סנטקום.",
-   "views": 23200,
+   "views": 23500,
    "forwarded_from": null,
    "media": [
     {
@@ -494,7 +518,7 @@
    "post": "iBuyIL/28079",
    "ts": "2026-11-18T06:16:17+00:00",
    "text": "מכירים את התחושה הזו אחרי כמה שעות מול המחשב שהידיים מתות? 🤦‍♂️ הגיע הזמן להקל על השגרה - ולעשות את זה בסטייל\n\nהמקלדת של Frixalox משלבת עיצוב מפוצל, תמיכה לשורש כף היד ותאורת RGB מהפנטת - נולדה למי שמקליד הרבה, עובד מהבית או גיימר מושבע 🎮💡\n\nמקלדת מפוצלת ארגונומית חוטית עם תאורת RGB ומקשים נומריים Frixalox\n\n💳 מחיר סופי: $29.98 \\ 97₪ (במקום 39.98$)\n\n👈 משלוח חינם בתנאי הגעה ל-49$\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/wired-ergonomic-split-keyboard\n\n✔️ עיצוב ארגונומי ומשען קשיח לשורש כף היד לתמיכה לאורך זמן\n✔️ שלדת מקשים מפוצלת בעיצוב שטוח שמרגיש טבעי בהקלדה\n✔️ 17 קיצורים ייעודיים לשליטה מהירה במדיה, מחשבון, בהירות ועוד\n✔️ תאורת RGB מטורפת: 10 מצבי צבע, 7 צבעים, 5 רמות בהירות\n✔️ חיבור חוטי אמין (כבל USB באורך 170 ס\"מ) כולל מתאם USB-C\n✔️ מקשי ספרות מלאים לניהול גיליונות ונוחות עבודה\n✔️ ללא צורך בדרייברים עובד ישירות עם Windows, Mac, Chrome OS ולינוקס\n\nלדיון בפוסט https://www.facebook.com/share/p/1LdRz48Upk/",
-   "views": 503,
+   "views": 508,
    "forwarded_from": null,
    "media": [
     {
@@ -510,7 +534,7 @@
    "post": "abualiexpress/133825",
    "ts": "2026-11-18T06:15:18+00:00",
    "text": "הניו יורק טיימס: איראן הקשיחה את עמדותיה במשא ומתן עם ארה\"ב בעקבות התבוסה המוחצת של הרפובליקנים בבחירות אמצע הכהונה, שאותה רואה טהרן כניצחון על טראמפ\n\nבכירים איראנים סבורים כי האסטרטגיה שלהם להפעלת לחץ כלכלי באמצעות מצר הורמוז הוכיחה את עצמה, וכעת הם פחות נכונים לעשות ויתורים.\n\nהסיכוי להגעה להסכם פחת.",
-   "views": 27100,
+   "views": 27400,
    "forwarded_from": null,
    "media": [
     {
@@ -550,7 +574,7 @@
    "post": "AceIsraelofficial/4667",
    "ts": "2026-11-18T06:10:04+00:00",
    "text": "🖤 BLACK FRIDAY מגיע בהפתעה לאייס! 💚\n🎁 מבצעי הפתעה עד חצות במחירים שאסור לפספס!\n🔥 מכונת כביסה 6 ק\"ג ב־599 ₪ בלבד!\n🔥 מחסן מתכת לגינה ב־599 ₪ בלבד!\n🔥 ג'קוזי מתנפח ל־6–4 משתמשים ב־1,690 ₪ בלבד!\n🔥 הליכון מתקפל ב־569 ₪ בלבד!\n🔥 ארון רומי 3 דלתות ב־749 ₪ בלבד!\n🔥 טלוויזיה חכמה Hisense בגודל 40 אינץ' ב־599 ₪ בלבד!\n⏰ ההפתעות כאן היום ומחר כבר לא!\n🛒 מהרו לקנות באתר אייס >>\nhttps://tinyurl.com/34uh9had\n\nבאתר בלבד ב-18.11.26 / גמר המלאי",
-   "views": 1440,
+   "views": 1460,
    "forwarded_from": null,
    "media": [
     {
@@ -593,7 +617,7 @@
    "post": "amitsegal/67338",
    "ts": "2026-11-18T06:04:00+00:00",
    "text": "היועמ״שית לנתניהו: אסור לך למנות את אמיר אוחנה לשר בממשלה בלי אישור הכנסת",
-   "views": 36500,
+   "views": 37500,
    "forwarded_from": null,
    "media": []
   },
@@ -633,7 +657,7 @@
    "post": "HiTech_Jobs_In_Israel/139144",
    "ts": "2026-11-18T06:00:21+00:00",
    "text": "Experienced Validation Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/628faaf0-a7df-4043-b720-e2fd3acb89b4?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 64,
+   "views": 68,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -643,7 +667,7 @@
    "post": "HiTech_Jobs_In_Israel/139143",
    "ts": "2026-11-18T06:00:20+00:00",
    "text": "C++ Software Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/9495066e-ebcc-49ed-bac5-0480be15753f?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 65,
+   "views": 68,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -653,7 +677,7 @@
    "post": "HiTech_Jobs_In_Israel/139142",
    "ts": "2026-11-18T06:00:16+00:00",
    "text": "Product Data Analyst at Riskified\nLocation: Tel Aviv\nPress here https://www.riskified.com/careers/job-description/?gh_jid=8934820002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 64,
+   "views": 67,
    "forwarded_from": null,
    "media": [
     {
@@ -669,7 +693,7 @@
    "post": "HiTech_Jobs_In_Israel/139141",
    "ts": "2026-11-18T06:00:15+00:00",
    "text": "Director Engineering at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5009476101?gh_jid=5009476101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 64,
+   "views": 66,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -679,7 +703,7 @@
    "post": "HiTech_Jobs_In_Israel/139139",
    "ts": "2026-11-18T06:00:03+00:00",
    "text": "SAP Finance Functional Consultant / Tester at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 116,
+   "views": 117,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -689,7 +713,7 @@
    "post": "HiTech_Jobs_In_Israel/139140",
    "ts": "2026-11-18T06:00:03+00:00",
    "text": "SAP Go-Live & Cutover Manager at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 66,
+   "views": 67,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -699,7 +723,7 @@
    "post": "HiTech_Jobs_In_Israel/139138",
    "ts": "2026-11-18T06:00:02+00:00",
    "text": "Software Engineer - AI Datacenter Networking at DRIVENETS\nLocation: Tel Aviv- Toha\nPress here https://drivenets.com/job/?id=51.85A&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 65,
+   "views": 68,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -709,7 +733,7 @@
    "post": "merkaz/301482",
    "ts": "2026-11-18T05:58:02+00:00",
    "text": "תג מחיר בעיירה סמוע בדרום הר חברון: נערים הציתו רכב וריססו מספר כתובות גרפיטי על הקירות: \"לא משחקים בעם עם תפילין\", \"נקמה ד\"ש אור יהודה\".",
-   "views": 219,
+   "views": 222,
    "forwarded_from": null,
    "media": [
     {
@@ -742,7 +766,7 @@
    "post": "iBuyIL/28078",
    "ts": "2026-11-18T05:38:05+00:00",
    "text": "זה למי שעד היום לא קנה מצלמת רכב מטעמי תקציב, או למי שלא רוצה להיות מוסח ממצלמה מגושמת עם מסך ענק, דגם חדש בסדרת הקומפקטיות של דידיפאי 👁 מצלמת דרך קדמית לרכב DDPAI MINIPro 2K עם Wifi וחיישן ADAS דגם קומפקטי שמתחבא מאחורי המראה, לא מפריע לנהיגה ונותן שקט בראש (ובכביש).\n\n💳 מחיר סופי 29.78$ / 97₪ 😲\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/ddpai-minipro-2k-wifi-ad\n\n✔️ צילום 2K חד במיוחד - גם בלילה בזכות Night Vision 2.0\n✔️ פוקוס על פרטים גם באור נמוך או מול פנסים מסנוורים\n✔️ סופרקבל עמיד גם בחום הישראלי, הרבה יותר מסוללה רגילה\n✔️ שליטה מלאה מהאפליקציה: צפייה, הורדה והגדרות בקלות\n✔️ התראה קולית אם נוהגים מעל 4 שעות ברצף (כי לפעמים צריך לעצור)\n✔️ מתאים לכרטיס זיכרון עד 256GB אין דאגות למקום\n✔️ פקודת קול בשפה האנגלית לצילום מיידי של רגעים חשובים\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4241864582777658/",
-   "views": 700,
+   "views": 705,
    "forwarded_from": null,
    "media": [
     {
@@ -767,7 +791,7 @@
    "post": "merkaz/301481",
    "ts": "2026-11-18T05:33:42+00:00",
    "text": "לפני הפגישה מחר עם טראמפ: נשיאי רוסיה וסין נפגשו",
-   "views": 254,
+   "views": 255,
    "forwarded_from": null,
    "media": [
     {
@@ -791,7 +815,7 @@
    "post": "merkaz/301480",
    "ts": "2026-11-18T05:31:41+00:00",
    "text": "המשנה ליועמ״שית גיל לימון העביר חוות דעת למשרד רה״מ: לא ניתן למנות את יו״ר הכנסת לשעבר אמיר אוחנה לשר לעניינים אסטרטגיים ללא אישור הכנסת.",
-   "views": 247,
+   "views": 248,
    "forwarded_from": null,
    "media": []
   },
@@ -812,21 +836,6 @@
    "views": 98,
    "forwarded_from": null,
    "media": []
-  },
-  {
-   "id": "pfdfd7720572e",
-   "post": "haskupim/203125",
-   "ts": "2026-11-18T05:20:27+00:00",
-   "text": "חדשות הסקופים\nמחסור חמור בעובדים ברשת | רמי לוי ובתו, מנכ\"לית משותפת, התייחסו למחסור בעובדים וטענו שהמותג הפרטי עדיין זול משמעותית מהמותגים המובילים.\nמעריב",
-   "views": 95,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/da94a4ffaa202a4f.jpg"
-    }
-   ]
   },
   {
    "id": "p5779905c8863",
@@ -863,7 +872,7 @@
    "post": "merkaz/301479",
    "ts": "2026-11-18T04:59:35+00:00",
    "text": "מהפך נוסף בבחירות האמצע בארה\"ב: לפי תחזיות סוכנות AP, הדמוקרטית מרי פלטולה ניצחה באלסקה והדיחה את הסנאטור הרפובליקני דן סאליבן. בכך גדל הרוב הדמוקרטי בסנאט ל-56 מושבים. פלטולה תהיה ילידת אלסקה הראשונה שתכהן בסנאט האמריקני.",
-   "views": 311,
+   "views": 313,
    "forwarded_from": null,
    "media": []
   },
@@ -887,7 +896,7 @@
    "post": "merkaz/301478",
    "ts": "2026-11-18T04:36:36+00:00",
    "text": "מליאת הכנסת אישרה הלילה גם את מינוי תשעת הסגנים הזמניים ליושב ראש הכנסת. ברוב של 38 תומכים מול 15 מתנגדים, אושרה המלצת הוועדה המסדרת למנות כסגנים זמניים את ח\"כ איתן גינזבורג (ביחד), יאיר פינק (הדמוקרטים), עודד פורר (ישראל ביתנו), וליד טאהא (רע\"מ), אחמד טיבי (הרשימה המשותפת), יצחק פינדרוס (יהדות התורה), יעקב ברדוגו (הליכוד), לימור סון הר-מלך (עוצמה יהודית) ומיכאל מלכיאלי (ש\"ס).",
-   "views": 366,
+   "views": 367,
    "forwarded_from": null,
    "media": []
   },
@@ -905,7 +914,7 @@
    "post": "merkaz/301476",
    "ts": "2026-11-18T04:32:40+00:00",
    "text": "אנה ברסקי: גורם בליכוד מעלה אפשרות חדשה של ממשלת אחדות ולפיה נתניהו עשוי להסכים לכהן שני ברוטציה עם גדי איזנקוט, באופן שיאפשר לו להגיע לבחירות הבאות מעמדת ראש הממשלה המכהן.\n\nצבא איראן: תקפנו מערכות הגנה ומשגרים ששייכים לארה\"ב בבסיס בכוויית.\n\nדיווח איראני: \"כמה אנשי צבא אמריקנים נפגעו בתקיפת כטב\"מים על בסיס בבחריין\".\n\nארה\"ב: כ-27 שנות מאסר לאזרח פקיסטן שתכנן להתנקש בטראמפ בשליחות איראן.\n\nיו\"ר אנבידיה: הדירקטוריון לא מתכוון להשיב את ג'נסן הואנג לתפקיד המנכ\"ל.\n\nארה\"ב: כ-27 שנות מאסר לאזרח פקיסטן שתכנן להתנקש בטראמפ בשליחות איראן.\n\nחברת המדיה של נשיא ארצות הברית דונלד טראמפ, המפעילה את הרשת החברתית Truth Social, עלולה להידרש להחזיר למשקיעים חוב של עד מיליארד דולר כבר בסוף החודש, בשעה שמנייתה נסחרת סמוך לשפל היסטורי.",
-   "views": 381,
+   "views": 382,
    "forwarded_from": null,
    "media": []
   },
@@ -923,7 +932,7 @@
    "post": "ramreports/217804",
    "ts": "2026-11-18T00:21:38+00:00",
    "text": "טראמפ: איראן תעמוד בפני תגובה חסרת תקדים אם תתקוף את וושינגטון בנשק כימי או בפצצה מלוכלכת",
-   "views": 15200,
+   "views": 15300,
    "forwarded_from": null,
    "media": []
   },
@@ -932,7 +941,7 @@
    "post": "ramreports/217803",
    "ts": "2026-11-18T00:20:14+00:00",
    "text": "היום הזה 17.11.2026 יזכר\nלדיראון עולם:\n\nבנט וכהנא",
-   "views": 15300,
+   "views": 15400,
    "forwarded_from": null,
    "media": [
     {
@@ -1020,7 +1029,7 @@
    "post": "ramreports/217799",
    "ts": "2026-11-17T22:54:32+00:00",
    "text": "אמיר אוחנה נפרד❣",
-   "views": 14800,
+   "views": 14900,
    "forwarded_from": null,
    "media": [
     {
@@ -1064,7 +1073,7 @@
    "post": "ramreports/217795",
    "ts": "2026-11-17T22:47:51+00:00",
    "text": "חילופי על כסא יו״ר הכנסת",
-   "views": 11500,
+   "views": 11600,
    "forwarded_from": null,
    "media": [
     {
@@ -1084,7 +1093,7 @@
    "post": "ramreports/217794",
    "ts": "2026-11-17T22:47:12+00:00",
    "text": "ח״כ דורפמן: תומכי הטרור בכנסת חוגגים את הניצחון שלהם במינוי יו\"ר הכנסת. בושה",
-   "views": 10900,
+   "views": 11000,
    "forwarded_from": null,
    "media": [
     {
@@ -1164,7 +1173,7 @@
    "post": "merkaz/301473",
    "ts": "2026-11-17T22:26:43+00:00",
    "text": "הליכוד בתגובה לבחירת כהנא:\nלדראון עולם. הערב מונה יו״ר כנסת באופן חד צדדי בקולות תומכי טרור. זו נקודת שפל בתולדות הכנסת. עם ישראל מתנגד למסירת מפתחות השלטון במדינה לידי מי שמבזים את המנון המדינה. עם ישראל מייחל לאחדות. איזנקוט, בנט וליברמן העדיפו היום את תומכי הטרור על פני אחדות לאומית. ההיסטוריה תזכור להם זאת.",
-   "views": 598,
+   "views": 600,
    "forwarded_from": null,
    "media": []
   },
@@ -1714,7 +1723,7 @@
    "post": "ramreports/217786",
    "ts": "2026-11-17T19:53:53+00:00",
    "text": "חיזבאללה בעיראק מפרסם",
-   "views": 17200,
+   "views": 17300,
    "forwarded_from": null,
    "media": [
     {
@@ -1787,7 +1796,7 @@
    "post": "abualiexpress/133823",
    "ts": "2026-11-17T19:47:22+00:00",
    "text": "עמוד יווני פופולרי ברשת X לועג להליכתו המוזרה של ארדואן:\n\n\"טורקיה היא מדינה כל כך מתקדמת מבחינת הייטק שאפילו יש לה נשיא - רובוט\"",
-   "views": 74100,
+   "views": 74400,
    "forwarded_from": null,
    "media": [
     {
@@ -1942,7 +1951,7 @@
    "post": "ramreports/217782",
    "ts": "2026-11-17T18:57:40+00:00",
    "text": "*חה״כ ד״ר צביקה מור, סיעת הציונות הדתית:*\n\nהערב אנחנו עומדים בפני השבעת יו״ר כנסת על בסיס קולותיהם של תומכי טרור.זה יום של אבל.\nהם לא יקבלו מאיתנו לגיטימציה מוסרית. כן, הערב קרעתי קריעה, על הריבונות היהודית, כי יש רגעים שבהם זו החובה הלאומית.\nלא נסלח למי שיכשיר את מי שמצדיק את רציחת, חטיפת, השמדת עמנו.",
-   "views": 17200,
+   "views": 17300,
    "forwarded_from": null,
    "media": [
     {
@@ -1957,7 +1966,7 @@
    "post": "iBuyIL/28077",
    "ts": "2026-11-17T18:56:03+00:00",
    "text": "המחיר התרסקקקקק!!!!\nיאבלולולו של דיל על טאבלט 10.1 אינץ' Teclast P30T עד 120Hz מתחת לרף המס!!! 🤯💥🤯💥 חשוב חשוב חשוב לשלם בדולרים 💲\n\nדגם P30T עם מסך 10.1'' וקצב רענון מטורף עד 120Hz # זיכרון 32GB RAM + 128GB אחסון (ניתן להרחבה) # מעבד T610 אוקטה-קור # סוללה חזקה 6000mAh # אנדרואיד 16 # תמיכה ב-Widevine L1\n# גרסה גלובלית # Brand+ מקורי\n\n💳 מחיר סופי 66.22$ / 215₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/up-to-120hz-refresh-rate-tecla\n\nפצצה של טאבלט לגלישה, לימודים, משחקים או צפייה בסדרות ! 😎💻\n\n✔️ קצב רענון עד 120Hz לגלילה וחוויה חלקה במיוחד\n✔️ מסך בגודל 10.1 אינץ' (25.7 ס\"מ) עם TDDI לתצוגה איכותית\n✔️ מערכת הפעלה Android 16 עדכנית\n✔️ זיכרון פנימי גדול: 128GB פלוס אופציה להוסיף עד 32GB נוספים\n✔️ מעבד שמונה ליבות Unisoc T610 לביצועים יומיומיים טובים\n✔️ סוללה גדולה - 6000mAh להמון שעות עבודה\n✔️ תומך Widevine L1: מתאים לצפייה באיכות גבוהה בשירותי סטרימינג\n\nלדיון בפוסט https://www.facebook.com/share/p/18b7rKSNTS/",
-   "views": 1750,
+   "views": 1760,
    "forwarded_from": null,
    "media": [
     {
@@ -2010,26 +2019,6 @@
      "type": "image",
      "checked": 1,
      "file": "data/media/75077434f2405f7b.jpg"
-    }
-   ]
-  },
-  {
-   "id": "p8e1e44b46151",
-   "post": "RealKikarHashabat/11857",
-   "ts": "2026-11-17T18:35:46+00:00",
-   "text": "צפו בדבריו המלאים של ראש הממשלה בנימין נתניהו",
-   "views": 16,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/8f781a91763054fb.mp4"
-    },
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/8f781a91763054fb.mp4"
     }
    ]
   },
@@ -2155,7 +2144,7 @@
    "post": "HiTech_Jobs_In_Israel/139137",
    "ts": "2026-11-17T18:00:19+00:00",
    "text": "Software Development Engineer - Shopping Personalization, Amazon Stores at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10570946/software-development-engineer-shopping-personalization-amazon-stores?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 207,
+   "views": 208,
    "forwarded_from": null,
    "media": [
     {
@@ -2171,7 +2160,7 @@
    "post": "HiTech_Jobs_In_Israel/139136",
    "ts": "2026-11-17T18:00:18+00:00",
    "text": "Procurement Business Partner - Base44 at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162118677?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 199,
+   "views": 200,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2181,7 +2170,7 @@
    "post": "HiTech_Jobs_In_Israel/139135",
    "ts": "2026-11-17T18:00:17+00:00",
    "text": "Senior Director Product, Autonomous Data Analytics at ServiceNow\nLocation: Petah Tikva\nPress here https://www.smartrecruiters.com/ServiceNow/744000162114935?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 173,
+   "views": 174,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2191,7 +2180,7 @@
    "post": "HiTech_Jobs_In_Israel/139134",
    "ts": "2026-11-17T18:00:08+00:00",
    "text": "Senior C++ Developer – Neural Network Integration & Production 3D Sensing Systems at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/a3c063b1-9d4e-436e-b0d8-c1619377be37?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 166,
+   "views": 167,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2201,7 +2190,7 @@
    "post": "HiTech_Jobs_In_Israel/139133",
    "ts": "2026-11-17T18:00:07+00:00",
    "text": "C++ Developer – Neural Network Integration & Production 3D Sensing Systems at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/da4f0a8d-6af3-4150-9acf-1898e83d5a61?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 162,
+   "views": 163,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2221,7 +2210,7 @@
    "post": "HiTech_Jobs_In_Israel/139131",
    "ts": "2026-11-17T18:00:01+00:00",
    "text": "QA E2E System Team Leader at DRIVENETS\nLocation: Raanana, Israel\nPress here https://drivenets.com/careers/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 295,
+   "views": 296,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2404,7 +2393,7 @@
    "post": "HiTech_Jobs_In_Israel/139130",
    "ts": "2026-11-17T16:00:16+00:00",
    "text": "Senior Site Reliability Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2030134?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 197,
+   "views": 198,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2414,7 +2403,7 @@
    "post": "HiTech_Jobs_In_Israel/139129",
    "ts": "2026-11-17T16:00:12+00:00",
    "text": "Senior Software Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-Software-Engineer_R2633431?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 186,
+   "views": 187,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2424,7 +2413,7 @@
    "post": "HiTech_Jobs_In_Israel/139128",
    "ts": "2026-11-17T16:00:09+00:00",
    "text": "Mid-Market Sales Specialist at Payoneer\nLocation: Herzliya, Tel Aviv District, Israel\nPress here https://www.payoneer.com/careers/position/8392384/?gh_jid=8392384&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 166,
+   "views": 167,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2434,7 +2423,7 @@
    "post": "HiTech_Jobs_In_Israel/139127",
    "ts": "2026-11-17T16:00:05+00:00",
    "text": "PMM Team Lead at Lusha\nLocation: Tel Aviv\nPress here https://www.lusha.com/careers/co/tel-aviv/27.475/pmm-team-lead/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 166,
+   "views": 167,
    "forwarded_from": null,
    "media": [
     {
@@ -2450,7 +2439,7 @@
    "post": "HiTech_Jobs_In_Israel/139126",
    "ts": "2026-11-17T16:00:03+00:00",
    "text": "Senior Backend Software Engineer at DealHub\nLocation: Holon, Israel\nPress here https://www.comeet.com/jobs/dealhub/86.005/senior-backend-software-engineer/76.573?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 172,
+   "views": 173,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2790,7 +2779,7 @@
    "post": "iBuyIL/28068",
    "ts": "2026-11-17T12:36:08+00:00",
    "text": "חזרו האוזניות המבוקשות של באסוס 🔥 אוזניות אלחוטיות 𝗕𝗮𝘀𝗲𝘂𝘀 𝗜𝗻𝘀𝗽𝗶𝗿𝗲 𝗫𝗣𝟭 בשיתוף 𝗕𝗼𝘀𝗲 העולמית עם ביטול רעשים ANC אדפטיבי 🎵\n\nסאונד מצויין 👌 איכות שיחה מעולה 👌 חיישן אוזן להפסקה אוטומטית כשמוציאים את האוזניה 👌 תמיכה באפליקציה 📲 והמחיר 🔥🔥🔥 לחטוף!!!\n\n💳 מחיר סופי $54.35 / 175₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-inspire-xp1-50db-adapt\n\nכשבא לכם סאונד רציני, לא \"בערך\" 😮‍💨\nבאסוס - מותג סיני ענק עם יחס עלות תועלת מעולה עושה כאן מהלך יפה עם שיתוף פעולה עם חברת BOSE העולמית - אחת מענקיות הסאונד הכי מזוהות בעולם בתחום האודיו הפרימיום 🎶🏆\n\nהתוצאה? כוונון סאונד מקצועי, יחד עם Dolby Spatial Audio ל-360° וחומת שקט עם ANC אדפטיבי עד ‎-50dB, כדי שתשמעו את המוזיקה ולא את כל מה שמסביב 🔇✨\n\nפירוט מלא באתר⚙️\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/3994195560877896/",
-   "views": 1680,
+   "views": 1690,
    "forwarded_from": null,
    "media": [
     {
@@ -3433,7 +3422,7 @@
    "post": "AceIsraelofficial/4662",
    "ts": "2026-11-14T18:32:40+00:00",
    "text": "⏰ הזדמנות אחרונה לאקסטרה הנחה!\n\n🔥 EXTRA 10% על ארונות נבחרים מסדרות רבי המכר!\n\nמגוון ארונות עם 2 עד 6 דלתות מחכים לכם באתר 🚪\n\nאל תפספסו את ההטבה המיוחדת שלנו!\n\n🎟 לקבלת הקופון:\nhttps://lp6.me/IoVOp\n\n🛒 לרכישה באתר:\nhttps://tinyurl.com/2pese55h\n\nתקף באתר בלבד עד 15.11 או עד גמר המלאי, המוקדם מביניהם | כפוף לתקנון:\nhttps://www.ace.co.il/best",
-   "views": 9140,
+   "views": 9150,
    "forwarded_from": null,
    "media": [
     {
