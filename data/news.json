@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:00:26.961546+00:00",
+ "updated": "2026-11-18T10:02:05.509269+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,125 @@
  "count": 350,
  "items": [
   {
+   "id": "pc58f90e432c1",
+   "post": "HiTech_Jobs_In_Israel/139163",
+   "ts": "2026-11-18T10:00:27+00:00",
+   "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
+   "views": 6,
+   "forwarded_from": null,
+   "media": [],
+   "kind": "jobs"
+  },
+  {
+   "id": "p773d21537e85",
+   "post": "HiTech_Jobs_In_Israel/139162",
+   "ts": "2026-11-18T10:00:26+00:00",
+   "text": "Embedded Software Engineer - Nitro , Annapurna Labs at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10561329/embedded-software-engineer-nitro-annapurna-labs?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 7,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/4f44fbe4a202097f.jpg"
+    }
+   ],
+   "kind": "jobs"
+  },
+  {
+   "id": "pc95cb36cb955",
+   "post": "HiTech_Jobs_In_Israel/139160",
+   "ts": "2026-11-18T10:00:25+00:00",
+   "text": "Software Development Engineer, MLIL Firmware at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10607880/software-development-engineer-mlil-firmware?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 8,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/17da9692abfb3e32.jpg"
+    }
+   ],
+   "kind": "jobs"
+  },
+  {
+   "id": "p6885d0cead1f",
+   "post": "HiTech_Jobs_In_Israel/139161",
+   "ts": "2026-11-18T10:00:25+00:00",
+   "text": "Logistics Manager at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10596405/logistics-manager?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 7,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/f004dd16b75d8f13.jpg"
+    }
+   ],
+   "kind": "jobs"
+  },
+  {
+   "id": "p13f7b6b60390",
+   "post": "HiTech_Jobs_In_Israel/139159",
+   "ts": "2026-11-18T10:00:24+00:00",
+   "text": "Embedded Software Engineer - Networking drivers, ENA team at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10607861/embedded-software-engineer-networking-drivers-ena-team?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 7,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/5d113756cda58638.jpg"
+    }
+   ],
+   "kind": "jobs"
+  },
+  {
+   "id": "pf58ac49bcfa1",
+   "post": "HiTech_Jobs_In_Israel/139158",
+   "ts": "2026-11-18T10:00:21+00:00",
+   "text": "AI Analyst at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162246081?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 4,
+   "forwarded_from": null,
+   "media": [],
+   "kind": "jobs"
+  },
+  {
+   "id": "p7050481c0792",
+   "post": "HiTech_Jobs_In_Israel/139157",
+   "ts": "2026-11-18T10:00:20+00:00",
+   "text": "Full Stack Team Leader at Nuvei\nLocation: Israel Tel Aviv-Yafo\nPress here https://apply.workable.com/nuvei/j/1F3AFFEE45/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 6,
+   "forwarded_from": null,
+   "media": [],
+   "kind": "jobs"
+  },
+  {
+   "id": "p4487a6844992",
+   "post": "HiTech_Jobs_In_Israel/139155",
+   "ts": "2026-11-18T10:00:19+00:00",
+   "text": "Product Security Lead at Salesforce\nLocation: Israel - Tel Aviv\nPress here https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Product-Security-Lead_JR368663?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 4,
+   "forwarded_from": null,
+   "media": [],
+   "kind": "jobs"
+  },
+  {
+   "id": "p584861fd52f0",
+   "post": "HiTech_Jobs_In_Israel/139156",
+   "ts": "2026-11-18T10:00:19+00:00",
+   "text": "Account Executive at Salesforce\nLocation: Israel - Tel Aviv\nPress here https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Account-Executive_JR368768?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
+   "views": 5,
+   "forwarded_from": null,
+   "media": [],
+   "kind": "jobs"
+  },
+  {
    "id": "p67ae076102c5",
    "post": "HiTech_Jobs_In_Israel/139154",
    "ts": "2026-11-18T10:00:16+00:00",
    "text": "Process Engineer at Flex\nLocation: Israel, Migdal Ha-Emek\nPress here https://flextronics.wd1.myworkdayjobs.com/Careers/job/Israel-Migdal-Ha-Emek/Process-Engineer_WD234327?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -148,7 +262,7 @@
    "post": "HiTech_Jobs_In_Israel/139153",
    "ts": "2026-11-18T10:00:14+00:00",
    "text": "Global Product Support (GPS) Engineer at Applied Materials\nLocation: Rehovot,ISR\nPress here https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Global-Product-Support--GPS--Engineer_R2634007?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -158,7 +272,7 @@
    "post": "HiTech_Jobs_In_Israel/139150",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Director of Algorithm Software Infrastructure & Integration at Mobileye\nLocation: Petah Tikva, Israel\nPress here https://jobs.eu.lever.co/mobileye/adfee845-9356-4f68-8103-c6d24d7f3a3f?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -168,7 +282,7 @@
    "post": "HiTech_Jobs_In_Israel/139151",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Director of Algorithm Software Infrastructure & Integration at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/eadec8b5-6b58-40f5-a024-5915cef79001?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -178,7 +292,7 @@
    "post": "HiTech_Jobs_In_Israel/139152",
    "ts": "2026-11-18T10:00:13+00:00",
    "text": "Senior Product Manager - Autonomous Urban Driving at Mobileye\nLocation: Ramat Gan, Israel\nPress here https://jobs.eu.lever.co/mobileye/bfee467c-d620-41fd-803e-ae9846568ef6?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -188,7 +302,7 @@
    "post": "HiTech_Jobs_In_Israel/139149",
    "ts": "2026-11-18T10:00:11+00:00",
    "text": "Senior Engineering Manager, Security Graph & Agentic AI at SentinelOne\nLocation: Israel\nPress here https://www.sentinelone.com/jobs/?gh_jid=8204537003&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 5,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -198,7 +312,7 @@
    "post": "HiTech_Jobs_In_Israel/139148",
    "ts": "2026-11-18T10:00:07+00:00",
    "text": "Web Marketing Manager — Contract at Cato Networks\nLocation: Tel Aviv District, Israel\nPress here https://www.catonetworks.com/careers/careers-post/5035117101?gh_jid=5035117101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 4,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -208,7 +322,7 @@
    "post": "HiTech_Jobs_In_Israel/139147",
    "ts": "2026-11-18T10:00:04+00:00",
    "text": "Senior FP&A Analyst at Minute Media\nLocation: Tel Aviv\nPress here https://www.comeet.com/jobs/minute/45.00A/senior-fpa-analyst/07.572?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 5,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -218,7 +332,7 @@
    "post": "HiTech_Jobs_In_Israel/139146",
    "ts": "2026-11-18T10:00:03+00:00",
    "text": "AI Software Engineer at Komodor\nLocation: Tel Aviv\nPress here https://komodor.com/job/4E.47C/ai-software-engineer/?_gl=1*43eqsa*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUSTYjZ3sTTCle3erVvjzGX19yH50xZPCzxQouVLTpy4CziMuAP1A90aArS3EALw_wcB&amp;gbraid=0AAAAABoZzUQs3JC3Ac359hiE8-uu_jSge&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 6,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -228,7 +342,7 @@
    "post": "HiTech_Jobs_In_Israel/139145",
    "ts": "2026-11-18T10:00:02+00:00",
    "text": "Product Manager at Claroty\nLocation: Israel\nPress here https://claroty.com/open-positions/43.57D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 1,
+   "views": 9,
    "forwarded_from": null,
    "media": [
     {
@@ -259,7 +373,7 @@
    "post": "abualiexpress/133843",
    "ts": "2026-11-18T09:51:18+00:00",
    "text": "בצעד מקביל לצעד הבריטי שפורסם אתמול, משרד החוץ האוסטרלי מכריז על סנקציות כנגד חברות ישראליות ואישים ישראלים הקשורים להרחבת ההתיישבות באיו\"ש משרד החוץ האוסטרלי: \"במסגרת הצעדים נאסר על אזרחי אוסטרליה ועל חברות אוסטרליות לקיים קשרי מסחר או להעניק תמיכה כספית…",
-   "views": 4940,
+   "views": 5860,
    "forwarded_from": null,
    "media": [
     {
@@ -290,7 +404,7 @@
    "post": "haskupim/203167",
    "ts": "2026-11-18T09:50:41+00:00",
    "text": "חדשות הסקופים\nהישג לגוש השינוי: ביטול שינוי הוועדה לבחירת שופטים עבר בטרומית",
-   "views": 22,
+   "views": 27,
    "forwarded_from": null,
    "media": []
   },
@@ -299,7 +413,7 @@
    "post": "amitsegal/67346",
    "ts": "2026-11-18T09:50:23+00:00",
    "text": "אושר בטרומית החוק לביטול שינוי הרכב הוועדה לבחירת שופטים",
-   "views": 8340,
+   "views": 8650,
    "forwarded_from": null,
    "media": []
   },
@@ -339,7 +453,7 @@
    "post": "haskupim/203166",
    "ts": "2026-11-18T09:44:17+00:00",
    "text": "חדשות הסקופים\nביידן לנתניהו: ״אני עדיין אוהב אותך, חבר״ | בניגוד למה שנכתב בספר של נשיא ארה\"ב לשעבר, ביידן אמר לנתניהו בשיחה האחרונה ביניהם: \"אתה אדם טוב, אני מעריך אותך. אני עדיין אוהב אותך, חבר\".\nצביקה קליין",
-   "views": 35,
+   "views": 37,
    "forwarded_from": null,
    "media": []
   },
@@ -348,7 +462,7 @@
    "post": "abualiexpress/133842",
    "ts": "2026-11-18T09:39:01+00:00",
    "text": "בצעד מקביל לצעד הבריטי שפורסם אתמול, משרד החוץ האוסטרלי מכריז על סנקציות כנגד חברות ישראליות ואישים ישראלים הקשורים להרחבת ההתיישבות באיו\"ש\n\nמשרד החוץ האוסטרלי: \"במסגרת הצעדים נאסר על אזרחי אוסטרליה ועל חברות אוסטרליות לקיים קשרי מסחר או להעניק תמיכה כספית או אחרת לשלושה אנשים ולארבעה ארגונים שעליהם הוטלו סנקציות בשל מעורבותם בהרחבת התנחלויות ומאחזים בגדה המערבית.\"\n\nהסנקציות הוטלו על:\n\nדניאלה וייס,\nאיתמר יהודה לוי\nאליאב ליבִּי\n\nוכן על הארגונים הבאים :\n\nאמנה, תנועת ההתיישבות של גוש אמונים אגודה שיתופית מרכזית בע\"מ\nתנועת נחלה\nהשומר יו\"ש",
-   "views": 11100,
+   "views": 11700,
    "forwarded_from": null,
    "media": [
     {
@@ -363,7 +477,7 @@
    "post": "haskupim/203165",
    "ts": "2026-11-18T09:37:02+00:00",
    "text": "חדשות הסקופים\nיריב לוין זועם בכנסת על בליץ החקיקה שמבטלת החוקים שלו בכזו מהירות. מודעות, קווים לדמותה\nקרדיט: יניר קוזין וירון אברהם",
-   "views": 52,
+   "views": 53,
    "forwarded_from": null,
    "media": []
   },
@@ -372,7 +486,7 @@
    "post": "haskupim/203164",
    "ts": "2026-11-18T09:31:11+00:00",
    "text": "חדשות הסקופים\nחזקי ברוך: רגע לפני פתיחת מליאת הכנסת, אלעזר שטרן נשמע צועק מרחוק לשר אופיר סופר: \"חכה לי\". סופר הגיב לו: \"אני ממהר למליאה להצביע נגד 'חוק ההשתמטות'\".",
-   "views": 58,
+   "views": 61,
    "forwarded_from": null,
    "media": []
   },
@@ -397,7 +511,7 @@
    "post": "abualiexpress/133840",
    "ts": "2026-11-18T09:28:32+00:00",
    "text": "הנשיא טראמפ נחת בסין.\nנשיא סין חיכה לו למרגלות המטוס על השטיח האדום.",
-   "views": 14200,
+   "views": 14800,
    "forwarded_from": null,
    "media": [
     {
@@ -417,7 +531,7 @@
    "post": "haskupim/203163",
    "ts": "2026-11-18T09:25:41+00:00",
    "text": "חדשות הסקופים\nראשי מפלגות השינוי - גדי איזנקוט, נפתלי בנט, יאיר גולן, אביגדור ליברמן ויאיר לפיד - ייפגשו בעוד כשעתיים. המפגש ייערך בכנסת",
-   "views": 65,
+   "views": 66,
    "forwarded_from": null,
    "media": []
   },
@@ -471,7 +585,7 @@
    "post": "amitsegal/67345",
    "ts": "2026-11-18T09:11:14+00:00",
    "text": "יהדות התורה הולכת גם היום עם גוש נתניהו: תצביע נגד ביטול חוקי הרפורמה המשפטית",
-   "views": 25300,
+   "views": 25600,
    "forwarded_from": null,
    "media": []
   },
@@ -511,7 +625,7 @@
    "post": "merkaz/301505",
    "ts": "2026-11-18T09:07:33+00:00",
    "text": "שלח את ח\"כ ינון אזולאי לקשר ביניהם טלפונית: דרעי לאלישע מדן: ״אתה עושה את הצעד הגדול שלך ואני עושה את הצעד שלי״",
-   "views": 123,
+   "views": 124,
    "forwarded_from": null,
    "media": [
     {
@@ -535,7 +649,7 @@
    "post": "amitsegal/67344",
    "ts": "2026-11-18T09:03:20+00:00",
    "text": "בעוד כשעתיים: פגישת ראשי גוש השינוי - איזנקוט, בנט, ליברמן, גולן ולפיד",
-   "views": 28000,
+   "views": 28300,
    "forwarded_from": null,
    "media": []
   },
@@ -568,7 +682,7 @@
    "post": "haskupim/203160",
    "ts": "2026-11-18T08:58:22+00:00",
    "text": "חדשות הסקופים\nהסנגורים מוותרים על התנגדות לחקירה נגדית של מנדלבליט | כדי למנוע דיון בבג\"ץ, הסנגורים מסכימים שיתאפשר לחקור את מנדלבליט נגדית.",
-   "views": 65,
+   "views": 66,
    "forwarded_from": null,
    "media": []
   },
@@ -577,7 +691,7 @@
    "post": "abualiexpress/133837",
    "ts": "2026-11-18T08:57:13+00:00",
    "text": "ת'אאר אסמאעיל אלואדיה שחוסל הבוקר בעיר עזה הצטרף לשלושה אחיו שחוסלו במהלך המלחמה: מחמד, עבדאללה ומצטפא. הוא בצד ימין של התמונה מחזיק את הטלפון של הסלפי. הנה תיעוד נוסף של האחים שלו",
-   "views": 21900,
+   "views": 22600,
    "forwarded_from": null,
    "media": [
     {
@@ -633,7 +747,7 @@
    "post": "abualiexpress/133836",
    "ts": "2026-11-18T08:54:25+00:00",
    "text": "ת'אאר אסמאעיל אלואדיה שחוסל הבוקר בעיר עזה הצטרף לשלושה אחיו שחוסלו במהלך המלחמה: מחמד, עבדאללה ואנס.\nהוא בצד ימין של התמונה מחזיק את הטלפון של הסלפי.\n\nהנה תיעוד נוסף של האחים שלו",
-   "views": 22600,
+   "views": 22900,
    "forwarded_from": null,
    "media": [
     {
@@ -752,7 +866,7 @@
    "post": "iBuyIL/28083",
    "ts": "2026-11-18T08:48:24+00:00",
    "text": "יום אחרון לסייל של אלי אני מבחין בכמה מוצרים שהמחיר שלהם זול יותר ממה שהיה ביום הרווקים אז שימו לב 🔥 בוסטר התנעה UTRAI BD10 6000A 26800mAh עוד מפלצת התנעות של המותג האהוב 💪\n\nהדגם סופר משתלם ומגיע עם חיבור שקע מצת 12V לחיבור מוצרי חשמל (מקרר נייד למשל) ישירות לבוסטר בניסף טעינה מהירה 45W\n\n💰 עודכן למחיר סופי 59.37$ / 193₪ (במקום 96.37$) מטורףףףף 😱😱😱\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/utrai-bd10-6000a-26800mah\n\n💥 עוצמת התנעה מטורפת (6000A Peak): מניע בלי למצמץ מנועי בנזין ודיזל בכל נפח (גם רכבי שטח, מסחריות ומשאיות קלות), גם במצבר ריק לחלוטין.\n🔋 קיבולת ענקית של 26800mAh\n⚡️ טעינה סופר-מהירה PD 45W: כניסה ויציאת Type-C מהירה\n🖥 מסך גדול \"6.0 LED: ברור, מפורט ומציג נתונים בזמן אמת\n🛡 בטיחות מעל הכל: צבתות חכמות עם הגנה מפני קצר, חיבור הפוך (קוטביות שגויה), טעינת יתר והתחממות. גם אם מעולם לא פתחתם מכסה מנוע אי אפשר לטעות כאן.\n🔦 פנס חירום עוצמתי: כולל מצבי תאורה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4241962426101207/",
-   "views": 495,
+   "views": 498,
    "forwarded_from": null,
    "media": [
     {
@@ -793,7 +907,7 @@
    "post": "amitsegal/67343",
    "ts": "2026-11-18T08:47:44+00:00",
    "text": "שעת הנקמה: טיבי לנציגי גוש השינוי על החוקים של אופיר כץ -\n\n\"אני רוצה להתנגד לכל מה שהוא מעלה וכל מה שקשור אליו אני רוצה שירגיש משונמך בכל צעד שהוא עושה אחרי הכנס שהוא רדה בנו\"",
-   "views": 33700,
+   "views": 34000,
    "forwarded_from": null,
    "media": [
     {
@@ -823,7 +937,7 @@
    "post": "ramreports/217806",
    "ts": "2026-11-18T08:47:24+00:00",
    "text": "שר הביטחון ישראל כ\"ץ:\n\nמדיניות הממשלה, המתוקפת על ידי רה\"מ ועל ידי כשר הביטחון, ברורה: צה\"ל שולט באזורי הביטחון בלבנון, בסוריה ובעזה ופועל בהם כדי להגן על היישובים הישראלים בגליל, בגולן ובנגב מפני איומים של כוחות ג׳יהאדיסטים - וזאת כלקח מאירועי ה-7 באוקטובר.\n\nכפי שהבהרנו: ישראל לא תיסוג מהקווים הנוכחיים של אזורי הביטחון ולא תיערך בהם מחדש, לפני פירוק החמאס ופירוז עזה, פירוק החיזבאללה מנשקו בכל לבנון והסרת כל האיומים הג׳יהאדיסטים מסוריה.\n\nמעבר לכך: במקרה של התלקחות הזירות, צה\"ל ערוך לתמרון ולכיבוש שטחים נוספים, תוך פינוי התושבים והרס תשתיות הטרור במקום והפיכתם לחלק מאזורי הביטחון הקבועים של ישראל בצפון ובדרום.",
-   "views": 4500,
+   "views": 4530,
    "forwarded_from": null,
    "media": []
   },
@@ -832,7 +946,7 @@
    "post": "merkaz/301497",
    "ts": "2026-11-18T08:46:39+00:00",
    "text": "צה\"ל השמיד במהלך היממה האחרונה תוואי תת-קרקעי ששימש את ארגון הטרור חיזבאללה בהר דב, שבאזור הביטחון בדרום לבנון. בתוואי נמצאו מספר חדרי שהייה ופיקוד.",
-   "views": 147,
+   "views": 148,
    "forwarded_from": null,
    "media": [
     {
@@ -915,7 +1029,7 @@
    "post": "Moshepargod/77026",
    "ts": "2026-11-18T08:41:44+00:00",
    "text": "הפרגוד: הודעה רשמית של הרצפניקים: \"הקרן למלחמה בגזירת הגיוס\" בהכוונת מרן הגר\"צ פרידמן שליט\"א מודיעה: בעקבות מעצרו של האברך יוסף חיים דודו מב\"ב, נצא בעזר\"ה מחר, יום חמישי בצהרים, למחאה המונית שתשמיע את זעקת היהדות החרדית נגד גזירת הגיוס והמעצרים. פרטים נוספים…",
-   "views": 764,
+   "views": 794,
    "forwarded_from": null,
    "media": []
   },
@@ -1072,7 +1186,7 @@
    "post": "ILcoupons/5995",
    "ts": "2026-11-18T08:14:57+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 261,
+   "views": 263,
    "forwarded_from": null,
    "media": [
     {
@@ -1103,7 +1217,7 @@
    "post": "abualiexpress/133835",
    "ts": "2026-11-18T08:11:01+00:00",
    "text": "שר החוץ האמריקאי מרקו רוביו מסביר לעיתונאים על טיב \"המקורות שלהם בקהילת המודיעין\" :\n\n\"תנו לי לומר לכם משהו: חלק מהמקורות שלכם בקהילת המודיעין הם שקרנים. אחרים הם גם שקרנים וגם עבריינים.\n\nהם שקרנים כי הם ממציאים דברים וטוענים שיש להם גישה למידע שאין להם באמת גישה אליו.\n\nאבל רק משום שיש להם כתובת דוא\"ל ממשלתית, איכשהו הם נתפסים בעיניכם כמקורות אמינים.\"\n\n##\nומה קורה בישראל?",
-   "views": 30600,
+   "views": 31200,
    "forwarded_from": null,
    "media": [
     {
@@ -1118,7 +1232,7 @@
    "post": "iBuyIL/28082",
    "ts": "2026-11-18T08:10:18+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 632,
+   "views": 635,
    "forwarded_from": null,
    "media": [
     {
@@ -1165,7 +1279,7 @@
    "post": "merkaz/301488",
    "ts": "2026-11-18T08:01:05+00:00",
    "text": "משטרת ישראל מבקשת את עזרת הציבור באיתור הנעדר ישי מאיר חוטר, בן 26, תושב בני ברק.",
-   "views": 223,
+   "views": 224,
    "forwarded_from": null,
    "media": [
     {
@@ -1190,7 +1304,7 @@
    "post": "merkaz/301487",
    "ts": "2026-11-18T07:58:59+00:00",
    "text": "במסגרת ההסכמות - הצעת החוק לביטול חוק מח״ש ירדה מסדר ולא תובא היום לטרומית (ליאל).",
-   "views": 223,
+   "views": 224,
    "forwarded_from": null,
    "media": []
   },
@@ -1321,7 +1435,7 @@
    "post": "iBuyIL/28081",
    "ts": "2026-11-18T07:32:58+00:00",
    "text": "הכי נמוך אי פעם 🔋🚗 סוללת גיבוי קומפקטית Baseus EnerFill FT31 10000mAh עם טעינה אלחוטית ל-Apple Watch ו-45W USB-C\nטעינה בדרך, בלי להסתבך עם כבלים או להיתקע בלי סוללה באמצע הנסיעה! פתרון מעולה למי שמחזיק גם אייפון וגם Apple Watch ולא רוצה להיגרר עם כמה מטענים!\n\nהעיצוב הקומפקטי והכבלים המובנים מאפשרים להטעין כל מה שצריך בקלות, תוך כדי תנועה!\n\n💳 מחיר סופי 19.46$ / 63₪\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-enerfill-ft31-10000m\n\n✔️ טעינה חוטית ואלחוטית במקביל לאייפון ושעון אפל\n✔️ טעינה אלחוטית (5W) תומכת ב-Apple Watch בלבד\n✔️ טעינת USB-C מהירה במיוחד 45W - מתאים גם למחשבים ניידים\n✔️ טעינת 4 מכשירים בבת אחת בלי המתנה\n✔️ סוללה חזקה של 10000mAh במשקל רק כ-205 גרם\n✔️ קבל USB-C מובנה ואורך 18 ס\"מ - לא צריך סחבה של כבלים\n✔️ תצוגה דיגיטלית חכמה למידע ברור על מצב הסוללה\n✔️ נכנסת בקלות לתיק, מוכנה לכל טיול, טיסה או יום ארוך מחוץ לבית 🏕\n\nלדיון בפוסט https://www.facebook.com/share/p/19a3ZchpXG/",
-   "views": 758,
+   "views": 760,
    "forwarded_from": null,
    "media": [
     {
@@ -1433,7 +1547,7 @@
    "post": "abualiexpress/133831",
    "ts": "2026-11-18T06:52:01+00:00",
    "text": "קריאות מתוך ההפגנה באבדאנאן במערב איראן: \"זהו הקרב האחרון, פהלווי עוד ישוב!\" ## מפגינים אמיצים!",
-   "views": 38400,
+   "views": 38700,
    "forwarded_from": null,
    "media": [
     {
@@ -1552,7 +1666,7 @@
    "post": "abualiexpress/133825",
    "ts": "2026-11-18T06:15:18+00:00",
    "text": "הניו יורק טיימס: איראן הקשיחה את עמדותיה במשא ומתן עם ארה\"ב בעקבות התבוסה המוחצת של הרפובליקנים בבחירות אמצע הכהונה, שאותה רואה טהרן כניצחון על טראמפ\n\nבכירים איראנים סבורים כי האסטרטגיה שלהם להפעלת לחץ כלכלי באמצעות מצר הורמוז הוכיחה את עצמה, וכעת הם פחות נכונים לעשות ויתורים.\n\nהסיכוי להגעה להסכם פחת.",
-   "views": 47200,
+   "views": 47300,
    "forwarded_from": null,
    "media": [
     {
@@ -1583,7 +1697,7 @@
    "post": "AceIsraelofficial/4667",
    "ts": "2026-11-18T06:10:04+00:00",
    "text": "🖤 BLACK FRIDAY מגיע בהפתעה לאייס! 💚\n🎁 מבצעי הפתעה עד חצות במחירים שאסור לפספס!\n🔥 מכונת כביסה 6 ק\"ג ב־599 ₪ בלבד!\n🔥 מחסן מתכת לגינה ב־599 ₪ בלבד!\n🔥 ג'קוזי מתנפח ל־6–4 משתמשים ב־1,690 ₪ בלבד!\n🔥 הליכון מתקפל ב־569 ₪ בלבד!\n🔥 ארון רומי 3 דלתות ב־749 ₪ בלבד!\n🔥 טלוויזיה חכמה Hisense בגודל 40 אינץ' ב־599 ₪ בלבד!\n⏰ ההפתעות כאן היום ומחר כבר לא!\n🛒 מהרו לקנות באתר אייס >>\nhttps://tinyurl.com/34uh9had\n\nבאתר בלבד ב-18.11.26 / גמר המלאי",
-   "views": 2580,
+   "views": 2610,
    "forwarded_from": null,
    "media": [
     {
@@ -1649,72 +1763,6 @@
    "ts": "2026-11-18T06:00:21+00:00",
    "text": "Experienced Validation Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/628faaf0-a7df-4043-b720-e2fd3acb89b4?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
    "views": 131,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "pdff3af7b4072",
-   "post": "HiTech_Jobs_In_Israel/139143",
-   "ts": "2026-11-18T06:00:20+00:00",
-   "text": "C++ Software Engineer at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/9495066e-ebcc-49ed-bac5-0480be15753f?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 134,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "pacdc0c8e037a",
-   "post": "HiTech_Jobs_In_Israel/139142",
-   "ts": "2026-11-18T06:00:16+00:00",
-   "text": "Product Data Analyst at Riskified\nLocation: Tel Aviv\nPress here https://www.riskified.com/careers/job-description/?gh_jid=8934820002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 130,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/c11185e8a7cb271c.jpg"
-    }
-   ],
-   "kind": "jobs"
-  },
-  {
-   "id": "p24354963140b",
-   "post": "HiTech_Jobs_In_Israel/139141",
-   "ts": "2026-11-18T06:00:15+00:00",
-   "text": "Director Engineering at NICE\nLocation: Israel - Raanana\nPress here https://boards.eu.greenhouse.io/nice/jobs/5009476101?gh_jid=5009476101&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 123,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "p98a9c85eb975",
-   "post": "HiTech_Jobs_In_Israel/139139",
-   "ts": "2026-11-18T06:00:03+00:00",
-   "text": "SAP Finance Functional Consultant / Tester at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 211,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "pfee1bdb7c359",
-   "post": "HiTech_Jobs_In_Israel/139140",
-   "ts": "2026-11-18T06:00:03+00:00",
-   "text": "SAP Go-Live & Cutover Manager at KPMG\nLocation: תל אביב\nPress here https://kpmg.co.il/%D7%A7%D7%A8%D7%99%D7%99%D7%A8%D7%94?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 125,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "p96b5c4a84482",
-   "post": "HiTech_Jobs_In_Israel/139138",
-   "ts": "2026-11-18T06:00:02+00:00",
-   "text": "Software Engineer - AI Datacenter Networking at DRIVENETS\nLocation: Tel Aviv- Toha\nPress here https://drivenets.com/job/?id=51.85A&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 126,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1808,7 +1856,7 @@
    "post": "Jobs_in_Jerusalem/36513",
    "ts": "2026-11-17T23:52:04+00:00",
    "text": "דרוש מנהל חנות מחשבים בבית שמש\n\nלחנות מחשבים וטכנולוגיה דרוש מנהל תותח עם יכולות מכירה גבוהות!\n\nהתפקיד כולל:\n- ניהול ותפעול שוטף של החנות.\n- מכירות פרונטליות ומתן ייעוץ מקצועי ללקוחות.\n- ניהול מלאי והזמנות מספקים.\n- אחריות על קופה, יעדים והגדלת מחזור המכירות.\n- מתן שירות אישי ומקצועי ללקוחות.\n\nדרישות התפקיד:\n- ניסיון מוכח במכירות – חובה.\n- ידע בעולם המחשבים והטכנולוגיה – חובה.\n- יכולת ניהול, אחריות וראש גדול.\n- כושר ביטוי, יחסי אנוש מעולים וכישורי משא ומתן.\n- אמינות, חריצות ורצון להצליח.\n\nאנחנו מחפשים אדם עם יכולת להוביל חנות, לא רק לעבוד בה!\n\n📍 בית שמש\n💰 שכר ותנאים טובים למתאימים, בהתאם לניסיון וליכולות.\nניתן לשלוח קו''ח למייל o025374080@gmail.com",
-   "views": 201,
+   "views": 203,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2122,7 +2170,7 @@
    "post": "amitsegal/67329",
    "ts": "2026-11-17T21:14:58+00:00",
    "text": "יו״ר הכנסת ה-26: מתן כהנא",
-   "views": 80500,
+   "views": 80800,
    "forwarded_from": null,
    "media": []
   },
@@ -2140,7 +2188,7 @@
    "post": "amitsegal/67327",
    "ts": "2026-11-17T21:06:03+00:00",
    "text": "באמצע ההצבעה: ראש הממשלה ושר הביטחון קיבלו טלפון ויצאו",
-   "views": 82800,
+   "views": 83100,
    "forwarded_from": null,
    "media": [
     {
@@ -2360,7 +2408,7 @@
    "post": "ramreports/217784",
    "ts": "2026-11-17T19:46:22+00:00",
    "text": "חמש תקיפות אוויריות אמריקאיות כוונו נגד משגרי טילים ומתקני מכ\"ם באי קשם, איראן.",
-   "views": 17800,
+   "views": 17900,
    "forwarded_from": null,
    "media": []
   },
@@ -2601,42 +2649,6 @@
    ]
   },
   {
-   "id": "p8bbbc99a9bcb",
-   "post": "HiTech_Jobs_In_Israel/139137",
-   "ts": "2026-11-17T18:00:19+00:00",
-   "text": "Software Development Engineer - Shopping Personalization, Amazon Stores at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10570946/software-development-engineer-shopping-personalization-amazon-stores?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 234,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/78481c48c9df83b4.jpg"
-    }
-   ],
-   "kind": "jobs"
-  },
-  {
-   "id": "p714e75f9b49f",
-   "post": "HiTech_Jobs_In_Israel/139136",
-   "ts": "2026-11-17T18:00:18+00:00",
-   "text": "Procurement Business Partner - Base44 at Wix\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/Wix2/744000162118677?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 224,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
-   "id": "p26584fe622cf",
-   "post": "HiTech_Jobs_In_Israel/139135",
-   "ts": "2026-11-17T18:00:17+00:00",
-   "text": "Senior Director Product, Autonomous Data Analytics at ServiceNow\nLocation: Petah Tikva\nPress here https://www.smartrecruiters.com/ServiceNow/744000162114935?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 193,
-   "forwarded_from": null,
-   "media": [],
-   "kind": "jobs"
-  },
-  {
    "id": "p1f82e3414e53",
    "post": "behadrey/108119",
    "ts": "2026-11-17T17:51:58+00:00",
@@ -2785,7 +2797,7 @@
    "post": "iBuyIL/28072",
    "ts": "2026-11-17T14:30:30+00:00",
    "text": "זה בא והולך תתפסו מהר הפעם את מצלמת הרכב הכי משתלמת מסייל הרווקים 🚗🎥 מצלמת דרך לרכב 3 ערוצים DDPAI N4T Pro עם 4K ו-HDR רואה כל פנים+קדימה+אחורה 👁\n\n💳 מחיר סופי 71.47$ / 230₪ 🤯🤯\nלראשונה אי פעם מתחת לרף המס 🔻🔻🔻\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/ddpai-n4t-pro-dash-cam-3/\n\nפתרון רציני למי שאוהב שליטה, הוכחות וסופר איכות גם בחושך וגם ביום והפעם גם בפנים, גם מאחור וגם מקדימה.\n\n✔️ שלוש מצלמות קדמית 4K, פנימית ואחורית 1080p\n✔️ צילום HDR חד גם בלילה ובתנאי תאורה קשים\n✔️ עזרה בנהיגה ADAS לזיהוי סכנות בדרך\n✔️ הקלטה בו-זמנית מכל הזוויות: בתוך הרכב, לפנים ולאחור\n✔️ ניהול וצפייה באפליקציה ייעודית\n✔️ פתרון מעולה למונית, שליחים, משפחות או כל מי שמעריך ראש שקט בדרכים\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4222933124670804/",
-   "views": 1830,
+   "views": 1840,
    "forwarded_from": null,
    "media": [
     {
