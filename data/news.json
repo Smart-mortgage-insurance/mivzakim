@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:07:07.514638+00:00",
+ "updated": "2026-11-19T14:08:46.349728+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,40 @@
  "count": 348,
  "items": [
   {
+   "id": "pc4db3e9eff72",
+   "post": "ramreports/217853",
+   "ts": "2026-11-19T14:06:49+00:00",
+   "text": "הנאצים מדווחים: מחבל נהרג מירי ארטילרי של הכיבוש\" על רחוב \"קשקו\" בשכונת אל-זיתון, דרום-מזרחית לעיר עזה.",
+   "views": 129,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "pfecd86096bc7",
+   "post": "haskupim/203368",
+   "ts": "2026-11-19T14:06:25+00:00",
+   "text": "חדשות הסקופים\nמההפגנה הסוערת ברחוב שמואל הנביא בירושלים",
+   "views": 3,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/d66424da434d1863.mp4"
+    },
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/d66424da434d1863.mp4"
+    }
+   ]
+  },
+  {
    "id": "pd42f3b8912fb",
    "post": "haskupim/203367",
    "ts": "2026-11-19T14:04:31+00:00",
    "text": "חדשות הסקופים\nאיזנקוט מינה את מורן וינטראוב למנכ״לית ׳ישר׳\nמיכאל שמש",
-   "views": 7,
+   "views": 10,
    "forwarded_from": null,
    "media": [
     {
@@ -173,7 +202,7 @@
    "post": "ramreports/217852",
    "ts": "2026-11-19T14:02:47+00:00",
    "text": "חיל האוויר הישראלי תוקף יעדי חיזבאללה בדרום לבנון",
-   "views": 564,
+   "views": 813,
    "forwarded_from": null,
    "media": [
     {
@@ -193,7 +222,7 @@
    "post": "HiTech_Jobs_In_Israel/139263",
    "ts": "2026-11-19T14:00:13+00:00",
    "text": "Software Engineer, Chip Design at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Chip-Design_JR2030081?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -203,7 +232,7 @@
    "post": "HiTech_Jobs_In_Israel/139262",
    "ts": "2026-11-19T14:00:12+00:00",
    "text": "Chip Design Verification Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Chip-Design-Verification-Engineer_JR2029934?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 27,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -213,7 +242,7 @@
    "post": "HiTech_Jobs_In_Israel/139261",
    "ts": "2026-11-19T14:00:10+00:00",
    "text": "Student for Technical Project Management Team at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/155cba8a-1894-4402-9e8f-ed52a8df00cf?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply\n#StudentPositions",
-   "views": 25,
+   "views": 29,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -223,7 +252,7 @@
    "post": "HiTech_Jobs_In_Israel/139260",
    "ts": "2026-11-19T14:00:08+00:00",
    "text": "Senior Cyber Security Engineer at Tipalti\nLocation: Tel Aviv District, Israel\nPress here https://tipalti.com/jobs/?gh_jid=6252492004&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 27,
+   "views": 28,
    "forwarded_from": null,
    "media": [
     {
@@ -239,7 +268,7 @@
    "post": "HiTech_Jobs_In_Israel/139259",
    "ts": "2026-11-19T14:00:07+00:00",
    "text": "Workplace Operations Coordinator at Navan\nLocation: Tel-Aviv, Israel\nPress here https://navan.com/careers/openings?gh_jid=8386989&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 26,
+   "views": 29,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -249,7 +278,7 @@
    "post": "HiTech_Jobs_In_Israel/139258",
    "ts": "2026-11-19T14:00:04+00:00",
    "text": "Senior System Integration Engineer at SolarEdge\nLocation: Modi'in\nPress here https://corporate.solaredge.com/careers/open-positions?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 28,
+   "views": 33,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -259,7 +288,7 @@
    "post": "HiTech_Jobs_In_Israel/139257",
    "ts": "2026-11-19T14:00:03+00:00",
    "text": "Computer Vision Engineer at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 23,
+   "views": 31,
    "forwarded_from": null,
    "media": [
     {
@@ -275,7 +304,7 @@
    "post": "HiTech_Jobs_In_Israel/139256",
    "ts": "2026-11-19T14:00:02+00:00",
    "text": "Machine Learning Engineer at Bigabid\nLocation: Bigabid\nPress here https://bigabid.com/careers/machine-learning-engineer-52-e58/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -285,7 +314,7 @@
    "post": "HiTech_Jobs_In_Israel/139255",
    "ts": "2026-11-19T14:00:01+00:00",
    "text": "Cloud DevOps Engineer at abra\nLocation: Center\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 22,
+   "views": 29,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -295,7 +324,7 @@
    "post": "abualiexpress/133907",
    "ts": "2026-11-19T13:58:52+00:00",
    "text": "בית קברות עתיק בן כאלפיים שנה, מהתקופה הרומית, התגלה בח'רבת א-ת'ניה ביריחו.\n\nנציגי רשות העתיקות של הרש\"פ: התגלית תורמת לנרטיב הפלסטיני ולהיסטוריה הפלסטינית של יריחו.",
-   "views": 4690,
+   "views": 6280,
    "forwarded_from": null,
    "media": [
     {
@@ -310,7 +339,7 @@
    "post": "ramreports/217851",
    "ts": "2026-11-19T13:55:22+00:00",
    "text": "",
-   "views": 1680,
+   "views": 1990,
    "forwarded_from": null,
    "media": [
     {
@@ -341,7 +370,7 @@
    "post": "merkaz/301640",
    "ts": "2026-11-19T13:49:41+00:00",
    "text": "רדיפה מבישה! התנועה 'לאיכות' השלטון הגישה היום תביעה לביטול מינויו של אבישי מועלם למנכ\"ל עיריית טבריה. מועלם, לשעבר מפקד ימ\"ר ש\"י, נחקר במח\"ש ובפרקליטות טרם הכריעו אם להעמידו לדין.",
-   "views": 96,
+   "views": 99,
    "forwarded_from": null,
    "media": []
   },
@@ -350,7 +379,7 @@
    "post": "merkaz/301639",
    "ts": "2026-11-19T13:46:38+00:00",
    "text": "חוקרי יאח\"ה להב 433 חקרו היום בחשד לשיבוש הליכי חקירה ראש עירייה, אשר בעניינו מתנהלת חקירה בחשד לקבלת שוחד.\n\nאתמול, ראש העיר החשוד שלח קרוב משפחה למשרדו בעירייה, על מנת שיביא עבורו ממשרדו את תיק התפילין והטלית, אשר בתוכו התגלו שעוני יד הנחזים יוקרתיים.",
-   "views": 108,
+   "views": 111,
    "forwarded_from": null,
    "media": [
     {
@@ -380,7 +409,7 @@
    "post": "haskupim/203366",
    "ts": "2026-11-19T13:41:32+00:00",
    "text": "חדשות הסקופים\nשר הביטחון ישראל כ\"ץ מגיב לגוטליב: לא אגרר להתקפות אישיות ולהאשמות חסרות בסיס. כל אדם אחראי לדבריו ולמעשיו. אני ממוקד בשליחות שהוטלה עליי: ביטחון מדינת ישראל, אזרחיה וחיילי צה\"ל.",
-   "views": 41,
+   "views": 44,
    "forwarded_from": null,
    "media": [
     {
@@ -395,7 +424,7 @@
    "post": "merkaz/301638",
    "ts": "2026-11-19T13:35:23+00:00",
    "text": "פלג הרב פרידמן חוסמים את כביש 4.",
-   "views": 157,
+   "views": 160,
    "forwarded_from": null,
    "media": []
   },
@@ -404,7 +433,7 @@
    "post": "haskupim/203365",
    "ts": "2026-11-19T13:34:21+00:00",
    "text": "חדשות הסקופים\nכביש 4 חסום לתנועה לכיוון צפון במחלף אלוף שדה ולכיוון דרום במחלף אם המושבות עקב מחאות על מעצרו של עריק בנתב\"ג\nדין פישר",
-   "views": 51,
+   "views": 53,
    "forwarded_from": null,
    "media": []
   },
@@ -413,7 +442,7 @@
    "post": "ramreports/217850",
    "ts": "2026-11-19T13:31:06+00:00",
    "text": "על פי דיווח של כתב רשת NBC, צוות העיתונאים שהתלווה לנשיא ארצות הברית דונלד טראמפ התבקש למסור את הטלפונים הניידים שלו בעת העלייה למטוס הנשיאותי ״אייר פורס 1״, מטעמי ביטחון.\n\nמדובר בצעד חריג שאינו חלק מהנהלים השגרתיים של צוותי העיתונות המלווים את הנשיא האמריקני.",
-   "views": 4280,
+   "views": 4440,
    "forwarded_from": null,
    "media": []
   },
@@ -458,7 +487,7 @@
    "post": "merkaz/301637",
    "ts": "2026-11-19T13:25:51+00:00",
    "text": "המשטרה פילסה את הדרך לאוטובוס החיילים.",
-   "views": 190,
+   "views": 193,
    "forwarded_from": null,
    "media": [
     {
@@ -473,7 +502,7 @@
    "post": "amitsegal/67400",
    "ts": "2026-11-19T13:20:04+00:00",
    "text": "",
-   "views": 26900,
+   "views": 27600,
    "forwarded_from": null,
    "media": [
     {
@@ -488,7 +517,7 @@
    "post": "SALAMTAK_DEALS/58842",
    "ts": "2026-11-19T13:15:47+00:00",
    "text": "מבצעי בלאק פריידי באמזון ארה״ב\nעכבר גיימינג אלחוטי Razer DeathAdder V3 Pro במשקל 63 גרם\n\nלינק- https://salamtak.deals/archives/50145\n\nחיישן Focus Pro 30K ומתגים אופטיים\nעד 90 שעות סוללה\nנמכר ונשלח ע״י אמזון\n\nבארץ הוא עולה מ-₪393\n\n--\nמבצעי בלאק פריידי באמזון ארה״ב 🇺🇸: $59.99 ~ כ-₪196 בלבד, כולל משלוח עד הבית",
-   "views": 348,
+   "views": 350,
    "forwarded_from": null,
    "media": [
     {
@@ -519,7 +548,7 @@
    "post": "amitsegal/67399",
    "ts": "2026-11-19T13:14:24+00:00",
    "text": "חרדים קיצוניים חוסמים אוטובוס של חיילים לשעה\n\nאם היינו לפני 27.10 לא היו מפסיקות לזרום תגובות גינוי פלוס התנגדות להקצנה ולהשתמטות\n\nאך 27.10 חלף.\n\nואיזה מסכנים החיילים באוטובוס שאוכלים להם את הלב כשהם מבינים שהיו בסך הכל כלי משחק",
-   "views": 31300,
+   "views": 32200,
    "forwarded_from": null,
    "media": []
   },
@@ -559,7 +588,7 @@
    "post": "merkaz/301636",
    "ts": "2026-11-19T13:08:18+00:00",
    "text": "המשטרה מנסה לפנות את הקיצונים שחוסמים את אוטובוס החיילים בירושלים (תיעוד: מוטי פרץ)",
-   "views": 221,
+   "views": 222,
    "forwarded_from": null,
    "media": [
     {
@@ -574,7 +603,7 @@
    "post": "merkaz/301635",
    "ts": "2026-11-19T13:04:56+00:00",
    "text": "פוטין מודיע על עצירת המשא ומתן להפסקת אש עם אוקראינה בעקבות התקיפות השבוע על גשר קרץ' בחצי האי קרים. לדבריו, מסילת הרכבת בגשר כבר תוקנה, אך הכביש ניזוק קשות. במקביל הזהיר כי התרחבות שיתוף הפעולה הביטחוני בין האיחוד האירופי לאוקראינה מהווה אתגר ואיום מבחינת רוסיה.",
-   "views": 234,
+   "views": 235,
    "forwarded_from": null,
    "media": []
   },
@@ -583,7 +612,7 @@
    "post": "haskupim/203364",
    "ts": "2026-11-19T13:04:27+00:00",
    "text": "חדשות הסקופים\nירושלים - שמואל הנביא: אחרי שעה של חסימת האוטובוס עם החיילים ועוד עשרות אוטובוסים, הגיעו כוחות מג\"ב לפנות את הכביש, אך ללא הצלחה.",
-   "views": 73,
+   "views": 76,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -593,7 +622,7 @@
    "post": "merkaz/301634",
    "ts": "2026-11-19T13:00:38+00:00",
    "text": "דיווח בבלומברג: לפי גורמים מערביים, הסיכויים שארה\"ב תפתח בסבב נוסף של תקיפות נרחבות נגד איראן גברו בימים האחרונים.",
-   "views": 240,
+   "views": 241,
    "forwarded_from": null,
    "media": []
   },
@@ -611,7 +640,7 @@
    "post": "merkaz/301633",
    "ts": "2026-11-19T12:58:37+00:00",
    "text": "כתב NBC: בעת העלייה למטוס אייר פורס 1 של הנשיא טראמפ, צוות העיתונאים התבקש למסור את הטלפונים שלהם בשל סיבות בטחוניות - מדובר צעד חריג.",
-   "views": 245,
+   "views": 246,
    "forwarded_from": null,
    "media": []
   },
@@ -635,7 +664,7 @@
    "post": "ramreports/217849",
    "ts": "2026-11-19T12:56:08+00:00",
    "text": "מחבל הגיע לבית החולים אל-קודס לאחר שנורה על ידי כוחות ישראליים ליד רחוב סלאח אל-דין, סמוך לכיכר כווית, דרום-מזרחית לעיר עזה.",
-   "views": 6390,
+   "views": 6430,
    "forwarded_from": null,
    "media": []
   },
@@ -644,7 +673,7 @@
    "post": "haskupim/203363",
    "ts": "2026-11-19T12:54:07+00:00",
    "text": "חדשות הסקופים\nכתב NBC: בעת העלייה למטוס אייר פורס 1 של הנשיא טראמפ, צוות העיתונאים התבקש למסור את הטלפונים שלהם בשל סיבות בטחוניות - מדובר צעד חריג\nעמיחי שטיין",
-   "views": 83,
+   "views": 84,
    "forwarded_from": null,
    "media": []
   },
@@ -653,7 +682,7 @@
    "post": "ramreports/217848",
    "ts": "2026-11-19T12:54:06+00:00",
    "text": "בלומברג: הסבירות שארה״ב תפתח בסבב נוסף של תקיפות נרחבות נגד איראן גברה בימים האחרונים.",
-   "views": 6540,
+   "views": 6630,
    "forwarded_from": null,
    "media": []
   },
@@ -662,7 +691,7 @@
    "post": "ramreports/217847",
    "ts": "2026-11-19T12:51:00+00:00",
    "text": "מרגעי הפיצוץ במפרץ הפרסי",
-   "views": 6780,
+   "views": 6840,
    "forwarded_from": null,
    "media": [
     {
@@ -692,7 +721,7 @@
    "post": "ramreports/217846",
    "ts": "2026-11-19T12:48:09+00:00",
    "text": "הפלסטינים: מתנחלים תקפו והציתו רכוש פלסטיני בכפר בירה, מצפון לחברון...",
-   "views": 6500,
+   "views": 6600,
    "forwarded_from": null,
    "media": [
     {
@@ -727,7 +756,7 @@
    "post": "merkaz/301632",
    "ts": "2026-11-19T12:37:52+00:00",
    "text": "נתוני הלמ\"ס ליום הילד 2026:\n\nאחוז הילדים הגבוה ביותר בערים הגדולות בישראל נמצא בבית שמש - עם 51.7 ילדים, אחריה בני ברק עם 48.2 ילדים\n\nממוצע ילדים לאישה כלל ארצי: 2.88\nממוצע ילדים בבני ברק: 6.09\nממוצע ילדים בבית שמש: 5.79",
-   "views": 263,
+   "views": 264,
    "forwarded_from": null,
    "media": []
   },
@@ -736,7 +765,7 @@
    "post": "iBuyIL/28116",
    "ts": "2026-11-19T12:36:06+00:00",
    "text": "ואוו מחיר מטורף 😱🧂 39 ש\"ח!! אלפי ביקורות חיוביות 🌟 סט מטחנות מלח ופלפל חשמליות נטענות עם תאורה מובנית וטעינה מהירה FRTONYI\n\nהיתרונות המרכזיים:\n⚡ טעינה מהירה Type-C - טעינה מלאה בשעה בלבד אפילו טעינה של 5 דקות מספיקה לתיבול יומיומי. ניתן להשתמש גם בזמן טעינה.\n🤲 הפעלה ביד אחת בלבד - לחיצה קלה ואתם מתבלים בדיוק מושלם, בלי לסובב, בלי מאמץ ובלי לכלוך.\n🌈 5 רמות טחינה מתכווננות - התאימו את דרגת הגריסה לפי סוג התיבול, ממלח דק ועד פלפל גס ועשיר בניחוח.\n💡 תאורת LED אוטומטית - מאירה את הצלחת בזמן הטחינה כדי שתראו בדיוק כמה תיבלתם\n🍶 מיכל שקוף בנפח 70 מ\"ל - רואים מתי צריך למלא מחדש,\n🧂 סט זוגי בצבעים שחור ולבן - נוח להפריד בין מלח, פלפל או תבלינים שונים, בלי להתבלבל.\n🌿 חומרי איכות - מיכל אקרילי עמיד וליבת גריסה מקרמיקה, עם ציר נירוסטה 304 לחוזק ולדיוק מקסימלי.\n\n💳 מחיר סופי: 11.99$ \\ 39₪\n\n🛍️⁩ קישור להזמנה:\nhttps://dlz.co.il/electric-salt-and-pepper-gri-3\n\n👈 משלוח חינם בתנאי הגעה ל-49$\n\nלדיון בפוסט:\nhttps://www.facebook.com/share/p/1BawyNSrLn/",
-   "views": 613,
+   "views": 643,
    "forwarded_from": null,
    "media": [
     {
@@ -761,7 +790,7 @@
    "post": "merkaz/301631",
    "ts": "2026-11-19T12:32:44+00:00",
    "text": "ברק רביד: הבית הלבן ביקש מהפנטגון וממודיעין ארה\"ב להעריך כיצד איראן תגיב לכל אחת מחלופות התקיפה שהכין הצבא האמריקני, אחת השאלות שהוצגו: האם קיימת פעולה צבאית שניתן לבצע מבלי לעורר נקמה איראנית הרסנית נגד מתקני הנפט והגז של מדינות המפרץ.",
-   "views": 265,
+   "views": 266,
    "forwarded_from": null,
    "media": []
   },
@@ -770,7 +799,7 @@
    "post": "haskupim/203362",
    "ts": "2026-11-19T12:32:11+00:00",
    "text": "חדשות הסקופים\nבמהלך ההפגנה ברחוב שמואל הנביא חסמו אוטובוס עם חיילים\nקרדיט",
-   "views": 93,
+   "views": 95,
    "forwarded_from": null,
    "media": [
     {
@@ -817,7 +846,7 @@
    "post": "abualiexpress/133906",
    "ts": "2026-11-19T12:24:01+00:00",
    "text": "נשיא רוסיה, פוטין:\n\nבית הדין הפלילי הבינלאומי (ICC) אינו מקבל החלטות משפטיות, אלא החלטות פוליטיות.\n\nטראמפ ושי ג׳ינפינג הסכימו עם קביעה זו.",
-   "views": 32600,
+   "views": 33200,
    "forwarded_from": null,
    "media": [
     {
@@ -962,7 +991,7 @@
    "post": "haskupim/203361",
    "ts": "2026-11-19T12:09:29+00:00",
    "text": "חדשות הסקופים\nהפגנה כעת ברחוב יחזקאל פינת שמואל הנביא בירושלים בעקבות מעצר החתן העריק",
-   "views": 96,
+   "views": 99,
    "forwarded_from": null,
    "media": [
     {
@@ -986,7 +1015,7 @@
    "post": "haskupim/203360",
    "ts": "2026-11-19T12:06:56+00:00",
    "text": "חדשות הסקופים\nח\"כ עודד פורר הגיש הצעת חוק להגבלת כהונת ראש הממשלה: ההצעה קובעת מגבלה של 8 שנים, מסדירה את הנבצרות ומונעת הטלת הרכבת ממשלה על נאשם בעבירות חמורות. בנוסף, מוצע מנגנון להפסקת כהונה במקרה של קלון.",
-   "views": 88,
+   "views": 90,
    "forwarded_from": null,
    "media": []
   },
@@ -995,7 +1024,7 @@
    "post": "abualiexpress/133905",
    "ts": "2026-11-19T12:06:28+00:00",
    "text": "בית הדין הבינלאומי בהאג:\n\nמיאנמר ביצעה רצח עם בבני הרוהינגיה (מוסלמים).\n\nעל מיאנמר לחקור את החשודים בביצוע פשעי רצח עם.\n\nמיאנמר מחויבת להעניק פיצויים לקורבנות מקרב בני הרוהינגיה.\n\nמיאנמר כשלה בענישת האחראים לרצח העם ובהעמדתם לדין.\n\nמיאנמר השמידה ראיות באמצעות שריפת גופות ושימוש בדחפורים.\n\n##\nע\"פ בית הדין מיאנמר אחראית למותם של עשרת אלפים מבני הרוהינגיה המוסלמים.\nבמיאנמר יש כ 500-600 אלף מבני הרוהינגיה.\n\n##\nנראה כמו חזרה גנרלית של בית הדין הבינ\"ל בהאג....",
-   "views": 36600,
+   "views": 37000,
    "forwarded_from": null,
    "media": [
     {
@@ -1010,7 +1039,7 @@
    "post": "haskupim/203359",
    "ts": "2026-11-19T12:03:55+00:00",
    "text": "חדשות הסקופים\nלראשונה מזה חודשים, הליכוד יקיים ישיבת סיעה ראשונה במשכן בכנסת ה-26 ביום שני בשעה 14:00 בהשתתפות ראש הממשלה.\nמוטי קסטל",
-   "views": 87,
+   "views": 89,
    "forwarded_from": null,
    "media": []
   },
@@ -1028,7 +1057,7 @@
    "post": "amitsegal/67398",
    "ts": "2026-11-19T12:02:01+00:00",
    "text": "לראשונה זה זמן רב, נתניהו יכנס בכנסת את סיעת הליכוד ביום שני",
-   "views": 47800,
+   "views": 48100,
    "forwarded_from": null,
    "media": []
   },
@@ -1037,7 +1066,7 @@
    "post": "HiTech_Jobs_In_Israel/139253",
    "ts": "2026-11-19T12:00:27+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 106,
+   "views": 107,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1047,7 +1076,7 @@
    "post": "HiTech_Jobs_In_Israel/139252",
    "ts": "2026-11-19T12:00:21+00:00",
    "text": "SoC Clocks Design Automation Engineer at NVIDIA\nLocation: 3 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 175,
+   "views": 177,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1057,7 +1086,7 @@
    "post": "HiTech_Jobs_In_Israel/139251",
    "ts": "2026-11-19T12:00:20+00:00",
    "text": "Senior VLSI Integration Engineer at NVIDIA\nLocation: 4 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-VLSI-Integration-Engineer_JR2029862?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 96,
+   "views": 99,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1067,7 +1096,7 @@
    "post": "HiTech_Jobs_In_Israel/139250",
    "ts": "2026-11-19T12:00:17+00:00",
    "text": "VLSI Integration Engineer at NVIDIA\nLocation: 4 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/VLSI-Integration-Engineer_JR2029860?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 88,
+   "views": 91,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1077,7 +1106,7 @@
    "post": "HiTech_Jobs_In_Israel/139249",
    "ts": "2026-11-19T12:00:16+00:00",
    "text": "Physical Design Power Optimization Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Power-Optimization-Engineer_JR2029955?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 76,
+   "views": 77,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1087,7 +1116,7 @@
    "post": "HiTech_Jobs_In_Israel/139248",
    "ts": "2026-11-19T12:00:15+00:00",
    "text": "Physical Design CAD Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-CAD-Engineer_JR2029951-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 74,
+   "views": 75,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1107,7 +1136,7 @@
    "post": "HiTech_Jobs_In_Israel/139246",
    "ts": "2026-11-19T12:00:13+00:00",
    "text": "Physical Design Backend STA Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Physical-Design-Backend-STA-Engineer_JR2029865?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 74,
+   "views": 75,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1117,7 +1146,7 @@
    "post": "HiTech_Jobs_In_Israel/139245",
    "ts": "2026-11-19T12:00:10+00:00",
    "text": "Senior Organizational Development (OD) Lead at D-Fend Solutions\nLocation: Raanana, Center District\nPress here https://jobs.lever.co/d-fendsolutions/67b5b100-6c79-4c61-a159-7fe815339187?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 68,
+   "views": 70,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1169,7 +1198,7 @@
    "post": "haskupim/203358",
    "ts": "2026-11-19T11:48:51+00:00",
    "text": "חדשות הסקופים\nבשער העלון \"עולם קטן\" הופיע יו\"ר הכנסת מתן כהנא על רקע כיתוב בערבית, תחת הכותרת \"ראיס אל כנסת\". במפלגת \"ישר\" זעמו: \"מסע אלים ומסוכן\"",
-   "views": 95,
+   "views": 96,
    "forwarded_from": null,
    "media": [
     {
@@ -1250,7 +1279,7 @@
    "post": "merkaz/301623",
    "ts": "2026-11-19T11:35:44+00:00",
    "text": "• גורמים בסביבת ראש השב\"כ זיני: מכתב השופט סולברג אינו מבטא את עמדת זיני, שלא קבע כי לא התקיים שוחד בחירות. לדבריהם, החשדות לא הבשילו לראיות בשל המגבלות שהטיל הייעוץ המשפטי על החקירה. המידע שהוצג לסולברג עסק בהעברת סכומי עתק במעורבות אלפי אנשים, שאם יוכח ישנה את חלוקת המנדטים.\n‏\n• סטודנט לרוקחות בן 24 מבית חנינא הואשם בתכנון פיגוע התאבדות נגד עולים יהודים בהר הבית ובסיוע לחברו ללימודים בהכנת מטעני נפץ לפיגוע בירושלים. לפי כתב האישום, השניים הוקצנו בשיעורי ג'יהאד במסגד בבית חנינא.",
-   "views": 287,
+   "views": 288,
    "forwarded_from": null,
    "media": []
   },
@@ -1259,7 +1288,7 @@
    "post": "amitsegal/67397",
    "ts": "2026-11-19T11:32:17+00:00",
    "text": "ודבר נוסף:\n\nהמידע שהציג השב״כ בפני סולברג דיבר על העברת כספים בסכומי עתק ובמעורבות של אלפי אנשים, באופן שאם יוכח ישנה את חלוקת המנדטים בין רשימות שונות\n\nמקורבי זיני מאשימים: בגלל הייעוץ המשפטי איבדנו זמן יקר ואת היכולת לחקור את החשדות עד תום",
-   "views": 55300,
+   "views": 55600,
    "forwarded_from": null,
    "media": []
   },
@@ -1293,7 +1322,7 @@
    "post": "amitsegal/67396",
    "ts": "2026-11-19T11:26:59+00:00",
    "text": "מאשים את הייעוץ המשפטי: חשדות לא הבשילו בגלל מגבלות, לא מסכים בהכרח עם דברי סולברג שלא הייתה השפעה על הבחירות",
-   "views": 55000,
+   "views": 55300,
    "forwarded_from": null,
    "media": []
   },
@@ -1302,7 +1331,7 @@
    "post": "amitsegal/67395",
    "ts": "2026-11-19T11:26:42+00:00",
    "text": "גורמים בסביבת ראש השב”כ דוד זיני:\n\nכדי למנוע פרשנות שגויה או ייחוס משמעויות שאינן עולות בהכרח מתוכן המכתב נדגיש כי\nמדובר במכתבו של השופט סולברג, ואין לראות בו משום הבעת עמדה של ראש השירות או הסכמה מצדו לכל המשתמע ממנו.\n\nראש השירות לא קבע כי לא התקיים שוחד בחירות, ואין לייחס לו אמירה או קביעה שכזו.\n\nכמו כן, קביעת השאלה מהן ראיות בעלות משמעות משפטית ומהו משקלן נתונה לגורמים המוסמכים לכך, ראש השירות אינו הגורם המוסמך להכריע בשאלות משפטיות אלה.\n\nלמען הסר ספק, כפי שעולה ממכתבו של השופט סולברג, קיימים חשדות משמעותיים, חשדות אלה לא הבשילו לכדי תשתית ראייתית מספקת, בין היתר לנוכח המגבלות שהוטלו על החקירה.\n\nתפקודו היעיל והמקצועי של שירות הביטחון הכללי נשען על אמון הציבור, תוך הקפדה על שלטון החוק ועל יסודות הדמוקרטיה הישראלית - זו תפישתו של ראש השבכ וזה המסר שעבר ועובר לכלל עובדי הארגון.\n\nשב״כ ימשיך לפעול בממלכתיות, במקצועיות ועל פי דין, למימוש ייעודו.",
-   "views": 57200,
+   "views": 57500,
    "forwarded_from": null,
    "media": []
   },
@@ -1375,7 +1404,7 @@
    "post": "abualiexpress/133904",
    "ts": "2026-11-19T11:12:36+00:00",
    "text": "משלוח של רכבים חדשים נכנס אתמול לרצועה ממצרים. ישמשו בעיקר לתחבורה ציבורית.",
-   "views": 42600,
+   "views": 42900,
    "forwarded_from": null,
    "media": [
     {
@@ -1405,7 +1434,7 @@
    "post": "abualiexpress/133903",
    "ts": "2026-11-19T10:57:19+00:00",
    "text": "הנשיא טראמפ מסיים את ביקורו בסין בתום הפסגה המשולשת בינו ובין נשיאי רוסיה וסין. לא פורסמו הצהרות משותפות של 3 המנהיגים בתום הפסגה.",
-   "views": 45000,
+   "views": 45300,
    "forwarded_from": null,
    "media": []
   },
@@ -1459,7 +1488,7 @@
    "post": "abualiexpress/133902",
    "ts": "2026-11-19T10:46:01+00:00",
    "text": "הנשיא טראמפ מסיים את ביקורו בסין בתום הפסגה המשולשת בינו ובין נשיאי רוסיה וסין.\n\nלא פורסמו הצהרות משותפות של 3 המנהיגים בתום הפסגה.",
-   "views": 45300,
+   "views": 45700,
    "forwarded_from": null,
    "media": [
     {
@@ -1525,7 +1554,7 @@
    "post": "amitsegal/67394",
    "ts": "2026-11-19T10:36:11+00:00",
    "text": "סלחו לי כן? אבל באיזה עולם זה הגיוני שמכל ה-48 האפשריים, בראש הוועדה שתדון בביטול החוק להחלשת מעמד היועמ״שית יעמוד דווקא גלעד קריב, האיש שהקריירה שלו תלויה כעת בהחלטתה של אותה יועמ״שית? התיק שלו על הדלפת פרוטוקול סודי מועדת חוץ וביטחון חונה כבר שנים אצל היועמשית…",
-   "views": 60500,
+   "views": 60900,
    "forwarded_from": null,
    "media": [
     {
@@ -1574,7 +1603,7 @@
    "post": "SALAMTAK_DEALS/58839",
    "ts": "2026-11-19T10:23:01+00:00",
    "text": "רוצים שקט באוזניים? יש פה דיל! 🎧🤫\nאוזניות סינון רעשים של CMF by Nothing\nאוזניות CMF Buds 2 Plus\n🔇 סינון רעשים היברידי עד 50dB\n🎵 תמיכה ב-Hi-Res ו-LDAC\n🔋 עד 61.5 שעות עם הקופסה\n⚡️ עשר דקות טעינה ל-8.5 שעות האזנה\n🎙️ שישה מיקרופונים לשיחות ברורות\n💦 עמידות IP55\n💰 מחיר: 103₪ בלבד ($31.49)\n🎟️ קוד קופון: AEILBF2\n🚚 משלוח חינם עד הבית\nלינק 👇\nhttps://salamtak.deals/archives/51439\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 780,
+   "views": 781,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1648,26 +1677,11 @@
    "kind": "deals"
   },
   {
-   "id": "pa8b1fafcb105",
-   "post": "haskupim/203348",
-   "ts": "2026-11-19T10:06:44+00:00",
-   "text": "חדשות הסקופים\nשתול של \"עד כאן\" חושף תעמולה | שתול של \"עד כאן\" בהפגנות נגד הגדר בנעלין משוחח עם מפגין ומגלה כיצד כולם פועלים יחד. צפו בתיעוד הווידאו.\nעד כאן!",
-   "views": 108,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "video",
-     "checked": 1,
-     "file": "data/media/7a8da1b235c9869c.mp4"
-    }
-   ]
-  },
-  {
    "id": "p24824e005a4e",
    "post": "SALAMTAK_DEALS/58838",
    "ts": "2026-11-19T09:53:28+00:00",
    "text": "מי שיוצא לשטח, זה בשבילכם! ⚡️🏕️\nסוללת ענק של Vention\nמטען נייד Vention בנפח 50000mAh\n🔋 נפח של 50000mAh לימים שלמים בלי שקע\n⚡️ טעינה מהירה עד 65W, גם ללפטופים\n🔌 שש יציאות: ארבע USB-A ושתי USB-C\n📱 מטעין עד 6 מכשירים במקביל\n🔦 פנס LED מובנה לשטח ולרכב\n💰 מחיר: 218₪ בלבד ($67.01)\n🎟️ קוד קופון: IBUYIL18 ואחריו AEILBF5\n💵 חשוב לשלם בדולרים\n🚚 משלוח חינם עד הבית\nלינק 👇\nhttps://salamtak.deals/archives/51437\n\n🎟️ כל קופוני 11.11 והדילים במקום אחד 👇\nhttps://salamtak.deals/archives/50741",
-   "views": 818,
+   "views": 820,
    "forwarded_from": "סלאמתק.",
    "media": [
     {
@@ -1744,7 +1758,7 @@
    "post": "abualiexpress/133897",
    "ts": "2026-11-19T08:49:41+00:00",
    "text": "פעולת צה\"ל במרכז הרצועה: עיתונאים עזתיים מדווחים שכוחות צה\"ל התפנו מאזור צפון נציראת וגשר ואדי עזה בו פעלו הלילה. ע\"פ מקורות אלו ציר צלאח א-דין המרכזי -המקשר בין צפון הרצועה לדרומה, עדיין נותר סגור.",
-   "views": 51300,
+   "views": 51600,
    "forwarded_from": null,
    "media": [
     {
@@ -1806,7 +1820,7 @@
    "post": "AceIsraelofficial/4672",
    "ts": "2026-11-19T08:27:53+00:00",
    "text": "🔥 מחממים את החורף עם מבצע לוהט באייס אונליין! 🔥\nקמין חימום חשמלי דגם EL4200 מבית אלקטרו חנן, שמשלב חימום נעים עם אווירה חמימה ומעוצבת בבית 🏠\n✅ 2 דרגות חימום לבחירה\n✅ אפקט להבות למראה של קמין אמיתי\n✅ מנגנוני בטיחות וכיבוי אוטומטי בעת נפילה\n✅ הספק עוצמתי של 1800W\n🔥 עכשיו רק ב־199 ₪ במקום 249 ₪!\nזה הזמן להכניס קצת חום הביתה במחיר שעושה נעים בכיס! ❤️\n🛒 לרכישה באתר אייס אונליין >>\nhttps://tinyurl.com/3d47yv4m\nבאתר בלבד עד 22.11.26 / גמר המלאי.",
-   "views": 2480,
+   "views": 2490,
    "forwarded_from": null,
    "media": [
     {
@@ -1848,7 +1862,7 @@
    "post": "ramreports/217845",
    "ts": "2026-11-19T08:03:54+00:00",
    "text": "בנט בולם את המהלך של איזנקוט לממשלת מיעוט שנשענת על המפלגות הערביות. מנגד, פגישתו עם נתניהו לא צפויה להביא לממשלת אחדות",
-   "views": 12700,
+   "views": 12800,
    "forwarded_from": null,
    "media": []
   },
@@ -1872,7 +1886,7 @@
    "post": "abualiexpress/133894",
    "ts": "2026-11-19T07:52:19+00:00",
    "text": "\"רצח עם, רעב וכפור\" - זה מה שאומרים על עזה - בינתיים בעזה עורכים את תחרות האיש החזק ברצועה.\n\nלא בדיוק אינדיקציה למחסור, גם אם אלג'זירה מנסה בכוח לצייר זאת כך.",
-   "views": 52900,
+   "views": 53200,
    "forwarded_from": null,
    "media": [
     {
@@ -2119,7 +2133,7 @@
    "post": "amitsegal/67392",
    "ts": "2026-11-19T06:16:53+00:00",
    "text": "עוד מהנעשה אתמול במגעים בגוש השינוי -\n\nבנט לשותפיו: השבעת ממשלה בקולות הערבים תהיה לצד השני כמו נאום לוין על סטרואידים, אתם לא מבינים את ההשלכות על המדינה\n\nלפיד לבנט: אני לא מאמין לאיש הזה (נתניהו) למילה ואני חושב שתיכשל אבל אם אתה חושב אחרת לך על זה ותביא רוטציה עם איזנקוט ראשון",
-   "views": 80900,
+   "views": 81200,
    "forwarded_from": null,
    "media": []
   },
@@ -2313,15 +2327,6 @@
    "ts": "2026-11-18T20:35:38+00:00",
    "text": "האישה שנדבקה בכלבת באזור המרכז נמצאת במצב אנוש.",
    "views": 19300,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
-   "id": "pe1885c8a847f",
-   "post": "ramreports/217832",
-   "ts": "2026-11-18T20:34:23+00:00",
-   "text": "תושב השטחים נעצר בחשד שאיים לרצוח את סגן ראש העיר ירושלים",
-   "views": 18700,
    "forwarded_from": null,
    "media": []
   },
@@ -3072,7 +3077,7 @@
    "post": "PMO_jobs/85",
    "ts": "2026-11-18T08:55:09+00:00",
    "text": "למשרד ראש הממשלה דרוש/ה סטודנט/ית למחלקת תיעוד באגף ביטחון וחירום (משרה מספר 13-25)\n\nתיאור משרה:\n• אחריות תחום מבקרים קבועים משרד ראשי\n• סיוע בהנפקות ויזות בין לאומיות ודרכונים דיפלומטיים\n• אחריות על הנפקת אישורים חיצוניים\n• הנפקת תעודות לכלל עובדי המשרד וקליטות ממוחשבות של עובדים חדשים\n• עבודה מול מערכות ממוחשבות להנפקת תעודות ואישורים באופן שוטף והפקת דוחות בקרה ופיקוח\n• הנפקת היתרי פנס כחול והיתרי נת\"צ\n• קבלת קהל ומתן מענה לכלל עובדי משרד רה\"מ ומבקריו\n• משימות נוספות בהתאם לדרישות הממונה\n\nלמידע נוסף, היכנסו לקישור:\nhttps://www.gov.il/he/pages/job13-2026\n\nלהגשת מועמדות שילחו קורות חיים: enoshbit@pmo.gov.il\nעבור פרסום מספר: 13-25 (חובה לציין בנדון את מספר הפרסום)\n\nיש לציין בקורות החיים מס' ת.ז וטלפון נייד.\nיש לציין על גבי קורות החיים את יתרת שנות הלימודים ולצרף אישורי לימודים תקפים לשנת הלימודים הנוכחית.",
-   "views": 74,
+   "views": 75,
    "forwarded_from": null,
    "media": [
     {
@@ -3088,7 +3093,7 @@
    "post": "PMO_jobs/84",
    "ts": "2026-11-18T08:49:54+00:00",
    "text": "למשרד ראש הממשלה דרוש/ה: סטודנט/ית למחלקת ביקורים באגף ביטחון וחירום (משרה 14-25)\n\nתיאור התפקיד:\n• בדיקת רמת הסיווג הביטחוני למבקרים המגיעים למשרד, טרם כניסתם\n• תדרוך עובדי האגף בנוגע לסוג המבקר וכללי אגף הביטחון\n• ליווי תהליך כניסת המבקרים ו/או משלחות מרגע הגעתם למשרד ועד עזיבתם\n• ריכוז וטיפול בדיונים מסווגים במשרד\n• תדרוך עובדי המשרד טרם יציאתם לחו\"ל בהתאם לכללי הביטחון\n• משימות נוספות בהתאם לדרישות הממונה\n\nלמידע נוסף, היכנסו לקישור:\nhttps://www.gov.il/he/pages/job14-2026\n\nלהגשת מועמדות שילחו קורות חיים: enoshbit@pmo.gov.il\nעבור פרסום מספר: 14-25 (חובה לציין בנדון את מספר הפרסום)\n\nיש לציין בקורות החיים מס' ת.ז וטלפון נייד.\nיש לציין על גבי קורות החיים את יתרת שנות הלימודים ולצרף אישורי לימודים תקפים לשנת הלימודים הנוכחית.",
-   "views": 75,
+   "views": 76,
    "forwarded_from": null,
    "media": [
     {
