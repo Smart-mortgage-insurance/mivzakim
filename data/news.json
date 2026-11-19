@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:10:21.083496+00:00",
+ "updated": "2026-11-19T06:12:00.340598+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,29 @@
  "count": 353,
  "items": [
   {
+   "id": "p5a2d745cbcd1",
+   "post": "haskupim/203306",
+   "ts": "2026-11-19T06:10:36+00:00",
+   "text": "חדשות הסקופים\n78% שואלים על בריאות, רק 25% כותבים קוד | סקר: רוב הישראלים משתמשים בבינה מלאכותית לשאלות בריאות, מיעוט כותבים קוד.\nעדכוני טכנולוגיה",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p6910ec86bad2",
+   "post": "merkaz/301592",
+   "ts": "2026-11-19T06:09:52+00:00",
+   "text": "אבל בעולם התורה: הגאון רבי אלחנן ברלין זצ\"ל, מראשי ישיבת ערלוי וחתנו של מרן פוסק הדור הגרי\"ש אלישיב זצ\"ל, הלך לעולמו בגיל 91. המנוח אחיו של הגאון רבי מנחם צבי ברלין, ראש ישיבת רבנו חיים עוזר, וגיסו של מרן שר התורה הגר\"ח קנייבסקי זצ\"ל. (בחדרי)",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
    "id": "pc98d99609293",
    "post": "haskupim/203305",
    "ts": "2026-11-19T06:07:40+00:00",
    "text": "חדשות הסקופים\nהלווית הגאון אלחנן ברלין היום | הלווית הגאון אלחנן ברלין, חתן הגרי״ש אלישיב, תצא היום ב-12:00 מבית המדרש אחוה רחוב ראשית חכמה 11 ירושלים להר המנוחות. יושבים שבעה בביתו ברחוב ישא ברכה 12 ירושלים.",
-   "views": 7,
+   "views": 15,
    "forwarded_from": null,
    "media": [
     {
@@ -153,7 +171,7 @@
    "post": "haskupim/203304",
    "ts": "2026-11-19T06:05:13+00:00",
    "text": "חדשות הסקופים\nהצעת דרעי זמנית | בעיתון 'הדרך' מדגישים כי הצעת החוק של דרעי להפסקת מעצרי העריקים היא רק לתקופת הביניים, ובמפלגה שואפים להסדיר את מעמד תלמידי הישיבות בממשלה הבאה.",
-   "views": 13,
+   "views": 16,
    "forwarded_from": null,
    "media": [
     {
@@ -168,7 +186,7 @@
    "post": "haskupim/203303",
    "ts": "2026-11-19T06:02:24+00:00",
    "text": "חדשות הסקופים\nאבל כבד בעולם התורה | הגאון רבי אלחנן הלפרין הלך לעולמו.\nכיכר השבת",
-   "views": 23,
+   "views": 27,
    "forwarded_from": null,
    "media": [
     {
@@ -183,7 +201,7 @@
    "post": "HiTech_Jobs_In_Israel/139223",
    "ts": "2026-11-19T06:01:04+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 22,
+   "views": 23,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -193,7 +211,7 @@
    "post": "HiTech_Jobs_In_Israel/139221",
    "ts": "2026-11-19T06:01:03+00:00",
    "text": "Verification Team Lead, Graviton Team at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10608603/verification-team-lead-graviton-team?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 21,
    "forwarded_from": null,
    "media": [
     {
@@ -209,7 +227,7 @@
    "post": "HiTech_Jobs_In_Israel/139222",
    "ts": "2026-11-19T06:01:03+00:00",
    "text": "Verification Team Lead, Graviton Team at Amazon\nLocation: Tel Aviv-Yafo, Tel Aviv, ISR\nPress here https://www.amazon.jobs/en/jobs/10608603/verification-team-lead-graviton-team?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 21,
+   "views": 24,
    "forwarded_from": null,
    "media": [
     {
@@ -225,7 +243,7 @@
    "post": "HiTech_Jobs_In_Israel/139219",
    "ts": "2026-11-19T06:00:24+00:00",
    "text": "Senior VLSI CAD and AI Automation Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-VLSI-CAD-and-AI-Automation-Engineer_JR2029800?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 31,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -235,7 +253,7 @@
    "post": "HiTech_Jobs_In_Israel/139220",
    "ts": "2026-11-19T06:00:24+00:00",
    "text": "Physical Design Backend Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Physical-Design-Backend-Engineer_JR2026772?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 17,
+   "views": 18,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -245,7 +263,7 @@
    "post": "HiTech_Jobs_In_Israel/139217",
    "ts": "2026-11-19T06:00:23+00:00",
    "text": "Hardware Architect, Deep Learning GPU and System at NVIDIA\nLocation: Israel, Yokneam\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Architect--Deep-Learning-GPU-and-System_JR2029852?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 17,
+   "views": 19,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -255,7 +273,7 @@
    "post": "HiTech_Jobs_In_Israel/139218",
    "ts": "2026-11-19T06:00:23+00:00",
    "text": "Senior ASIC Low-Power Integration and AI Engineer at NVIDIA\nLocation: 4 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-ASIC-Low-Power-Integration-and-AI-Engineer_JR2029715?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -265,7 +283,7 @@
    "post": "HiTech_Jobs_In_Israel/139216",
    "ts": "2026-11-19T06:00:22+00:00",
    "text": "DFT Insertion Engineer at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/DFT-Insertion-Engineer_JR2029765?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -275,7 +293,7 @@
    "post": "HiTech_Jobs_In_Israel/139215",
    "ts": "2026-11-19T06:00:11+00:00",
    "text": "Full-Stack Engineer at Riskified\nLocation: Tel Aviv\nPress here https://www.riskified.com/careers/job-description/?gh_jid=8785367002&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 18,
+   "views": 19,
    "forwarded_from": null,
    "media": [
     {
@@ -291,7 +309,7 @@
    "post": "HiTech_Jobs_In_Israel/139214",
    "ts": "2026-11-19T06:00:05+00:00",
    "text": "Team8 Stealth Cyber Startup - Corporate Controller at Team8\nLocation: Tel Aviv, Israel\nPress here https://team8.vc/career/company/team8-stealth-cyber-startup-corporate-controller/?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -301,7 +319,7 @@
    "post": "HiTech_Jobs_In_Israel/139213",
    "ts": "2026-11-19T06:00:02+00:00",
    "text": "Security & Network Administrator at abra\nLocation: North\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 22,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -311,7 +329,7 @@
    "post": "HiTech_Jobs_In_Israel/139212",
    "ts": "2026-11-19T06:00:01+00:00",
    "text": "Cyber Security Implementation Engineer at abra\nLocation: North\nPress here https://www.abra-it.com/career?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 19,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -321,7 +339,7 @@
    "post": "merkaz/301591",
    "ts": "2026-11-19T05:59:51+00:00",
    "text": "• פגישת פוטין-טראמפ: הקרמלין הודיע כי הפגישה התקיימה בצורה \"טובה מאוד\" וכי נשיא רוסיה יצא ממנה \"במצב רוח מצוין\". לפי ההודעה שפורסמה בסוכנות הידיעות TASS, סוגיית אוקראינה הייתה הנושא המרכזי בפגישה.\n\n• בפעם השלישית השבוע: אוקראינה תקפה הלילה את גשר קרץ', המחבר בין רוסיה לחצי האי קרים ונחשב לפרויקט הדגל של פוטין. מוקדם יותר השבוע השמידה אוקראינה את קטע הכביש בגשר, ועל פי דיווחים הלילה הותקפה מסילת הרכבת שלו. בעקבות התקיפה, רוסיה הודיעה על עצירת תנועת הרכבות בגשר קרץ' בחצי האי קרים. (אסף רוזנצוויג)",
-   "views": 40,
+   "views": 41,
    "forwarded_from": null,
    "media": []
   },
@@ -330,7 +348,7 @@
    "post": "haskupim/203302",
    "ts": "2026-11-19T05:57:30+00:00",
    "text": "חדשות הסקופים\n״פשע שנאה, מעשה טרור וחילול מקום קדוש״ | יו\"ר רע\"ם מנסור עבאס על הצתת המסגד: זה אינו אירוע בודד אלא תוצאה ישירה של מסע ההסתה של הימין הקיצוני נגד האזרחים הערבים. קורא לראש הממשלה נתניהו להפסיק את ההסתה. מתן לגיטימציה לאלימות מסכן חיי אדם.\nדפנה ליאל חדשות 12",
-   "views": 31,
+   "views": 35,
    "forwarded_from": null,
    "media": []
   },
@@ -339,7 +357,7 @@
    "post": "haskupim/203301",
    "ts": "2026-11-19T05:57:15+00:00",
    "text": "חדשות הסקופים\nמבוי סתום בשיחות עם יהדות התורה | בכירים בגוש השינוי: \"התרחקנו משיתוף פעולה\".\nישי כהן",
-   "views": 32,
+   "views": 36,
    "forwarded_from": null,
    "media": [
     {
@@ -354,7 +372,7 @@
    "post": "haskupim/203300",
    "ts": "2026-11-19T05:55:29+00:00",
    "text": "חדשות הסקופים\nקריאה להחלפת נתניהו | נאור שירי מזהיר מניצול מלחמה עם איראן לצרכים פוליטיים: מלחמה הפכה לכלי במו״מ, יש להקים ממשלה חדשה ולהחליף את נתניהו.\nרדיו 103",
-   "views": 35,
+   "views": 39,
    "forwarded_from": null,
    "media": []
   },
@@ -363,7 +381,7 @@
    "post": "haskupim/203299",
    "ts": "2026-11-19T05:54:54+00:00",
    "text": "חדשות הסקופים\nנסיון הסגרה בצומת גולני | המשטרה הצבאית מנסה להסגיר אברך כולל בצומת גולני מכיוון טבריה. הציבור נקרא להגיע ולתמוך באברך ובמשפחתו.",
-   "views": 31,
+   "views": 34,
    "forwarded_from": null,
    "media": []
   },
@@ -387,7 +405,7 @@
    "post": "merkaz/301590",
    "ts": "2026-11-19T05:52:33+00:00",
    "text": "טראמפ ופוטין נפגשו בשנז'ן לפני הפגישה המשולשת עם נשיא סין שי ג'ינפינג",
-   "views": 80,
+   "views": 83,
    "forwarded_from": null,
    "media": [
     {
@@ -402,7 +420,7 @@
    "post": "merkaz/301589",
    "ts": "2026-11-19T05:33:53+00:00",
    "text": "מסגד הוצת הלילה ליד עפולה לאחר שבקבוק תבערה נשלח לעברו - השב”כ מעורב בחקירה, נבדק גם החשד לאירוע לאומני. יו”ר רע”ם, ח”כ מנסור עבאס: זה פשע שנאה, מעשה טרור וחילול מקום קדוש. קורא לראש הממשלה נתניהו: תפסיק את ההסתה. מתן לגיטימציה לאלימות נגד החברה הערבית מסכן חיי אדם. זאת, גם על רקע החשד המבוסס לאירוע הדריסה על רקע לאומני בכפר קאסם, שבו נפצעו מספר אזרחים באורח קשה.",
-   "views": 127,
+   "views": 130,
    "forwarded_from": null,
    "media": [
     {
@@ -437,7 +455,7 @@
    "post": "haskupim/203298",
    "ts": "2026-11-19T05:21:55+00:00",
    "text": "חדשות הסקופים\nנתניהו דוחף למערכה באיראן | דיווח: נתניהו דוחף למבצע מהיר של 4-7 ימים באיראן, טראמפ מתלבט בשל מחלוקות בממשל על עוצמת המודיעין. טראמפ: יש אינדיקציות שאיראן בוחנת נשק כימי. לישראל הועברה סוללת פטריוט, טראמפ לא אישר לפרסם את יעדי התקיפה הישראליים.\nווינט",
-   "views": 71,
+   "views": 72,
    "forwarded_from": null,
    "media": []
   },
@@ -455,7 +473,7 @@
    "post": "haskupim/203296",
    "ts": "2026-11-19T05:14:49+00:00",
    "text": "חדשות הסקופים\nטרגדיה עצובה בבית שמש: הנער מרדכי מאיר חשין ז\"ל נפטר הלילה בביתו לאחר שחלה בשנה האחרונה ב'מחלה' התגורר ברח' מרים הנביאה.\nקרדיט מוטבע",
-   "views": 74,
+   "views": 75,
    "forwarded_from": null,
    "media": [
     {
@@ -470,7 +488,7 @@
    "post": "amitsegal/67391",
    "ts": "2026-11-19T05:10:33+00:00",
    "text": "סיכום חדשות הלילה:\n\nטראמפ אומר שאירן מנסה לפתח נשק כימי וביולוגי לאחר שארה״ב מנעה ממנה נשק גרעיני\n\nדיווחים בארה״ב: נתניהו לוחץ לתקיפה של 4-7 ימים באירן\n\nשב״כ חוקר הצתת מסגד ליד עפולה, עם הכתובות ״נקמה״ בסמוך",
-   "views": 29900,
+   "views": 30400,
    "forwarded_from": null,
    "media": []
   },
@@ -479,7 +497,7 @@
    "post": "haskupim/203295",
    "ts": "2026-11-19T05:06:35+00:00",
    "text": "חדשות הסקופים\nכותרות העיתונים - יום חמישי ט׳ כסליו פ״ז 19.11.26 | חרדי",
-   "views": 71,
+   "views": 73,
    "forwarded_from": null,
    "media": [
     {
@@ -494,7 +512,7 @@
    "post": "haskupim/203294",
    "ts": "2026-11-19T05:06:10+00:00",
    "text": "חדשות הסקופים\nכותרות העיתונים - יום חמישי ט׳ כסליו פ״ז 19.11.26 | 2",
-   "views": 67,
+   "views": 68,
    "forwarded_from": null,
    "media": [
     {
@@ -509,7 +527,7 @@
    "post": "haskupim/203293",
    "ts": "2026-11-19T05:06:02+00:00",
    "text": "חדשות הסקופים\nכותרות העיתונים - יום חמישי ט׳ כסליו פ״ז 19.11.26 | 1",
-   "views": 63,
+   "views": 65,
    "forwarded_from": null,
    "media": [
     {
@@ -539,7 +557,7 @@
    "post": "haskupim/203292",
    "ts": "2026-11-19T04:59:29+00:00",
    "text": "חדשות הסקופים\nתחזית מזג האויר | היום: מעונן חלקית בעננות בגובה רב עד בהיר.תחול עלייה קלה בטמפרטורות, אך הן יוסיפו להיות רגילות לעונה במרבית האזורים. הלילה: בהיר עד מעונן חלקית",
-   "views": 66,
+   "views": 68,
    "forwarded_from": null,
    "media": []
   },
@@ -563,7 +581,7 @@
    "post": "merkaz/301588",
    "ts": "2026-11-19T04:26:35+00:00",
    "text": "ציור של וינסנט ואן גוך משנת 1890, נמכר אמש בבית המכירות סותבי'ס בניו יורק תמורת 190.4 מיליון דולר, וקבע שיא חדש לציור של ואן גוך במכירה פומבית. המכירה התאפשרה לאחר הסדר שהושג בין המשפחה הארגנטינית שהחזיקה בציור לבין יורשיו היהודים של המו\"ל הגרמני סמואל פישר, שטענו כי משפחתם נאלצה למכור אותו ב-1936 בשל רדיפות הנאצים.",
-   "views": 227,
+   "views": 228,
    "forwarded_from": null,
    "media": [
     {
@@ -596,7 +614,7 @@
    "post": "behadrey/108155",
    "ts": "2026-11-19T02:55:10+00:00",
    "text": "חתן פוסק הדור > אבל בעולם התורה: הגאון רבי אלחנן ברלין זצ\"ל מר\"י ערלוי הלך לעולמו",
-   "views": 94,
+   "views": 96,
    "forwarded_from": null,
    "media": [
     {
@@ -611,7 +629,7 @@
    "post": "ramreports/217837",
    "ts": "2026-11-19T02:48:05+00:00",
    "text": "הנשיא טראמפ שוקל לפתוח במתקפה משותפת עם ישראל נגד המשטר האיראני, כך לפי שני מקורות המעורים בנושא.",
-   "views": 9740,
+   "views": 9840,
    "forwarded_from": null,
    "media": []
   },
@@ -629,7 +647,7 @@
    "post": "jobsHOTjobss/17689",
    "ts": "2026-11-18T23:59:01+00:00",
    "text": "הקליקו לפרטים נוספים https://wa.me/+972545430121?text=%D7%A9%D7%9C%D7%95%D7%9D+%D7%95%D7%91%D7%A8%D7%9B%D7%94+%D7%91%D7%A0%D7%95%D7%92%D7%A2+%D7%9C%D7%9E%D7%A9%D7%A8%D7%94+",
-   "views": 34,
+   "views": 35,
    "forwarded_from": null,
    "media": [
     {
@@ -704,7 +722,7 @@
    "post": "haskupim/203290",
    "ts": "2026-11-18T21:50:22+00:00",
    "text": "חדשות הסקופים\n״איזנקוט רוצה ממשלת אחדות אבל מסונדל על ידי הכוורת שלו״ | גורם בכיר בגוש השמאל מעריך כי איזנקוט תומך באחדות אך הכוורת שלו מונעת זאת.\nערוץ 14",
-   "views": 198,
+   "views": 199,
    "forwarded_from": null,
    "media": []
   },
@@ -713,7 +731,7 @@
    "post": "haskupim/203289",
    "ts": "2026-11-18T21:47:10+00:00",
    "text": "חדשות הסקופים\n2000 מתפללים ייכנסו הלילה לקבר יוסף | כ-2000 מתפללים צפויים להיכנס הלילה לקבר יוסף בשכם.",
-   "views": 195,
+   "views": 196,
    "forwarded_from": null,
    "media": [
     {
@@ -757,21 +775,6 @@
    ]
   },
   {
-   "id": "p2b728a5d185b",
-   "post": "haskupim/203286",
-   "ts": "2026-11-18T21:30:15+00:00",
-   "text": "חדשות הסקופים\nגינוי לתקיפת ח״כ פרוש | ח״כ שטארק פרסם הודעת גינוי בעקבות תקיפת ח״כ פרוש.",
-   "views": 167,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/db73ee18a4034e48.jpg"
-    }
-   ]
-  },
-  {
    "id": "pb934fb982ac1",
    "post": "RealKikarHashabat/11957",
    "ts": "2026-11-18T21:18:48+00:00",
@@ -806,7 +809,7 @@
    "post": "behadrey/108154",
    "ts": "2026-11-18T21:09:21+00:00",
    "text": "הפגנה אלימה > במחאה נגד הרכבת הקלה: קיצוניים חסמו את רכבו של פרוש",
-   "views": 149,
+   "views": 150,
    "forwarded_from": null,
    "media": [
     {
@@ -872,7 +875,7 @@
    "post": "abualiexpress/133882",
    "ts": "2026-11-18T20:41:09+00:00",
    "text": "סוכנות הידיעות בלומברג: אחת משלוש נושאות המטוסים האמריקאיות ששהו באזור איראן עזבה את האזור.\n\nככל הנראה מדובר בנושאת המטוסים ג'ורג' וושינגטון שיצאה לכיוון יפן.\n\nע\"פ בלומברג כעת נותרו רק שתי נושאות מטוסים אמריקאיות בגזרה הרלוונטית לאיראן.",
-   "views": 66500,
+   "views": 66700,
    "forwarded_from": null,
    "media": [
     {
@@ -1047,7 +1050,7 @@
    "post": "amitsegal/67390",
    "ts": "2026-11-18T20:17:25+00:00",
    "text": "‏מענין כמה זמן ייקח לכל הצדדים להפנים שהם הפסידו בבחירות.\n\n‏כל אחד מספר לעצמו סיפורים מגוחכים, אלה על רוב יהודי שלא קיים בגלל יהדות התורה ואלה על ממשלות עקומות שיעלו במחיר אלקטורלי חסר תקדים.\n\n‏האמת היא שגוש נתניהו הוכה ואיבד את הרוב בכנסת ברמה כזו שאפילו אם בנט היה יוצא מלשכת רהמ מחובק עם נתניהו ועם הסכם איחוד מפלגות לליכוד עדיין לא היה רוב. על ה-48 של גוש השינוי מיותר להרחיב את הדיבור לאור ההבטחות ל-61 או ל-58.\n\n‏כחלוף שלושה שבועות מהבחירות מדהים לראות אנשים כה חכמים משחקים בנדמה לי.\n\n‏היחידים שניצחו בבחירות הם אחמד טיבי ומנסור עבאס. מי שלא מאמין שיצפה בשידורי ערוץ הכנסת מהיום. מוטב להפנים זאת בהקדם ולפעול בהתאם.",
-   "views": 78700,
+   "views": 78800,
    "forwarded_from": null,
    "media": []
   },
@@ -1056,7 +1059,7 @@
    "post": "ramreports/217829",
    "ts": "2026-11-18T20:14:20+00:00",
    "text": "אישה אמיצה שאכפת לה, ולא מפחדת",
-   "views": 15100,
+   "views": 15200,
    "forwarded_from": null,
    "media": [
     {
@@ -1076,7 +1079,7 @@
    "post": "abualiexpress/133881",
    "ts": "2026-11-18T20:14:02+00:00",
    "text": "עמוד יווני פופולרי ברשת X לועג להליכתו המוזרה של ארדואן: \"טורקיה היא מדינה כל כך מתקדמת מבחינת הייטק שאפילו יש לה נשיא - רובוט\"",
-   "views": 70300,
+   "views": 70500,
    "forwarded_from": null,
    "media": [
     {
@@ -1145,7 +1148,7 @@
    "post": "abualiexpress/133880",
    "ts": "2026-11-18T19:53:36+00:00",
    "text": "דובר צה\"ל על הפעילות שהחלה מוקדם יותר היום במרכז רצועת עזה : כוחות צה”ל ושב”כ החלו מוקדם יותר היום (ד’) בפעילות מבצעית ממוקדת להשמדת מנהרת טרור מערבית לקו הצהוב שהיוותה איום מיידי וישיר על כוחותינו.",
-   "views": 73400,
+   "views": 73500,
    "forwarded_from": null,
    "media": [
     {
@@ -1219,7 +1222,7 @@
    "post": "ramreports/217826",
    "ts": "2026-11-18T19:44:20+00:00",
    "text": "דובר צה\"ל:\n\nכוחות צה”ל ושב”כ החלו מוקדם יותר היום בפעילות מבצעית ממוקדת להשמדת מנהרת טרור מערבית לקו הצהוב שהיוותה איום מיידי וישיר על כוחותינו.\n\nטרם הפעילות הופצה הודעת אזהרה לאזרחים ממנהלת התיאום והקישור, ובה הנחיה להימנע מהגעה למרחב ועדכון בדבר חסימת ציר באיזור.\n\nכוחות הביטחון בפיקוד הדרום פרוסים במרחב בהתאם להסכם וימשיכו לפעול להסרת כל איום מיידי וניסיון של ארגון הטרור חמאס לפגוע באזרחי מדינת ישראל ובכוחותינו או להפר את ההסכם.",
-   "views": 17800,
+   "views": 17900,
    "forwarded_from": null,
    "media": []
   },
@@ -1246,7 +1249,7 @@
    "post": "amitsegal/67389",
    "ts": "2026-11-18T19:42:10+00:00",
    "text": "צה\"ל ושב\"כ מאשרים: התחלנו פעילות מבצעית להשמדת מנהרת טרור מערבית לקו הצהוב ברצועה, באזור נוסיראת",
-   "views": 82100,
+   "views": 82200,
    "forwarded_from": null,
    "media": []
   },
@@ -1373,7 +1376,7 @@
    "post": "amitsegal/67388",
    "ts": "2026-11-18T19:15:12+00:00",
    "text": "8 פצועים, בהם 3 בינוני, במספר זירות דריסה בכפר קאסם.\n\nע\"פ החשד הנהג, גבר יהודי, היה תחת השפעת סמים - אבל נבדק גם הכיוון הלאומני",
-   "views": 85800,
+   "views": 85900,
    "forwarded_from": null,
    "media": [
     {
@@ -1403,7 +1406,7 @@
    "post": "abualiexpress/133877",
    "ts": "2026-11-18T19:11:01+00:00",
    "text": "משרד האוצר האמריקאי הטיל היום סנקציות על אגודת \"ותעאונו\" وتعاونوا - ארגון צדקה המספק כיסוי לפעילות חזבאללה במסווה של מתן סיוע הומניטרי.\n\nכמו כן, הוטלו היום סנקציות על חברי רשת להברחת זהב וכספים הפועלת בלבנון ובטורקיה ומנוהלת על ידי חזבאללה וכוח קודס של משמרות המהפכה האיראניים.",
-   "views": 78300,
+   "views": 78400,
    "forwarded_from": null,
    "media": [
     {
@@ -1412,15 +1415,6 @@
      "file": "data/media/796d1d222f0f737c.jpg"
     }
    ]
-  },
-  {
-   "id": "p127e8362bd12",
-   "post": "merkaz/301571",
-   "ts": "2026-11-18T19:01:58+00:00",
-   "text": "היועמ\"שית לממשלה צפויה להגיש פעם נוספת כתב אישום נגד חה\"כ טלי גוטליב ולהאשימה בעבירה על חוק השב\"כ, זאת לאחר שחשפה את זהות בן זוגה של שקמה ברסלר. (12)",
-   "views": 396,
-   "forwarded_from": null,
-   "media": []
   },
   {
    "id": "p3bd288522529",
@@ -1551,7 +1545,7 @@
    "post": "amitsegal/67386",
    "ts": "2026-11-18T18:46:19+00:00",
    "text": "100 שקל וצ'יזבורגר אחד: כך נדע אם החרדים יפרו את הברית עם הימין | עמית סגל",
-   "views": 86300,
+   "views": 86400,
    "forwarded_from": "",
    "media": [
     {
@@ -1672,7 +1666,7 @@
    "post": "abualiexpress/133872",
    "ts": "2026-11-18T18:15:42+00:00",
    "text": "צרפת: השוטרים מפגינים נגד הממשלה ליד ארמון האליזה בפריז\n\nאיגוד השוטרים הלאומי דורש להעלות ב-35% את תוספת הסיכון המשולמת לשוטרים, אשר נותרה ללא שינוי במשך כמה שנים.\n\nחוסר שביעות הרצון בקרב כוחות אכיפת החוק בצרפת בא לידי ביטוי גם בדרכים נוספות: אתמול, במהלך הפגנות שנערכו ברחבי המדינה, סירבה היחידה השמינית של כוחות הביטחון הרפובליקניים (CRS 8), המתמחה בטיפול בהפרות סדר, לבצע את משימותיה.",
-   "views": 77800,
+   "views": 77900,
    "forwarded_from": null,
    "media": [
     {
@@ -1793,7 +1787,7 @@
    "post": "HiTech_Jobs_In_Israel/139210",
    "ts": "2026-11-18T18:00:35+00:00",
    "text": "Interested in advertising and reaching +8600 job seekers? Reach us out 👇\n\nShare your support by boosting ⚡⚡⚡ our channel or sharing a kind donation securely via PayPal https://paypal.me/donateTheBot 😍\nto help us to be there for you 24/7 ⏰\nWe really appreciate it ❤",
-   "views": 170,
+   "views": 171,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1803,7 +1797,7 @@
    "post": "HiTech_Jobs_In_Israel/139209",
    "ts": "2026-11-18T18:00:34+00:00",
    "text": "Senior Software Engineer - AAP Core at Akamai\nLocation: Israel\nSend your CV + the link below to the admin who works there ✌🏻 or apply on your own: https://jobs.akamai.com/en/sites/CX_1/job/4485/?utm_source=telegram&utm_medium=HiTech_Jobs_In_Israel&utm_campaign=job-updates",
-   "views": 180,
+   "views": 181,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1935,7 +1929,7 @@
    "post": "abualiexpress/133870",
    "ts": "2026-11-18T17:49:40+00:00",
    "text": "הרמטכ\"ל וראש המוסד נפגשו היום עם בראד קופר, מפקד פיקוד מרכז של ארה\"ב המבקר בישראל.",
-   "views": 66900,
+   "views": 67000,
    "forwarded_from": null,
    "media": [
     {
@@ -2027,7 +2021,7 @@
    "post": "amitsegal/67384",
    "ts": "2026-11-18T17:37:28+00:00",
    "text": "אחרי שמיקי זוהר שוב דיבר בביטחון רב בלי מושג על התרחשויות קואליציוניות וסיפר למראיינים שנתניהו עשוי להיות שני, בליכוד מכחישים: עמדת נתניהו לא השתנתה.\n\n(ואם כן, וזה יכול אולי להיות, לא נשמע על זה ממיקי זוהר)",
-   "views": 88100,
+   "views": 88200,
    "forwarded_from": null,
    "media": []
   },
@@ -2067,7 +2061,7 @@
    "post": "abualiexpress/133865",
    "ts": "2026-11-18T17:19:56+00:00",
    "text": "הניו יורק טיימס:\nתסכולו של טראמפ מסגנו, ג'יי די ואנס, הולך ומתגבר בשל העובדה שוואנס מייחס את תבוסת הרפובליקנים בבחירות אמצע הכהונה למלחמה באיראן.\n\nעל פי הדיווח, טראמפ סבור כי ואנס היה צריך להגן על החלטתו לתקוף את איראן.\n\nבמקביל, טראמפ שיבח בשיחות סגורות את מרקו רוביו, התומך נחרצות במלחמה, כמועמד פוטנציאלי לנשיאות ב-2028.",
-   "views": 67300,
+   "views": 67400,
    "forwarded_from": null,
    "media": [
     {
@@ -2350,7 +2344,7 @@
    "post": "amitsegal/67377",
    "ts": "2026-11-18T15:04:03+00:00",
    "text": "ראש הממשלה לשעבר יאיר לפיד:\n\nאיני נוהג לעדכן באמצע מו״מ קואליציוני, אבל עדכון קצר לכל המודאגים:\n\nבנט ואני ממשיכים לעבוד ללא לאות על הקמת ממשלת השינוי בראשות גדי אייזנקוט.\n\nמטבע הדברים זוהי תקופה שבה כל פגישה, עדכון בטחוני או שיחה מעוררות גלי שמועות וספקולציות.\n\nזה לא גורם לנו להסיט את המבט מהמטרה:\n\nלהקים ממשלה חדשה, טובה ויעילה שתדע להתמודד עם האתגרים הבטחוניים, הכלכליים והמדיניים שישראל ניצבת מולם.",
-   "views": 85600,
+   "views": 85700,
    "forwarded_from": null,
    "media": []
   },
@@ -2419,7 +2413,7 @@
    "post": "amitsegal/67376",
    "ts": "2026-11-18T14:48:14+00:00",
    "text": "הודעה משותפת לראשי מפלגות השינוי:\n\n״הסתיימה פגישת ראשי מפלגות השינוי והתיקון, במהלכה הוצגו ההתקדמויות בצירי המו\"מ השונים להקמת ממשלה, כמו גם את המהלכים המוצלחים האחרונים למימוש הרב הפרלמנטרי בכנסת ובראשם בחירתו של ח״כ מתן כהנא לתפקיד יו״ר הכנסת.\n\nראשי המפלגות כולם רואים עין בעין באשר לדחיפות בכינונה של ממשלת חירום לאומית בראשות איזנקוט, והחלפתו של נתניהו בלשכת ראש הממשלה - בעדיפות עליונה ובהקדם.\n\nהמשתתפים דנו גם בשעת החירום הממשית בפניה ישראל ניצבת - ביטחונית, חברתית ובינלאומית ועל רגישותם של הימים הקרובים.\n\nסוכם שהמפלגות ימשיכו לעבוד במשותף, בתיאום ובמהירות למען מטרה זו. זהו צו השעה״",
-   "views": 85800,
+   "views": 85900,
    "forwarded_from": null,
    "media": []
   },
@@ -2428,7 +2422,7 @@
    "post": "amitsegal/67375",
    "ts": "2026-11-18T14:47:45+00:00",
    "text": "",
-   "views": 83000,
+   "views": 83100,
    "forwarded_from": null,
    "media": [
     {
@@ -2628,7 +2622,7 @@
    "post": "amitsegal/67372",
    "ts": "2026-11-18T13:47:18+00:00",
    "text": "תזכורת לגבי בנט:",
-   "views": 86700,
+   "views": 86800,
    "forwarded_from": null,
    "media": []
   },
@@ -2997,7 +2991,7 @@
    "post": "ILcoupons/5995",
    "ts": "2026-11-18T08:14:57+00:00",
    "text": "עוד מוצר בירידת מחיר ↘️ מצלמת אבטחה סולארית אלחוטית של Baseus דגם Security S1 Lite במחיר שקשה להתעלם 🌞📷🔒✨\n\n💰 עודכן למחיר סופי רק $27.86 / 90₪ עם משלוח חינם!!!!\n\n🛍⁩ קישור להזמנה:\nhttps://dlz.co.il/baseus-security-s1-lite-zonne\n\nהמצלמה הזאת נותנת תחושת ביטחון אמיתית, ועושה את זה בצורה חכמה, אלגנטית ונוחה במיוחד. ועם מחיר כזה, זה כבר לא כוחות מול המתחרים... 😉\n\nוהקטע הכי מרשים?! מספיקות רק 135 דקות של שמש כדי להפעיל אותה ברצף 24 שעות! ☀️🔋\n\nאז אם רציתם הגנה רציפה בלי חיווטים, בלי התעסקות ובלי לשבור קופת חיסכון, זאת פשוט בחירה קלה. 🏡💛\n\nנתונים טכניים:\nתומכת כרטיס זיכרון עד 512GB (לא כלול)\n📺 איכות וידאו 2K\n👁 זווית צילום רחבה 135°\n🌙 תאורת לילה צבעונית\n💦 תקן עמידות IP67\n🤖 זיהוי תנועה חכם AI\n📌 2 אזורי ניטור + 2 אזורי התעלמות\n🎙 דיבור דו כיווני בזמן אמת\n🗂 אחסון מקומי מאובטח עם הצפנה\n\n💬 לדיון בפוסט:\nhttps://www.facebook.com/groups/1691131411184334/posts/4232472090383574/",
-   "views": 889,
+   "views": 890,
    "forwarded_from": null,
    "media": [
     {
@@ -3457,7 +3451,7 @@
    "post": "jobsHOTjobss/17686",
    "ts": "2026-11-15T18:34:06+00:00",
    "text": "מחפשים את האתגר הניהולי הבא שלכם בעולם הקולינריה? 🍽️\n\nמשפחת KARDO DELI מתרחבת ומחפשת מנהל/ת לסניף שלנו באזור גאולה בירושלים!\n\nאם יש לכם דרייב, יחסי אנוש מעולים וחיבור לאוכל משובח זו ההזדמנות שלכם להוביל מותג איכותי ולהיות שותפים להצלחה.\n\nדרישות התפקיד:\nניסיון קודם בניהול חנות 🏪\nיכולת הובלה והנעת צוות 👥\nשליטה בעברית, אנגלית ויידיש 🗣️\nאהבה לאנשים ולאוכל איכותי 🤍\nתחילת עבודה מיידית🤝\n\nתנאים מצוינים ושכר גבוה למתאימים!💰\n\n📲 לשליחת קורות חיים ופרטים נוספים:\n🪀ווטסאפ https://wa.me/+972528307431?text=%D7%A9%D7%9C%D7%95%D7%9D,+%D7%9E%D7%A6%D7%95%D7%A8%D7%A3+%D7%94%D7%A7%D7%95''%D7%97+%D7%A9%D7%9C%D7%99\n\n📧 מייל: yossi@kgo.co.il\n(פניות מתאימות בלבד ייענו)",
-   "views": 119,
+   "views": 120,
    "forwarded_from": null,
    "media": [
     {
