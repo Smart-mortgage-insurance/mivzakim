@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:07:50.243044+00:00",
+ "updated": "2026-11-21T16:09:33.174976+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,55 @@
  "count": 351,
  "items": [
   {
+   "id": "p6a4c0176cc15",
+   "post": "ramreports/218002",
+   "ts": "2026-11-21T16:07:28+00:00",
+   "text": "בית הוצת במחנה הפליטים שועפט בעקבות רצח הילד ממשפחת ג'ולאני.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/0de5bc1ef2e0160f.mp4"
+    },
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/0de5bc1ef2e0160f.mp4"
+    }
+   ]
+  },
+  {
+   "id": "pe9fa4fe3fdcd",
+   "post": "merkaz/301751",
+   "ts": "2026-11-21T16:07:15+00:00",
+   "text": "דיווחים בעזה: 3 עובדים בארגון \"המטבח המרכזי העולמי\" נהרגו בתקיפה ברצועה. בצה\"ל מתחקרים את האירוע.",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p52dde68109da",
+   "post": "behadrey/108177",
+   "ts": "2026-11-21T16:07:02+00:00",
+   "text": "אירוע חריג > בית שמש: נער בן 13 נפל מגובה של 7 מטרים - מצבו קשה",
+   "views": 8,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/fb12ac809e700b00.jpg"
+    }
+   ]
+  },
+  {
    "id": "p93408bb3bd23",
    "post": "haskupim/203571",
    "ts": "2026-11-21T16:06:45+00:00",
    "text": "חדשות הסקופים\nבחור חרדי תועד מכה מפגין נגד האינטרנט והסרטים | בחור חרדי נראה מכה בחור שהפגין נגד האינטרנט והסרטים. התיעוד מצורף בווידאו.\nמוטבע",
-   "views": 1,
+   "views": 14,
    "forwarded_from": null,
    "media": [
     {
@@ -178,7 +222,7 @@
    "post": "haskupim/203570",
    "ts": "2026-11-21T16:04:59+00:00",
    "text": "חדשות הסקופים\nהפיצוץ הבא בין בן גביר למפכ״ל? | גם אחרי הבחירות השר מסרב לחתום על מינויים במשטרה, ובינתיים דני לוי נערך לסבב שיבוצים נוסף.\nלי עייש",
-   "views": 16,
+   "views": 20,
    "forwarded_from": null,
    "media": []
   },
@@ -187,7 +231,7 @@
    "post": "haskupim/203569",
    "ts": "2026-11-21T16:04:41+00:00",
    "text": "חדשות הסקופים\nגוש הבגידה? | אל\"מ במילואים רונן כהן: \"אם גוש הבגידה יקים ממשלה יחד עם האויבים הפלסטינים בכנסת - החלון הישראלי לתקיפה באיראן ייסגר\"",
-   "views": 20,
+   "views": 26,
    "forwarded_from": null,
    "media": [
     {
@@ -202,7 +246,7 @@
    "post": "Moshepargod/77345",
    "ts": "2026-11-21T16:03:56+00:00",
    "text": "הפרגוד: אסון במהלך השבת בבית שמש: נער נפל מסככה בחצר 'חיידר' נעול – ומצבו קשה נער חרדי כבן 13 נפצע באורח קשה לאחר שנפל מסככה מגובה של כ-7 מטרים בחצר מוסד חינוכי ברחוב נחל שורק ברמת בית שמש. הנער שיחק במקום בשבת בצהריים יחד עם חבריו, לאחר שנכנסו למתחם ה'חיידר'…",
-   "views": 125,
+   "views": 216,
    "forwarded_from": null,
    "media": []
   },
@@ -211,7 +255,7 @@
    "post": "merkaz/301749",
    "ts": "2026-11-21T16:03:46+00:00",
    "text": "דפנה ליאל: ראשי גוש השינוי צפויים לסכם על דד ליין למגעים המתנהלים מול החרדים והליכוד שאחריו יחליטו כיצד לפעול. זאת כדי להימנע מלחץ של הרגע האחרון אם נתניהו יראה שעומדת לקום ממשלה אחרת. כזכור איזנקוט הודיע אתמול שבכוונתו להמשיך במגעים בזמן הקרוב אך להשביע ממשלה עוד תום תקופת המנדט (6.12)",
-   "views": 14,
+   "views": 44,
    "forwarded_from": null,
    "media": []
   },
@@ -229,7 +273,7 @@
    "post": "HiTech_Jobs_In_Israel/139282",
    "ts": "2026-11-21T16:00:01+00:00",
    "text": "Sr. Staff Backend Engineer at Zscaler\nLocation: Tel Aviv-Yafo Municipality, ISR\nPress here https://job-boards.greenhouse.io/zscaler/jobs/5177377007?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 24,
+   "views": 26,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -263,7 +307,7 @@
    "post": "behadrey/108176",
    "ts": "2026-11-21T15:58:02+00:00",
    "text": "לקראת עימות נוסף? > טראמפ מזהיר את טהרן: \"לעולם לא יהיה לכם נשק גרעיני\" - בישראל נערכים לאיום בלתי קונבנציונלי",
-   "views": 9,
+   "views": 13,
    "forwarded_from": null,
    "media": [
     {
@@ -278,7 +322,7 @@
    "post": "ramreports/218001",
    "ts": "2026-11-21T15:57:04+00:00",
    "text": "*תרגיל צבאי בדרום הארץ: כוחות הביטחון יתרגלו תרחישי הגנה בפיקוד הדרום בימים הקרובים*\n\nתרגיל \"מגן וסער\" של כוחות הביטחון בהובלת פיקוד דרום, יחל מחר בדרום הארץ, תורגש תנועה ערה של כוחות הביטחון וכלי שיט באיזור.\n\nבמהלך התרגיל יתרגלו הכוחות מגוון תרחישים הכוללים מתקפת פתע וחדירה לשטח מדינת ישראל - באוויר, בים וביבשה. בתרגיל תבחן הגנת היישובים, המאמצים הרב זרועיים והטמעת לקחי המלחמה.\n\nכמו כן, יתורגל שיתוף הפעולה הרב-זרועי בין הכוחות הקרקעיים לחיל האוויר וכוחות חיל הים, ושיתוף הפעולה הבין-ארגוני, עם כוחות משטרת ישראל, מגן דוד אדום וכבאות והצלה לישראל.\n\nתרגיל זה הינו חלק מתהליך מתמשך של חיזוק הכשירות והמוכנות, ובמסגרתו נבחנים גם לקחים שהופקו מהלחימה ומהאירועים הביטחוניים בשנים האחרונות. התרגילים מאפשרים לבחון באופן סדור ומעמיק את המענה למגוון תרחישים, למען ביטחון תושבי האזור.\n\nתרגיל זה נקבע מראש כחלק מגרף התרגילים של אגף המבצעים לשנת 2026.",
-   "views": 1940,
+   "views": 2240,
    "forwarded_from": null,
    "media": []
   },
@@ -360,7 +404,7 @@
    "post": "amitsegal/67415",
    "ts": "2026-11-20T13:32:39+00:00",
    "text": "לא אמרח זמן\nבעיתוי הנכון\n\nהמנדט נגמר עוד 16 יום, והוא נותן להבין שיביא ממשלת 48 לפני תום המועד",
-   "views": 86900,
+   "views": 87200,
    "forwarded_from": null,
    "media": []
   },
@@ -369,7 +413,7 @@
    "post": "haskupim/203559",
    "ts": "2026-11-20T13:32:08+00:00",
    "text": "",
-   "views": 139,
+   "views": 140,
    "forwarded_from": null,
    "media": [
     {
@@ -411,7 +455,7 @@
    "post": "behadrey/108172",
    "ts": "2026-11-20T13:22:44+00:00",
    "text": "לקראת סבב שלישי > דיווח: ישראל וארה\"ב שוקלות מתקפה באיראן בתוך ימים",
-   "views": 111,
+   "views": 112,
    "forwarded_from": null,
    "media": [
     {
@@ -442,7 +486,7 @@
    "post": "haskupim/203557",
    "ts": "2026-11-20T13:19:28+00:00",
    "text": "חדשות הסקופים\nבמפלגות הערביות נגד מהלכי בנט | במפלגות הערביות טוענים שהתנהלות בנט מעכבת את הקמת ממשלת השינוי ומעניקה לנתניהו זמן לתמרונים פוליטיים.\nנסרין אברהים אבו גוש (כאן 11)",
-   "views": 133,
+   "views": 135,
    "forwarded_from": null,
    "media": [
     {
@@ -700,7 +744,7 @@
    "post": "behadrey/108171",
    "ts": "2026-11-20T12:37:36+00:00",
    "text": "המצוד נמשך > חיסולים מהאוויר בעזה: שני מפקדי נוח'בה ומחבל שפשט לישראל",
-   "views": 125,
+   "views": 126,
    "forwarded_from": null,
    "media": [
     {
@@ -1422,7 +1466,7 @@
    "post": "behadrey/108167",
    "ts": "2026-11-20T10:33:57+00:00",
    "text": "ברוך דיין האמת > בגיל 93: הלך לעולמו רבי יעקב קאפל רייניץ זצ\"ל ממהדירי 'בעל הטורים'",
-   "views": 132,
+   "views": 133,
    "forwarded_from": null,
    "media": [
     {
@@ -1468,7 +1512,7 @@
    "post": "behadrey/108166",
    "ts": "2026-11-20T10:27:24+00:00",
    "text": "פרשת ויצא > שבת אופרוף בשמחת בית זוועהיל - קוידינוב | כל אירועי וזמני השבת",
-   "views": 122,
+   "views": 123,
    "forwarded_from": null,
    "media": [
     {
@@ -1509,21 +1553,6 @@
    ]
   },
   {
-   "id": "p016d0eae6e8a",
-   "post": "merkaz/301719",
-   "ts": "2026-11-20T10:07:42+00:00",
-   "text": "חצי יממה אחרי ההתפרעויות בבית שמש - איזנקוט מגנה. הוא לא מכליל את כל החרדים. \"חרדים קיצוניים\".",
-   "views": 366,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/926d3e00d1d5d245.jpg"
-    }
-   ]
-  },
-  {
    "id": "p33245d79e87b",
    "post": "iBuyIL/28136",
    "ts": "2026-11-20T10:04:48+00:00",
@@ -1544,7 +1573,7 @@
    "post": "HiTech_Jobs_In_Israel/139277",
    "ts": "2026-11-20T10:00:03+00:00",
    "text": "Full Stack Engineer — AI Agents & Channels at Navan\nLocation: Tel-Aviv, Israel\nPress here https://navan.com/careers/openings?gh_jid=8397309&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 289,
+   "views": 292,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1896,21 +1925,6 @@
    ]
   },
   {
-   "id": "p6bfc1288f802",
-   "post": "ramreports/217891",
-   "ts": "2026-11-20T07:55:49+00:00",
-   "text": "לפני זמן קצר מטוסי קרב ישראליים ביצעו תקיפה אווירית נגד העיירה כפר תבנית בדרום לבנון",
-   "views": 9790,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/3a9be93033507c64.jpg"
-    }
-   ]
-  },
-  {
    "id": "p9458e26c089d",
    "post": "abualiexpress/133937",
    "ts": "2026-11-20T07:52:18+00:00",
@@ -2022,7 +2036,7 @@
    "post": "amitsegal/67411",
    "ts": "2026-11-20T07:04:23+00:00",
    "text": "כדי להבין את נפש החרדים במשא ומתן, צריך להכיר שני עקרונות חשובים, שברורים לכל חרדי אך פחות מוכרים בציבור הכללי. הבנתם תסייע להעריך לאן פני הדברים הולכים, והאם החרדים ישברו את הברית ארוכת השנים שלהם עם הימין. עד כמה היא ארוכה? מאז 1990, אז נקבע העיקרון של הרב שך, שתרגומו הפוליטי הוא: נלך עם השמאל רק אם כבר יש לו רוב; לא נייצר עבורו קואליציה מיוזמתנו.\n\nהכלל הראשון הוא ״ברי ושמא״, או בעברית: ודאי מול ספק. מישהו אחד טוען – הלווית לי מאה שקל. השני אומר – יכול להיות, אבל אני לא משוכנע.\n\nבחסידות גור סבורים שיש דבר אחד ודאי, והוא שאצל נתניהו הם לא יקבלו דבר. אין זה משנה אם בגלל מערכת המשפט, או שהוא מבטיח ולא מקיים. ארבע שנים הספיקו כדי להחדיר להם ודאות בעניין הזה. לעומת זאת, אצל ליברמן ואיזנקוט יש סיכוי: שהייעוץ המשפטי יתיישר, שבג״צ יידום, שהתקשורת תמשיך בשתיקתה המביכה בנושא כשפתאום אין חוק השתמטות, אין עצומות בעלוני השבת הסרוגים ואין טורים נוקבים על מצוקת המילואימניקים. האם זה ודאי? לא. אבל זה עדיף. החלופה היא הידרדרות לעוד בחירות שבמהלכן המעצרים נמשכים, ואז במקרה הטוב עוד ממשלת נתניהו שבה לא יוכלו לעשות דבר.\n\nדרעי, לעומת זאת, אוחז במקום אחר, מהלכות תשובה ברמב״ם. ״איזו היא תשובה גמורה? שבא לידו דבר שעבר בו, ואפשר בידו לעשות – ולא עשה״. אדם אוכל צ׳יזבורגר במקדונלדס, כי טעים לו. חלפה שנה, הוא נקלע שוב לאותו סניף, שוב מציעים לו – והפעם הוא מסרב. דרעי מלקה עצמו שנים על כניסתו לממשלת רבין על אף פסיקתו המפורשת של הרב שך. ערב כניסתו לכלא, מול רבבות, בשנת 2000, הוא ביקש בדמעות את סליחת הרב. והנה, נקרתה בפניו שוב אותה סיטואציה: שוב ש״ס עם שישה מנדטים, שוב למחנה השני יש רוב עם הערבים אבל ש״ס מעניקה לו את הרוב היהודי. שוב מציעים שם לקפל את הדגלים של דת ומדינה, רק לפרק את הברית עם הימין. ריח הצ׳יזבורגר באוויר, אבל דרעי בינתיים נשאר בחוץ, מסרב לכל ההצעות להיכנס ולהתכבד.\n\nלטור המלא",
-   "views": 95600,
+   "views": 95900,
    "forwarded_from": null,
    "media": [
     {
@@ -2085,7 +2099,7 @@
    "post": "HiTech_Jobs_In_Israel/139276",
    "ts": "2026-11-20T06:00:02+00:00",
    "text": "Data Science Manager at Sett\nLocation: Tel Aviv Office\nPress here https://www.comeet.com/jobs/sett/4A.00B/data-science-manager/68.57D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 279,
+   "views": 280,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2172,7 +2186,7 @@
    "post": "behadrey/108163",
    "ts": "2026-11-19T20:36:58+00:00",
    "text": "החשש הביטחוני > זיני וסגנו מודאגים: הערבים מנסים להשתלט על ערים יהודיות",
-   "views": 174,
+   "views": 175,
    "forwarded_from": null,
    "media": [
     {
@@ -2313,7 +2327,7 @@
    "post": "behadrey/108161",
    "ts": "2026-11-19T19:20:24+00:00",
    "text": "השעון המדיני > טראמפ מסמן תאריך להחלטה על תקיפה באיראן: \"נראה מה יקרה\"",
-   "views": 160,
+   "views": 161,
    "forwarded_from": null,
    "media": [
     {
@@ -2451,7 +2465,7 @@
    "post": "HiTech_Jobs_In_Israel/139275",
    "ts": "2026-11-19T18:00:21+00:00",
    "text": "Senior SerDes Characterization Engineer at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10609366/senior-serdes-characterization-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 305,
+   "views": 306,
    "forwarded_from": null,
    "media": [
     {
@@ -2467,7 +2481,7 @@
    "post": "HiTech_Jobs_In_Israel/139273",
    "ts": "2026-11-19T18:00:19+00:00",
    "text": "Full Stack Team Lead (Armis/Veza) at ServiceNow\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/ServiceNow/744000162561432?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 234,
+   "views": 236,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2477,7 +2491,7 @@
    "post": "HiTech_Jobs_In_Israel/139274",
    "ts": "2026-11-19T18:00:19+00:00",
    "text": "Sr Staff Software Engineer - infrastructure team (Veza/Armis) at ServiceNow\nLocation: Tel Aviv-Yafo\nPress here https://www.smartrecruiters.com/ServiceNow/744000162555396?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 269,
+   "views": 270,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2487,7 +2501,7 @@
    "post": "HiTech_Jobs_In_Israel/139272",
    "ts": "2026-11-19T18:00:12+00:00",
    "text": "Software Engineer at Genesys\nLocation: Tel Aviv, Israel\nPress here https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tel-Aviv-Israel/Software-Engineer_JR113070-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 242,
+   "views": 243,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2497,7 +2511,7 @@
    "post": "HiTech_Jobs_In_Israel/139271",
    "ts": "2026-11-19T18:00:09+00:00",
    "text": "Brand Designer Lead at Wiz, Inc.\nLocation: Tel Aviv\nPress here https://www.wiz.io/careers/job/4621708006/:title?gh_jid=4621708006&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 219,
+   "views": 221,
    "forwarded_from": null,
    "media": [
     {
@@ -2529,7 +2543,7 @@
    "post": "HiTech_Jobs_In_Israel/139270",
    "ts": "2026-11-19T18:00:01+00:00",
    "text": "AI Labs Operations Lead at ActiveFence\nLocation: Ramat Gan, IL\nPress here https://alice.io/positions/position-28_577?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 206,
+   "views": 207,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2539,7 +2553,7 @@
    "post": "Jobs_in_Jerusalem/36517",
    "ts": "2026-11-19T17:58:24+00:00",
    "text": "",
-   "views": 264,
+   "views": 265,
    "forwarded_from": null,
    "media": [
     {
@@ -2733,7 +2747,7 @@
    "post": "HiTech_Jobs_In_Israel/139268",
    "ts": "2026-11-19T16:00:10+00:00",
    "text": "Executive Assistant, CTO & Product at Wiz, Inc.\nLocation: Tel Aviv\nPress here https://www.wiz.io/careers/job/4721409006/:title?gh_jid=4721409006&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 186,
+   "views": 187,
    "forwarded_from": null,
    "media": [
     {
@@ -3273,21 +3287,6 @@
     }
    ],
    "kind": "jobs"
-  },
-  {
-   "id": "pff0316629a7b",
-   "post": "behadrey/108154",
-   "ts": "2026-11-18T21:09:21+00:00",
-   "text": "הפגנה אלימה > במחאה נגד הרכבת הקלה: קיצוניים חסמו את רכבו של פרוש",
-   "views": 233,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/10e25aa6b681cacd.jpg"
-    }
-   ]
   },
   {
    "id": "p54b3fc1372e6",
@@ -4622,7 +4621,7 @@
    "post": "Israel_media_industry/3888",
    "ts": "2026-11-11T06:12:30+00:00",
    "text": "מערכת C14 מגייסת עורכים/ות לדסק החדשות!\n\nאנחנו מחפשים אנשי חדשות שחיים אקטואליה, יודעים לזהות סיפור, לנסח כותרת ולעבוד מהר ומדויק בסביבה חדשותית דינמית.\n\nדרישות:\n\n• היכרות מעמיקה עם סדר היום החדשותי\n• יכולת כתיבה ועריכה ברמה גבוהה\n• זריזות, אחריות ויכולת עבודה תחת לחץ\n• ניסיון קודם בתקשורת – יתרון\n\nהעבודה במשמרות בדסק החדשות של C14.\n\nחושבים שאתם מתאימים? שלחו קורות חיים ופרטים ליצירת קשר.\n\nitzhaka@now14.co.il",
-   "views": 636,
+   "views": 637,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
