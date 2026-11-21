@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:04:25.939911+00:00",
+ "updated": "2026-11-21T16:06:06.875426+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -131,14 +131,56 @@
    "kind": "deals"
   }
  },
- "count": 350,
+ "count": 351,
  "items": [
+  {
+   "id": "p59d4fafc3072",
+   "post": "haskupim/203570",
+   "ts": "2026-11-21T16:04:59+00:00",
+   "text": "חדשות הסקופים\nהפיצוץ הבא בין בן גביר למפכ״ל? | גם אחרי הבחירות השר מסרב לחתום על מינויים במשטרה, ובינתיים דני לוי נערך לסבב שיבוצים נוסף.\nלי עייש",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p9ad40c2ee51d",
+   "post": "haskupim/203569",
+   "ts": "2026-11-21T16:04:41+00:00",
+   "text": "חדשות הסקופים\nגוש הבגידה? | אל\"מ במילואים רונן כהן: \"אם גוש הבגידה יקים ממשלה יחד עם האויבים הפלסטינים בכנסת - החלון הישראלי לתקיפה באיראן ייסגר\"",
+   "views": 1,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "video",
+     "checked": 1,
+     "file": "data/media/e415d77f2ceb3201.mp4"
+    }
+   ]
+  },
+  {
+   "id": "p9f32e07428d3",
+   "post": "Moshepargod/77345",
+   "ts": "2026-11-21T16:03:56+00:00",
+   "text": "הפרגוד: אסון במהלך השבת בבית שמש: נער נפל מסככה בחצר 'חיידר' נעול – ומצבו קשה נער חרדי כבן 13 נפצע באורח קשה לאחר שנפל מסככה מגובה של כ-7 מטרים בחצר מוסד חינוכי ברחוב נחל שורק ברמת בית שמש. הנער שיחק במקום בשבת בצהריים יחד עם חבריו, לאחר שנכנסו למתחם ה'חיידר'…",
+   "views": 1,
+   "forwarded_from": null,
+   "media": []
+  },
+  {
+   "id": "p478f5c94eb10",
+   "post": "merkaz/301749",
+   "ts": "2026-11-21T16:03:46+00:00",
+   "text": "דפנה ליאל: ראשי גוש השינוי צפויים לסכם על דד ליין למגעים המתנהלים מול החרדים והליכוד שאחריו יחליטו כיצד לפעול. זאת כדי להימנע מלחץ של הרגע האחרון אם נתניהו יראה שעומדת לקום ממשלה אחרת. כזכור איזנקוט הודיע אתמול שבכוונתו להמשיך במגעים בזמן הקרוב אך להשביע ממשלה עוד תום תקופת המנדט (6.12)",
+   "views": 11,
+   "forwarded_from": null,
+   "media": []
+  },
   {
    "id": "p479c6d62a4fc",
    "post": "merkaz/301748",
    "ts": "2026-11-21T16:01:56+00:00",
    "text": "ילד בן 13 נפצע באורח קשה לאחר שנפל מגובה במהלך השבת בגינה ציבורית ברחוב נחל שורק בבית שמש. בני משפחתו מבקשים מהציבור להתפלל לרפואת הנער שלום דובער בן חנה לאה, לרפואה שלמה בתוך שאר חולי ישראל.",
-   "views": 18,
+   "views": 32,
    "forwarded_from": null,
    "media": []
   },
@@ -147,7 +189,7 @@
    "post": "HiTech_Jobs_In_Israel/139282",
    "ts": "2026-11-21T16:00:01+00:00",
    "text": "Sr. Staff Backend Engineer at Zscaler\nLocation: Tel Aviv-Yafo Municipality, ISR\nPress here https://job-boards.greenhouse.io/zscaler/jobs/5177377007?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 16,
+   "views": 20,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -157,7 +199,7 @@
    "post": "merkaz/301747",
    "ts": "2026-11-21T16:00:01+00:00",
    "text": "צה\"ל: פיקוד הדרום יקיים מחר תרגיל, תורגש תנועה ערה של כוחות בשטח וכלי שיט.",
-   "views": 35,
+   "views": 44,
    "forwarded_from": null,
    "media": []
   },
@@ -181,7 +223,7 @@
    "post": "behadrey/108176",
    "ts": "2026-11-21T15:58:02+00:00",
    "text": "לקראת עימות נוסף? > טראמפ מזהיר את טהרן: \"לעולם לא יהיה לכם נשק גרעיני\" - בישראל נערכים לאיום בלתי קונבנציונלי",
-   "views": 7,
+   "views": 8,
    "forwarded_from": null,
    "media": [
     {
@@ -196,7 +238,7 @@
    "post": "ramreports/218001",
    "ts": "2026-11-21T15:57:04+00:00",
    "text": "*תרגיל צבאי בדרום הארץ: כוחות הביטחון יתרגלו תרחישי הגנה בפיקוד הדרום בימים הקרובים*\n\nתרגיל \"מגן וסער\" של כוחות הביטחון בהובלת פיקוד דרום, יחל מחר בדרום הארץ, תורגש תנועה ערה של כוחות הביטחון וכלי שיט באיזור.\n\nבמהלך התרגיל יתרגלו הכוחות מגוון תרחישים הכוללים מתקפת פתע וחדירה לשטח מדינת ישראל - באוויר, בים וביבשה. בתרגיל תבחן הגנת היישובים, המאמצים הרב זרועיים והטמעת לקחי המלחמה.\n\nכמו כן, יתורגל שיתוף הפעולה הרב-זרועי בין הכוחות הקרקעיים לחיל האוויר וכוחות חיל הים, ושיתוף הפעולה הבין-ארגוני, עם כוחות משטרת ישראל, מגן דוד אדום וכבאות והצלה לישראל.\n\nתרגיל זה הינו חלק מתהליך מתמשך של חיזוק הכשירות והמוכנות, ובמסגרתו נבחנים גם לקחים שהופקו מהלחימה ומהאירועים הביטחוניים בשנים האחרונות. התרגילים מאפשרים לבחון באופן סדור ומעמיק את המענה למגוון תרחישים, למען ביטחון תושבי האזור.\n\nתרגיל זה נקבע מראש כחלק מגרף התרגילים של אגף המבצעים לשנת 2026.",
-   "views": 1500,
+   "views": 1630,
    "forwarded_from": null,
    "media": []
   },
@@ -221,7 +263,7 @@
    "post": "merkaz/301734",
    "ts": "2026-11-20T13:47:20+00:00",
    "text": "🪔 וממהרים לבוא! 🪔\n\nזמני כניסת ויציאת השבת 🕠\nבאדיבות רשת 'יש חסד' - תמיד תצאו בזול",
-   "views": 374,
+   "views": 376,
    "forwarded_from": null,
    "media": [
     {
@@ -269,7 +311,7 @@
    "post": "merkaz/301733",
    "ts": "2026-11-20T13:33:59+00:00",
    "text": "עמית סגל על הפוסט של אייזנקוט: \"לא אמרח זמן\nבעיתוי הנכון\"- המנדט נגמר עוד 16 יום, והוא נותן להבין שיביא ממשלת 48 לפני תום המועד.",
-   "views": 376,
+   "views": 377,
    "forwarded_from": null,
    "media": []
   },
@@ -278,7 +320,7 @@
    "post": "amitsegal/67415",
    "ts": "2026-11-20T13:32:39+00:00",
    "text": "לא אמרח זמן\nבעיתוי הנכון\n\nהמנדט נגמר עוד 16 יום, והוא נותן להבין שיביא ממשלת 48 לפני תום המועד",
-   "views": 86300,
+   "views": 86600,
    "forwarded_from": null,
    "media": []
   },
@@ -320,7 +362,7 @@
    "post": "merkaz/301732",
    "ts": "2026-11-20T13:26:43+00:00",
    "text": "איזנקוט בפוסט כעת: אין בכוונתי למרוח זמן בעיתוי הנכון אביא לאישור הכנסת ממשלה חדשה וטובה (שמש).",
-   "views": 361,
+   "views": 362,
    "forwarded_from": null,
    "media": []
   },
@@ -329,7 +371,7 @@
    "post": "behadrey/108172",
    "ts": "2026-11-20T13:22:44+00:00",
    "text": "לקראת סבב שלישי > דיווח: ישראל וארה\"ב שוקלות מתקפה באיראן בתוך ימים",
-   "views": 110,
+   "views": 111,
    "forwarded_from": null,
    "media": [
     {
@@ -360,7 +402,7 @@
    "post": "haskupim/203557",
    "ts": "2026-11-20T13:19:28+00:00",
    "text": "חדשות הסקופים\nבמפלגות הערביות נגד מהלכי בנט | במפלגות הערביות טוענים שהתנהלות בנט מעכבת את הקמת ממשלת השינוי ומעניקה לנתניהו זמן לתמרונים פוליטיים.\nנסרין אברהים אבו גוש (כאן 11)",
-   "views": 132,
+   "views": 133,
    "forwarded_from": null,
    "media": [
     {
@@ -390,7 +432,7 @@
    "post": "merkaz/301731",
    "ts": "2026-11-20T13:14:56+00:00",
    "text": "כיתות הכוננות ביישובי עוטף עזה יצומצמו פעם נוספת החל מיום רביעי, כך הוחלט באוגדת עזה. במסגרת המהלך, יופחת מספר המשרתים בשלושה חברים נוספים בכל אחד מהיישובים הצמודים והסמוכים לגדר המערכת.",
-   "views": 374,
+   "views": 375,
    "forwarded_from": null,
    "media": []
   },
@@ -415,7 +457,7 @@
    "post": "merkaz/301730",
    "ts": "2026-11-20T13:10:20+00:00",
    "text": "צילומי לוויין חדשים חושפים כי איראן בונה מתחם תת-קרקעי חדש מצפון לאספהאן, ועל פי הערכה שפורסמה אתמול מדובר ככל הנראה בבסיס טילים. על סמך הצילומים נראה כי למתקן יהיו חמש כניסות למנהרות. עבודות הבנייה נמשכות, וניתן לזהות פעילות בפתחי המנהרות, בערמות חומרי החפירה ובאתר האחסון וייצור הבטון. ההערכה היא שעומק המנהרות עשוי להגיע ל-200-150 מטר מתחת לאדמה",
-   "views": 384,
+   "views": 385,
    "forwarded_from": null,
    "media": [
     {
@@ -430,7 +472,7 @@
    "post": "haskupim/203556",
    "ts": "2026-11-20T13:08:16+00:00",
    "text": "",
-   "views": 129,
+   "views": 130,
    "forwarded_from": null,
    "media": [
     {
@@ -618,7 +660,7 @@
    "post": "behadrey/108171",
    "ts": "2026-11-20T12:37:36+00:00",
    "text": "המצוד נמשך > חיסולים מהאוויר בעזה: שני מפקדי נוח'בה ומחבל שפשט לישראל",
-   "views": 124,
+   "views": 125,
    "forwarded_from": null,
    "media": [
     {
@@ -804,7 +846,7 @@
    "post": "behadrey/108170",
    "ts": "2026-11-20T12:01:23+00:00",
    "text": "אירוע היסטורי > מעמד חריג בגרמניה: ספר תורה הוכנס ללשכת ראש ממשלת סקסוניה",
-   "views": 125,
+   "views": 126,
    "forwarded_from": null,
    "media": [
     {
@@ -1015,7 +1057,7 @@
    "post": "behadrey/108169",
    "ts": "2026-11-20T11:35:51+00:00",
    "text": "לקראת הכרעה > נתניהו מזהיר מהקמת ממשלה עם הערבים: \"גורל ישראל מוטל על הכף\"",
-   "views": 122,
+   "views": 123,
    "forwarded_from": null,
    "media": [
     {
@@ -1248,7 +1290,7 @@
    "post": "behadrey/108168",
    "ts": "2026-11-20T11:10:23+00:00",
    "text": "נקודת רתיחה > רכבת אווירית וחשש מ\"פצצה מלוכלכת\": מה באמת קורה מאחורי הקלעים מול איראן?",
-   "views": 108,
+   "views": 109,
    "forwarded_from": null,
    "media": [
     {
@@ -1274,29 +1316,11 @@
    ]
   },
   {
-   "id": "pd3a604e50235",
-   "post": "haskupim/203541",
-   "ts": "2026-11-20T11:00:54+00:00",
-   "text": "חדשות הסקופים\nראש עיריית הרצליה מנע חלוקת עיתון | יריב פישר פעל למנוע חלוקת \"עולם קטן\" בבתי הכנסת בעיר בעקבות שער ביקורתי נגד יו\"ר הכנסת.",
-   "views": 107,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
-   "id": "p6c06b719d458",
-   "post": "haskupim/203540",
-   "ts": "2026-11-20T10:59:57+00:00",
-   "text": "חדשות הסקופים\n\"הפסקנו לשתוק לאגד\": מפגינים בטירת כרמל - חסמו אוטובוסים של אגד בעקבות אלימות הפקחים באוטובוסים",
-   "views": 107,
-   "forwarded_from": null,
-   "media": []
-  },
-  {
    "id": "p4f45876793d8",
    "post": "SALAMTAK_DEALS/58846",
    "ts": "2026-11-20T10:59:15+00:00",
    "text": "מכונת שטיפה בלחץ Kärcher K3 Horizontal עד 120 בר\n\nלינק- https://salamtak.deals/archives/48586\n\nמערכת לחומרי ניקוי ואחסון על המכשיר\nתקע בריטי (צריך מתאם),\n\n--\nמבצעי בלאק פריידי באמזון בריטניה 🇬🇧: £78.65 ~ כ-₪340 בלבד, כולל משלוח עד הבית",
-   "views": 1530,
+   "views": 1540,
    "forwarded_from": null,
    "media": [
     {
@@ -1495,7 +1519,7 @@
    "post": "HiTech_Jobs_In_Israel/139277",
    "ts": "2026-11-20T10:00:03+00:00",
    "text": "Full Stack Engineer — AI Agents & Channels at Navan\nLocation: Tel-Aviv, Israel\nPress here https://navan.com/careers/openings?gh_jid=8397309&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 286,
+   "views": 289,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1629,15 +1653,6 @@
      "file": "data/media/845846adb2d3ad1a.jpg"
     }
    ]
-  },
-  {
-   "id": "pa95c6eff6b66",
-   "post": "merkaz/301717",
-   "ts": "2026-11-20T09:14:55+00:00",
-   "text": "מערכת \"קלע דוד\" עברה שדרוג דרמטי אחרי המלחמה עם איראן. גורם בחיל האוויר: \"ישראל מסוגלת להתמודד עם מגוון רחב יותר של איומים בליסטיים, גם לאורך שבועות\"",
-   "views": 1,
-   "forwarded_from": null,
-   "media": []
   },
   {
    "id": "p6cf4cf8f77c7",
@@ -2054,7 +2069,7 @@
    "post": "HiTech_Jobs_In_Israel/139276",
    "ts": "2026-11-20T06:00:02+00:00",
    "text": "Data Science Manager at Sett\nLocation: Tel Aviv Office\nPress here https://www.comeet.com/jobs/sett/4A.00B/data-science-manager/68.57D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 278,
+   "views": 279,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2181,7 +2196,7 @@
    "post": "amitsegal/67409",
    "ts": "2026-11-19T20:08:55+00:00",
    "text": "התוכנית של איזנקוט - שעלולה להתפוצץ לו בפנים | הטור של עמית סגל",
-   "views": 97400,
+   "views": 97700,
    "forwarded_from": "",
    "media": [
     {
@@ -2420,7 +2435,7 @@
    "post": "HiTech_Jobs_In_Israel/139275",
    "ts": "2026-11-19T18:00:21+00:00",
    "text": "Senior SerDes Characterization Engineer at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10609366/senior-serdes-characterization-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 304,
+   "views": 305,
    "forwarded_from": null,
    "media": [
     {
@@ -2436,7 +2451,7 @@
    "post": "HiTech_Jobs_In_Israel/139273",
    "ts": "2026-11-19T18:00:19+00:00",
    "text": "Full Stack Team Lead (Armis/Veza) at ServiceNow\nLocation: Tel Aviv\nPress here https://www.smartrecruiters.com/ServiceNow/744000162561432?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 233,
+   "views": 234,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2446,7 +2461,7 @@
    "post": "HiTech_Jobs_In_Israel/139274",
    "ts": "2026-11-19T18:00:19+00:00",
    "text": "Sr Staff Software Engineer - infrastructure team (Veza/Armis) at ServiceNow\nLocation: Tel Aviv-Yafo\nPress here https://www.smartrecruiters.com/ServiceNow/744000162555396?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 268,
+   "views": 269,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2674,7 +2689,7 @@
    "post": "amitsegal/67404",
    "ts": "2026-11-19T16:17:31+00:00",
    "text": "ראש הממשלה לשעבר יאיר לפיד:\n\nזה יהיה מעשה של טירוף וסיכון לעם ישראל אם לא נעיף את נתניהו מהלשכה בהקדם האפשרי ונקים ממשלה שתתן לעם ישראל בטחון ותעצור את המשבר המדיני הנורא בתולדותינו.",
-   "views": 95600,
+   "views": 95900,
    "forwarded_from": null,
    "media": []
   },
@@ -2754,7 +2769,7 @@
    "post": "HiTech_Jobs_In_Israel/139264",
    "ts": "2026-11-19T16:00:01+00:00",
    "text": "Control Systems Engineer at CodeValue\nLocation: Modi'in\nPress here https://www.comeet.com/jobs/codevalue/81.009/control-systems-engineer/08.578?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 190,
+   "views": 191,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2878,7 +2893,7 @@
    "post": "HiTech_Jobs_In_Israel/139263",
    "ts": "2026-11-19T14:00:13+00:00",
    "text": "Software Engineer, Chip Design at NVIDIA\nLocation: 2 Locations\nPress here https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Chip-Design_JR2030081?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 234,
+   "views": 235,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2965,7 +2980,7 @@
    "post": "SALAMTAK_DEALS/58842",
    "ts": "2026-11-19T13:15:47+00:00",
    "text": "מבצעי בלאק פריידי באמזון ארה״ב\nעכבר גיימינג אלחוטי Razer DeathAdder V3 Pro במשקל 63 גרם\n\nלינק- https://salamtak.deals/archives/50145\n\nחיישן Focus Pro 30K ומתגים אופטיים\nעד 90 שעות סוללה\nנמכר ונשלח ע״י אמזון\n\nבארץ הוא עולה מ-₪393\n\n--\nמבצעי בלאק פריידי באמזון ארה״ב 🇺🇸: $59.99 ~ כ-₪196 בלבד, כולל משלוח עד הבית",
-   "views": 1840,
+   "views": 1850,
    "forwarded_from": null,
    "media": [
     {
@@ -3988,7 +4003,7 @@
    "post": "ILcoupons/5984",
    "ts": "2026-11-13T12:28:53+00:00",
    "text": "👷‍♂️ קבלנים ובעלי מקצוע, מכירים את זה שיום העבודה שלכם עמוס וגדוש בעבודה ואין לכם דקה לגשת לקנות אוכל מזין, שלא לדבר על לשבת מסודר ולאכול אותו ?!\n\nאז במקום לרעוב בעבודה ואז לנשנש אוכל מזיק, קחו עמכם בארגז או תיק כלי העבודה, חטיף פרצעל (בייגלה) עשיר בטירוף בחלבון וסיבים תזונתיים לגיבוי, שיתמוך בתזונה, שרירים ושובע שלכם מבלי לחפש רחוק... בלי צידנית ובעלות נמוכה למנה !\n\n🥨 קבלו את חטיף הבייגלה חלבון מועשר בסיבים הכולל 10 י״ח במארז ב-4 טעמים מדהימים מבית Protein Pretzels Crisp Power😋\n\n💰 מחיר למארז 10 יחידות: רק 79.57₪\n💰 במילים אחרות, רק 7.96₪~ לחטיף\n✂️ קוד קופון בלעדי: DLZCP\n🛍 קישור להזמנה:\nhttps://dlz.co.il/6-protein-pretzels-crisp-power/\n\nאיסוף עצמי מרחובות או משלוחים מהירים ומוזלים לכל הארץ!\n\nהמוצר כשר פרווה, טבעוני, יחסית ידידותי לדיאטה קטוגנית (6 גרם פחמימה השקית) וללא תוספת סוכר כלל!\n\nhttps://www.facebook.com/share/p/1MgdFYXWrh/",
-   "views": 2040,
+   "views": 2050,
    "forwarded_from": null,
    "media": [
     {
