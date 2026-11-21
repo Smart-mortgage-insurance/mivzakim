@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:09:33.174976+00:00",
+ "updated": "2026-11-21T16:11:14.054606+00:00",
  "channels": {
   "jobsHOTjobss": {
    "title": "משרות חמות",
@@ -134,11 +134,26 @@
  "count": 351,
  "items": [
   {
+   "id": "p2e710b9c22f6",
+   "post": "RealKikarHashabat/12063",
+   "ts": "2026-11-21T16:09:28+00:00",
+   "text": "נכנס למתחם הסגור - קרעו שערי שמים: נער חרדי בן 13 נפל מגג גבוה במהלך השבת, מצבו קשה",
+   "views": 3,
+   "forwarded_from": null,
+   "media": [
+    {
+     "type": "image",
+     "checked": 1,
+     "file": "data/media/63e2ce67381d071b.jpg"
+    }
+   ]
+  },
+  {
    "id": "p6a4c0176cc15",
    "post": "ramreports/218002",
    "ts": "2026-11-21T16:07:28+00:00",
    "text": "בית הוצת במחנה הפליטים שועפט בעקבות רצח הילד ממשפחת ג'ולאני.",
-   "views": 1,
+   "views": 619,
    "forwarded_from": null,
    "media": [
     {
@@ -158,7 +173,7 @@
    "post": "merkaz/301751",
    "ts": "2026-11-21T16:07:15+00:00",
    "text": "דיווחים בעזה: 3 עובדים בארגון \"המטבח המרכזי העולמי\" נהרגו בתקיפה ברצועה. בצה\"ל מתחקרים את האירוע.",
-   "views": 1,
+   "views": 3,
    "forwarded_from": null,
    "media": []
   },
@@ -167,7 +182,7 @@
    "post": "behadrey/108177",
    "ts": "2026-11-21T16:07:02+00:00",
    "text": "אירוע חריג > בית שמש: נער בן 13 נפל מגובה של 7 מטרים - מצבו קשה",
-   "views": 8,
+   "views": 13,
    "forwarded_from": null,
    "media": [
     {
@@ -182,7 +197,7 @@
    "post": "haskupim/203571",
    "ts": "2026-11-21T16:06:45+00:00",
    "text": "חדשות הסקופים\nבחור חרדי תועד מכה מפגין נגד האינטרנט והסרטים | בחור חרדי נראה מכה בחור שהפגין נגד האינטרנט והסרטים. התיעוד מצורף בווידאו.\nמוטבע",
-   "views": 14,
+   "views": 16,
    "forwarded_from": null,
    "media": [
     {
@@ -202,7 +217,7 @@
    "post": "merkaz/301750",
    "ts": "2026-11-21T16:05:29+00:00",
    "text": "חזית אחרת: נשיא סומליה מניח את אבן היסוד לבסיס חיל הים המשותף הטורקי-סומלי לחופי הים האדום ומצרי באב אל-מנדב. אירוע בעייתי לישראל. (עמיחי שטיין)",
-   "views": 2,
+   "views": 32,
    "forwarded_from": null,
    "media": [
     {
@@ -231,7 +246,7 @@
    "post": "haskupim/203569",
    "ts": "2026-11-21T16:04:41+00:00",
    "text": "חדשות הסקופים\nגוש הבגידה? | אל\"מ במילואים רונן כהן: \"אם גוש הבגידה יקים ממשלה יחד עם האויבים הפלסטינים בכנסת - החלון הישראלי לתקיפה באיראן ייסגר\"",
-   "views": 26,
+   "views": 29,
    "forwarded_from": null,
    "media": [
     {
@@ -246,7 +261,7 @@
    "post": "Moshepargod/77345",
    "ts": "2026-11-21T16:03:56+00:00",
    "text": "הפרגוד: אסון במהלך השבת בבית שמש: נער נפל מסככה בחצר 'חיידר' נעול – ומצבו קשה נער חרדי כבן 13 נפצע באורח קשה לאחר שנפל מסככה מגובה של כ-7 מטרים בחצר מוסד חינוכי ברחוב נחל שורק ברמת בית שמש. הנער שיחק במקום בשבת בצהריים יחד עם חבריו, לאחר שנכנסו למתחם ה'חיידר'…",
-   "views": 216,
+   "views": 278,
    "forwarded_from": null,
    "media": []
   },
@@ -264,7 +279,7 @@
    "post": "merkaz/301748",
    "ts": "2026-11-21T16:01:56+00:00",
    "text": "ילד בן 13 נפצע באורח קשה לאחר שנפל מגובה במהלך השבת בגינה ציבורית ברחוב נחל שורק בבית שמש. בני משפחתו מבקשים מהציבור להתפלל לרפואת הנער שלום דובער בן חנה לאה, לרפואה שלמה בתוך שאר חולי ישראל.",
-   "views": 34,
+   "views": 65,
    "forwarded_from": null,
    "media": []
   },
@@ -273,7 +288,7 @@
    "post": "HiTech_Jobs_In_Israel/139282",
    "ts": "2026-11-21T16:00:01+00:00",
    "text": "Sr. Staff Backend Engineer at Zscaler\nLocation: Tel Aviv-Yafo Municipality, ISR\nPress here https://job-boards.greenhouse.io/zscaler/jobs/5177377007?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 26,
+   "views": 30,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -283,7 +298,7 @@
    "post": "merkaz/301747",
    "ts": "2026-11-21T16:00:01+00:00",
    "text": "צה\"ל: פיקוד הדרום יקיים מחר תרגיל, תורגש תנועה ערה של כוחות בשטח וכלי שיט.",
-   "views": 46,
+   "views": 76,
    "forwarded_from": null,
    "media": []
   },
@@ -292,7 +307,7 @@
    "post": "RealKikarHashabat/12062",
    "ts": "2026-11-21T15:59:42+00:00",
    "text": "אחרי פסילת הגר\"ד לנדו - פרסום ראשון: ב'יהדות התורה' נערכים לקבל מתווה גיוס חדש של גדי איזנקוט",
-   "views": 2,
+   "views": 4,
    "forwarded_from": null,
    "media": [
     {
@@ -307,7 +322,7 @@
    "post": "behadrey/108176",
    "ts": "2026-11-21T15:58:02+00:00",
    "text": "לקראת עימות נוסף? > טראמפ מזהיר את טהרן: \"לעולם לא יהיה לכם נשק גרעיני\" - בישראל נערכים לאיום בלתי קונבנציונלי",
-   "views": 13,
+   "views": 18,
    "forwarded_from": null,
    "media": [
     {
@@ -322,7 +337,7 @@
    "post": "ramreports/218001",
    "ts": "2026-11-21T15:57:04+00:00",
    "text": "*תרגיל צבאי בדרום הארץ: כוחות הביטחון יתרגלו תרחישי הגנה בפיקוד הדרום בימים הקרובים*\n\nתרגיל \"מגן וסער\" של כוחות הביטחון בהובלת פיקוד דרום, יחל מחר בדרום הארץ, תורגש תנועה ערה של כוחות הביטחון וכלי שיט באיזור.\n\nבמהלך התרגיל יתרגלו הכוחות מגוון תרחישים הכוללים מתקפת פתע וחדירה לשטח מדינת ישראל - באוויר, בים וביבשה. בתרגיל תבחן הגנת היישובים, המאמצים הרב זרועיים והטמעת לקחי המלחמה.\n\nכמו כן, יתורגל שיתוף הפעולה הרב-זרועי בין הכוחות הקרקעיים לחיל האוויר וכוחות חיל הים, ושיתוף הפעולה הבין-ארגוני, עם כוחות משטרת ישראל, מגן דוד אדום וכבאות והצלה לישראל.\n\nתרגיל זה הינו חלק מתהליך מתמשך של חיזוק הכשירות והמוכנות, ובמסגרתו נבחנים גם לקחים שהופקו מהלחימה ומהאירועים הביטחוניים בשנים האחרונות. התרגילים מאפשרים לבחון באופן סדור ומעמיק את המענה למגוון תרחישים, למען ביטחון תושבי האזור.\n\nתרגיל זה נקבע מראש כחלק מגרף התרגילים של אגף המבצעים לשנת 2026.",
-   "views": 2240,
+   "views": 2550,
    "forwarded_from": null,
    "media": []
   },
@@ -371,7 +386,7 @@
    "post": "RealKikarHashabat/12058",
    "ts": "2026-11-20T13:37:53+00:00",
    "text": "תזכורת: ברקע האפשרות הסבירה לחידוש המלחמה באיראן ופסגת ״שלושת הגדולים״- הנשיא טראמפ יקיים הערב מסיבת עיתונאים מאוחדת. (בן יניב)",
-   "views": 12,
+   "views": 13,
    "forwarded_from": null,
    "media": [
     {
@@ -437,7 +452,7 @@
    "post": "amitsegal/67414",
    "ts": "2026-11-20T13:28:09+00:00",
    "text": "איזנקוט:\nכל הצדדים צריכים להבין כי אין בכוונתי למרוח זמן. הם צריכים להבין שבעיתוי הנכון אביא ממשלה חדשה וטובה בראשותי לאישור הכנסת.\n\n*זהו לא איום למטרות משא ומתן, זו ההחלטה שקיבלתי מתוך הבנת האחריות והתפקיד שמוטלים עליי בעת חירום זו.*\n\nאם לא יבשילו הנסיונות הכנים אותם אני מוביל להקמת ממשלה רחבה, בכוונתי להקים ממשלת חירום לאומית - אותה אפעל להרחיב לפני השבעתה או לאחריה. *כל חברי הכנסת יהיו חייבים לציית לצו מצפונם ולקבל את ההחלטה האם תקום ממשלה חדשה, או האם הם נכונים לגרור את מדינת ישראל ואזרחיה לבחירות נוספות כשנתניהו עודנו ראש ממשלת מעבר.*\n\nההחלטות בפנינו לא פשוטות אבל נדרשות. לי ברורה הדרך שיש ללכת בה, מה עלינו לעשות כדי לקבל את ההחלטה הנכונה וגם את תחימת הזמן לביצועה.\nתהיה זו איוולת לחשוב שיש לנו את הפריווילגיה להתמהמה ולאבד את חלון ההזדמנויות שנוצר, חלון הזדמנויות שספק אם יחזור בשנית.\nמה שמונח על הכף הוא עתידה של ישראל, שלנו, של ילדינו ונכדינו. מה שמונח על הכף זה הציווי ״להיות ראויים״.\n\nאינני מתכוון למצמץ ולהחמיץ את גודל השעה.\nאני מתחייב.",
-   "views": 86700,
+   "views": 87000,
    "forwarded_from": null,
    "media": []
   },
@@ -455,7 +470,7 @@
    "post": "behadrey/108172",
    "ts": "2026-11-20T13:22:44+00:00",
    "text": "לקראת סבב שלישי > דיווח: ישראל וארה\"ב שוקלות מתקפה באיראן בתוך ימים",
-   "views": 112,
+   "views": 117,
    "forwarded_from": null,
    "media": [
     {
@@ -580,7 +595,7 @@
    "post": "amitsegal/67413",
    "ts": "2026-11-20T13:01:46+00:00",
    "text": "",
-   "views": 83900,
+   "views": 84200,
    "forwarded_from": null,
    "media": [
     {
@@ -744,7 +759,7 @@
    "post": "behadrey/108171",
    "ts": "2026-11-20T12:37:36+00:00",
    "text": "המצוד נמשך > חיסולים מהאוויר בעזה: שני מפקדי נוח'בה ומחבל שפשט לישראל",
-   "views": 126,
+   "views": 129,
    "forwarded_from": null,
    "media": [
     {
@@ -804,7 +819,7 @@
    "post": "haskupim/203553",
    "ts": "2026-11-20T12:31:22+00:00",
    "text": "חדשות הסקופים\nהגרש״מ עמר עודד סגירת חנויות מוקדמת | ערב שבת, הגרש״מ עמר הפתיע בביקור בשוק מחנה יהודה, עבר בין החנויות ועודד בעלי חנויות לסגור עד 3 בשל כניסת שבת מוקדמת.",
-   "views": 128,
+   "views": 129,
    "forwarded_from": null,
    "media": [],
    "missing": "video"
@@ -930,7 +945,7 @@
    "post": "behadrey/108170",
    "ts": "2026-11-20T12:01:23+00:00",
    "text": "אירוע היסטורי > מעמד חריג בגרמניה: ספר תורה הוכנס ללשכת ראש ממשלת סקסוניה",
-   "views": 126,
+   "views": 129,
    "forwarded_from": null,
    "media": [
     {
@@ -1141,7 +1156,7 @@
    "post": "behadrey/108169",
    "ts": "2026-11-20T11:35:51+00:00",
    "text": "לקראת הכרעה > נתניהו מזהיר מהקמת ממשלה עם הערבים: \"גורל ישראל מוטל על הכף\"",
-   "views": 123,
+   "views": 126,
    "forwarded_from": null,
    "media": [
     {
@@ -1374,7 +1389,7 @@
    "post": "behadrey/108168",
    "ts": "2026-11-20T11:10:23+00:00",
    "text": "נקודת רתיחה > רכבת אווירית וחשש מ\"פצצה מלוכלכת\": מה באמת קורה מאחורי הקלעים מול איראן?",
-   "views": 109,
+   "views": 111,
    "forwarded_from": null,
    "media": [
     {
@@ -1573,7 +1588,7 @@
    "post": "HiTech_Jobs_In_Israel/139277",
    "ts": "2026-11-20T10:00:03+00:00",
    "text": "Full Stack Engineer — AI Agents & Channels at Navan\nLocation: Tel-Aviv, Israel\nPress here https://navan.com/careers/openings?gh_jid=8397309&amp;utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 292,
+   "views": 293,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -1830,21 +1845,6 @@
    "media": []
   },
   {
-   "id": "p0c65a2a07dd5",
-   "post": "RealKikarHashabat/12040",
-   "ts": "2026-11-20T08:10:33+00:00",
-   "text": "מסמכים מפלורידה - מעקב סודי על יאיר נתניהו: חברת אבטחה העבירה מידע ל-FBI",
-   "views": 10,
-   "forwarded_from": null,
-   "media": [
-    {
-     "type": "image",
-     "checked": 1,
-     "file": "data/media/cd5e830f21be21b3.jpg"
-    }
-   ]
-  },
-  {
    "id": "p19169b79fd73",
    "post": "abualiexpress/133941",
    "ts": "2026-11-20T08:10:18+00:00",
@@ -2099,7 +2099,7 @@
    "post": "HiTech_Jobs_In_Israel/139276",
    "ts": "2026-11-20T06:00:02+00:00",
    "text": "Data Science Manager at Sett\nLocation: Tel Aviv Office\nPress here https://www.comeet.com/jobs/sett/4A.00B/data-science-manager/68.57D?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 280,
+   "views": 282,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2226,7 +2226,7 @@
    "post": "amitsegal/67409",
    "ts": "2026-11-19T20:08:55+00:00",
    "text": "התוכנית של איזנקוט - שעלולה להתפוצץ לו בפנים | הטור של עמית סגל",
-   "views": 97700,
+   "views": 97800,
    "forwarded_from": "",
    "media": [
     {
@@ -2465,7 +2465,7 @@
    "post": "HiTech_Jobs_In_Israel/139275",
    "ts": "2026-11-19T18:00:21+00:00",
    "text": "Senior SerDes Characterization Engineer at Amazon\nLocation: Haifa, Haifa, ISR\nPress here https://www.amazon.jobs/en/jobs/10609366/senior-serdes-characterization-engineer?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 306,
+   "views": 307,
    "forwarded_from": null,
    "media": [
     {
@@ -2491,7 +2491,7 @@
    "post": "HiTech_Jobs_In_Israel/139274",
    "ts": "2026-11-19T18:00:19+00:00",
    "text": "Sr Staff Software Engineer - infrastructure team (Veza/Armis) at ServiceNow\nLocation: Tel Aviv-Yafo\nPress here https://www.smartrecruiters.com/ServiceNow/744000162555396?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 270,
+   "views": 271,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2501,7 +2501,7 @@
    "post": "HiTech_Jobs_In_Israel/139272",
    "ts": "2026-11-19T18:00:12+00:00",
    "text": "Software Engineer at Genesys\nLocation: Tel Aviv, Israel\nPress here https://genesys.wd1.myworkdayjobs.com/Genesys/job/Tel-Aviv-Israel/Software-Engineer_JR113070-1?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 243,
+   "views": 244,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2543,7 +2543,7 @@
    "post": "HiTech_Jobs_In_Israel/139270",
    "ts": "2026-11-19T18:00:01+00:00",
    "text": "AI Labs Operations Lead at ActiveFence\nLocation: Ramat Gan, IL\nPress here https://alice.io/positions/position-28_577?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 207,
+   "views": 208,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2737,7 +2737,7 @@
    "post": "HiTech_Jobs_In_Israel/139269",
    "ts": "2026-11-19T16:00:12+00:00",
    "text": "Algorithm Data Analyst - Objects Modeling at Mobileye\nLocation: Jerusalem, Israel\nPress here https://jobs.eu.lever.co/mobileye/a9dc5853-1894-40c8-ae40-0297a99f352e?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 194,
+   "views": 196,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2783,7 +2783,7 @@
    "post": "HiTech_Jobs_In_Israel/139265",
    "ts": "2026-11-19T16:00:02+00:00",
    "text": "RF / System Test Engineer at DRS RADA TECHNOLOGIES\nLocation: Netanya\nPress here https://www.drsrada.com/careers?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 197,
+   "views": 198,
    "forwarded_from": null,
    "media": [
     {
@@ -2799,7 +2799,7 @@
    "post": "HiTech_Jobs_In_Israel/139264",
    "ts": "2026-11-19T16:00:01+00:00",
    "text": "Control Systems Engineer at CodeValue\nLocation: Modi'in\nPress here https://www.comeet.com/jobs/codevalue/81.009/control-systems-engineer/08.578?utm_source=telegram&amp;utm_medium=HiTech_Jobs_In_Israel&amp;utm_campaign=job-updates to apply",
-   "views": 191,
+   "views": 192,
    "forwarded_from": null,
    "media": [],
    "kind": "jobs"
@@ -2825,7 +2825,7 @@
    "post": "AceIsraelofficial/4673",
    "ts": "2026-11-19T15:22:22+00:00",
    "text": "👕 אם הארון שלכם מתפוצץ, אולי הגיע הזמן להגדיל אותו! 😜\nעוד חולצה, עוד זוג נעליים, עוד משהו שאין איפה לשים...\nמכירים? בדיוק בשביל זה אנחנו כאן!\n🗄 אקסטרה 10% הנחה על מגוון ארונות באייס! 🔥\nיותר מקום, יותר סדר וגם יותר משתלם 😍\n🎟 לקבלת קופון ההנחה >>\nhttps://lp6.me/xlueT\n🛒 לרכישה באתר אייס >>\nhttps://tinyurl.com/yzmnb49n\nבאתר בלבד עד 30.11 או עד גמר המלאי, המוקדם מביניהם | כפוף לתקנון:\nhttps://www.ace.co.il/telegraextra10_wardrobe",
-   "views": 6630,
+   "views": 6640,
    "forwarded_from": null,
    "media": [
     {
